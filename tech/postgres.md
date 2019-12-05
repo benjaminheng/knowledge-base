@@ -40,3 +40,17 @@ SELECT query, calls, total_time, rows, 100.0 * shared_blks_hit /
     nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent
     FROM pg_stat_statements ORDER BY total_time DESC;
 ```
+
+# Concepts
+
+## Buffers (shared/local blocks)
+
+https://www.postgresql.org/docs/10/sql-explain.html
+
+> Shared blocks contain data from regular tables and indexes; local blocks
+> contain data from temporary tables and indexes; while temp blocks contain
+> short-term working data used in sorts, hashes, Materialize plan nodes, and
+> similar cases. The number of blocks dirtied indicates the number of
+> previously unmodified blocks that were changed by this query; while the
+> number of blocks written indicates the number of previously-dirtied blocks
+> evicted from cache by this backend during query processing.
