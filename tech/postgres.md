@@ -5,6 +5,8 @@ title: PostgreSQL
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 
+# General
+
 ## Show running queries (pre 9.2):
 
 ```
@@ -27,4 +29,14 @@ ORDER BY query_start desc;
 
 ```
 SELECT pg_cancel_backend(procpid);
+```
+
+# pg_stat_statements
+
+## Cache hit rate
+
+```
+SELECT query, calls, total_time, rows, 100.0 * shared_blks_hit /
+    nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent
+    FROM pg_stat_statements ORDER BY total_time DESC;
 ```
