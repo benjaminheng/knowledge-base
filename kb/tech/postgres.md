@@ -4,6 +4,7 @@ title: PostgreSQL
 
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
+- [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring)
 
 # General
 
