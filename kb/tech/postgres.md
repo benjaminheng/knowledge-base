@@ -32,6 +32,14 @@ ORDER BY query_start desc;
 SELECT pg_cancel_backend(procpid);
 ```
 
+## Show currently-held locks
+
+```
+SELECT l.relation::regclass, l.mode, l.locktype, l.pid, age(clock_timestamp(), a.query_start) as age
+FROM pg_locks l, pg_stat_activity a
+WHERE l.GRANTED and l.pid = a.pid;
+```
+
 # pg_stat_statements
 
 ## Cache hit rate
