@@ -40,6 +40,18 @@ FROM pg_locks l, pg_stat_activity a
 WHERE l.GRANTED and l.pid = a.pid;
 ```
 
+## Show size of column on disk
+
+Warning: expensive query on large tables.
+
+```
+select
+    pg_size_pretty(sum(pg_column_size(column_name))) as total_size,
+    pg_size_pretty(avg(pg_column_size(column_name))) as average_size,
+    sum(pg_column_size(column_name)) * 100.0 / pg_total_relation_size('table_name') as percentage
+from table_name;
+```
+
 # pg_stat_statements
 
 ## Cache hit rate
