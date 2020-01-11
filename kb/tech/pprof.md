@@ -2,6 +2,10 @@
 title: pprof reference
 ---
 
+- https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
+
+# pprof commands
+
 ## Profile CPU
 
 > CPU profile. You can specify the duration in the seconds GET parameter. After
