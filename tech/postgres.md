@@ -92,7 +92,7 @@ Source: https://www.cybertec-postgresql.com/en/get-rid-of-your-unused-indexes/
 SELECT s.schemaname,
        s.relname AS tablename,
        s.indexrelname AS indexname,
-       pg_relation_size(s.indexrelid) AS index_size
+       pg_size_pretty(pg_relation_size(s.indexrelid)) AS index_size
 FROM pg_catalog.pg_stat_user_indexes s
    JOIN pg_catalog.pg_index i ON s.indexrelid = i.indexrelid
 WHERE s.idx_scan = 0      -- has never been scanned
