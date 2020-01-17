@@ -82,14 +82,38 @@ select
 from table_name;
 ```
 
+# Indexes
+
+## Show index usage
+
+Source: https://www.cybertec-postgresql.com/en/get-rid-of-your-unused-indexes/
+
+```
+SELECT s.schemaname,
+       s.relname AS tablename,
+       s.indexrelname AS indexname,
+       pg_relation_size(s.indexrelid) AS index_size
+FROM pg_catalog.pg_stat_user_indexes s
+   JOIN pg_catalog.pg_index i ON s.indexrelid = i.indexrelid
+WHERE s.idx_scan = 0      -- has never been scanned
+  AND 0 <>ALL (i.indkey)  -- no index column is an expression
+  AND NOT i.indisunique   -- is not a UNIQUE index
+  AND NOT EXISTS          -- does not enforce a constraint
+         (SELECT 1 FROM pg_catalog.pg_constraint c
+          WHERE c.conindid = s.indexrelid)
+ORDER BY pg_relation_size(s.indexrelid) DESC;
+```
+
 # pg_stat_statements
 
 ## Cache hit rate
 
 ```
-SELECT query, calls, total_time, rows, 100.0 * shared_blks_hit /
-    nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent
-    FROM pg_stat_statements ORDER BY total_time DESC;
+SELECT
+    calls, total_time, rows,
+    100.0 * shared_blks_hit / nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent,
+    query
+FROM pg_stat_statements ORDER BY total_time DESC LIMIT 100;
 ```
 
 # Concepts
