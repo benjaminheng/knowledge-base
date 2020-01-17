@@ -112,6 +112,7 @@ ORDER BY pg_relation_size(s.indexrelid) DESC;
 SELECT
     calls, total_time, rows,
     100.0 * shared_blks_hit / nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent,
+    round((100 * total_time / sum(total_time::numeric) OVER ())::numeric, 2) AS percentage_cpu,
     query
 FROM pg_stat_statements ORDER BY total_time DESC LIMIT 100;
 ```
