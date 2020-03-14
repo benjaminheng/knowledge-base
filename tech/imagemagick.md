@@ -12,7 +12,7 @@ title: ImageMagick
 ## Resize image
 
 ```
-convert input.jpg -resize <geometry> output.jpg
+mogrify -strip -auto-orient -resize 1200x1200 -quality 75 *.jpg
 ```
 
 # Installation
