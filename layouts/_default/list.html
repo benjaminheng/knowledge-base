@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+
+<main>
+    {{if not .IsHome }}
+          <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+    {{ end }}
+    {{ .Content }}
+    {{if not .IsHome }}
+        {{ partial "menulist.html" . }}
+    {{ end }}
+</main>
+
+{{ partial "footer.html" . }}

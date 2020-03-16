@@ -2,15 +2,15 @@
 title: PostgreSQL
 ---
 
-# Resources
+## Resources
 
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 - [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring)
 
-# General
+## General
 
-## Show running queries (pre 9.2):
+### Show running queries (pre 9.2):
 
 ```
 SELECT procpid, age(clock_timestamp(), query_start), usename, current_query 
@@ -19,7 +19,7 @@ WHERE current_query != '<IDLE>' AND current_query NOT ILIKE '%pg_stat_activity%'
 ORDER BY query_start ASC;
 ```
 
-## Show running queries (9.2)
+### Show running queries (9.2)
 
 ```
 SELECT pid, age(clock_timestamp(), query_start), usename, query 
@@ -28,13 +28,13 @@ WHERE query != '<IDLE>' AND query NOT ILIKE '%pg_stat_activity%'
 ORDER BY query_start ASC;
 ```
 
-## Kill running query
+### Kill running query
 
 ```
 SELECT pg_cancel_backend(procpid);
 ```
 
-## Show currently-held locks
+### Show currently-held locks
 
 ```
 SELECT l.relation::regclass, l.mode, l.locktype, l.pid, age(clock_timestamp(), a.query_start) as age
@@ -42,9 +42,9 @@ FROM pg_locks l, pg_stat_activity a
 WHERE l.GRANTED and l.pid = a.pid;
 ```
 
-# Disk usage
+## Disk usage
 
-## Show size of relations
+### Show size of relations
 
 ```
 SELECT nspname || '.' || relname AS "relation",
@@ -56,7 +56,7 @@ SELECT nspname || '.' || relname AS "relation",
   LIMIT 20;
 ```
 
-## Show size of tables
+### Show size of tables
 
 ```
 SELECT nspname || '.' || relname AS "relation",
@@ -70,7 +70,7 @@ SELECT nspname || '.' || relname AS "relation",
   LIMIT 20;
 ```
 
-## Show size of column on disk
+### Show size of column on disk
 
 Warning: expensive query on large tables.
 
@@ -82,9 +82,9 @@ select
 from table_name;
 ```
 
-# Indexes
+## Indexes
 
-## Show index usage
+### Show index usage
 
 Source: https://www.cybertec-postgresql.com/en/get-rid-of-your-unused-indexes/
 
@@ -104,9 +104,9 @@ WHERE s.idx_scan = 0      -- has never been scanned
 ORDER BY pg_relation_size(s.indexrelid) DESC;
 ```
 
-# pg_stat_statements
+## pg_stat_statements
 
-## Cache hit rate
+### Cache hit rate
 
 ```
 SELECT
@@ -117,9 +117,9 @@ SELECT
 FROM pg_stat_statements ORDER BY total_time DESC LIMIT 100;
 ```
 
-# Concepts
+## Concepts
 
-## Buffers (shared/local blocks)
+### Buffers (shared/local blocks)
 
 https://www.postgresql.org/docs/10/sql-explain.html
 

@@ -1,0 +1,109 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    font-family: "Noto Serif", Arial, sans-serif;
+    background-color: #fefefe;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+
+    height: 100%;   
+    overflow: hidden;  /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
+    display: flex;  /*enables flex content for its children*/
+    box-sizing: border-box;
+}
+
+/* headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+main h1 { font-size: 2.25em; }
+main h2 { font-size: 1.8em; }
+main h3 { font-size: 1.4em; }
+main h4 {
+    font-style: italic;
+    font-size: 1.2em;
+}
+main h5, h6 {
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+/* column layout */
+.column {
+    height: 100%;  /*allows both columns to span the full height of the browser window*/
+    display: flex;
+    flex-direction: column;  /*places the left and right headers above the bottom content*/
+}
+#left {
+    background-color: #f5f5f5;
+    flex-shrink: 0;  /*makes sure that content is not cut off in a smaller browser window*/
+    min-width: 300px;
+    overflow-y: auto;  /*adds scroll to this container*/
+}
+#right {
+    flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
+    overflow-y: auto;  /*adds scroll to this container*/
+}
+nav {
+    padding: 1em;
+}
+nav ul.menu li.active {
+    font-weight: 600;
+}
+main {
+    padding: 1em;
+}
+
+/* code */
+pre {
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 5px #eee;
+    padding: 1em;
+    overflow-x: auto;
+    font-size: 85%;
+}
+code {
+    background: #f9f9f9;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 85%;
+}
+pre code { background: none; }
+
+/* misc elements */
+hr {
+  margin: 2em 0;
+  border: 0;
+  height: 1px;
+  background: #ccc;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img, iframe, video { max-width: 100%; }
+blockquote {
+    background: #f9f9f9;
+    border-left: 5px solid #ccc;
+    padding: 3px 1em 3px;
+}
+
+table {
+    margin: auto;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+thead, tfoot, tr:nth-child(even) { background: #eee; }
+
+article.post-excerpt {
+  margin-bottom: 4em;
+}

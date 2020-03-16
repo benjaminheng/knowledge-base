@@ -1,0 +1,21 @@
+{{ $currentPageRelPermalink := .RelPermalink }}
+<nav>
+<ul class="menu">
+    {{ range .Site.Sections}}
+        {{ $isActive := eq .RelPermalink $currentPageRelPermalink }}
+        <li class="{{ if $isActive }}active{{ end }}">
+            <a href="{{.RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ .Scratch.Set "currentPageFilePath" $currentPageRelPermalink }}
+        {{ partial "menulist" . }}
+    {{ end }}
+    {{ range where .Site.Pages "Section" "" }}
+        {{ if eq (len .Sections) 0 }}
+            {{ $isActive := eq .RelPermalink $currentPageRelPermalink }}
+            <li class="{{ if $isActive }}active{{ end }}">
+                <a href="{{.RelPermalink }}">{{ .Title }}</a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>
+</nav>

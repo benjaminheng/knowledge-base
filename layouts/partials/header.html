@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ .Title }} | {{ .Site.Title }}</title>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    </head>
+
+    <body>
+        <!-- sidebar -->
+        <div id="left" class="column">
+            {{ partial "menu.html" . }}
+        </div>
+
+        <!-- content -->
+        <div id="right" class="column">
