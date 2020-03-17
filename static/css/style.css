@@ -57,6 +57,18 @@ nav {
 nav ul.menu li.active {
     font-weight: 600;
 }
+nav .nav-footer {
+    font-size: 0.8rem;
+    color: #999;
+    text-align: center;
+}
+
+nav .nav-footer a:link, nav .nav-footer a:visited, nav .nav-footer a:active {
+    color: #999;
+}
+nav .nav-footer a:hover {
+    color: #888;
+}
 main {
     padding: 1em;
 }
