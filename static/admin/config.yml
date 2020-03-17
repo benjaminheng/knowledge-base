@@ -15,6 +15,16 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'climbing'
+    label: 'Climbing'
+    folder: 'content/climbing/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'tech'
     label: 'Tech'
     folder: 'content/tech/'
