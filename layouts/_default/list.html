@@ -9,13 +9,17 @@
             <a href="/admin/">admin</a>
         {{ end }}
     </div>
-    {{if not .IsHome }}
-          <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-    {{ end }}
-    {{ .Content }}
-    {{if not .IsHome }}
-        {{ partial "menulist.html" . }}
-    {{ end }}
+
+    <div class="content">
+        {{if not .IsHome }}
+              <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+        {{ end }}
+        {{ .Content }}
+
+        {{if not .IsHome }}
+            {{ partial "menulist.html" . }}
+        {{ end }}
+    </div>
 </main>
 
 {{ partial "footer.html" . }}

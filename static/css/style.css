@@ -10,10 +10,16 @@ body {
     color: rgba(0,0,0,.8);
     margin: 0;
 
-    height: 100%;   
-    overflow: hidden;  /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
-    display: flex;  /*enables flex content for its children*/
     box-sizing: border-box;
+}
+
+@media only screen and (min-width : 768px) {
+    /* column layout only on large enough screens */
+    body {
+        height: 100%;
+        overflow: hidden;  /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
+        display: flex;  /*enables flex content for its children*/
+    }
 }
 
 /* headers */
@@ -60,6 +66,9 @@ nav ul.menu li.active {
 main {
     padding: 1em;
     position: relative;
+}
+main .content {
+    max-width: 800px;
 }
 main .admin-container {
     position: absolute;
