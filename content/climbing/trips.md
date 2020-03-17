@@ -23,7 +23,7 @@ Sport climbing.
 
 Stay at [Green Climbers Home](https://www.greenclimbershome.com/). Nearby access to several crags. Gear rental available.
 
-## Hambi, India
+## Hampi, India
 
 ### Getting there
 
