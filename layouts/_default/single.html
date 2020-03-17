@@ -1,8 +1,11 @@
 {{ partial "header.html" . }}
 
 <main>
-<h1><span class="title">{{ .Title | markdownify }}</span></h1>
-{{ .Content }}
+    <div class="admin-container">
+        <a href="/admin/#/collections/{{ .Section }}/entries/{{ .File.TranslationBaseName }}">edit</a>
+    </div>
+    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+    {{ .Content }}
 </main>
 
 {{ partial "footer.html" . }}
