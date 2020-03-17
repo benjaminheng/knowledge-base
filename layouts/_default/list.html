@@ -2,6 +2,13 @@
 
 
 <main>
+    <div class="admin-container">
+        {{ if .Section }}
+            <a href="/admin/#/collections/{{ .Section }}">edit</a>
+        {{ else }}
+            <a href="/admin/">admin</a>
+        {{ end }}
+    </div>
     {{if not .IsHome }}
           <h1><span class="title">{{ .Title | markdownify }}</span></h1>
     {{ end }}
