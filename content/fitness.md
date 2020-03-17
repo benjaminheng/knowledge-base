@@ -20,3 +20,12 @@ title: Fitness
 ## Excercises
 
 - [Shoulder stability: I,Y,T on TRX bands or rings](https://www.youtube.com/watch?v=fCEgANP9ScM)
+
+## Mobility
+
+- [GMB - Hip Mobility Routine](https://gmb.io/hip-mobility/)
+- [Antranik - Toe Touching Routine](https://antranik.org/toe-touching-routine/). Many stretch variations.
+
+## Injuries
+
+- [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
