@@ -51,7 +51,6 @@ Stay at [Green Climbers Home](https://www.greenclimbershome.com/). Nearby access
 
 [Goan Corner](https://thegoancorner.wordpress.com/) is a popular place for climbers. Has gear rental. There are also other places for accomodation nearby. [TripAdvisor](https://www.tripadvisor.com.sg/Hotel_Review-g319725-d1822740-Reviews-Goan_Corner-Hampi_Bellary_District_Karnataka.html). Seems like no online booking; check in on day itself.
 
-
 ### Gear rental
 
 - Goan corner
