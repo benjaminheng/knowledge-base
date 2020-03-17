@@ -6,6 +6,10 @@ title: Climbing
 
 - [Ester Smith on nagging finger injuries](https://eu.blackdiamondequipment.com/en_GB/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
 
+## Training
+
+- [Matt Pincus: Principles of Core Training](https://www.trainingbeta.com/matt-pincus-principles-of-core-training/)
+
 ## Cleaning sport anchors
 
 - [Outdoor Research - How to Clean Top Rope Anchors](https://www.youtube.com/watch?v=WzmbTHe_ql0)
