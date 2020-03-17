@@ -10,6 +10,8 @@ collections:
     folder: 'content/'
     create: true
     slug: '{{slug}}'
+    editor:
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
@@ -18,6 +20,8 @@ collections:
     folder: 'content/tech/'
     create: true
     slug: '{{slug}}'
+    editor:
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
