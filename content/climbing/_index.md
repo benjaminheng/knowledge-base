@@ -5,10 +5,12 @@ title: Climbing
 ## Injuries
 
 - [Ester Smith on nagging finger injuries](https://eu.blackdiamondequipment.com/en_GB/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
+- [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 
 ## Training
 
 - [Matt Pincus: Principles of Core Training](https://www.trainingbeta.com/matt-pincus-principles-of-core-training/)
+- [Crimpd app](https://www.crimpd.com/). Climbing specific exercises and training routines, on and off the wall.
 
 ## Cleaning sport anchors
 
