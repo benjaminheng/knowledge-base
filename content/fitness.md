@@ -17,6 +17,6 @@ title: Fitness
     > positive change made me better overall. I changed my mindset from
     > focusing on my failures to focusing on my successes.
 
-# Excercises
+## Excercises
 
 - [Shoulder stability: I,Y,T on TRX bands or rings](https://www.youtube.com/watch?v=fCEgANP9ScM)
