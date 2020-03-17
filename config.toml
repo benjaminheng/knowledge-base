@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://kb.hbenjamin.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Knowledge Base"
 pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
