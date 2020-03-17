@@ -1,14 +1,10 @@
-{{ $currentPageRelPermalink := .Scratch.Get "currentPageFilePath" }}
 <ul>
 {{ range .Sections }}
     {{ $title := .Title }}
     {{ if eq .Title "" }}
         {{ $title = title (path.Base .File.Dir) }}
     {{ end }}
-    {{ $isActive := eq .RelPermalink $currentPageRelPermalink }}
-    <li class="{{ if $isActive }}active{{ end }}">
-        <a href="{{.RelPermalink }}">{{ .Title }}</a>
-    </li>
+    <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
     <ul>
         {{ partial "menulist.html" . }}
     </ul>
@@ -16,8 +12,7 @@
 {{ range .Pages }}
     {{ if eq (len .Sections) 0 }}
         {{ if .IsPage }}
-            {{ $isActive := eq .RelPermalink $currentPageRelPermalink }}
-            <li class="{{ if $isActive }}active{{ end }}"><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+            <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     {{ end }}
 {{ end }}
