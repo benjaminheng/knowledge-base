@@ -1,6 +1,7 @@
 ---
 title: PostgreSQL
 ---
+{{< toc >}}
 
 ## Resources
 

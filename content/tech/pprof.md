@@ -1,6 +1,7 @@
 ---
 title: pprof reference
 ---
+{{< toc >}}
 
 - https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
 
