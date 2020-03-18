@@ -11,6 +11,7 @@ title: Climbing
 
 - [Matt Pincus: Principles of Core Training](https://www.trainingbeta.com/matt-pincus-principles-of-core-training/)
 - [Crimpd app](https://www.crimpd.com/). Climbing specific exercises and training routines, on and off the wall.
+- [Lattice - Training at home](https://www.youtube.com/watch?v=FEq_QANqEmI)
 
 ## Cleaning sport anchors
 
