@@ -1,8 +1,7 @@
 ---
 title: PostgreSQL
+toc: true
 ---
-{{< toc >}}
-
 ## Resources
 
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)

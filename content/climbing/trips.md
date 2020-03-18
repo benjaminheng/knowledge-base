@@ -1,7 +1,7 @@
 ---
 title: Trips
+toc: true
 ---
-{{< toc >}}
 
 ## Khon Kaen, Thailand
 
