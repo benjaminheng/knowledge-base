@@ -2,6 +2,11 @@
 title: Slacklining
 toc: true
 ---
+Tension calculators:
+
+- https://www.balancecommunity.com/pages/tension-calculator
+- https://www.bergfreunde.eu/slackline-forces-calculator/
+
 On steel vs aluminum carabiners:
 
 - Steel has an finite fatigue limit, aluminum does not ([wikipedia](https://en.wikipedia.org/wiki/Fatigue_limit). Having a fatigue limit means that below a certain load threshold, an infinite number of loading cycles can be applied without causing fatigue failure.
