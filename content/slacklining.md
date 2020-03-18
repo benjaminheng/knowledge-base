@@ -1,6 +1,6 @@
 ---
 title: Slacklining
-toc: true
+toc: false
 ---
 Tension calculators:
 
