@@ -146,3 +146,7 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 article.post-excerpt {
   margin-bottom: 4em;
 }
+.footnotes ol li p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
