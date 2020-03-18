@@ -103,17 +103,20 @@ main .admin-container a:hover {
 /* code */
 pre {
     border: 1px solid #ddd;
-    box-shadow: 5px 5px 5px #eee;
     padding: 1em;
     overflow-x: auto;
-    font-size: 85%;
+    background-color: #f7f7f8;
 }
 code {
-    background: #f9f9f9;
+    background: #f7f7f8;
     font-family: "Lucida Console", Monaco, monospace;
-    font-size: 85%;
+    font-size: 0.9375em;
+    padding: 0.1em 0.5ex;
 }
-pre code { background: none; }
+pre code {
+    background: none;
+    padding: 0;
+}
 
 /* misc elements */
 hr {
