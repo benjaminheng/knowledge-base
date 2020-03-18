@@ -1,6 +1,8 @@
 ---
 title: Trips
 ---
+{{< toc >}}
+
 ## Khon Kaen, Thailand
 
 Bouldering.

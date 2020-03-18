@@ -1,5 +1,5 @@
-<nav>
-<ul class="menu">
+<nav class="menu">
+<ul>
     {{ range .Site.Sections}}
         <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
         {{ partial "menulist" . }}

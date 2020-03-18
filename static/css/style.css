@@ -57,10 +57,10 @@ main h5, h6 {
     flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
     overflow-y: auto;  /*adds scroll to this container*/
 }
-nav {
+nav.menu {
     padding: 1em;
 }
-nav ul.menu li.active {
+nav.menu ul li.active {
     font-weight: 600;
 }
 main {
@@ -85,6 +85,19 @@ main .admin-container a:link, main .admin-container a:visited, main .admin-conta
 }
 main .admin-container a:hover {
     color: #888;
+}
+
+/* table of contents */
+.toc #table-of-contents {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 1.4em;
+}
+.toc nav {
+    border-bottom: 1px solid #e7e7e9;
+}
+.toc nav ul {
+    margin-top: 0.2em;
 }
 
 /* code */

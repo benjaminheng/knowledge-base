@@ -1,0 +1,8 @@
+{{ if (.Get "simple") }}
+    {{ $.Page.TableOfContents }}
+{{ else }}
+<div class="toc">
+    <div id="table-of-contents">Table of contents</div>
+    {{ $.Page.TableOfContents }}
+</div>
+{{ end }}
