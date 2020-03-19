@@ -10,10 +10,11 @@ title: Climbing
 ## Training
 
 - [Matt Pincus: Principles of Core Training](https://www.trainingbeta.com/matt-pincus-principles-of-core-training/)
+- [Lattice - 6 Minute Core Workout: Floor Based!](https://www.youtube.com/watch?v=MRY9RG3ewTQ)
 - [Crimpd app](https://www.crimpd.com/). Climbing specific exercises and training routines, on and off the wall.
 - [Lattice - Training at home](https://www.youtube.com/watch?v=FEq_QANqEmI)
-- [Lattice - 6 Minute Core Workout: Floor Based!](https://www.youtube.com/watch?v=MRY9RG3ewTQ)
 - [Tension Climbing - Hangboarding](https://www.tensionclimbing.com/hangboarding-a-way/)
+- [Steve Bechtel - Hangboard Ladders for Finger Strength](https://www.climbing.com/skills/training-hangboard-ladders-for-finger-strength/) 3-6-9 protocol, low intensity.
 
 ## Cleaning sport anchors
 
