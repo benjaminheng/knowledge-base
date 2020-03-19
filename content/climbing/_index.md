@@ -13,6 +13,7 @@ title: Climbing
 - [Crimpd app](https://www.crimpd.com/). Climbing specific exercises and training routines, on and off the wall.
 - [Lattice - Training at home](https://www.youtube.com/watch?v=FEq_QANqEmI)
 - [Lattice - 6 Minute Core Workout: Floor Based!](https://www.youtube.com/watch?v=MRY9RG3ewTQ)
+- [Tension Climbing - Hangboarding](https://www.tensionclimbing.com/hangboarding-a-way/)
 
 ## Cleaning sport anchors
 
