@@ -130,3 +130,19 @@ https://www.postgresql.org/docs/10/sql-explain.html
 > previously unmodified blocks that were changed by this query; while the
 > number of blocks written indicates the number of previously-dirtied blocks
 > evicted from cache by this backend during query processing.
+
+## psql customizations
+
+- [Thoughtbot - Improving the Command-Line Postgres Experience ](https://thoughtbot.com/blog/improving-the-command-line-postgres-experience)
+
+Separate histories for different remote hosts:
+
+```
+\set HISTFILE ~/.config/psql/history/.psql_history_ :HOST _ :DBNAME
+```
+
+More information in the psql prompt:
+
+```
+\set PROMPT1 '%[%033[37m%][%M] %n@%/%R%#%x %[%033[0m%]%'
+```
