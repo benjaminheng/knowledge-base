@@ -4,7 +4,7 @@ title: Climbing
 
 ## Injuries
 
-- [Ester Smith on nagging finger injuries](https://eu.blackdiamondequipment.com/en_GB/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
+- [Ester Smith - Healing Nagging Finger Injuries](https://eu.blackdiamondequipment.com/en_GB/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 
 ## Training
