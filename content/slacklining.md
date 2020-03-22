@@ -2,12 +2,18 @@
 title: Slacklining
 toc: false
 ---
-Tension calculators:
+## Slackline spots in Singapore
 
-- https://www.balancecommunity.com/pages/tension-calculator
-- https://www.bergfreunde.eu/slackline-forces-calculator/
+- East Coast Park: https://goo.gl/maps/4iZkasqLros7rSn67
+- Bedok Reservoir Park: https://goo.gl/maps/2VqKmArNKuuW1Syy6 (near Forest Adventure, relatively secluded, well shaded)
 
-On steel vs aluminum carabiners:
+## Resources
+
+- Tension calculators
+    - https://www.balancecommunity.com/pages/tension-calculator
+    - https://www.bergfreunde.eu/slackline-forces-calculator/
+
+## On steel vs aluminum carabiners
 
 - Steel has an finite fatigue limit, aluminum does not[^1]. Having a fatigue limit means that below a certain load threshold, an infinite number of loading cycles can be applied without causing fatigue failure.
 - Steel has higher tensile strength[^2].
