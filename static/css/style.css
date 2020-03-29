@@ -96,7 +96,7 @@ main .admin-container a:hover {
 .toc nav {
     border-bottom: 1px solid #e7e7e9;
 }
-.toc nav ul {
+.toc nav > ul {
     margin-top: 0.2em;
 }
 
