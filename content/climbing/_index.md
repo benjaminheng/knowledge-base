@@ -23,3 +23,7 @@ title: Climbing
 - [Sport Anchors – Part 3 of 4 – Cleaning the Anchor](https://www.vdiffclimbing.com/clean-bolted-anchor/)
 - [Using rope as PAS](https://www.mountainproject.com/forum/topic/108506432/anything-wrong-with-this-pas#ForumMessage-108507208)
 - [Cleaning sport anchors](https://www.youtube.com/watch?v=G7N5RcsSyUw)
+
+## Misc
+
+- [Dashboard for monitoring climbing gym capacities](https://docs.google.com/spreadsheets/d/e/2PACX-1vRw11YryD8ctlhJfqu418z0ivynQcaxZ0pbSPtVzt9GlcKvZEj5qEFYI3zuKY2evLTAeELbK9EeEQmy/pubhtml?gid=1844235440&single=true) 
