@@ -4,7 +4,7 @@ toc: false
 ---
 ## Slackline spots in Singapore
 
-- East Coast Park: https://goo.gl/maps/4iZkasqLros7rSn67
+- East Coast Park: https://goo.gl/maps/4iZkasqLros7rSn67 (training shed, benches, palm trees, nice grass, next to footpath)
 - Bedok Reservoir Park: https://goo.gl/maps/2VqKmArNKuuW1Syy6 (near Forest Adventure, relatively secluded, well shaded)
 
 ## Resources
