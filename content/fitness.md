@@ -21,6 +21,7 @@ title: Fitness
 
 - [Shoulder stability: I,Y,T on TRX bands or rings](https://www.youtube.com/watch?v=fCEgANP9ScM)
 - [/r/bodyweightfitness recommended routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+- [Shoulder warmup exercise](https://www.youtube.com/watch?v=Vwn5hSf3WEg)
 
 ## Mobility
 
