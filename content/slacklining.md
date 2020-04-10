@@ -13,6 +13,15 @@ toc: false
     - https://www.balancecommunity.com/pages/tension-calculator
     - https://www.bergfreunde.eu/slackline-forces-calculator/
 
+## Primitive rig minimum requirements
+
+- 20m+ of webbing. Ideally with sewn loops.
+- 3x carabiners. Preferably locking and made of steel. Three biners needed for an ellington tensioning setup.
+- 1x steel shackle.
+- 1-2x rappel rings. To build a line locker. One will do, but two will increase the bend radius and thus decrease fatigue on the webbing.
+- 2x anchor slings. 2m long at least.
+- 2x tree protection. Towels will do.
+
 ## On steel vs aluminum carabiners
 
 - Steel has an finite fatigue limit, aluminum does not[^1]. Having a fatigue limit means that below a certain load threshold, an infinite number of loading cycles can be applied without causing fatigue failure.
