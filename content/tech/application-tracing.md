@@ -3,7 +3,6 @@ title: Distributed tracing
 ---
 ## Articles
 
-- [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 - [Pinterest - Analyzing distributed trace data](https://medium.com/pinterest-engineering/analyzing-distributed-trace-data-6aae58919949)
 - :star: [Distributed Tracing — we’ve been doing it wrong](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
     - Spans are too low-level a construct for effective root cause analysis
@@ -16,6 +15,7 @@ title: Distributed tracing
 
 ## Reading queue
 
+- [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 - [Canopy: Scalable Distributed Tracing & Analysis @ Facebook (49m video)](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
 - [Lessons from Building Observability Tools at Netflix](https://netflixtechblog.com/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 - [Distributed Tracing: Impact on Engineering Organizations](https://medium.com/@dm03514/distributed-tracing-impact-on-engineering-organizations-d2f775e94aae)
