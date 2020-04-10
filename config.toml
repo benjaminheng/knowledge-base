@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Knowledge Base"
 pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
