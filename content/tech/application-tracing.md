@@ -16,4 +16,6 @@ title: Distributed tracing
 
 ## Reading queue
 
-- [Canopy: Scalable Distributed Tracing & Analysis @ Facebook](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
+- [Canopy: Scalable Distributed Tracing & Analysis @ Facebook (49m video)](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
+- [Distributed Tracing: Impact on Engineering Organizations](https://medium.com/@dm03514/distributed-tracing-impact-on-engineering-organizations-d2f775e94aae)
+- [Salesforce - Anomaly Detection in Zipkin Trace Data](https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1)
