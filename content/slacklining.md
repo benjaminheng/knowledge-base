@@ -31,6 +31,10 @@ toc: false
 - Further discussions on the topic:
     - https://www.mountainproject.com/forum/topic/117130548/steel-vs-aluminum-carabiner
 
+## Misc
+
+- [Slackline goals, line control](https://streamable.com/i130n)
+
 [^1]: https://en.wikipedia.org/wiki/Fatigue_limit
 [^2]: https://www.researchgate.net/publication/334898123_Materials_types_and_selection_for_carabiners_manufacturing_a_review
 [^3]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.869.7869&rep=rep1&type=pdf
