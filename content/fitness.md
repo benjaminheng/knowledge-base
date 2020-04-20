@@ -27,6 +27,7 @@ title: Fitness
 
 - [GMB - Hip Mobility Routine](https://gmb.io/hip-mobility/)
 - [Antranik - Toe Touching Routine](https://antranik.org/toe-touching-routine/). Many stretch variations.
+- [25 Minute Climbers Mobility Routine (Follow Along)](https://www.youtube.com/watch?v=x-1OJW3OMb4). Untested.
 
 ## Injuries
 
