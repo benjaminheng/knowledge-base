@@ -21,6 +21,7 @@ title: Distributed tracing
 ## Misc
 
 - [The OpenTracing Semantic Specification](https://opentracing.io/specification/)
+- [Jaeger GitHub Issue - Discuss post-trace (tail-based) sampling](https://github.com/jaegertracing/jaeger/issues/425)
 
 ## Reading queue
 
