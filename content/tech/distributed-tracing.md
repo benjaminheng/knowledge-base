@@ -16,6 +16,7 @@ title: Distributed tracing
     - 1\. Calculating Completeness Metrics on Trace Data (sum of durations for spans within a trace compared to that trace's total duration)
     - 2\. Identifying High Traffic Areas in the Network
     - 3\. Identifying Services with Exponential Latency Growth
+- [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 
 ## Misc
 
@@ -23,6 +24,5 @@ title: Distributed tracing
 
 ## Reading queue
 
-- [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 - [Canopy: Scalable Distributed Tracing & Analysis @ Facebook (49m video)](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
 
