@@ -7,6 +7,7 @@ toc: true
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 - [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring)
+- [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 
 ## General
 
