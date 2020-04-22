@@ -11,6 +11,11 @@ title: Distributed tracing
 - [Lessons from Building Observability Tools at Netflix](https://netflixtechblog.com/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
     - "In summary, the key learnings from our effort are that tying multiple request traces into a logical concept, a playback session in this case, and providing additional context based on constituent traces enables our users to quickly determine the root cause of a streaming issue that may involve multiple systems."
 - [Distributed Tracing: Impact on Engineering Organizations](https://medium.com/@dm03514/distributed-tracing-impact-on-engineering-organizations-d2f775e94aae)
+- [Salesforce - Anomaly Detection in Zipkin Trace Data](https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1)
+    - Using machine learning
+    - 1. Calculating Completeness Metrics on Trace Data (sum of durations for spans within a trace compared to that trace's total duration)
+    - 2. Identifying High Traffic Areas in the Network
+    - 3. Identifying Services with Exponential Latency Growth
 
 ## Misc
 
@@ -20,9 +25,4 @@ title: Distributed tracing
 
 - [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 - [Canopy: Scalable Distributed Tracing & Analysis @ Facebook (49m video)](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
-- [Salesforce - Anomaly Detection in Zipkin Trace Data](https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1)
-    - Using machine learning
-    - 1. Calculating Completeness Metrics on Trace Data (sum of durations for spans within a trace compared to that trace's total duration)
-    - 2. Identifying High Traffic Areas in the Network
-    - 3. Identifying Services with Exponential Latency Growth
 
