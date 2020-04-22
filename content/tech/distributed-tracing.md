@@ -13,9 +13,9 @@ title: Distributed tracing
 - [Distributed Tracing: Impact on Engineering Organizations](https://medium.com/@dm03514/distributed-tracing-impact-on-engineering-organizations-d2f775e94aae)
 - [Salesforce - Anomaly Detection in Zipkin Trace Data](https://engineering.salesforce.com/anomaly-detection-in-zipkin-trace-data-87c8a2ded8a1)
     - Using machine learning
-    - 1. Calculating Completeness Metrics on Trace Data (sum of durations for spans within a trace compared to that trace's total duration)
-    - 2. Identifying High Traffic Areas in the Network
-    - 3. Identifying Services with Exponential Latency Growth
+    - 1\. Calculating Completeness Metrics on Trace Data (sum of durations for spans within a trace compared to that trace's total duration)
+    - 2\. Identifying High Traffic Areas in the Network
+    - 3\. Identifying Services with Exponential Latency Growth
 
 ## Misc
 
