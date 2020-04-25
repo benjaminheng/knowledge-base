@@ -16,3 +16,8 @@ On burnout:
 - [Recovering from burnout](https://kierantie.com/a/burnout)
 - [Avoiding Burnout](https://andrewdumont.me/avoiding-burnout/) and [HN discussion](https://news.ycombinator.com/item?id=5630445)
 - [Burnout and the Brain](https://www.psychologicalscience.org/observer/burnout-and-the-brain) and [HN discussion](https://news.ycombinator.com/item?id=20331654)
+
+On loneliness:
+
+- [Ask HN: Coping with Loneliness](https://news.ycombinator.com/item?id=14800579)
+- [Alone: The decline of the family has unleashed an epidemic of loneliness.](https://www.city-journal.org/decline-of-family-loneliness-epidemic) and [HN discussion](https://news.ycombinator.com/item?id=20116699)
