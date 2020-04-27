@@ -21,6 +21,7 @@ title: Distributed tracing
 ## Misc
 
 - [The OpenTracing Semantic Specification](https://opentracing.io/specification/)
+- [OpenTelemetry Specification](https://github.com/open-telemetry/opentelemetry-specification)
 - Jaeger
     - [Jaeger and OpenTelemetry](https://medium.com/jaegertracing/jaeger-and-opentelemetry-1846f701d9f2)
     - [Jaeger GitHub Issue - Discuss post-trace (tail-based) sampling](https://github.com/jaegertracing/jaeger/issues/425)
