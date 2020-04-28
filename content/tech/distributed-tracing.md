@@ -27,6 +27,7 @@ title: Distributed tracing
     - [Jaeger GitHub Issue - Discuss post-trace (tail-based) sampling](https://github.com/jaegertracing/jaeger/issues/425)
     - [Jaeger GitHub Issue - Adaptive Sampling](https://github.com/jaegertracing/jaeger/issues/365)
     - [SURVEY: Who is using Jaeger](https://github.com/jaegertracing/jaeger/issues/207)
+    - [Jaeger using Kubernetes - various deployment configurations](https://github.com/jaegertracing/jaeger-kubernetes)
 
 ## Reading queue
 
