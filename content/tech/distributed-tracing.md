@@ -22,13 +22,15 @@ title: Distributed tracing
 
 - [The OpenTracing Semantic Specification](https://opentracing.io/specification/)
 - [OpenTelemetry Specification](https://github.com/open-telemetry/opentelemetry-specification)
-- Jaeger
-    - [Jaeger and OpenTelemetry](https://medium.com/jaegertracing/jaeger-and-opentelemetry-1846f701d9f2)
-    - [Jaeger GitHub Issue - Discuss post-trace (tail-based) sampling](https://github.com/jaegertracing/jaeger/issues/425)
-    - [Jaeger GitHub Issue - Adaptive Sampling](https://github.com/jaegertracing/jaeger/issues/365)
-    - [SURVEY: Who is using Jaeger](https://github.com/jaegertracing/jaeger/issues/207)
-    - [Jaeger using Kubernetes - various deployment configurations](https://github.com/jaegertracing/jaeger-kubernetes)
-    - [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
+
+## Jaeger
+
+- [Jaeger and OpenTelemetry](https://medium.com/jaegertracing/jaeger-and-opentelemetry-1846f701d9f2)
+- [Jaeger GitHub Issue - Discuss post-trace (tail-based) sampling](https://github.com/jaegertracing/jaeger/issues/425)
+- [Jaeger GitHub Issue - Adaptive Sampling](https://github.com/jaegertracing/jaeger/issues/365)
+- [SURVEY: Who is using Jaeger](https://github.com/jaegertracing/jaeger/issues/207)
+- [Jaeger using Kubernetes - various deployment configurations](https://github.com/jaegertracing/jaeger-kubernetes)
+- [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
 
 ## Reading queue
 
