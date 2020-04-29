@@ -30,7 +30,7 @@ title: Distributed tracing
 - [Jaeger GitHub Issue - Adaptive Sampling](https://github.com/jaegertracing/jaeger/issues/365)
 - [SURVEY: Who is using Jaeger](https://github.com/jaegertracing/jaeger/issues/207)
 - [Jaeger using Kubernetes - various deployment configurations](https://github.com/jaegertracing/jaeger-kubernetes)
-- [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
+- :star: [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
 
 ## Reading queue
 
