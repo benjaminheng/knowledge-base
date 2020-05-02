@@ -29,3 +29,4 @@ title: Climbing
 
 - [Dashboard for monitoring climbing gym capacities](https://docs.google.com/spreadsheets/d/e/2PACX-1vRw11YryD8ctlhJfqu418z0ivynQcaxZ0pbSPtVzt9GlcKvZEj5qEFYI3zuKY2evLTAeELbK9EeEQmy/pubhtml?gid=1844235440&single=true) 
 - [Power Company Podcast Ep 12: Position over Everything](https://www.powercompanyclimbing.com/blog/2016/9/29/episode-12-poe-with-will-anglin-and-rowland-chen)
+- [Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - on weight loss and body image
