@@ -2,7 +2,7 @@
 title: Trips
 toc: true
 ---
-## Tonsai, Thailang
+## Tonsai, Thailand
 
 [Very detailed post on climbing at Tonsai](https://www.reddit.com/r/climbing/comments/gegy44/a_throwback_to_better_days_longboats_and/fpoc8t6/). Copied here for posterity.
 
