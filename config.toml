@@ -4,3 +4,11 @@ title = "Knowledge Base"
 pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = true
+
+[markup]
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = false
+        style = "lovelace"
+    [markup.goldmark.renderer]
+        unsafe = true
