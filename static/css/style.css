@@ -5,7 +5,7 @@ html {
 body {
     font-size: 1.0625rem;
     line-height: 1.6;
-    font-family: "Noto Serif", Arial, sans-serif;
+    font-family: "Open Sans", "Arial", sans-serif;
     background-color: #fefefe;
     color: rgba(0,0,0,.8);
     margin: 0;
@@ -24,8 +24,8 @@ body {
 
 /* headers */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
+    font-family: "Noto Serif", "Georgia", serif;
+    font-weight: 400;
 }
 
 main h1 { font-size: 2.25em; }
@@ -33,11 +33,10 @@ main h2 { font-size: 1.8em; }
 main h3 { font-size: 1.4em; }
 main h4 {
     font-style: italic;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 main h5, h6 {
     font-style: italic;
-    font-weight: 600;
     font-size: 1em;
 }
 
@@ -89,7 +88,7 @@ main .admin-container a:hover {
 
 /* table of contents */
 .toc #table-of-contents {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Noto Serif', "Georgia", serif;
     font-weight: 300;
     font-size: 1.4em;
 }
