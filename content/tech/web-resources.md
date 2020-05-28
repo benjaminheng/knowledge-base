@@ -5,3 +5,4 @@ title: Web resources
 - [Stimulus](https://github.com/stimulusjs/stimulus) - Modest JS framework for the HTML you already have.
 - https://htmldom.dev/ - Reference: managing HTML DOM using vanilla JS
 - https://roughnotation.com/ - JS library to create and animate annotations with a hand-drawn look
+    - How it works https://shihn.ca/posts/2020/roughjs-algorithms/
