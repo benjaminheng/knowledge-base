@@ -17,8 +17,10 @@ title: Climbing
 - [Tension Climbing - Hangboarding](https://www.tensionclimbing.com/hangboarding-a-way/)
 - [Steve Bechtel - Hangboard Ladders for Finger Strength](https://www.climbing.com/skills/training-hangboard-ladders-for-finger-strength/) 3-6-9 protocol, low intensity.
 
-## Cleaning sport anchors
+## Climbing anchors
 
+- :star: [How NOT to Highline - Climbing Anchors from the Bolting Bible](https://www.youtube.com/watch?v=oWvGC3fi4gA) - Setting up and cleaning different anchor configurations
+- [Outdoor Research - How to Set Up a Top Rope Anchor on Two Bolts](https://www.youtube.com/watch?v=Y-pLP9dRWPc)
 - [Outdoor Research - How to Clean Top Rope Anchors](https://www.youtube.com/watch?v=WzmbTHe_ql0)
 - [Cleaning an Anchor in Single Pitch Climbing](https://americanalpineclub.org/resources-blog/2016/3/15/5ipkouk0id07cgc3dqks4fljnsgnx6)
 - [Sport Anchors – Part 3 of 4 – Cleaning the Anchor](https://www.vdiffclimbing.com/clean-bolted-anchor/)
