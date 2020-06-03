@@ -17,7 +17,7 @@ title: Distributed tracing
     - 2\. Identifying High Traffic Areas in the Network
     - 3\. Identifying Services with Exponential Latency Growth
 - [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
-- [Dan Luu - A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
+- :star: [Dan Luu - A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
 
 ## Misc
 
