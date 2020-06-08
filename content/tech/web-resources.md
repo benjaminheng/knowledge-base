@@ -7,3 +7,4 @@ title: Web resources
 - https://roughnotation.com/ - JS library to create and animate annotations with a hand-drawn look
     - How it works https://shihn.ca/posts/2020/roughjs-algorithms/
 - https://nodesign.dev/ - A collection of tools for developers who have little to no artistic talent.
+- https://refactoringui.com/ - Learn about UI/UX design
