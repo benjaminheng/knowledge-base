@@ -8,3 +8,4 @@ title: Tech
 - Graphing:
     - [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
     - [PlantUML](https://plantuml.com/)
+- [Linux load averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
