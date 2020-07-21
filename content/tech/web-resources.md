@@ -9,3 +9,4 @@ title: Web resources
 - https://riccardoscalco.it/textures/ - Fill SVGs with a texture
 - https://nodesign.dev/ - A collection of tools for developers who have little to no artistic talent.
 - https://refactoringui.com/ - Learn about UI/UX design
+- https://tablericons.com/ - SVG icons, MIT license
