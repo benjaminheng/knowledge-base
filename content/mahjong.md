@@ -18,4 +18,4 @@ Infodump on Riichi Mahjong strategy as I learn.
 
 [^1]: https://www.reddit.com/r/Mahjong/comments/hu9dum/when_should_i_go_for_chiponkan_open_melds/fym9v1j/?context=3
 [^2]: Riichi Book One, ch 3.2.6
-[^2]: Riichi Book One, ch 7.3
+[^3]: Riichi Book One, ch 7.3
