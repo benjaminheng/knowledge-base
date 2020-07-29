@@ -7,7 +7,9 @@ Infodump on Riichi Mahjong strategy as I learn.
 - [Yaku infographic](https://cdn.discordapp.com/attachments/150412836500275200/726425653859319868/yaku.png)
 - Calling for yakuhai is often not worth it. A very common beginner (and even intermediate) mistake is to overvalue yakuhai. Many hands actually decrease in expected value if you call a yakuhai (since it is an exchange of one han for all of the potential han from a closed hand plus tanyao).[^1]
 - The value of pairs is maximized when there are *exactly* 2 pairs in a hand.[^2]
-
+- Calling Kan is generally a bad idea in most situations.
+    - It opens your hand, and the dora revealed often will benefit other players more. Especially think twice if another player is in Riichi.
+    - If you call a meld, you can't use the tiles elsewhere in your hand. e.g. if you have 444456, that's two melds if you don't call Kan but only 1 if you do.
 
 [^1]: https://www.reddit.com/r/Mahjong/comments/hu9dum/when_should_i_go_for_chiponkan_open_melds/fym9v1j/?context=3
 [^2]: Riichi Book One, ch 3.2.6
