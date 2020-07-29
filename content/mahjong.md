@@ -10,6 +10,12 @@ Infodump on Riichi Mahjong strategy as I learn.
 - Calling Kan is generally a bad idea in most situations.
     - It opens your hand, and the dora revealed often will benefit other players more. Especially think twice if another player is in Riichi.
     - If you call a meld, you can't use the tiles elsewhere in your hand. e.g. if you have 444456, that's two melds if you don't call Kan but only 1 if you do.
+- When not to call Riichi.[^3]
+    - You have a bad wait
+    - You have a (significant) lead
+    - You already have a high-scoring hand
+    - You have many possibilities to improve your hand
 
 [^1]: https://www.reddit.com/r/Mahjong/comments/hu9dum/when_should_i_go_for_chiponkan_open_melds/fym9v1j/?context=3
 [^2]: Riichi Book One, ch 3.2.6
+[^2]: Riichi Book One, ch 7.3
