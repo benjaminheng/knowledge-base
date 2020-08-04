@@ -6,6 +6,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 
 - [Siaw Young - Understanding Money](https://siawyoung.com/understanding-money)
 - [Album art lookup](https://www.covermytunes.com/)
+- [User-centric payouts by streaming services, a collection of studies and resources](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/)
 
 ## Burnout
 
