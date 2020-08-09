@@ -29,6 +29,7 @@ title: Fitness
 - [Antranik - Toe Touching Routine](https://antranik.org/toe-touching-routine/). Many stretch variations.
 - [25 Minute Climbers Mobility Routine (Follow Along)](https://www.youtube.com/watch?v=x-1OJW3OMb4). Untested.
 - [Antranik - Comprehensive Handstand Tutorial](https://antranik.org/comprehensive-handstand-tutorial/)
+- :star: [Rotator cuff stretch](https://www.youtube.com/watch?v=syBMUZmyJlA)
 
 ## Injuries
 
