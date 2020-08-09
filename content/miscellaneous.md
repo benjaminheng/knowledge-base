@@ -7,6 +7,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Siaw Young - Understanding Money](https://siawyoung.com/understanding-money)
 - [Album art lookup](https://www.covermytunes.com/)
 - [User-centric payouts by streaming services, a collection of studies and resources](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/)
+- [Why Nightwish’s “The Greatest Show on Earth” is also one of the greatest songs](https://medium.com/option-x/why-nightwishs-the-greatest-show-on-earth-is-also-one-of-the-greatest-songs-dfc703f658a3)
 
 ## Burnout
 
