@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-toc: true
+toc: false
 ---
 Things that don't fit nicely into another category. If there's enough of a particular topic I'll recategorize them.
 
@@ -8,6 +8,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Album art lookup](https://www.covermytunes.com/)
 - [User-centric payouts by streaming services, a collection of studies and resources](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/)
 - [Why Nightwish’s “The Greatest Show on Earth” is also one of the greatest songs](https://medium.com/option-x/why-nightwishs-the-greatest-show-on-earth-is-also-one-of-the-greatest-songs-dfc703f658a3)
+- [Hedwig and the Dursleys on Christmas](https://www.reddit.com/r/AskReddit/comments/i7seka/hogwarts_is_closed_for_covid_what_remote_learning/g15jz60/)
 
 ## Burnout
 
