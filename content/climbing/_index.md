@@ -6,6 +6,7 @@ title: Climbing
 
 - [Ester Smith - Healing Nagging Finger Injuries](https://eu.blackdiamondequipment.com/en_GB/esther-smith-nagging-finger-injuries/esther-smith-nagging-finger-injuries.html)
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
+- [Steven Low - Treatment of Climber Hand and Finger Injuries](http://stevenlow.org/treatment-of-climber-hand-and-finger-injuries/)
 - [Brachialis injuries](https://www.youtube.com/watch?v=HmW-1jrF0H8)
 
 ## Training
