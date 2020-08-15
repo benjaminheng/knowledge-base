@@ -11,6 +11,7 @@ Switch games are really expensive compared to other platforms, and PC in particu
 
 - Buy eShop credits locally. For example: [Shopee](https://shopee.sg/Nintendo-eShop-Credit-USD50-(10-CASHBACK)-i.54257623.873626277) (roughly 10% off)
 - Switch your eShop region to buy games in cheaper regions. Compare prices between regions with sites like [savecoins.app](https://savecoins.app/), [eshop-prices.com](https://eshop-prices.com/prices?currency=SGD). Switch games have no region-lock; any game registered to your account will work regardless of which region it was purchased in. Some regions may not accept your country's credit card, so your mileage may vary with this method.
+- Set up price alerts on [savecoins.app](https://savecoins.app/) to notify you about deals on games you're interested in.
 
 ## Accessories
 
