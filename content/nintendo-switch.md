@@ -27,8 +27,9 @@ Pros of physical games:
 
 Cons of physical games:
 
-- Less convenient. Have to swap cartridges to play different games.
-- Have to bring around different cartridges if playing on the go.
+- Less convenient. Have to swap cartridges to play different games. Have to bring around cartridges if playing on the go.
+- No patches or updates.
+- Cartridges can get lost (to be fair, you can lose access to your Nintendo account too).
 
 Generally I think a nice balance is to use digital for games you're more likely to pick and and play in short bursts (Binding of Isaac, Slay the Spire, etc.), and to use physical for longer story-focused games. These story-focused games will likely be played exclusively and for longer periods of time, and once done can be sold or traded to recoup some of the cost.
 
