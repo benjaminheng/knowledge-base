@@ -34,7 +34,7 @@ Generally I think a nice balance is to use digital for games you're more likely 
 
 ## Should I get a switch as a PC gamer?
 
-Here are some conclusions I've arrived at after receiving a Switch as a predominantly PC gamer.
+As a predominantly PC gamer, here are some considerations for choosing a Switch.
 
 **Identify Switch exclusives you're interested in.** There aren't that many [Switch exclusives](https://en.wikipedia.org/wiki/Category:Nintendo_Switch-only_games), mostly just Nintendo first-party games. Many switch games are also available on PC.
 
