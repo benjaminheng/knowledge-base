@@ -15,6 +15,32 @@ Switch games are really expensive compared to other platforms, and PC in particu
 
 Some eShops allow the use of Paypal, but the option may only be available on the Switch eShop interface and not on the website. I've found this to be the case with the US eShop. To use Paypal for your purchases, first go to your Nintendo account settings on the website and link your Paypal account to it. Next make your purchase on your Switch instead.
 
+## Physical vs digital
+
+Pros of physical games:
+
+- Able to sell and trade. You can buy the game secondhand and resell it after you're done with it, effectively making little to no loss.
+- Able to share games. Good option to optimize spending by sharing with family and friends.
+- Able to return and refund games. Nintendo has a non-existent refund policy for digital games, so if you're on the fence about a game, buying physical is a safer bet.
+- May be cheaper in certain countries (true for SG).
+
+Cons of physical games:
+
+- Less convenient. Have to swap cartridges to play different games.
+- Have to bring around different cartridges if playing on the go.
+
+Generally I think a nice balance is to use digital for games you're more likely to pick and and play in short bursts (Binding of Isaac, Slay the Spire, etc.), and to use physical for longer story-focused games. These story-focused games will likely be played exclusively and for longer periods of time, and once done can be sold or traded to recoup some of the cost.
+
+## Should I get a switch as a PC gamer?
+
+Here are some conclusions I've arrived at after receiving a Switch as a predominantly PC gamer.
+
+**Identify Switch exclusives you're interested in.** There aren't that many [Switch exclusives](https://en.wikipedia.org/wiki/Category:Nintendo_Switch-only_games), mostly just Nintendo first-party games. Many switch games are also available on PC.
+
+**Switch games are expensive.** They're priced higher than their PC counterparts and rarely go on sale. The eShop has little to no regional pricing (and for SG there's none). First-party Nintendo games typically cost $60 USD and almost never go on sale; if they do they never drop by more than 10-20%.
+
+**A switch is portable.** This is the biggest benefit for getting a Switch if you already have a capable PC; to bring the games you love out on the go.
+
 ## Accessories
 
 - Wireless adapters: [8bitdo](https://www.8bitdo.com/wireless-usb-adapter/), [mayflash](http://www.mayflash.com/Products/NINTENDOWiiU/MAGIC-S%20PRO.html)
