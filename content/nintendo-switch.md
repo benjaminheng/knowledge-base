@@ -1,5 +1,6 @@
 ---
 title: Nintendo Switch
+toc: true
 ---
 ## Accessing the eshop in SG
 
