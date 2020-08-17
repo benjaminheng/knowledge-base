@@ -37,11 +37,10 @@ Generally I think a nice balance is to use digital for games you're more likely 
 
 As a predominantly PC gamer, here are some considerations for choosing a Switch.
 
-**Identify Switch exclusives you're interested in.** There aren't that many [Switch exclusives](https://en.wikipedia.org/wiki/Category:Nintendo_Switch-only_games), mostly just Nintendo first-party games. Many switch games are also available on PC.
-
-**Switch games are expensive.** They're priced higher than their PC counterparts and rarely go on sale. The eShop has little to no regional pricing (and for SG there's none). First-party Nintendo games typically cost $60 USD and almost never go on sale; if they do they never drop by more than 10-20%.
-
-**A switch is portable.** This is the biggest benefit for getting a Switch if you already have a capable PC; to bring the games you love out on the go.
+- **Identify Switch exclusives you're interested in.** There aren't that many [Switch exclusives](https://en.wikipedia.org/wiki/Category:Nintendo_Switch-only_games), mostly just Nintendo first-party games. Many switch games are also available on PC.
+- **Switch games are expensive.** They're priced higher than their PC counterparts and rarely go on sale. The eShop has little to no regional pricing (and for SG there's none). First-party Nintendo games typically cost $60 USD and almost never go on sale; if they do they never drop by more than 10-20%.
+- **A switch is portable.** This is the biggest benefit for getting a Switch if you already have a capable PC; to bring the games you love out on the go.
+- **Non-existent refund policy for digital games.** Unlike Steam, the eShop does not do refunds. Combined with the high prices, buying a Switch game digitally has a fairly high element of risk, whereas on Steam there’s essentially none.
 
 ## Accessories
 
