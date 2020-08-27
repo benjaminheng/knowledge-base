@@ -15,7 +15,7 @@ toc: true
 ### Show running queries (pre 9.2):
 
 ```
-SELECT procpid, age(clock_timestamp(), query_start), usename, current_query 
+SELECT procpid, age(clock_timestamp(), query_start), usename, client_addr, current_query 
 FROM pg_stat_activity 
 WHERE current_query != '<IDLE>' AND current_query NOT ILIKE '%pg_stat_activity%' 
 ORDER BY query_start ASC;
@@ -24,7 +24,7 @@ ORDER BY query_start ASC;
 ### Show running queries (9.2)
 
 ```
-SELECT pid, age(clock_timestamp(), query_start), usename, query 
+SELECT pid, age(clock_timestamp(), query_start), usename, client_addr, query 
 FROM pg_stat_activity 
 WHERE query != '<IDLE>' AND query NOT ILIKE '%pg_stat_activity%' 
 ORDER BY query_start ASC;
