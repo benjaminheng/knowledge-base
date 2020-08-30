@@ -28,6 +28,6 @@ Things that don't fit nicely into another category. If there's enough of a parti
 >
 > And before you know it... You start sucking less and less. Nothing comes naturally. Our society, our art, everything - it's built on thousands of years of human innovation. So as long as you start on that foundation, and take it step by step... You, too, can do amazing things.
 >
-> - [Monika's Writing Tip of the Day](https://doki-doki-literature-club.fandom.com/wiki/Monika%27s_Talk#Writing_Tip_of_the_Day)
+> -- [Monika's Writing Tip of the Day](https://doki-doki-literature-club.fandom.com/wiki/Monika%27s_Talk#Writing_Tip_of_the_Day)
 
 </details>
