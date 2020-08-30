@@ -1,5 +1,5 @@
 ---
-title: Mental Health
+title: Mental health
 ---
 ## Burnout
 
