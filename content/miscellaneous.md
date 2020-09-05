@@ -10,6 +10,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Why Nightwish’s “The Greatest Show on Earth” is also one of the greatest songs](https://medium.com/option-x/why-nightwishs-the-greatest-show-on-earth-is-also-one-of-the-greatest-songs-dfc703f658a3)
 - [Hedwig and the Dursleys on Christmas](https://www.reddit.com/r/AskReddit/comments/i7seka/hogwarts_is_closed_for_covid_what_remote_learning/g15jz60/)
 - :star: [Writing for GOV.UK - Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+- [Lee Kuan Yew's Singapore](https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/)
 
 <details>
 <summary>On aspirations and goals</summary>
