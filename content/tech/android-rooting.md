@@ -16,3 +16,15 @@ To install magisk, [patch the boot image](https://topjohnwu.github.io/Magisk/ins
 7. Boot into fastboot by first powering off the phone, then booting it while holding Power + Volume Down.
 8. Flash the patched boot image using `fastboot flash boot /path/to/magisk_patched.img`
 
+## Common issues
+
+**Stuck in fastboot loop:**
+
+- `boot.img` might be malformed. Try flashing the stock boot image.
+- Device might be trying to boot from the wrong A/B partition. Change the active partition with `fastboot --set-active=[a/b]`
+
+**Magisk patched boot.img does not work**
+
+- Magisk stable channel might not be updated yet. Use the [canary app](https://github.com/topjohnwu/magisk_files/tree/canary), select the canary channel and try again.
+
+
