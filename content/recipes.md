@@ -15,7 +15,7 @@ Ingredients:
 Instructions:
 
 - Place chicken breast in pressure cooker
-- Barely cover chicken with water
+- Add water to barely cover chicken
 - Add some pasta sauce
 - Pressure cook for 11 minutes, slow release for 3
 - Add pasta
