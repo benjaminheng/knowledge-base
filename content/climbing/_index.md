@@ -34,3 +34,4 @@ title: Climbing
 - [Power Company Podcast Ep 12: Position over Everything](https://www.powercompanyclimbing.com/blog/2016/9/29/episode-12-poe-with-will-anglin-and-rowland-chen)
 - [Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - on weight loss and body image
 - [How To Clip A Quickdraw: Rock Climbing Basics](https://www.youtube.com/watch?v=NwbXDakBYUw)
+- [Cristiano Costa - Finger warmup](https://www.youtube.com/watch?v=eV5P7nXlH2E)
