@@ -6,6 +6,7 @@ title: Tech
 - [How GOV.UK Notify reliably sends text messages to users](https://gds.blog.gov.uk/2020/04/03/how-gov-uk-notify-reliably-sends-text-messages-to-users/)
 - [How we've evolved on-call at Monzo](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
 - [Linux load averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+- [Platform engineering - Product for Internal Platforms](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142)
 
 ## Graphing
 
