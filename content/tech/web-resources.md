@@ -12,4 +12,3 @@ title: Web resources
 - https://tablericons.com/ - SVG icons, MIT license
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [ColorBrewer - Color advice for maps (and other data representations)](https://colorbrewer2.org/)
-- [Full-Bleed Layout Using CSS Grid](https://joshwcomeau.com/css/full-bleed/)
