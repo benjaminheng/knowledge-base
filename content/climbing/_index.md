@@ -35,3 +35,9 @@ title: Climbing
 - [Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - on weight loss and body image
 - [How To Clip A Quickdraw: Rock Climbing Basics](https://www.youtube.com/watch?v=NwbXDakBYUw)
 - :star: [Cristiano Costa - Finger warmup](https://www.youtube.com/watch?v=eV5P7nXlH2E)
+
+Check ABD verification slots at Onsight:
+
+```
+curl https://onsightventures.wufoo.com/forms/r9dr3hh00sr0r9/ | pup 'select#Field240 option json{}' | jq '.[] | select(.text != "") | select(.text != null) | .text'
+```
