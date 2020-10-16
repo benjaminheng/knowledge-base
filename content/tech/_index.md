@@ -7,6 +7,7 @@ title: Tech
 - [How we've evolved on-call at Monzo](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
 - [Linux load averages](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
 - [Platform engineering - Product for Internal Platforms](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142)
+- [Gitlab - Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 
 ## Graphing
 
