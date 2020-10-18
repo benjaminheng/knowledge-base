@@ -8,6 +8,7 @@ title: Climbing
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 - [Steven Low - Treatment of Climber Hand and Finger Injuries](http://stevenlow.org/treatment-of-climber-hand-and-finger-injuries/)
 - [Brachialis injuries](https://www.youtube.com/watch?v=HmW-1jrF0H8)
+- [Hooper's Beta - Why your finger injury won't heal](https://www.youtube.com/watch?v=FXyc3DdRnns): progressive loading of finger tissue to promote recovery
 
 ## Training
 
