@@ -6,11 +6,11 @@ toc: true
 
 Still exploring. Not sure yet.
 
-### 1-x
+### 1-x (Caves)
 
-Get the Udjat Eye from 1-2/1-3.
+Get the Udjat Eye from either 1-2 or 1-3.
 
-### 2-x
+### 2-x (Jungle or Volcana)
 
 Go to either Jungle or Volcana.
 
@@ -25,7 +25,7 @@ Deposit Huo Yi's bow with the Waddler.
 
 Drop Olmec into the lava. Get the Ankh.
 
-### 4-x
+### 4-x (Tide Pool or Temple)
 
 Go to either the Tide Pool or Temple. Ankh is required for this.
 
@@ -51,11 +51,11 @@ On 4-4 (Duat): Kill Osiris. `// TODO: need a strategy here`
 
 Get the tablet that drops from the boss.
 
-### 5-1
+### 5-1 (Ice Caves)
 
 Nothing needed on this level. Head to the exit. Grab spike shoes or a compass from the Wet Fur caves if needed.
 
-### 6-x
+### 6-x  (Neo-babylon)
 
 On 6-2, find the entrance to the figurine room. Use the tablet to figure out which figurine to take. Bring the figuring to 6-3.
 
