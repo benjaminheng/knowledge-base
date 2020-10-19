@@ -31,7 +31,7 @@ Go to either the Tide Pool or Temple. Ankh is required for this.
 
 **Tide Pool:**
 
-On 4-2, get the sword.
+On 4-2, get the sword. Must have Hedjet or crown to do so.
 
 On 4-3, find the entrance to the "well" leading to the one-way door under the lava. Before entering, drop sword/backpack. Disturb the idol under the lava. Lava will drop and you will die. A door will be exposed from the dropped lava. Respawn from the Ankh. Collect dropped sword/backpack. Find and enter door exposed by the dropped lava.
 
@@ -43,7 +43,7 @@ Get the tablet that drops from the boss.
 
 On 4-1, kill Anubis. Two bombs will kill him. Take his scepter.
 
-On 4-2, use the scepter to enter the City of Gold.
+On 4-2, use the scepter to enter the City of Gold. Must have Hedjet or crown to do so.
 
 On 4-3 (City of Gold): find the altar. Fall onto altar to sacrifice self. Must not be cursed. Must have at least 1 hp. Try to fall vertically; you must be stunned on the alter to be sacrificed.
 
