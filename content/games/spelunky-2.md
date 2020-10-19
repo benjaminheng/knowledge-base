@@ -83,6 +83,15 @@ On 7-4, kill Hundun. Once dead, shoot arrow into eye.
 
 ## Boss strategies
 
+### Olmec (phase 2)
+
+- Let Olmec shoot bombs till about 3min or 2-3 passes.
+- Sticky bombs: Safest. Throw at thrusters.
+- Shotgun: Make sure to account for knockback when shooting.
+- Boomerang: Be patient and use ropes wisely.
+- Ice gun: Be very, very, very patient.
+- None of the above: give up and do a normal run.
+
 ### Tiamat
 
 Ideally put the mount somewhere safe. Strategies:
