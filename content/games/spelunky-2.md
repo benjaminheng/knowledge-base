@@ -57,11 +57,7 @@ Nothing needed on this level. Head to the exit. Grab spike shoes or a compass fr
 
 ### 6-x  (Neo-babylon)
 
-On 6-2, find the entrance to the figurine room. Use the tablet to figure out which figurine to take. Bring the figuring to 6-3.
-
-- Modifiers: Simple, tall, smiling, ??
-- Material: Jade, gold, ??
-- Symbol: Ankh, bat, vortex, snake, ??
+On 6-2, find the entrance to the figurine room. Use the tablet to figure out which figurine to take. Bring the figurine to 6-3.
 
 On 6-3, if correct figurine is chosen, the figurine will hatch into a mount. Bring the mount to 6-4.
 
