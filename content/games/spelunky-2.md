@@ -90,9 +90,7 @@ On 7-4, kill Hundun. Once dead, shoot arrow into eye.
 
 ### Tiamat
 
-Ideally put the mount somewhere safe. Strategies:
-
-- Sticky bombs: drop bombs on bubbles to cook them. Throw cooked boombs at boss after a second or two. `// TODO: how many bombs required?`
+- Sticky bombs: drop bombs on bubbles to cook them. Throw cooked bombs at boss after a second or two. `// TODO: how many bombs required?`
 - Shotgun: Just shoot
 - `// TODO: what to do if neither of the above are available?`
 
