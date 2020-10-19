@@ -39,3 +39,14 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'games'
+    label: 'Games'
+    folder: 'content/games/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
