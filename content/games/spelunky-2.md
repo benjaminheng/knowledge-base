@@ -45,7 +45,7 @@ On 4-1, kill Anubis. Two bombs will kill him. Take his scepter.
 
 On 4-2, use the scepter to enter the City of Gold.
 
-On 4-3 (City of Gold): find the altar. Drop onto altar to sacrifice self. Cannot be cursed. Must have at least 1 hp. Make drop vertically; you must be stunned on the alter to be sacrificed.
+On 4-3 (City of Gold): find the altar. Fall onto altar to sacrifice self. Must not be cursed. Must have at least 1 hp. Try to fall vertically; you must be stunned on the alter to be sacrificed.
 
 On 4-4 (Duat): Kill Osiris. `// TODO: need a strategy here`
 
