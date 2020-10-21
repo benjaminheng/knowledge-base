@@ -67,9 +67,9 @@ On 6-4, ignore Tiamat. Use the mount to head up past the lasers. Enter door at t
 
 `// TODO: this section needs work. Haven't fully discovered this part yet.`
 
-On 7-1 `// TODO: confirm this`, find Waddler and retrieve Huo Yi's bow. Get the arrow from the Sun challenge (`// TODO: confirm this is on 6-1`). 
+On 7-1, find Waddler and retrieve Huo Yi's bow. Get the arrow from the Sun challenge.
 
-`// TODO: is it better to do the Sun Challenge or kill the arrow lady?`
+Sun challenge strategy: Whichever direction you start the challenge, head forward and diagonally upwards. For instance if facing east, head northeast. In the corner will be a spear trap and a mob spawner. Bomb the spawner and stand above the trap. Mobs should hopefully be unable to reach you.
 
 On 7-4, kill Hundun. Once dead, shoot arrow into eye.
 
