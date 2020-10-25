@@ -102,7 +102,12 @@ On 7-4, kill Hundun. Once dead, shoot arrow into eye.
 
 In 5-1 (Ice Caves), there's a door at the bottom of the level, one block below the boundary. Door placement is random. Hoverpack can be used to find the door. Alternatively there's an alien compass that will point to the door, but I haven't figured out how to get that yet. In the mothership is a plasma cannon.
 
-## Undiscovered secrets
+## Sparrow quest
 
-1. Tusk's jail cell in 4-x tide pool contains a note saying "too late, I got here first". Maybe you need to reach there before a certain time? 30min?
-2. What to do with the altar on 5-1 ice caves? Sack a proto-shopkeeper from the mothership? Shoot with plasma cannon?
+1. Steal from a shopkeeper in 1-x. Take an item and run out. Must not use a rope on the shopkeeper.
+2. In 2-1, Sparrow can be found in the 2nd layer through a wooden door.
+
+`// TODO: haven't verified the following yet, this is a hypothesis`
+
+- In 4-x, enter Tusk's backroom. Should be an idol there?
+- Take the idol to 6-1 maybe?
