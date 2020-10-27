@@ -16,3 +16,7 @@ title: Tech
 - [Hitchhiker's Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 - [PlantUML - real world examples](https://real-world-plantuml.com/)
 - [Graphviz visual examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
+
+## foobar2000
+
+- Fix default sorting for Columns UI: in `Preferences > Display > Columns UI > Filter`, change "sort incoming files by:" value from `%path_sort%` to `%ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE%`.
