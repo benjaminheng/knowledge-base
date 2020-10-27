@@ -109,5 +109,6 @@ In 5-1 (Ice Caves), there's a door at the bottom of the level, one block below t
 
 `// TODO: haven't verified the following yet, this is a hypothesis`
 
-- In 4-x, enter Tusk's backroom. Should be an idol there?
-- Take the idol to 6-1 maybe?
+- In 4-x, enter Tusk's backroom. Take the Tusk idol and deliver it to the exit.
+- Find Sparrow in 6-3.
+- ???
