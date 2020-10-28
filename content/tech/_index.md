@@ -20,3 +20,4 @@ title: Tech
 ## foobar2000
 
 - Fix default sorting for Columns UI: in `Preferences > Display > Columns UI > Filter`, change "sort incoming files by:" value from `%path_sort%` to `%ALBUM ARTIST% - %DATE% - %ALBUM% - %DISCNUMBER% - %TRACKNUMBER% - %TITLE%`.
+- Fix grouping: in `Preferences > Display > Columns UI > Playlist View > Grouping`, change sort value to `$if2(%album artist%,$if2(%artist%,<no artist>))[ / %album%]`.
