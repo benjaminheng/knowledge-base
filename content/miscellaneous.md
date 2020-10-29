@@ -12,6 +12,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - :star: [Writing for GOV.UK - Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
 - [Lee Kuan Yew's Singapore](https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/)
 - [Nicky Case - The Wisdom and/or Madness of Crowds (social contagion)](https://ncase.me/crowds/)
+- [Album cover art](https://www.covermytunes.com/)
 
 <details>
 <summary>On aspirations and goals</summary>
