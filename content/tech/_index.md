@@ -16,3 +16,7 @@ title: Tech
 - [Hitchhiker's Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 - [PlantUML - real world examples](https://real-world-plantuml.com/)
 - [Graphviz visual examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
+
+## Misc
+
+- [q - query CSVs with SQL](https://github.com/harelba/q)
