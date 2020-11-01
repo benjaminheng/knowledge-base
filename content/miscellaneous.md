@@ -13,6 +13,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Lee Kuan Yew's Singapore](https://palladiummag.com/2020/08/13/the-true-story-of-lee-kuan-yews-singapore/)
 - [Nicky Case - The Wisdom and/or Madness of Crowds (social contagion)](https://ncase.me/crowds/)
 - [Album cover art](https://www.covermytunes.com/)
+- [Learn music theory](https://www.musictheory.net/lessons)
 
 <details>
 <summary>On aspirations and goals</summary>
