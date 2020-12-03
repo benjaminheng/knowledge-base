@@ -13,3 +13,4 @@ title: Web resources
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [ColorBrewer - Color advice for maps (and other data representations)](https://colorbrewer2.org/)
 - [Svelte](https://svelte.dev)
+- [HeroPatterns - subtle background patterns](http://www.heropatterns.com/)
