@@ -100,6 +100,9 @@ main .admin-container a:hover {
 }
 
 /* code */
+div.highlight pre {
+    background-color: #f7f7f8 !important;
+}
 pre {
     border: 1px solid #ddd;
     padding: 1em;
@@ -107,10 +110,10 @@ pre {
     background-color: #f7f7f8;
 }
 code {
-    background: #f7f7f8;
+    background: #f3f3f3;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 0.9375em;
-    padding: 0.1em 0.5ex;
+    padding: 0.2em 0.5em;
 }
 pre code {
     background: none;

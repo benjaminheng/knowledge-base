@@ -8,13 +8,14 @@ toc: true
 - [Disk Usage](https://wiki.postgresql.org/wiki/Disk_Usage)
 - [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+- [pgbadger](https://github.com/darold/pgbadger) - Analyze and generate reports from logs.
 
 ## General
 
 ### Show running queries (pre 9.2):
 
 ```
-SELECT procpid, age(clock_timestamp(), query_start), usename, current_query 
+SELECT procpid, age(clock_timestamp(), query_start), usename, client_addr, current_query 
 FROM pg_stat_activity 
 WHERE current_query != '<IDLE>' AND current_query NOT ILIKE '%pg_stat_activity%' 
 ORDER BY query_start ASC;
