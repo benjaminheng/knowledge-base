@@ -9,6 +9,7 @@ title: Tech
 - [Platform engineering - Product for Internal Platforms](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142)
 - [Gitlab - Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
+- [CLI Guidelines](https://clig.dev/)
 
 ## Graphing
 
