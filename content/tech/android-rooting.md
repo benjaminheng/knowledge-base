@@ -16,6 +16,22 @@ To install magisk, [patch the boot image](https://topjohnwu.github.io/Magisk/ins
 7. Boot into fastboot by first powering off the phone, then booting it while holding Power + Volume Down.
 8. Flash the patched boot image using `fastboot flash boot /path/to/magisk_patched.img`
 
+## Installing OTAs
+
+**Skip the normal `uninstall magisk > install ota > install magisk to inactive slot` flow**, it's inconsistent at best. Just use the sideload method.
+
+1. Download the factory image from https://developers.google.com/android/images
+2. Download the OTA image from https://developers.google.com/android/ota
+3. Extract `boot.img` from the factory image
+4. Transfer `boot.img` to your phone
+5. In Magisk Manager, patch `boot.img` (assuming the output file is `magisk_patched.img` for the remaining steps)
+6. Transfer `magisk_patched.img` back to your computer
+7. Boot into recovery (e.g. `adb reboot recovery`)
+8. Sideload the OTA with `adb sideload ./path/to/OTA.zip`
+9. Boot into fastboot
+10. Apply the patched boot image with `fastboot flash boot ./magisk_patched.img`
+11. Reboot
+
 ## Common issues
 
 **Stuck in fastboot loop:**
