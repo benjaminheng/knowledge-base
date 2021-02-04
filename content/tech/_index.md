@@ -10,6 +10,7 @@ title: Tech
 - [Gitlab - Embracing asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/)
 - [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 - [CLI Guidelines](https://clig.dev/)
+- [Hacker News RSS](https://hnrss.github.io/) - custom HN RSS feeds
 
 ## Graphing
 
