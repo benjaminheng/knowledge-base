@@ -15,6 +15,7 @@ title: Mental health
 - [Avoiding Burnout](https://andrewdumont.me/avoiding-burnout/) and [HN discussion](https://news.ycombinator.com/item?id=5630445)
 - [Burnout and the Brain](https://www.psychologicalscience.org/observer/burnout-and-the-brain) and [HN discussion](https://news.ycombinator.com/item?id=20331654)
 - [HN: Extremely disillusioned with technology. Please help](https://news.ycombinator.com/item?id=23072333)
+- [Surviving disillusionment](https://www.spakhm.com/p/surviving-disillusionment)
 
 ## Loneliness
 
