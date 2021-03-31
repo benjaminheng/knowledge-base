@@ -44,6 +44,12 @@ FROM pg_locks l, pg_stat_activity a
 WHERE l.GRANTED and l.pid = a.pid;
 ```
 
+### Show when autovacuum last ran
+
+```
+SELECT relname, last_vacuum, last_autovacuum FROM pg_stat_user_tables ORDER BY last_autovacuum;
+```
+
 ## Disk usage
 
 ### Show size of relations
