@@ -16,6 +16,7 @@ title: Web resources
 - [HeroPatterns - subtle background patterns](http://www.heropatterns.com/)
 - [Synthesizing drum sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+- [Readability javascript bookmarklet](https://ejucovy.github.io/readability/)
 
 ## Link dump
 
