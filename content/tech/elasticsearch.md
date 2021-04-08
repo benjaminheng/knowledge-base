@@ -66,3 +66,18 @@ Call `_update_by_query` to reindex documents.
 ```bash
 curl -X POST "http://localhost:9200/chat_offers/_update_by_query?conflicts=proceed&wait_for_completion=false&requests_per_second=50"
 ```
+
+Reindex a range of documents
+
+```
+curl -X POST "http://localhost:9200/chat_offers/_update_by_query?conflicts=proceed&wait_for_completion=false&requests_per_second=50" -H 'Content-Type: application/json' -d '{
+    "query": {
+        "range": {
+            "offer_updated_at": {
+                "gte": "2021-01-01",
+                "lte": "2021-04-07"
+            }
+        }
+    }
+}'
+```
