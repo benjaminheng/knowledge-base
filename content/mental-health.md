@@ -21,3 +21,4 @@ title: Mental health
 
 - [Ask HN: Coping with Loneliness](https://news.ycombinator.com/item?id=14800579)
 - [Alone: The decline of the family has unleashed an epidemic of loneliness.](https://www.city-journal.org/decline-of-family-loneliness-epidemic) and [HN discussion](https://news.ycombinator.com/item?id=20116699)
+- [How To Be Alone - a poem](https://www.youtube.com/watch?v=k7X7sZzSXYs)
