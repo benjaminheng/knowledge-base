@@ -13,7 +13,6 @@ index f17cd862..cada0890 100644
 
  function! ale#handlers#go#Handler(buffer, lines) abort
 -    let l:pattern = '\v^([a-zA-Z]?:?[^:]+):(\d+):?(\d+)?:? ?(.+)$'
-+    " let l:pattern = '\v^([a-zA-Z]?:?[^:]+):(\d+):?(\d+)?:? ?(.+)$'
 +    let l:pattern = '\v^%(vet:\s*)?([a-zA-Z]?:?[^:]+):(\d+):?(\d+)?:? ?(.+)$'
      let l:output = []
      let l:dir = expand('#' . a:buffer . ':p:h')
