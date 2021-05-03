@@ -35,3 +35,7 @@ title: Fitness
 
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 - [Athlean-X - Shoulder Pain and Popping](https://youtu.be/zsmeXwHu6W0). Rotator cuff related injuries such as shoulder impingement.
+
+## Rings
+
+- [Ring support hold - progression and tutorial](https://www.youtube.com/watch?v=fghQL8EJSwY)
