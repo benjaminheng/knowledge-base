@@ -31,15 +31,9 @@ title: Climbing
 
 ## Misc
 
-- [Dashboard for monitoring climbing gym capacities](https://docs.google.com/spreadsheets/d/e/2PACX-1vRw11YryD8ctlhJfqu418z0ivynQcaxZ0pbSPtVzt9GlcKvZEj5qEFYI3zuKY2evLTAeELbK9EeEQmy/pubhtml?gid=1844235440&single=true) 
 - [Power Company Podcast Ep 12: Position over Everything](https://www.powercompanyclimbing.com/blog/2016/9/29/episode-12-poe-with-will-anglin-and-rowland-chen)
 - [Climbing's Send-at-All-Costs Culture Almost Ruined Me](https://www.outsideonline.com/2411201/beth-rodden-climbing-body-image) - on weight loss and body image
 - [How To Clip A Quickdraw: Rock Climbing Basics](https://www.youtube.com/watch?v=NwbXDakBYUw)
 - [Clip draws like a ninja](http://peripheralscrutiny.blogspot.com/2012/01/clip-draws-like-ninja.html)
-- :star: [Cristiano Costa - Finger warmup](https://www.youtube.com/watch?v=eV5P7nXlH2E)
-
-Check ABD verification slots at Onsight:
-
-```
-curl https://onsightventures.wufoo.com/forms/r9dr3hh00sr0r9/ | pup 'select#Field240 option json{}' | jq '.[] | select(.text != "") | select(.text != null) | .text'
-```
+- [Cristiano Costa - Finger warmup](https://www.youtube.com/watch?v=eV5P7nXlH2E)
+- [Get psyched!!](https://www.youtube.com/channel/UC5jRwTUqG15l-BcqQHbVFtA/videos)
