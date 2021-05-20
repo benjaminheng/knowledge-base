@@ -19,6 +19,7 @@ title: Web resources
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Readability javascript bookmarklet](https://ejucovy.github.io/readability/)
 - [Fontjoy](https://fontjoy.com/) - Font pairings
+- [unDraw - Open source illustrations](https://undraw.co/illustrations)
 
 ## Link dump
 
