@@ -18,6 +18,7 @@ title: Web resources
 - [Synthesizing drum sounds with the Web Audio API](https://dev.opera.com/articles/drum-sounds-webaudio/)
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Readability javascript bookmarklet](https://ejucovy.github.io/readability/)
+- [Fontjoy](https://fontjoy.com/) - Font pairings
 
 ## Link dump
 
