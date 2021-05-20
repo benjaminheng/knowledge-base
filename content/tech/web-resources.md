@@ -22,3 +22,17 @@ title: Web resources
 ## Link dump
 
 - https://philippta.github.io/web-frontends-in-go/
+
+## Fonts
+
+Serif fonts:
+
+- PT Serif
+- Noto Serif
+- Merriweather
+
+Sans-serif fonts:
+
+- Fira Sans Condensed (for subtitles)
+- Patrick Hand (comic sans -ish)
+- Lato (thick, blocky)
