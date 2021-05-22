@@ -2,7 +2,9 @@
 title: Vim
 toc: true
 ---
-## Tab key not working in insert mode with UltiSnips, neovim
+## Common errors
+
+### Tab key not working in insert mode with UltiSnips, neovim
 
 Make sure the python3 binary is properly referenced:
 
@@ -11,7 +13,7 @@ let g:python_host_prog='/usr/bin/python'
 let g:python3_host_prog='/Users/benheng/.pyenv/shims/python3'
 ```
 
-## ALE lint markers not appearing in Go files
+### ALE lint markers not appearing in Go files
 
 Patch the following handler to detect `go vet` output:
 
