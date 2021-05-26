@@ -27,7 +27,7 @@ Brain dump in preparation of updating vim-go to support path substitution in rem
 - vim-go creates a raw TCP connection to the dlv debugger.
 - dlv accepts API requests using [JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC)
 - Mailing list: https://groups.google.com/g/delve-dev
-    - Ask about setting `config substitution-path` in a session and having it take effect immediately. Using the CLI interface we have to set it in the config then reload the session before it takes effect.
+- Setting `config substitution-path` doesn't take effect immediately. Need to run `config -save` then restart the CLI client. Is this intended? Possible to have it take effect immediately? Something to ask in the mailing list.
 - vscode-go doesn't use `config substitute-path`, but translates local <-> remote paths in the plugin layer.
 - Possible to use a similar approach with vscode-go, but ideally we should leverage dlv's `config substitute-path` option.
-- Might not be possible to do use the `substitute-path` option. It's probably the CLI client that is performing the translations, not the server. If that's the case then the vim-go plugin needs to be responsible for path substitution.
+- Might not be possible to do use the `substitute-path` option. It's probably the CLI client that is performing the translations, not the server. If that's the case then the vim-go plugin needs to be responsible for path substitution. Check with the mailing list.
