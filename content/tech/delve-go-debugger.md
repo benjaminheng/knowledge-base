@@ -30,3 +30,4 @@ Brain dump in preparation of updating vim-go to support path substitution in rem
     - Ask about setting `config substitution-path` in a session and having it take effect immediately. Using the CLI interface we have to set it in the config then reload the session before it takes effect.
 - vscode-go doesn't use `config substitute-path`, but translates local <-> remote paths in the plugin layer.
 - Possible to use a similar approach with vscode-go, but ideally we should leverage dlv's `config substitute-path` option.
+- Might not be possible to do use the `substitute-path` option. It's probably the CLI client that is performing the translations, not the server. If that's the case then the vim-go plugin needs to be responsible for path substitution.
