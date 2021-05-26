@@ -31,4 +31,4 @@ Brain dump in preparation of updating vim-go to support path substitution in rem
 - vscode-go doesn't use `config substitute-path`, but translates local <-> remote paths in the plugin layer.
 - Possible to use a similar approach with vscode-go, but ideally we should leverage dlv's `config substitute-path` option.
 - Might not be possible to do use the `substitute-path` option. It's probably the CLI client that is performing the translations, not the server. If that's the case then the vim-go plugin needs to be responsible for path substitution. Check with the mailing list.
-- Might also consider trying to automatically infer local and remote paths like [vscode-go#45](https://github.com/golang/vscode-go/issues/45). For the first pass we should prioritize a simple user-defined replacement.
+- Might also consider trying to automatically infer local and remote paths like [vscode-go#45](https://github.com/golang/vscode-go/issues/45). But for the first pass we should prioritize a simple user-defined replacement. 
