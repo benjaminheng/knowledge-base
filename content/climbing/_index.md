@@ -18,6 +18,7 @@ title: Climbing
 - [Lattice - Training at home](https://www.youtube.com/watch?v=FEq_QANqEmI)
 - [Tension Climbing - Hangboarding](https://www.tensionclimbing.com/hangboarding-a-way/)
 - [Steve Bechtel - Hangboard Ladders for Finger Strength](https://www.climbing.com/skills/training-hangboard-ladders-for-finger-strength/) 3-6-9 protocol, low intensity.
+- [Lattice - How to write a climbing training plan](https://www.youtube.com/watch?v=X-fVHtCGimw)
 
 ## Climbing anchors
 
