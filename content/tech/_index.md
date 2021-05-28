@@ -23,3 +23,4 @@ title: Tech
 ## Misc
 
 - [q - query CSVs with SQL](https://github.com/harelba/q)
+- uBlock Origin rule to block YouTube end cards: `www.youtube.com##.ytp-ce-element-show`
