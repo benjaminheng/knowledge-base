@@ -1,5 +1,5 @@
 ---
-title: pprof reference
+title: pprof
 toc: true
 ---
 ## pprof commands
