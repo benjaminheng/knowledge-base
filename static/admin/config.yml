@@ -67,7 +67,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'training-log'
-    label: 'Training Log'
+    label: 'Fitness / Training Log'
     folder: 'content/fitness/training-log/'
     create: true
     slug: '{{slug}}'
