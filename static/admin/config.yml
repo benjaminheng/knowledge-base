@@ -17,6 +17,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - name: 'climbing'
     label: 'Climbing'
     folder: 'content/climbing/'
@@ -28,6 +29,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - name: 'tech'
     label: 'Tech'
     folder: 'content/tech/'
@@ -39,9 +41,34 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - name: 'games'
     label: 'Games'
     folder: 'content/games/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'fitness'
+    label: 'Fitness'
+    folder: 'content/fitness/'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Table of contents', name: 'toc', widget: 'boolean', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'training-log'
+    label: 'Training Log'
+    folder: 'content/fitness/training-log/'
     create: true
     slug: '{{slug}}'
     editor:

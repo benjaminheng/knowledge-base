@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+
+<main>
+    <div class="admin-container">
+        {{ if .Section }}
+            <a href="/admin/#/collections/{{ .Section }}">edit</a>
+        {{ else }}
+            <a href="/admin/">admin</a>
+        {{ end }}
+    </div>
+
+    <div class="content">
+        {{if not .IsHome }}
+              <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+        {{ end }}
+        {{ .Content }}
+
+        {{ range sort .Pages "Title" "desc" }}
+            {{ if eq (len .Sections) 0 }}
+                {{ if .IsPage }}
+                    <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </div>
+</main>
+
+{{ partial "footer.html" . }}

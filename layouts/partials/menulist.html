@@ -5,9 +5,11 @@
         {{ $title = title (path.Base .File.Dir) }}
     {{ end }}
     <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+    {{ if not (.Param "hide_children") }}
     <ul>
         {{ partial "menulist.html" . }}
     </ul>
+    {{ end }}
 {{ end }}
 {{ range .Pages }}
     {{ if eq (len .Sections) 0 }}
