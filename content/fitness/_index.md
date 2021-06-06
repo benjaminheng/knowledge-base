@@ -22,6 +22,7 @@ title: Fitness
 - [Shoulder stability: I,Y,T on TRX bands or rings](https://www.youtube.com/watch?v=fCEgANP9ScM)
 - [/r/bodyweightfitness recommended routine](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
 - [Shoulder warmup exercise](https://www.youtube.com/watch?v=Vwn5hSf3WEg)
+- [Ring support hold - progression and tutorial](https://www.youtube.com/watch?v=fghQL8EJSwY)
 
 ## Mobility
 
@@ -36,6 +37,6 @@ title: Fitness
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 - [Athlean-X - Shoulder Pain and Popping](https://youtu.be/zsmeXwHu6W0). Rotator cuff related injuries such as shoulder impingement.
 
-## Rings
+## Misc
 
-- [Ring support hold - progression and tutorial](https://www.youtube.com/watch?v=fghQL8EJSwY)
+- [Periodization for strength training](https://www.reddit.com/r/bodyweightfitness/comments/nns5an/how_to_periodize_your_bodyweight_strength/)
