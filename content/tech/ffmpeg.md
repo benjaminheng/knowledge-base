@@ -22,3 +22,8 @@ Concatenate using the following. Replace the output file's extension depending o
 ```
 ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
 ```
+
+## Ripping DVDs
+
+1. Rip to .mkv files using [MakeMKV](https://www.makemkv.com/) to strip DRM.
+2. Pass the output .mkv files to [Handbrake](https://handbrake.fr/) for encoding and compression.
