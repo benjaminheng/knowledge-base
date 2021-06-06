@@ -1,7 +1,7 @@
 ---
 title: Benchmarks
 ---
-## Finger strength (20mm half crimp)
+## Finger strength (20mm, half crimp, 7s)
 
 - 2020-05-01: -6kg, 56kg bw
 - 2020-06-09: +2.5kg, 56kg bw
