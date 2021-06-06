@@ -1,9 +1,6 @@
 ---
 title: Benchmarks
 ---
-
-// TODO: model this with data instead
-
 ## Finger strength (20mm half crimp)
 
 - 2020-05-01: -6kg, 56kg bw
