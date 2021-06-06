@@ -1,8 +1,20 @@
 {{ partial "header.html" . }}
+{{ $data := newScratch }}
+
+<!-- hack to link pages in nested sections to the right Netlify CMS page -->
+{{ if .Section }}
+  {{ if eq .CurrentSection.File.Dir "fitness/training-log/" }}
+    {{ $data.Set "collection" "training-log" }}
+  {{ else }}
+    {{ $data.Set "collection" .Section }}
+  {{ end }}
+{{ else }}
+  {{ $data.Set "collection" "root" }}
+{{ end }}
 
 <main>
     <div class="admin-container">
-        <a href="/admin/#/collections/{{ if .Section }}{{ .Section }}{{ else }}root{{ end }}/entries/{{ .File.TranslationBaseName }}">edit</a>
+      <a href="/admin/#/collections/{{ $data.Get "collection" }}/entries/{{ .File.TranslationBaseName }}">edit</a>
     </div>
     <div class="content">
         <h1><span class="title">{{ .Title | markdownify }}</span></h1>
