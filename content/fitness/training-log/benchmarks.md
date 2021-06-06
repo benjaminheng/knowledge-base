@@ -9,4 +9,6 @@ title: Benchmarks
 
 ## Weighted pull ups (2RM)
 
+
+- 2019-08-13: +12.5kg
 - 2021-06-06: +20kg, 134% bw, 57.6kg bw
