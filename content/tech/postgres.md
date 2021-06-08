@@ -125,6 +125,40 @@ SELECT
 FROM pg_stat_statements ORDER BY total_time DESC LIMIT 100;
 ```
 
+## Queries
+
+### Select latest row in each group
+
+If we have a table containing multiple groups, and we want to get the latest row in each group, we can use the `DISTINCT ON` clause. In other databases, this would be done with a window function or joins instead.
+
+As an example, assume we have the following table:
+
+```
+id | key | timestamp
+-- | --- | ----------
+1  | a   | 1000
+2  | b   | 1002
+3  | c   | 1003
+4  | a   | 1004
+5  | c   | 1005
+```
+
+We want to retrieve the row with the latest timestamp grouped by key. We can do:
+
+```
+SELECT DISTINCT ON (key) id, key, timestamp FROM tbl ORDER BY key, timestamp DESC;
+```
+
+Which will produce the following result:
+
+```
+id | key | timestamp
+-- | --- | ----------
+2  | b   | 1002
+4  | a   | 1004
+5  | c   | 1005
+```
+
 ## Concepts
 
 ### Buffers (shared/local blocks)
