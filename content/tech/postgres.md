@@ -145,7 +145,7 @@ id | key | timestamp
 
 We want to retrieve the row with the latest timestamp grouped by key. We can do:
 
-```
+```sql
 SELECT DISTINCT ON (key) id, key, timestamp FROM tbl ORDER BY key, timestamp DESC;
 ```
 
