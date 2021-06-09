@@ -9,6 +9,7 @@ toc: true
 - [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring)
 - [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 - [pgbadger](https://github.com/darold/pgbadger) - Analyze and generate reports from logs.
+- [WAL write amplification from UUID indexes](https://www.2ndquadrant.com/en/blog/on-the-impact-of-full-page-writes/)
 
 ## General
 
