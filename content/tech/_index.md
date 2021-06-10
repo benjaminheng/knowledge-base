@@ -11,6 +11,7 @@ title: Tech
 - [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 - [CLI Guidelines](https://clig.dev/)
 - [Hacker News RSS](https://hnrss.github.io/) - custom HN RSS feeds
+- [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 
 ## Graphing
 
