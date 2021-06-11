@@ -7,6 +7,7 @@ toc: true
 - [PlantUML](https://plantuml.com/)
     - [Visualize JSON](https://plantuml.com/json)
     - [Sequence diagrams](https://plantuml.com/sequence-diagram)
+    - [Component diagrams](https://plantuml.com/component-diagram)
 - [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
 - [Hitchhiker's Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
 - [PlantUML - real world examples](https://real-world-plantuml.com/)
@@ -19,6 +20,8 @@ toc: true
 Components have a shorthand: `[X]` is shorthand for `component X`.
 
 ## Component diagrams
+
+This just a quick reference for common use cases. See [plantuml.com/component-diagram](https://plantuml.com/component-diagram) for a complete reference.
 
 ### Aliases
 
