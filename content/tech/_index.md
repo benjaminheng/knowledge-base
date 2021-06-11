@@ -13,14 +13,6 @@ title: Tech
 - [Hacker News RSS](https://hnrss.github.io/) - custom HN RSS feeds
 - [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 
-## Graphing
-
-- [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
-- [PlantUML](https://plantuml.com/)
-- [Hitchhiker's Guide to PlantUML](https://crashedmind.github.io/PlantUMLHitchhikersGuide/)
-- [PlantUML - real world examples](https://real-world-plantuml.com/)
-- [Graphviz visual examples](https://renenyffenegger.ch/notes/tools/Graphviz/examples/index)
-
 ## Misc
 
 - [q - query CSVs with SQL](https://github.com/harelba/q)
