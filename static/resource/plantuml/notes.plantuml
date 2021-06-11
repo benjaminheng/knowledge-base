@@ -1,0 +1,10 @@
+@startuml
+note left of HTTP : Web Service only
+
+note right of [First Component]
+  A note can also
+  be on several lines
+end note
+
+HTTP - [First Component]
+@enduml

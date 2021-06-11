@@ -1,0 +1,3 @@
+@startuml
+[foo-service] -> [bar-service] : DoSomething RPC
+@enduml

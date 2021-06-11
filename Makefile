@@ -7,3 +7,6 @@ archive:
 	archiver --input ~/dev/knowledge-base --output ~/dev/link-archive/archive
 	(cd ~/dev/link-archive/archive && git status)
 	(cd ~/dev/link-archive/archive && git add . && git commit -m "Update archive" && git push)
+
+plantuml:
+	./render-plantuml-diagrams.sh

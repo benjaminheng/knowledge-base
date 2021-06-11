@@ -1,0 +1,4 @@
+@startuml
+queue "events-v1" <<kafka topic>> as MessageQueue
+[foo-service] -> MessageQueue : publish event
+@enduml

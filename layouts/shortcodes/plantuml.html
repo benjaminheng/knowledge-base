@@ -1,0 +1,16 @@
+{{ $name := .Get "name" }}
+{{ $collapse := .Get "collapse" }}
+{{ $sourceFile := printf "/static/resource/plantuml/%s.plantuml" $name | readFile | safeHTML }}
+{{ $filePath := printf "/resource/plantuml/%s.svg" $name }}
+![{{$name}}]({{$filePath}})
+{{ if eq $collapse "true" }}
+<details>
+
+```plantuml
+{{ $sourceFile }}```
+
+</details>
+{{ else }}
+```plantuml
+{{ $sourceFile }}```
+{{ end }}

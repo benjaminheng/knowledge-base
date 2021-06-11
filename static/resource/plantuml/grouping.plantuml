@@ -1,0 +1,13 @@
+@startuml
+package "Foo service" {
+    [First component] as foo.A
+    [Second component] as foo.B
+}
+
+database "foo-db" {
+    [some table] as foo.table.A
+    [another table] as foo.table.B
+}
+
+foo.A --> foo.table.A
+@enduml

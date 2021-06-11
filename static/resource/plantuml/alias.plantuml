@@ -1,0 +1,5 @@
+@startuml
+[/api/1.1/user/roles/] as RolesAPI
+[foo-service] -> RolesAPI
+[bar-service] -> RolesAPI
+@enduml
