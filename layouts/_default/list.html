@@ -9,9 +9,7 @@
   </div>
 
   <div class="content">
-    {{if not .IsHome }}
-    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-    {{ end }}
+    <h1 class="title">{{ .Title | markdownify }}</h1>
     {{ .Content }}
   </div>
 </main>
