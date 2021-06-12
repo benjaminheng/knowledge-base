@@ -83,6 +83,10 @@ h1:hover > a.anchor, h2:hover > a.anchor, h3:hover > a.anchor, h4:hover > a.anch
     visibility: visible;
 }
 
+h1.title {
+    margin: 0.5em 0;
+}
+
 /* column layout */
 .column {
     height: 100%;  /*allows both columns to span the full height of the browser window*/
