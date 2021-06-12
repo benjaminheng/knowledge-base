@@ -1,6 +1,4 @@
-{{ partial "header.html" . }}
-
-
+{{ define "main" }}
 <main>
     <div class="admin-container">
         {{ if .Section }}
@@ -27,5 +25,5 @@
         </ul>
     </div>
 </main>
+{{ end }}
 
-{{ partial "footer.html" . }}

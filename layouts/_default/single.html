@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 {{ $data := newScratch }}
 
 <!-- hack to link pages in nested sections to the right Netlify CMS page -->
@@ -22,5 +22,4 @@
         {{ .Content | replaceRE `(<h[1-9] id=\"([^\"]+)\"[^\>]*\>)(.*)(</h[1-9]+>)` `${1}<a href="#${2}" class="anchor" ariaLabel="Anchor"></a>${3}${4}` | safeHTML }}
     </div>
 </main>
-
-{{ partial "footer.html" . }}
+{{ end }}

@@ -1,21 +1,18 @@
-{{ partial "header.html" . }}
-
-
+{{ define "main" }}
 <main>
-    <div class="admin-container">
-        {{ if .Section }}
-            <a href="/admin/#/collections/{{ .Section }}">edit</a>
-        {{ else }}
-            <a href="/admin/">admin</a>
-        {{ end }}
-    </div>
+  <div class="admin-container">
+    {{ if .Section }}
+    <a href="/admin/#/collections/{{ .Section }}">edit</a>
+    {{ else }}
+    <a href="/admin/">admin</a>
+    {{ end }}
+  </div>
 
-    <div class="content">
-        {{if not .IsHome }}
-              <h1><span class="title">{{ .Title | markdownify }}</span></h1>
-        {{ end }}
-        {{ .Content }}
-    </div>
+  <div class="content">
+    {{if not .IsHome }}
+    <h1><span class="title">{{ .Title | markdownify }}</span></h1>
+    {{ end }}
+    {{ .Content }}
+  </div>
 </main>
-
-{{ partial "footer.html" . }}
+{{ end }}
