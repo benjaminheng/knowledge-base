@@ -19,7 +19,7 @@
     <div class="content">
         <h1><span class="title">{{ .Title | markdownify }}</span></h1>
         {{ if .Params.toc }}{{ partial "toc.html" . }}{{ end }}
-        {{ .Content }}
+        {{ .Content | replaceRE `(<h[1-9] id=\"([^\"]+)\"[^\>]*\>)(.*)(</h[1-9]+>)` `${1}<a href="#${2}" class="anchor" ariaLabel="Anchor"></a>${3}${4}` | safeHTML }}
     </div>
 </main>
 

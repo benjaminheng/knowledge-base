@@ -1,15 +1,24 @@
+$base-font-size: 18px;
+$sidebar-font-size: 16px;
+$h1-font-size: 36px;
+$h2-font-size: 30px;
+$h3-font-size: 24px;
+$h4-font-size: 20px;
+$code-block-font-size: 0.8em;
+$inline-code-font-size: 0.8em;
+
 html {
     height: 100%;
 }
 
 body {
-    font-size: 1.0625rem;
-    line-height: 1.6;
-    font-family: "Open Sans", "Arial", sans-serif;
-    background-color: #fefefe;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, segoe ui, helvetica neue, helvetica, arial, sans-serif; 
+    font-size: $base-font-size;
+    line-height: 1.7;
+    background-color: #FDFDFD;
     color: rgba(0,0,0,.8);
-    margin: 0;
 
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -24,20 +33,54 @@ body {
 
 /* headers */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Noto Serif", "Georgia", serif;
+    font-family: "Georgia", serif;
     font-weight: 400;
 }
 
-main h1 { font-size: 2.25em; }
-main h2 { font-size: 1.8em; }
-main h3 { font-size: 1.4em; }
-main h4 {
-    font-style: italic;
-    font-size: 1.1em;
+h1 {
+    font-size: $h1-font-size;
 }
-main h5, h6 {
-    font-style: italic;
-    font-size: 1em;
+h2 {
+    font-size: $h2-font-size;
+}
+h3 {
+    font-size: $h3-font-size;
+}
+h4 {
+    font-size: $h4-font-size;
+}
+h5, h6 {
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+main {
+    h1, h2, h3 { margin: 1.5em 0 0.5em 0; }
+    h4 { margin: 2em 0 0.5em 0; }
+    h5, h6 { margin: 2em 0 0.5em 0; }
+}
+
+h1 > a.anchor::before, h2 > a.anchor::before, h3 > a.anchor::before, h4 > a.anchor::before, h5 > a.anchor::before, h6 > a.anchor::before {
+    content: "\00A7";
+    font-size: .85em;
+    display: block;
+    padding-top: .15em;
+}
+
+h1 > a.anchor, h2 > a.anchor, h3 > a.anchor, h4 > a.anchor, h5 > a.anchor, h6 > a.anchor {
+    position: absolute;
+    z-index: 1001;
+    width: 1.5ex;
+    margin-left: -1.5ex;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    visibility: hidden;
+    text-align: center;
+}
+
+h1:hover > a.anchor, h2:hover > a.anchor, h3:hover > a.anchor, h4:hover > a.anchor, h5:hover > a.anchor, h6:hover > a.anchor {
+    visibility: visible;
 }
 
 /* column layout */
@@ -51,6 +94,7 @@ main h5, h6 {
     flex-shrink: 0;  /*makes sure that content is not cut off in a smaller browser window*/
     min-width: 300px;
     overflow-y: auto;  /*adds scroll to this container*/
+    font-size: $sidebar-font-size;
 }
 #right {
     flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
@@ -105,20 +149,20 @@ div.highlight pre {
 }
 pre {
     border: 1px solid #ddd;
-    padding: 1em;
+    padding: 0.5em 1em;
     overflow-x: auto;
     background-color: #f7f7f8;
+    code {
+        background: none;
+        padding: 0;
+        font-size: $code-block-font-size;
+    }
 }
 code {
-    background: #f3f3f3;
+    background: #e0e0e0;
     font-family: "Lucida Console", Monaco, monospace;
-    font-size: 0.9375em;
-    padding: 0.2em 0.5em;
-}
-pre code {
-    background: none;
-    padding: 0;
-    font-size: 0.875em;
+    font-size: $inline-code-font-size;
+    padding: 0.2em 0.4em;
 }
 
 /* misc elements */
@@ -135,15 +179,21 @@ p {
 
 img, iframe, video { max-width: 100%; }
 blockquote {
-    background: #f9f9f9;
+    background: #f7f7f8;
     border-left: 5px solid #ccc;
     padding: 3px 1em 3px;
 }
 
 table {
+    border-collapse: collapse;
     margin: auto;
-    border-top: 1px solid #666;
-    border-bottom: 1px solid #666;
+    thead th {
+        text-align: left;
+        border-bottom: 1px solid #ccc;
+    }
+    th, td {
+        padding: 5px;
+    }
 }
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
@@ -155,4 +205,8 @@ article.post-excerpt {
 .footnotes ol li p {
     margin-top: 0;
     margin-bottom: 0;
+}
+
+details > summary {
+    cursor: pointer;
 }
