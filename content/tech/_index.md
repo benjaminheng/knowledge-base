@@ -13,7 +13,7 @@ title: Tech
 - [Hacker News RSS](https://hnrss.github.io/) - custom HN RSS feeds
 - [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html)
 - [Shellcheck](https://github.com/koalaman/shellcheck)
-- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) ([Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/))
 
 ## Misc
 
