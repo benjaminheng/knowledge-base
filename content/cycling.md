@@ -20,11 +20,12 @@ title: Cycling
 
 ## Bike build
 
-Various notes collected on the quest to build myself a bike.
+Might possibly look into building a bike in the far future. Here I'll add notes over time.
 
 ### General references
 
 - [How To Build Your Own Bike (And Why You Should Do It)](https://www.icebike.org/build-your-own-bike/)
+- [Bike assembly](https://www.youtube.com/watch?v=sU2ES4dvWkc)
 
 ### Rims
 
