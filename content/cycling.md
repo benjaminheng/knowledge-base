@@ -38,7 +38,7 @@ If using rim brakes, make sure that the rim lines up with the brake shoes. Some 
 
 References: [Rim buying guide by ChainReactionCycles](https://hub.chainreactioncycles.com/buying-guides/wheels-and-tyres/rims-buying-guide/).
 
-## Parts list (infodump)
+### Parts list (infodump)
 
 - Polished silver seatposts:
     - Thomson Elite - https://www.bikethomson.com/product/elite-seatpost/
