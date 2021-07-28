@@ -37,3 +37,9 @@ Be sure to choose the right tire width for your rim's width. Generally any tire 
 If using rim brakes, make sure that the rim lines up with the brake shoes. Some rims don't have a surface for rim brakes to grip onto, these rims are typically denoted as disc-only.
 
 References: [Rim buying guide by ChainReactionCycles](https://hub.chainreactioncycles.com/buying-guides/wheels-and-tyres/rims-buying-guide/).
+
+## Parts list (infodump)
+
+- Polished silver seatposts:
+    - Thomson Elite - https://www.bikethomson.com/product/elite-seatpost/
+    - Ritchey Classic - https://road.cc/content/review/249791-ritchey-classic-2-bolt-seatpost
