@@ -17,3 +17,23 @@ title: Cycling
 ## Blogs
 
 - https://ridingtales.com - Travel reports on a Birdy, Reach, and other bikes.
+
+## Bike build
+
+Various notes collected on the quest to build myself a bike.
+
+### General references
+
+- [How To Build Your Own Bike (And Why You Should Do It)](https://www.icebike.org/build-your-own-bike/)
+
+### Rims
+
+More spokes lead to a better distribution of load, thus resulting in a stronger wheel. More spokes leads to a heavier wheel. 24 or 28 spokes is generally common for road bikes.
+
+As for materials, aluminum is fine for myself. Will only be riding for leisure, so don't need to optimize for performance. Currently one of the aesthetics I'd like is a black bike with a silver accent - silver rims would be nice.
+
+Be sure to choose the right tire width for your rim's width. Generally any tire width will work with any rim width, though manufacturers will often provide recommendations on their site. [Sheldon Brown has a chart for recommended width combinations](https://www.sheldonbrown.com/tire-sizing.html#width).
+
+If using rim brakes, make sure that the rim lines up with the brake shoes. Some rims don't have a surface for rim brakes to grip onto, these rims are typically denoted as disc-only.
+
+References: [Rim buying guide by ChainReactionCycles](https://hub.chainreactioncycles.com/buying-guides/wheels-and-tyres/rims-buying-guide/).
