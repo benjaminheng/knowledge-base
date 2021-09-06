@@ -4,6 +4,7 @@ title: Climbing
 
 ## Injuries
 
+- [Physiotherapist recommendation: Bruno from BMJ Physiotherapy](https://bmjtherapy.com/)
 - [Ester Smith - Healing Nagging Finger Injuries](https://www.blackdiamondequipment.com/en_US/stories/experience-story-esther-smith-nagging-finger-injuries/)
 - [Steven Low - Overcoming Tendonitis](https://stevenlow.org/overcoming-tendonitis/)
 - [Steven Low - Treatment of Climber Hand and Finger Injuries](http://stevenlow.org/treatment-of-climber-hand-and-finger-injuries/)
