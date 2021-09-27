@@ -15,6 +15,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Album cover art](https://www.covermytunes.com/)
 - [Learn music theory](https://www.musictheory.net/lessons)
 - [So you've made a mistake and it's public...](https://meta.wikimedia.org/wiki/So_you've_made_a_mistake_and_it's_public...)
+- [Find reddit discussions for TV shows](https://www.redditdiscuss.com/)
 
 <details>
 <summary>On aspirations and goals</summary>
