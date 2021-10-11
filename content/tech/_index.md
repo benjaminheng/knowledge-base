@@ -16,6 +16,7 @@ title: Tech
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) ([Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/))
 - [How much does Spotify pay per stream? Streaming payouts comparison (2021)](https://freeyourmusic.com/blog/how-much-does-spotify-pay-per-stream)
 - [What are user-centric music streaming payouts?](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/) - Studies and proposed alternatives
+- [Comparing Memcached vs Redis](https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference)
 
 ## Misc
 
