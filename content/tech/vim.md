@@ -3,6 +3,8 @@ title: Vim
 toc: true
 ---
 
+## Vim and I
+
 My vim config and dotfiles can be found here: https://github.com/benjaminheng/dotfiles/tree/master/nvim/.config/nvim
 
 I've been using vim since I was 17, after being introduced to it in college.
