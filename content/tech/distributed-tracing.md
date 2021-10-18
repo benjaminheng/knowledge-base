@@ -19,6 +19,7 @@ title: Distributed tracing
 - [Uber - Distributed Tracing](https://eng.uber.com/distributed-tracing/)
 - :star: [Dan Luu - A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
 - [Netflix - Building Netflix's Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+- [Timescale - Promscale and tracing](https://blog.timescale.com/blog/what-are-traces-and-how-sql-yes-sql-and-opentelemetry-can-help-us-get-more-value-out-of-traces-to-build-better-software/)
 
 ## Misc
 
