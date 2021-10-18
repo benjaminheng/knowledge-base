@@ -1,8 +1,8 @@
 $base-font-size: 18px;
 $sidebar-font-size: 16px;
 $h1-font-size: 36px;
-$h2-font-size: 30px;
-$h3-font-size: 24px;
+$h2-font-size: 24px;
+$h3-font-size: 20px;
 $h4-font-size: 20px;
 $code-block-font-size: 0.8em;
 $inline-code-font-size: 0.8em;
@@ -37,11 +37,14 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-size: $h1-font-size;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.8);
 }
 h2 {
     font-size: $h2-font-size;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
 }
 h3 {
+    font-weight: 600;
     font-size: $h3-font-size;
 }
 h4 {
@@ -131,13 +134,16 @@ main {
 
 /* table of contents */
 .toc {
+    background-color: #fffcf5;
+    border: 1px solid #e3ca8f;
+    padding: 0.5em 1em;
+
     #table-of-contents {
-        font-family: 'Noto Serif', "Georgia", serif;
+        font-family: "Georgia", serif;
         font-weight: 300;
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
     nav {
-        border-bottom: 1px solid #e7e7e9;
     }
     nav > ul {
         margin-top: 0.2em;
