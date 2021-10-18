@@ -189,3 +189,14 @@ More information in the psql prompt:
 ```
 \set PROMPT1 '%[%033[37m%][%M] %n@%/%R%#%x %[%033[0m%]%'
 ```
+
+## Autovacuuum
+
+Regular autovacuum processes will be automatically interrupted when the process detects
+that it is blocking another operation. For instance when executing DDLs like
+`ALTER TABLE` that would acquire a `SHARE UPDATE EXCLUSIVE` lock.
+
+The exception is if the autovacuum process is being triggered by wraparound
+protection. In this mode, the autovauum query will show `(to prevent
+wraparound)`. This process will not be automatically interrupted, and will
+block any DDL statements requiring a lock.
