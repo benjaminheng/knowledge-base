@@ -1,6 +1,9 @@
 ---
 title: Web resources
 ---
+
+## Links
+
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Integrates with SSR sites. Improves page navigation speed by swapping in the body and merging the head tags, without a full page load.
 - [Stimulus](https://github.com/stimulusjs/stimulus) - Modest JS framework for the HTML you already have.
 - https://htmldom.dev/ - Reference: managing HTML DOM using vanilla JS
@@ -20,9 +23,6 @@ title: Web resources
 - [Readability javascript bookmarklet](https://ejucovy.github.io/readability/)
 - [Fontjoy](https://fontjoy.com/) - Font pairings
 - [unDraw - Open source illustrations](https://undraw.co/illustrations)
-
-## Link dump
-
 - https://philippta.github.io/web-frontends-in-go/
 
 ## Fonts

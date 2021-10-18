@@ -2,6 +2,7 @@
 title: PlantUML
 toc: true
 ---
+
 ## Resources
 
 - [PlantUML](https://plantuml.com/)

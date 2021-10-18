@@ -1,8 +1,11 @@
 ---
 title: Distributed tracing
 ---
-## Articles
 
+## Links
+
+- [The OpenTracing Semantic Specification](https://opentracing.io/specification/)
+- [OpenTelemetry Specification](https://github.com/open-telemetry/opentelemetry-specification)
 - [Pinterest - Analyzing distributed trace data](https://medium.com/pinterest-engineering/analyzing-distributed-trace-data-6aae58919949)
 - :star: [Distributed Tracing — we’ve been doing it wrong](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
     - Spans are too low-level a construct for effective root cause analysis
@@ -20,11 +23,6 @@ title: Distributed tracing
 - :star: [Dan Luu - A simple way to get more value from tracing](https://danluu.com/tracing-analytics/)
 - [Netflix - Building Netflix's Distributed Tracing Infrastructure](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 - [Timescale - Promscale and tracing](https://blog.timescale.com/blog/what-are-traces-and-how-sql-yes-sql-and-opentelemetry-can-help-us-get-more-value-out-of-traces-to-build-better-software/)
-
-## Misc
-
-- [The OpenTracing Semantic Specification](https://opentracing.io/specification/)
-- [OpenTelemetry Specification](https://github.com/open-telemetry/opentelemetry-specification)
 
 ## Jaeger
 
