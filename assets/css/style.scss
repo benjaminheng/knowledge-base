@@ -25,8 +25,6 @@ body {
 @media only screen and (min-width : 768px) {
     /* column layout only on large enough screens */
     body {
-        height: 100%;
-        overflow: hidden;  /*makes the body non-scrollable (we will add scrolling to the sidebar and main content containers)*/
         display: flex;  /*enables flex content for its children*/
     }
 }
@@ -55,7 +53,7 @@ h5, h6 {
 }
 
 main {
-    h1, h2, h3 { margin: 1.5em 0 0.5em 0; }
+    h1, h2, h3 { margin: 1.75em 0 0.5em 0; }
     h4 { margin: 2em 0 0.5em 0; }
     h5, h6 { margin: 2em 0 0.5em 0; }
 }
@@ -89,7 +87,6 @@ h1.title {
 
 /* column layout */
 .column {
-    height: 100%;  /*allows both columns to span the full height of the browser window*/
     display: flex;
     flex-direction: column;  /*places the left and right headers above the bottom content*/
 }
@@ -97,12 +94,10 @@ h1.title {
     background-color: #f5f5f5;
     flex-shrink: 0;  /*makes sure that content is not cut off in a smaller browser window*/
     min-width: 300px;
-    overflow-y: auto;  /*adds scroll to this container*/
     font-size: $sidebar-font-size;
 }
 #right {
     flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
-    overflow-y: auto;  /*adds scroll to this container*/
 }
 nav.menu {
     padding: 1em;
