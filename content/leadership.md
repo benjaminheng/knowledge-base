@@ -40,3 +40,16 @@ is to simply set a good example. By consistently publishing high quality
 documents, it'll start to trickle down to the rest of the organization. Pretty
 soon you'll start to notice other people adopting aspects of your document
 structure.
+
+## On responsibilities
+
+One of the responsibilities as a tech lead is to insulate the rest of the team
+from unnecessary meetings and discussions. I believe that engineering teams
+should be involved in product exploration. It makes for a better product.
+However involving the wider engineering team too early only serves to distract
+them from their work. The tech lead should participate in early exploratory
+discussions with product. The tech lead should summarize these early
+discussions and present them to the team for asynchronous discussion (over
+Slack, email, etc.). This way the team can contribute to early-stage product
+exploration without having to sit in hour-long meetings.
+
