@@ -6,9 +6,7 @@
     {{ end }}
     <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
     {{ if not (.Param "hide_children") }}
-    <ul>
-        {{ partial "menulist.html" . }}
-    </ul>
+      {{ partial "menulist.html" . }}
     {{ end }}
 {{ end }}
 {{ range .Pages }}
