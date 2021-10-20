@@ -55,11 +55,12 @@ sooner rather than later.
 ### Keep your PRs small
 
 No one likes reviewing huge PRs. Don't expect your massive PR to reviewed in a
-timely fashion. Don't expect to get a good review either. If you find your PRs
-getting too large, see if there's a sensible way to split your code change into
-smaller discrete changes. Over time you'll get better at identifying beforehand
-if a code change will be too large, and you shouldn't find yourself in the
-position of having to split an existing PR too often.
+timely fashion. Don't expect to get a good review on your massive PR either.
+
+If you find your PRs getting too large, see if there's a sensible way to split
+your code change into smaller discrete changes. Over time you'll get better at
+identifying beforehand if a code change will be too large, and you shouldn't
+find yourself in the position of having to split an existing PR too often.
 
 ### Structure your commits
 
@@ -69,16 +70,18 @@ commits is a skill, and requires planning even before making the first change.
 Try to have a good idea of the sequence of changes. Here's an example of what a
 sequence of commits might look like:
 
-> ed9c731 Add migration to add color column in widget table
-> 977e070 Add storage method to update widget color
-> c982ebb Handle color changes in UpdateWidget RPC
-> 70168e2 Add tests
-> d0de359 Update GetWidget RPC to return widget color
+```
+ed9c731 Add migration to add color column in widget table
+977e070 Add storage method to update widget color
+c982ebb Handle color changes in UpdateWidget RPC
+70168e2 Add tests
+d0de359 Update GetWidget RPC to return widget color
+```
 
 Of course, it's not feasible to make perfect commits all the time. You'll often
 find yourself adding fixes or small changes. Even so, you can keep a clean
 commit history by making liberal use of `git rebase` and `git commit --fixup`.
-Here are some resources for using rebasing and using fixup effectively:
+Here are some resources for using rebase and fixup effectively:
 
 - :star: [Rewriting commit history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 - [Interactive rebasing](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_changing_multiple)
