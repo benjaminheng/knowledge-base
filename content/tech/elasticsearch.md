@@ -81,3 +81,21 @@ curl -X POST "http://localhost:9200/chat_offers/_update_by_query?conflicts=proce
     }
 }'
 ```
+
+## Find long running tasks
+
+A few times I've encountered an issue where a system was constantly retrying a
+ES query. This query would take a second or so, which isn't enough time to
+manually query for the latest task, copy the task ID, and run another query to
+get the task details. This script automates this process.
+
+The longest running task on a particular ES node is fetched, and its task
+details are fetched.
+
+```
+#!/bin/bash
+
+task=$(curl -s http://localhost:9200/_tasks/ | gron | grep running_time_in_nanos | sort --numeric-sort --reverse -k 3 | head -n 1 | gron -u | jq -r '.nodes[].tasks | keys | .[0]')
+echo $task
+curl http://localhost:9200/_tasks/$task
+```
