@@ -24,7 +24,7 @@ When it comes to commenting on RFCs, there's a fine line between giving input
 and micromanaging. No one likes being micromanaged. When giving input, you
 should try to justify your input in as much detail as possible. Providing
 justifications helps the author to better understand where you're coming from,
-and reduces their friction to disagree with your input. Disagreements are
+and gives them more opportunity to disagree with your suggestion. Disagreements are
 fantastic in RFCs -- these are the discussions that end up shaping the RFC the
 most.
 
