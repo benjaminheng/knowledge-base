@@ -14,7 +14,6 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Learn music theory](https://www.musictheory.net/lessons)
 - [So you've made a mistake and it's public...](https://meta.wikimedia.org/wiki/So_you've_made_a_mistake_and_it's_public...)
 - [Find reddit discussions for TV shows](https://www.redditdiscuss.com/)
-- [Monika's Writing Tip of the Day](https://doki-doki-literature-club.fandom.com/wiki/Monika%27s_Talk#Writing_Tip_of_the_Day)
 - [Hacker News Books](https://hackernewsbooks.com/) - Search for HN references to books.
 
 ## Travel
