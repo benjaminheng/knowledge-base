@@ -19,4 +19,4 @@ title: Cycling
 - https://ridingtales.com - Travel reports on a Birdy, Reach, and other bikes.
 - [How To Build Your Own Bike (And Why You Should Do It)](https://www.icebike.org/build-your-own-bike/)
 - [Bike assembly](https://www.youtube.com/watch?v=sU2ES4dvWkc)
-- [OMATA One cycling computer](https://omata.com/collections/all/products/omata-one-kph?variant=47672917909) - Analog cycling computer. Expensive.
+- [OMATA One cycling computer](https://omata.com/collections/all/products/omata-one-kph?variant=47672917909) - Analog cycling computer. Expensive but kinda cool.
