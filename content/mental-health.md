@@ -3,7 +3,7 @@ title: Mental health
 ---
 ## Depression
 
-- [Depression Quest - An interaction (non)fiction about living with depression](http://www.depressionquest.com/dqfinal.html)
+- [Depression Quest - An interaction (non)fiction about living with depression](http://www.depressionquest.com/dqfinal.html) - Please take the trigger warning seriously. If you have depressive thoughts and feel this triggering them, STOP.
 - [We Cannot Continue to Overlook 'High-Functioning' Depression ](https://themighty.com/2016/05/high-functioning-depression-we-cant-overlook-the-overachievers/)
 - [Hyperbole and a Half - Adventures in depression](http://hyperboleandahalf.blogspot.com/2011/10/adventures-in-depression.html)
 - [Hyperbole and a Half - Depression part 2](http://hyperboleandahalf.blogspot.com/2013/05/depression-part-two.html)
