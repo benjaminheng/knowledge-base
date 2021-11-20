@@ -17,7 +17,7 @@ When searching for something, YouTube insists on interspersing the search result
 2. **People also watch** -- Why would I care what other people are watching? I want to watch the thing that I've just searched for.
 3. **For you** -- You know what would be best for me right now? Showing me the search results for the query I just entered.
 
-To remove these bullshit sections:
+To remove these bullshit sections from the search results:
 
 ```
 www.youtube.com##ytd-shelf-renderer:has-text(/Previously watched/)
