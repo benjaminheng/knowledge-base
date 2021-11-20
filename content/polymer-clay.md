@@ -8,3 +8,4 @@ title: Polymer clay
 
 - [Guide for sculpting animals from a single ball of clay](https://www.reddit.com/r/polymerclay/comments/lqtiy0/i_made_some_little_green_polymer_puppies/gojllsw/?context=3)
 - [Cat model reference](https://www.reddit.com/r/polymerclay/comments/qe3pv5/small_gifts_for_my_catloving_friends/)
+- [Cat model reference 2](https://www.youtube.com/watch?v=qgBXDFfJSfU)
