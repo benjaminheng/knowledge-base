@@ -39,7 +39,7 @@ be checked using
 > The value of this depends on the configuration option that specifies whether
 > Unicode characters are stored as UCS-2 or UCS-4.
 
-For example the "🇺🇸" flag emoji comprises `🇺` and `🇸`.
+For example the "🇺🇸" flag emoji comprises the unicode code points `🇺` and `🇸`. Here's how Python represents this flag emoji.
 
 In Python 2 compiled with UCS-2:
 
@@ -59,7 +59,7 @@ If Python 2 compiled with UCS-4:
 ```python
 >>> import sys
 >>> sys.maxunicode
-Out[11]: 1114111
+1114111
 >>> message = u'\U0001f1fa\U0001f1f8'
 >>> len(message)
 2
@@ -68,5 +68,4 @@ Out[11]: 1114111
 ```
 
 Notice that when compiled with UCS-4, Python can represent each code point as 3
-bytes. With UCS-2, the code points are decomposed into surrogate pairs, which
-are only valid as UTF-16 and do not comply with the UTF-8 spec.
+bytes. With UCS-2, the 3-byte code points are instead decomposed into surrogate pairs. These surrogate pairs are only valid in UTF-16 and do not comply with the UTF-8 spec.
