@@ -8,10 +8,10 @@ easier.
 
 ## Provide context
 
-Pull Requests (PRs) should contain context on the change. This could be a
-paragraph or two in the PR description, or a link to a ticket. If linking to a
-ticket, the ticket should have context beyond just a title. There's no need to
-go into too much detail, it could simply be something like:
+PRs should contain context on the change. This could be a paragraph or two in
+the PR description, or a link to a ticket. If linking to a ticket, the ticket
+should have context beyond just a title. There's no need to go into too much
+detail, it could simply be something like:
 
 > This PR allows widgets to have customizable colors. The PR is part of our new
 > company strategy to convince the widgetless that being widgetless is bad and
