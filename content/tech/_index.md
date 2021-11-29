@@ -19,6 +19,7 @@ title: Tech
 - [Comparing Memcached vs Redis](https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference)
 - [IoT Hacking and Rickrolling My High School District](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
 - [Programming with Unicode](https://unicodebook.readthedocs.io/about.html)
+- [Even Miller - How Not To Sort By Average Rating](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
 
 ## Misc
 

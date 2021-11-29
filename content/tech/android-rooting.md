@@ -1,6 +1,7 @@
 ---
 title: Android Rooting
 ---
+
 ## Rooting Pixel 3a
 
 - [TWRP can't be installed on Android 10+](https://forum.xda-developers.com/pixel-3a/development/twrp-3-3-1-pixel-3a-t3943413/post82928369#post82928369) without first downgrading to Android 9
