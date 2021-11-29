@@ -39,4 +39,4 @@ curl http://localhost:9284/debug/pprof/trace\?seconds\=10 > /tmp/pprof && go too
 
 ## Articles
 
-- - https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
+- https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
