@@ -40,7 +40,7 @@ be checked using
 > The value of this depends on the configuration option that specifies whether
 > Unicode characters are stored as UCS-2 or UCS-4.
 
-For example the "🇺🇸" flag emoji comprises the unicode code points `🇺` and `🇸`. Here's how Python represents this flag emoji.
+For example the "🇺🇸" flag emoji comprises the unicode code points `🇺` and `🇸`, represented by the code points `U+1f1fa` and `U+1f1f8` respectively. Here's how Python represents this flag emoji.
 
 In Python 2 compiled with UCS-2:
 
