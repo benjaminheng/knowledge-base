@@ -27,6 +27,8 @@ title: Web resources
 
 ## Fonts
 
+Some fonts that I like.
+
 Serif fonts:
 
 - PT Serif
