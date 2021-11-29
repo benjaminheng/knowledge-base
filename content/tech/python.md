@@ -1,5 +1,6 @@
 ---
 title: Python
+toc: true
 ---
 
 ## [Python 2] UTF-8 decoder in Python 2 accepts surrogate pairs
@@ -68,4 +69,6 @@ If Python 2 compiled with UCS-4:
 ```
 
 Notice that when compiled with UCS-4, Python can represent each code point as 3
-bytes. With UCS-2, the 3-byte code points are instead decomposed into surrogate pairs. These surrogate pairs are only valid in UTF-16 and do not comply with the UTF-8 spec.
+bytes. With UCS-2, the 3-byte code points are instead decomposed into surrogate
+pairs. These surrogate pairs are only valid in UTF-16 and do not comply with
+the UTF-8 spec.
