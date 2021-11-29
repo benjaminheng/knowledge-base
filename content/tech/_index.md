@@ -18,6 +18,7 @@ title: Tech
 - [What are user-centric music streaming payouts?](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/) - Studies and proposed alternatives
 - [Comparing Memcached vs Redis](https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference)
 - [IoT Hacking and Rickrolling My High School District](https://whitehoodhacker.net/posts/2021-10-04-the-big-rick)
+- [Progrmming with Unicode](https://unicodebook.readthedocs.io/about.html)
 
 ## Misc
 
