@@ -3,17 +3,21 @@
     left: 50%;
     transform: translate(-50%, 0);
     top: 4em;
-    padding: 1em;
     background-color: #f7f7f7;
     border: 1px solid #ccc;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 
 
     #search-input {
+        margin: 1rem;
+        display: block;
         font-size: 1.6em;
         width: 16em;
     }
 
     #search-results {
+        .result {
+            margin: 0.5em 1em;
+        }
     }
 }

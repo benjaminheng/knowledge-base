@@ -3,9 +3,11 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
   var is_initialized = false; // Will be set to true once search index is initialized.
   let index = null;
+  let lookup = {}; // Map of permalink -> document
 
   search_form = document.getElementById("search-form");
   search_input = document.getElementById("search-input");
+  search_results= document.getElementById("search-results");
 
 	search_form.addEventListener('focusin', function(e) {
 		search_init(); // try to load the search index
@@ -14,11 +16,16 @@ window.addEventListener("DOMContentLoaded", function(event) {
 	document.addEventListener('keydown', function(e) {
     // `CTRL + /` or `CTRL + K` will toggle the search flow
 		if (e.ctrlKey && (e.which === 191 || e.which === 75)) {
-			search_toggle_visibility(e); // toggle visibility of search box
+			search_toggle_visibility(); // toggle visibility of search box
+		}
+
+		// `ESC` closes the search box
+		if (e.keyCode == 27 && search_form.style.visibility === "visible") {
+				search_toggle_visibility();
 		}
 	});
 
-	function search_toggle_visibility(e) {
+	function search_toggle_visibility() {
     if (search_form.style.visibility === "hidden") {
       search_form.style.visibility = "visible";
       search_input.value = "";
@@ -47,6 +54,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
             for (var doc of data) {
               this.add(doc);
+              lookup[doc.permalink] = doc;
             }
           });
 
@@ -65,8 +73,29 @@ window.addEventListener("DOMContentLoaded", function(event) {
     if (index === null) {
       return
     }
+
+    if (term === "") {
+      search_results.innerHTML = "";
+      return
+    }
+
     let results = index.search(term);
-    // TODO: show results
+    console.log("results =", results);
+    let top5 = results.slice(0, 5);
+    let innerHTML = "";
+    for (let idx in top5) {
+      let doc = lookup[top5[idx].ref]
+      // TODO: add section hierarchy
+      let item = `
+      <div class="result">
+        <a href="${doc.permalink}">
+          <span class="title">${doc.title}</span>
+        </a>
+      </div>
+      `;
+      innerHTML = innerHTML + item;
+    }
+    search_results.innerHTML = innerHTML
   }
 
 	// Load script based on https://stackoverflow.com/a/55451823

@@ -1,5 +1,5 @@
 {{- $index := slice -}}
-{{- range where .Site.RegularPages "Type" "not in"  (slice "page" "json") -}}
+{{- range .Site.Pages -}}
   {{- $index = $index | append (dict "title" ( .Title | plainify ) "permalink" .Permalink "section" (i18n (.Section | title)) "tags" (apply .Params.tags "i18n" "." ) "categories" (apply .Params.categories "i18n" "." ) "content" .Plain ) -}}
 {{- end -}}
 {{- $index | jsonify -}}
