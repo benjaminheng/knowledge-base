@@ -9,8 +9,9 @@ or so my system would freeze for about 500ms, during which even the cursor
 would be unresponsive. The freezing wouldn't occur if I were playing a game,
 only when the system was relatively idle, like when web browsing. This seemed
 to indicate some sort of power optimization during idle loads. Indeed, the
-solution for me was to disable AMD's Cool'n'Quiet feature in the BIOS. This
-feature scales CPU frequencies dynamically based on load.
+solution for me was to disable [AMD's
+Cool'n'Quiet](https://en.wikipedia.org/wiki/Cool%27n%27Quiet) feature in the
+BIOS. This feature scales CPU frequencies dynamically based on load.
 
 During my research I found others with what they described as stuttering
 issues. Here are some of the solutions suggested:
