@@ -220,3 +220,7 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 details > summary {
     cursor: pointer;
 }
+
+// @import is being deprecated in favor of @use, but Hugo's sass compiler only
+// supports @import
+@import 'search';

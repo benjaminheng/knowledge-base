@@ -5,6 +5,9 @@ pluralizelisttitles = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableEmoji = true
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [markup]
     [markup.highlight]
         codeFences = true
