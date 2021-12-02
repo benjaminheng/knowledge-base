@@ -20,3 +20,10 @@ issues. Here are some of the solutions suggested:
 - [Disable fTPM](https://linustechtips.com/topic/1353904-amd-ftpm-causing-random-stuttering/).
 - [Use Windows SATA device drivers instead of AMD ones](https://linustechtips.com/topic/1177546-windows-10-micro-stutters-with-ryzen/)
 - Update BIOS
+
+## [AMD] Enable virtualization in BIOS
+
+The setting for virtualization in AMD BIOSes is called "SVM". SVM stands for
+Secure Virtual Machine. On the B450 Tomahawk Max this can be found in `OC > CPU
+Features > AMD SVM Mode`. Virtualization needs to be enabled for Windows
+Subsystem for Linux (WSL).
