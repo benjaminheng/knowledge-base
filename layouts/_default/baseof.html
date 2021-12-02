@@ -12,7 +12,6 @@
         </label>
         <input type="search" id="search-input" class="search-input" placeholder="search">
       </form>
-      {{ partial "menu.html" . }}
     </div>
 
     <!-- content -->
@@ -22,6 +21,13 @@
     </div>
 
     <!-- for search -->
+    <form id="search-form" class="search-form" role="search" style="visibility:hidden;">
+      <label for="search-input">
+      </label>
+      <input type="search" id="search-input" class="search-input" placeholder="search">
+      <div id="search-results">
+      </div>
+    </form>
     <script src="{{ "/js/search.js" | relURL }}"></script>
   </body>
 </html>

@@ -11,6 +11,24 @@ window.addEventListener("DOMContentLoaded", function(event) {
 		search_init(); // try to load the search index
 	});
 
+	document.addEventListener('keydown', function(e) {
+    // `CTRL + /` or `CTRL + K` will toggle the search flow
+		if (e.ctrlKey && (e.which === 191 || e.which === 75)) {
+			search_toggle_visibility(e); // toggle visibility of search box
+		}
+	});
+
+	function search_toggle_visibility(e) {
+    if (search_form.style.visibility === "hidden") {
+      search_form.style.visibility = "visible";
+      search_input.value = "";
+      search_input.focus()
+    } else {
+      search_form.style.visibility = "hidden";
+      search_input.blur()
+    }
+	}
+
 	function search_init() {
     // Init only once
 		if (!is_initialized) {
@@ -34,7 +52,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
           // Search as each character is typed
 					search_input.addEventListener('keyup', function(e) {
-						search(this.value);
+						search_term(this.value);
 					});
 				});
       }).catch((error) => {
@@ -43,7 +61,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 		}
 	}
 
-  function search(term) {
+  function search_term(term) {
     if (index === null) {
       return
     }
