@@ -1,5 +1,5 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "tags" .Params.tags "categories" .Params.categories "contents" .Plain "permalink" .Permalink) -}}
+{{- $index := slice -}}
+{{- range where .Site.RegularPages "Type" "not in"  (slice "page" "json") -}}
+  {{- $index = $index | append (dict "title" ( .Title | plainify ) "permalink" .Permalink "section" (i18n (.Section | title)) "tags" (apply .Params.tags "i18n" "." ) "categories" (apply .Params.categories "i18n" "." ) "content" .Plain ) -}}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{- $index | jsonify -}}

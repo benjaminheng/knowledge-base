@@ -6,6 +6,13 @@
     <!-- sidebar -->
     <div id="left" class="column">
       {{ partial "menu-nested.html" . }}
+
+      <form id="search-form" class="search-form" role="search">
+        <label for="search-input">
+        </label>
+        <input type="search" id="search-input" class="search-input" placeholder="search">
+      </form>
+      {{ partial "menu.html" . }}
     </div>
 
     <!-- content -->
@@ -15,12 +22,6 @@
     </div>
 
     <!-- for search -->
-    <div id="fastSearch">
-      <input id="searchInput" tabindex="0">
-      <ul id="searchResults">
-      </ul>
-    </div>
-    <script src="/js/fuse.js"></script> <!-- download and copy over fuse.js file from fusejs.io -->
-    <script src="/js/fastsearch.js"></script>
+    <script src="{{ "/js/search.js" | relURL }}"></script>
   </body>
 </html>
