@@ -1,5 +1,9 @@
 {{- $index := slice -}}
 {{- range .Site.Pages -}}
-  {{- $index = $index | append (dict "title" ( .Title | plainify ) "permalink" .Permalink "section" (i18n (.Section | title)) "tags" (apply .Params.tags "i18n" "." ) "categories" (apply .Params.categories "i18n" "." ) "content" .Plain ) -}}
+  {{- $entry := dict "permalink" .Permalink "title" (.Title | plainify)  -}}
+  {{- $entry = merge $entry (dict "content" .Plain) -}}
+  {{- $entry = merge $entry (dict "section" .CurrentSection.Title) -}}
+  {{- $index = $index | append $entry }}
+
 {{- end -}}
 {{- $index | jsonify -}}

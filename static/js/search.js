@@ -46,6 +46,9 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
           // Build Lunr index
           index = lunr(function() {
+            // Return position of matches
+            this.metadataWhitelist = ['position']
+
             this.ref("permalink");
 
             // If you added more searchable fields to the search index, list them here.
@@ -86,6 +89,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
     for (let idx in top5) {
       let doc = lookup[top5[idx].ref]
       // TODO: add section hierarchy
+      // TODO: highlight results
       let item = `
       <div class="result">
         <a href="${doc.permalink}">
