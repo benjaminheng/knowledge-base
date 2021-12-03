@@ -10,7 +10,10 @@ title: Mental health
 
 ## Burnout
 
-> Burnout is caused when you repeatedly make large amounts of sacrifice and or effort into high-risk problems that fail. It's the result of a negative prediction error in the nucleus accumbens. You effectively condition your brain to associate work with failure.
+> Burnout is caused when you repeatedly make large amounts of sacrifice and or
+> effort into high-risk problems that fail. It's the result of a negative
+> prediction error in the nucleus accumbens. You effectively condition your
+> brain to associate work with failure.
 >
 > - https://news.ycombinator.com/item?id=5630618
 
