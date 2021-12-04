@@ -8,9 +8,9 @@ toc: true
 My vim config and dotfiles can be found here: https://github.com/benjaminheng/dotfiles/tree/master/nvim/.config/nvim
 
 I've been using vim since I was 17, after being introduced to it in college.
-Certainly I've used various other editors over the years, though I keep coming
-back to vim. At this point, it seems like I'll never really feel comfortable in
-another editor.
+Certainly I've used various other editors over the years, though I keep
+returning to vim. At this point it seems like I'll never really feel
+comfortable in another editor.
 
 ## Common errors
 
