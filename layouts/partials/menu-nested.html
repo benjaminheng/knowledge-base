@@ -1,8 +1,9 @@
 <nav class="menu">
 <ul>
+  <li><a href="/">Home</a></li>
     {{ range .Site.Sections}}
-        <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
-        {{ partial "menulist" . }}
+        <li>{{ .Title }}</li>
+        {{ partial "menu-nested-recurse" . }}
     {{ end }}
     {{ range where .Site.Pages "Section" "" }}
         {{ if eq (len .Sections) 0 }}

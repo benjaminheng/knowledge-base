@@ -1,6 +1,6 @@
 $base-font-size: 18px;
 $sidebar-font-size: 16px;
-$h1-font-size: 36px;
+$h1-font-size: 30px;
 $h2-font-size: 24px;
 $h3-font-size: 20px;
 $h4-font-size: 20px;
@@ -104,8 +104,14 @@ h1.title {
 }
 nav.menu {
     padding: 1em;
-    ul li.active {
-        font-weight: 600;
+    ul {
+        padding-left: 1em;
+        > ul {
+            padding-left: 2em;
+        }
+        li.active {
+            font-weight: 600;
+        }
     }
 }
 main {

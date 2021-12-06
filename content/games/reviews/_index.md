@@ -1,7 +1,3 @@
 ---
-title: Game reviews
-hide_children: true
-layout: list-children
+title: Reviews
 ---
-
-Reviews are mirrored from Steam. I've included only a subset of my Steam reviews.

@@ -4,10 +4,8 @@
     {{ if eq .Title "" }}
         {{ $title = title (path.Base .File.Dir) }}
     {{ end }}
-    <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
-    {{ if not (.Param "hide_children") }}
-      {{ partial "menulist.html" . }}
-    {{ end }}
+    <li>{{ .Title }}</li>
+    {{ partial "menu-nested-recurse.html" . }}
 {{ end }}
 {{ range .Pages }}
     {{ if eq (len .Sections) 0 }}
