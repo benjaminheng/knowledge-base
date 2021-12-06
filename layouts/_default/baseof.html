@@ -3,15 +3,17 @@
   {{ partial "head.html" . }}
 
   <body>
-    <!-- sidebar -->
-    <div id="left" class="column">
-      {{ partial "menu-nested.html" . }}
-    </div>
+    <div class="main-container">
+      <!-- sidebar -->
+      <div id="left" class="column">
+        {{ partial "menu-nested.html" . }}
+      </div>
 
-    <!-- content -->
-    <div id="right" class="column">
-      {{ block "main" . }}
-      {{ end }}
+      <!-- content -->
+      <div id="right" class="column">
+        {{ block "main" . }}
+        {{ end }}
+      </div>
     </div>
 
     <!-- for search -->

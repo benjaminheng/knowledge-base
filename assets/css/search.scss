@@ -1,5 +1,5 @@
 #search-form {
-    position: absolute;
+    position: sticky;
     bottom: 0;
     width: 100%;
     background-color: #f7f7f7;
@@ -18,6 +18,8 @@
         display: flex;
         flex-direction: column-reverse;
         height: 300px;
+        overflow-y: auto;
+        padding: 0.5em;
         .result {
             width: 100%;
             // align-self: flex-end;

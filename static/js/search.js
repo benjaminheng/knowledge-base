@@ -2,16 +2,12 @@ window.addEventListener("DOMContentLoaded", function(event) {
   console.log('domcontentloaded');
 
   var is_initialized = false; // Will be set to true once search index is initialized.
-  let index = null;
+  let index = window.search_index;
   let lookup = {}; // Map of permalink -> document
 
   search_form = document.getElementById("search-form");
   search_input = document.getElementById("search-input");
-  search_results= document.getElementById("search-results");
-
-	search_form.addEventListener('focusin', function(e) {
-		search_init(); // try to load the search index
-	});
+  search_results = document.getElementById("search-results");
 
 	document.addEventListener('keydown', function(e) {
     // `CTRL + /` or `CTRL + K` will toggle the search flow
@@ -20,56 +16,24 @@ window.addEventListener("DOMContentLoaded", function(event) {
 		}
 
 		// `ESC` closes the search box
-		if (e.keyCode == 27 && search_form.style.visibility === "visible") {
+		if (e.keyCode == 27 && search_form.style.display === "block") {
 				search_toggle_visibility();
 		}
 	});
 
+  search_input.addEventListener('keyup', function(e) {
+    search_term(this.value);
+  });
+
 	function search_toggle_visibility() {
-    if (search_form.style.visibility === "hidden") {
-      search_form.style.visibility = "visible";
+    if (search_form.style.display === "none") {
+      search_form.style.display = "block";
       search_input.value = "";
       search_input.focus()
     } else {
-      search_form.style.visibility = "hidden";
+      search_form.style.display = "none";
       search_input.blur()
     }
-	}
-
-	function search_init() {
-    // Init only once
-		if (!is_initialized) {
-			load_script(window.location.origin + '/js/lunr.js').then(() => {
-				search_input.value = "";
-				is_initialized = true;
-				fetch_JSON('/index.json', function(data){
-
-          // Build Lunr index
-          index = lunr(function() {
-            // Return position of matches
-            this.metadataWhitelist = ['position']
-
-            this.ref("permalink");
-
-            // If you added more searchable fields to the search index, list them here.
-            this.field("title");
-            this.field("content");
-
-            for (var doc of data) {
-              this.add(doc);
-              lookup[doc.permalink] = doc;
-            }
-          });
-
-          // Search as each character is typed
-					search_input.addEventListener('keyup', function(e) {
-						search_term(this.value);
-					});
-				});
-      }).catch((error) => {
-        console.log("initialization error: " + error);
-      });
-		}
 	}
 
   function search_term(term) {
@@ -77,27 +41,56 @@ window.addEventListener("DOMContentLoaded", function(event) {
       return
     }
 
+    let innerHTML = "";
     if (term === "") {
-      search_results.innerHTML = "";
+      for (let i in index) {
+        let doc = index[i];
+        let prefix = "";
+        if (doc.parents) {
+          prefix = doc.parents + " > ";
+        }
+        let item = `
+        <div class="result">
+          <a href="${doc.permalink}">
+            <span class="prefix">${prefix}</span>
+            <span class="title">${doc.title}</span>
+          </a>
+        </div>
+        `;
+        innerHTML = innerHTML + item;
+      }
+      search_results.innerHTML = innerHTML
       return
     }
 
-    let results = index.search(term);
-    console.log("results =", results);
-    let top5 = results.slice(0, 5);
-    let innerHTML = "";
-    for (let idx in top5) {
-      let doc = lookup[top5[idx].ref]
-      // TODO: add section hierarchy
-      // TODO: highlight results
-      let item = `
-      <div class="result">
-        <a href="${doc.permalink}">
-          <span class="title">${doc.title}</span>
-        </a>
-      </div>
-      `;
-      innerHTML = innerHTML + item;
+    // let results = index.search(term);
+    // console.log("results =", results);
+    // let top5 = results.slice(0, 5);
+    // let innerHTML = "";
+    for (let i in index) {
+      let doc = index[i]
+
+      let prefix = "";
+      if (doc.parents) {
+        prefix = doc.parents + " > ";
+      }
+      let raw_text = (prefix + doc.title).toLowerCase();
+
+      // TODO: fuzzy search, replicate fzf
+      let startIndex = raw_text.indexOf(term.toLowerCase())
+      if (startIndex !== -1) {
+        // TODO: highlight results
+        let item = `
+        <div class="result">
+          <a href="${doc.permalink}">
+            <span class="prefix">${prefix}</span>
+            <span class="title">${doc.title}</span>
+          </a>
+        </div>
+        `;
+        innerHTML = innerHTML + item;
+      }
+
     }
     search_results.innerHTML = innerHTML
   }

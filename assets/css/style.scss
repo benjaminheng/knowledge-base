@@ -24,7 +24,7 @@ body {
 
 @media only screen and (min-width : 768px) {
     /* column layout only on large enough screens */
-    body {
+    .main-container {
         display: flex;  /*enables flex content for its children*/
     }
 }

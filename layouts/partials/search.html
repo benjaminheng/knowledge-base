@@ -1,10 +1,10 @@
-<form id="search-form" class="search-form" role="search" style="visibility:hidden;">
+<form id="search-form" class="search-form" role="search" style="display:none;">
   <div id="search-results">
   </div>
   <label for="search-input"></label>
   <input type="search" id="search-input" class="search-input" placeholder="search" autocomplete="off">
 </form>
 <script>
-  console.log({{ partial "search-index" . }});
+  window.search_index = {{ partial "search-index" . }};
 </script>
 <script src="{{ "/js/search.js" | relURL }}"></script>
