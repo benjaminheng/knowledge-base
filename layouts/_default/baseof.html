@@ -6,12 +6,6 @@
     <!-- sidebar -->
     <div id="left" class="column">
       {{ partial "menu-nested.html" . }}
-
-      <form id="search-form" class="search-form" role="search">
-        <label for="search-input">
-        </label>
-        <input type="search" id="search-input" class="search-input" placeholder="search">
-      </form>
     </div>
 
     <!-- content -->
@@ -21,13 +15,6 @@
     </div>
 
     <!-- for search -->
-    <form id="search-form" class="search-form" role="search" style="visibility:hidden;">
-      <label for="search-input">
-      </label>
-      <input type="search" id="search-input" class="search-input" placeholder="search" autocomplete="off">
-      <div id="search-results">
-      </div>
-    </form>
-    <script src="{{ "/js/search.js" | relURL }}"></script>
+    {{ partial "search.html" . }}
   </body>
 </html>

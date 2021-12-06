@@ -1,23 +1,26 @@
 #search-form {
     position: absolute;
-    left: 50%;
-    transform: translate(-50%, 0);
-    top: 4em;
+    bottom: 0;
+    width: 100%;
     background-color: #f7f7f7;
     border: 1px solid #ccc;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-size: 16px;
 
 
     #search-input {
-        margin: 1rem;
         display: block;
-        font-size: 1.6em;
-        width: 16em;
+        font-size: 1em;
+        width: 100%;
     }
 
     #search-results {
+        display: flex;
+        flex-direction: column-reverse;
+        height: 300px;
         .result {
-            margin: 0.5em 1em;
+            width: 100%;
+            // align-self: flex-end;
         }
     }
 }

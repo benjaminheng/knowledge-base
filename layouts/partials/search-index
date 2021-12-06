@@ -1,0 +1,38 @@
+{{ $index := slice }}
+{{ $index = partial "search-index-recurse" (dict "index" $index "page" .Site "parents" slice "rootPagesOnly" true) }}
+{{ $index | jsonify }}
+{{ return $index }}
+
+
+
+{{ define "partials/search-index-recurse" }}
+    {{ $index := .index }}
+    {{ $parents := .parents }}
+
+    {{ range .page.Sections }}
+        {{ $parents := $parents | append (slice .Title) }}
+        {{ $sectionIndex := slice }}
+        {{ $result := (partial "search-index-recurse" (dict "index" $sectionIndex "page" . "parents" $parents)) }}
+        {{ $index = $index | append $result }}
+    {{ end }}
+
+    {{ $parentsPath := (delimit $parents " > ") }}
+
+    {{ $pages := .page.Pages }}
+    {{ if .rootPagesOnly }}
+        {{ $pages = (where .page.Pages "Section" "") }}
+    {{ end }}
+
+    {{ range $pages }}
+        {{ if eq (len .Sections) 0 }}
+            {{ $entry := dict "permalink" .RelPermalink "title" (.Title | plainify) }}
+
+            {{ if not (eq $parentsPath "") }}
+                {{ $entry = merge $entry (dict "parents" $parentsPath) }}
+            {{ end }}
+
+            {{ $index = $index | append $entry }}
+        {{ end }}
+    {{ end }}
+    {{ return $index }}
+{{ end }}
