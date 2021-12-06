@@ -4,6 +4,7 @@
     {{ if eq .Title "" }}
         {{ $title = title (path.Base .File.Dir) }}
     {{ end }}
+    <!-- <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li> -->
     <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
     {{ if not (.Param "hide_children") }}
       {{ partial "menulist.html" . }}

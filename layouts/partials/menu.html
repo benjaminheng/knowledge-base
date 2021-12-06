@@ -1,7 +1,7 @@
 <nav class="menu">
 <ul>
     {{ range .Site.Sections}}
-        <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+        <li>{{ .Title }}</li>
         {{ partial "menulist" . }}
     {{ end }}
     {{ range where .Site.Pages "Section" "" }}
