@@ -1,13 +1,6 @@
 <nav class="menu">
 <ul>
-    {{ range .Site.Sections}}
-        <li>{{ .Title }}</li>
-        {{ partial "menulist" . }}
-    {{ end }}
-    {{ range where .Site.Pages "Section" "" }}
-        {{ if eq (len .Sections) 0 }}
-            <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-    {{ end }}
+  <li><a href="{{.RelPermalink }}">Home</a></li>
+  {{ partial "menu-list" (dict "page" .Site "parents" slice "rootPagesOnly" true) }}
 </ul>
 </nav>
