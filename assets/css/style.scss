@@ -104,8 +104,14 @@ h1.title {
 }
 nav.menu {
     padding: 1em;
-    ul li.active {
-        font-weight: 600;
+    ul {
+        padding-left: 1em;
+        > ul {
+            padding-left: 2em;
+        }
+        li.active {
+            font-weight: 600;
+        }
     }
 }
 main {
