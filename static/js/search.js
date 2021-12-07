@@ -46,6 +46,25 @@ window.addEventListener("DOMContentLoaded", function(event) {
     return result
   }
 
+  function search_index(query) {
+    // returns array of objects of form:
+    // {
+    //  "document": document,
+    //  "highlights": {
+    //    "parents": {index: [start, end]},
+    //    "title": [start, end],
+    //  },
+    // }
+    
+    // TODO: Perform a search using each term in the query. For each subsequent
+    // term, only perform the search on the results from the first term, thus
+    // progressively filtering the list of documents.
+    let terms = query.trim().split(/\s+/);
+    for (let i in index) {
+      let doc = index[i];
+    }
+  }
+
   function search_term(term) {
     if (index === null) {
       return
