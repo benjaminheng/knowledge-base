@@ -1,5 +1,5 @@
 ---
-title: Trips
+title: Climbing trips
 toc: true
 ---
 ## Tonsai, Thailand
