@@ -66,6 +66,14 @@ window.addEventListener("DOMContentLoaded", function(event) {
 		}
 	});
 
+  // Close search box when user clicks outside the form. The form must has
+  // `tabindex="0"` set for it to be an eligible `e.relatedTarget`.
+  search_form.addEventListener('focusout', function(e) {
+    if (e.relatedTarget === null || !search_form.contains(e.relatedTarget)) {
+      search_toggle_visibility();
+    }
+  });
+
   search_input.addEventListener('keyup', function(e) {
     if (this.value == currentQuery) {
       return;
