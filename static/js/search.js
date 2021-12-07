@@ -1,6 +1,8 @@
 window.addEventListener("DOMContentLoaded", function(event) {
   let index = window.search_index;
   let currentQuery = null;
+  let leaderKeyPressedAt = null;
+  let leaderKeyTimeoutMS = 200;
 
   search_form = document.getElementById("search-form");
   search_input = document.getElementById("search-input");
@@ -14,8 +16,24 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
 		// `ESC` closes the search box
 		if (e.keyCode == 27 && search_form.style.display === "block") {
-				search_toggle_visibility();
+      hide_search_form();
 		}
+
+    // Leader key `,` (188)
+    if (e.keyCode == 188) {
+      leaderKeyPressedAt = (new Date()).getTime();
+    }
+
+    // F (70)
+    if (e.keyCode == 70) {
+      if (leaderKeyPressedAt !== null) {
+        let pressedAt = (new Date()).getTime();
+        if ((pressedAt-leaderKeyPressedAt) < leaderKeyTimeoutMS) {
+          e.preventDefault()
+          show_search_form(); // toggle visibility of search box
+        }
+      }
+    }
 
     // DOWN (40) or UP (38) arrow
     if (e.keyCode == 40 || e.keyCode == 38) {
@@ -70,7 +88,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
   // `tabindex="0"` set for it to be an eligible `e.relatedTarget`.
   search_form.addEventListener('focusout', function(e) {
     if (e.relatedTarget === null || !search_form.contains(e.relatedTarget)) {
-      search_toggle_visibility();
+      hide_search_form();
     }
   });
 
@@ -99,15 +117,23 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
 	function search_toggle_visibility() {
     if (search_form.style.display === "none") {
-      search_form.style.display = "block";
-      search_input.value = "";
-      search_input.focus()
-      reset_active_search_result();
+      show_search_form();
     } else {
-      search_form.style.display = "none";
-      search_input.blur()
+      hide_search_form();
     }
 	}
+
+  function show_search_form() {
+    search_form.style.display = "block";
+    search_input.value = "";
+    search_input.focus()
+    reset_active_search_result();
+  }
+
+  function hide_search_form() {
+    search_form.style.display = "none";
+    search_input.blur();
+  }
 
   function render_search_result(doc, active=false) {
     let result = `
