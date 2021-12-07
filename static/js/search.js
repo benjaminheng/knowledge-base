@@ -37,12 +37,10 @@ window.addEventListener("DOMContentLoaded", function(event) {
 	}
 
   function render_search_result(doc, prefix="") {
+    // TODO: set gutter content during keyboard navigation
     let result = `
         <div class="result">
-          <a href="${doc.permalink}">
-            <span class="prefix">${prefix}</span>
-            <span class="title">${doc.title}</span>
-          </a>
+          <span class="gutter"></span><a href="${doc.permalink}"><span class="prefix">${prefix}</span><span class="title">${doc.title}</span></a>
         </div>
         `;
     return result
@@ -54,6 +52,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
 
     let innerHTML = "";
+
     if (term === "") {
       for (let i in index) {
         let doc = index[i];
@@ -68,10 +67,6 @@ window.addEventListener("DOMContentLoaded", function(event) {
       return
     }
 
-    // let results = index.search(term);
-    // console.log("results =", results);
-    // let top5 = results.slice(0, 5);
-    // let innerHTML = "";
     for (let i in index) {
       let doc = index[i]
 
