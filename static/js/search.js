@@ -1,9 +1,6 @@
 window.addEventListener("DOMContentLoaded", function(event) {
-  console.log('domcontentloaded');
-
-  var is_initialized = false; // Will be set to true once search index is initialized.
   let index = window.search_index;
-  let lookup = {}; // Map of permalink -> document
+  let currentQuery = null;
 
   search_form = document.getElementById("search-form");
   search_input = document.getElementById("search-input");
@@ -19,27 +16,94 @@ window.addEventListener("DOMContentLoaded", function(event) {
 		if (e.keyCode == 27 && search_form.style.display === "block") {
 				search_toggle_visibility();
 		}
+
+    // DOWN (40) or UP (38) arrow
+    if (e.keyCode == 40 || e.keyCode == 38) {
+      if (document.activeElement == search_input) {
+        e.preventDefault();
+        let activeResult = document.querySelector("#search-results > .result.active");
+        if (activeResult != null) {
+
+          let nextResult = null;
+          if (e.keyCode == 40) {
+            nextResult = activeResult.previousElementSibling;
+          } else if (e.keyCode == 38) {
+            nextResult = activeResult.nextElementSibling;
+          }
+
+          if (nextResult != null) {
+            activeResult.classList.remove("active");
+            nextResult.classList.add("active");
+
+            // Determine if element is not visible
+            let search_results_div = document.querySelector("#search-results");
+
+            if (e.keyCode == 38) { // up
+              let topBoundary = search_results_div.getBoundingClientRect().top;
+              if (nextResult.getBoundingClientRect().top < topBoundary) {
+                nextResult.scrollIntoView({behavior: "auto", block: "nearest", inline: "start"});
+              }
+            } else if (e.keyCode == 40) { // down
+              let bottomBoundary = search_results_div.getBoundingClientRect().bottom;
+              if (nextResult.getBoundingClientRect().bottom > bottomBoundary) {
+                nextResult.scrollIntoView({behavior: "auto", block: "nearest", inline: "start"});
+              }
+            }
+          }
+        }
+      }
+    }
+
+    // Use Enter (13) to move to the first result
+    if (e.keyCode == 13) {
+      if (document.activeElement == search_input) {
+        e.preventDefault();
+        let activeResult = document.querySelector("#search-results > .result.active > a");
+        if (activeResult != null) {
+          activeResult.click();
+        }
+      }
+		}
 	});
 
   search_input.addEventListener('keyup', function(e) {
+    if (this.value == currentQuery) {
+      return;
+    }
+    currentQuery = this.value;
     search_term(this.value);
   });
+
+  function reset_active_search_result() {
+    let activeResult = document.querySelector("#search-results > .result.active");
+    let firstResult = document.querySelector("#search-results").firstElementChild;
+    if (firstResult == activeResult) {
+      return
+    }
+    if (activeResult != null) {
+      activeResult.classList.remove("active");
+    }
+    if (firstResult != null) {
+      firstResult.classList.add("active");
+      firstResult.scrollIntoView({behavior: "auto", block: "nearest", inline: "start"});
+    }
+  }
 
 	function search_toggle_visibility() {
     if (search_form.style.display === "none") {
       search_form.style.display = "block";
       search_input.value = "";
       search_input.focus()
+      reset_active_search_result();
     } else {
       search_form.style.display = "none";
       search_input.blur()
     }
 	}
 
-  function render_search_result(doc) {
-    // TODO: set gutter content during keyboard navigation
+  function render_search_result(doc, active=false) {
     let result = `
-        <div class="result">
+        <div class="result ${active ? "active" : ""}">
           <span class="gutter"></span><a href="${doc.permalink}"><span class="title">${doc.raw_text}</span></a>
         </div>
         `;
@@ -73,23 +137,25 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
     if (query === "") {
       for (let i in index) {
+      let active = (i == 0);
         let doc = index[i];
-        let result = render_search_result(doc)
+        let result = render_search_result(doc, active);
         innerHTML = innerHTML + result;
       }
-      search_results.innerHTML = innerHTML
+      search_results.innerHTML = innerHTML;
       return
     }
 
     // Perform search
     let results = fuzzy_search(query)
     for (let i in results) {
+      let active = (i == 0);
       let doc = results[i].document;
-      let resultHTML = render_search_result(doc);
+      let resultHTML = render_search_result(doc, active);
       innerHTML = innerHTML + resultHTML;
     }
 
-    search_results.innerHTML = innerHTML
+    search_results.innerHTML = innerHTML;
   }
 
 	// Load script based on https://stackoverflow.com/a/55451823

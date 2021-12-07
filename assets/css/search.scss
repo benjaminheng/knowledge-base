@@ -29,6 +29,11 @@
             // TODO: set active during keyboard navigation
             &.active {
                 background-color: #ddd; // TODO: change
+
+                .gutter::before {
+                    content: ">";
+                    font-weight: 600;
+                }
             }
 
             a {
