@@ -36,74 +36,59 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
 	}
 
-  function render_search_result(doc, prefix="") {
+  function render_search_result(doc) {
     // TODO: set gutter content during keyboard navigation
     let result = `
         <div class="result">
-          <span class="gutter"></span><a href="${doc.permalink}"><span class="prefix">${prefix}</span><span class="title">${doc.title}</span></a>
+          <span class="gutter"></span><a href="${doc.permalink}"><span class="title">${doc.raw_text}</span></a>
         </div>
         `;
     return result
   }
 
-  function search_index(query) {
-    // returns array of objects of form:
-    // {
-    //  "document": document,
-    //  "highlights": {
-    //    "parents": {index: [start, end]},
-    //    "title": [start, end],
-    //  },
-    // }
-    
-    // TODO: Perform a search using each term in the query. For each subsequent
-    // term, only perform the search on the results from the first term, thus
-    // progressively filtering the list of documents.
-    let terms = query.trim().split(/\s+/);
+  function fuzzy_search(query) {
+    let results = [];
+    // TODO
     for (let i in index) {
       let doc = index[i];
+
+      let raw_text = doc.raw_text.toLowerCase();
+      let startIndex = raw_text.indexOf(query.toLowerCase())
+      if (startIndex !== -1) {
+        results.push({
+          "document": doc,
+          "highlights": [],
+        });
+      }
     }
+    return results
   }
 
-  function search_term(term) {
+  function search_term(query) {
     if (index === null) {
       return
     }
 
     let innerHTML = "";
 
-    if (term === "") {
+    if (query === "") {
       for (let i in index) {
         let doc = index[i];
-        let prefix = "";
-        if (doc.parents) {
-          prefix = doc.parents + " > ";
-        }
-        let result = render_search_result(doc, prefix)
+        let result = render_search_result(doc)
         innerHTML = innerHTML + result;
       }
       search_results.innerHTML = innerHTML
       return
     }
 
-    for (let i in index) {
-      let doc = index[i]
-
-      let prefix = "";
-      if (doc.parents) {
-        prefix = doc.parents + " > ";
-      }
-      let raw_text = (prefix + doc.title).toLowerCase();
-
-      // TODO: fuzzy search, replicate fzf
-      let startIndex = raw_text.indexOf(term.toLowerCase())
-      if (startIndex !== -1) {
-        // TODO: highlight results
-        let result = render_search_result(doc, prefix)
-        innerHTML = innerHTML + result;
-      }
-
+    // Perform search
+    let results = fuzzy_search(query)
+    for (let i in results) {
+      let doc = results[i].document;
+      let resultHTML = render_search_result(doc);
+      innerHTML = innerHTML + resultHTML;
     }
+
     search_results.innerHTML = innerHTML
   }
 

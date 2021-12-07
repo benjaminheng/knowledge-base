@@ -25,12 +25,16 @@
 
     {{ range $pages }}
         {{ if eq (len .Sections) 0 }}
-            {{ $entry := dict "permalink" .RelPermalink "title" (.Title | plainify) }}
+            {{ $title := (.Title | plainify) }}
+            {{ $entry := dict "permalink" .RelPermalink "title" $title }}
+            {{ $rawText := $title }}
 
             {{ if not (eq $parentsPath "") }}
                 {{ $entry = merge $entry (dict "parents" $parentsPath) }}
+                {{ $rawText = print (delimit $parents " > ") " > " $title }}
             {{ end }}
 
+            {{ $entry = merge $entry (dict "raw_text" $rawText ) }}
             {{ $index = $index | append $entry }}
         {{ end }}
     {{ end }}
