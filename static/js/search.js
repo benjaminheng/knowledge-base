@@ -36,6 +36,18 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
 	}
 
+  function render_search_result(doc, prefix="") {
+    let result = `
+        <div class="result">
+          <a href="${doc.permalink}">
+            <span class="prefix">${prefix}</span>
+            <span class="title">${doc.title}</span>
+          </a>
+        </div>
+        `;
+    return result
+  }
+
   function search_term(term) {
     if (index === null) {
       return
@@ -49,15 +61,8 @@ window.addEventListener("DOMContentLoaded", function(event) {
         if (doc.parents) {
           prefix = doc.parents + " > ";
         }
-        let item = `
-        <div class="result">
-          <a href="${doc.permalink}">
-            <span class="prefix">${prefix}</span>
-            <span class="title">${doc.title}</span>
-          </a>
-        </div>
-        `;
-        innerHTML = innerHTML + item;
+        let result = render_search_result(doc, prefix)
+        innerHTML = innerHTML + result;
       }
       search_results.innerHTML = innerHTML
       return
@@ -80,15 +85,8 @@ window.addEventListener("DOMContentLoaded", function(event) {
       let startIndex = raw_text.indexOf(term.toLowerCase())
       if (startIndex !== -1) {
         // TODO: highlight results
-        let item = `
-        <div class="result">
-          <a href="${doc.permalink}">
-            <span class="prefix">${prefix}</span>
-            <span class="title">${doc.title}</span>
-          </a>
-        </div>
-        `;
-        innerHTML = innerHTML + item;
+        let result = render_search_result(doc, prefix)
+        innerHTML = innerHTML + result;
       }
 
     }
