@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", function(event) {
-  let index = window.search_index;
+  let index = window.searchIndex;
   let currentQuery = null;
   let leaderKeyPressedAt = null;
   let leaderKeyTimeoutMS = 200;
