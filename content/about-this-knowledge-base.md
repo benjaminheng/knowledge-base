@@ -91,7 +91,7 @@ users (me) can quickly jump to certain posts.
 
 ### Hugo template to generate the search index
 
-[source](https://github.com/benjaminheng/knowledge-base/blob/aee2b20853c479368dfa75540ccfdc2e06c5d983/layouts/partials/search-index)
+[source](https://github.com/benjaminheng/knowledge-base/blob/368b77174b9b9dc18d2f9623f25803b5e98b92eb/layouts/partials/search-index)
 
 Writing template code for Hugo is such a pain. This script recursively
 generates a flattened list of pages.
@@ -142,7 +142,7 @@ generates a flattened list of pages.
 
 ### HTML snippet for the search box
 
-[source](https://github.com/benjaminheng/knowledge-base/blob/aee2b20853c479368dfa75540ccfdc2e06c5d983/layouts/partials/search.html)
+[source](https://github.com/benjaminheng/knowledge-base/blob/368b77174b9b9dc18d2f9623f25803b5e98b92eb/layouts/partials/search.html)
 
 ```html
 <form id="search-form" class="search-form" role="search" style="display:none;" tabindex="0">
@@ -159,7 +159,7 @@ generates a flattened list of pages.
 
 ### JS implementation
 
-[source](https://github.com/benjaminheng/knowledge-base/blob/aee2b20853c479368dfa75540ccfdc2e06c5d983/static/js/search.js)
+[source](https://github.com/benjaminheng/knowledge-base/blob/368b77174b9b9dc18d2f9623f25803b5e98b92eb/static/js/search.js)
 
 I don't use any search libraries like Lunr.js or Fuse.js, since those will be
 overkill for a simple file filter. After all, I'm only searching against post
