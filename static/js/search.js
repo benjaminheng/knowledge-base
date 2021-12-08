@@ -8,16 +8,16 @@ window.addEventListener("DOMContentLoaded", function(event) {
   searchInput = document.getElementById("search-input");
   search_results = document.getElementById("search-results");
 
-	document.addEventListener('keydown', function(e) {
+  document.addEventListener('keydown', function(e) {
     // `CTRL + /` or `CTRL + K` will toggle the search flow
-		if (e.ctrlKey && (e.which === 191 || e.which === 75)) {
-			toggleSearchFormVisibility(); // toggle visibility of search box
-		}
+    if (e.ctrlKey && (e.which === 191 || e.which === 75)) {
+      toggleSearchFormVisibility(); // toggle visibility of search box
+    }
 
-		// `ESC` closes the search box
-		if (e.keyCode == 27 && searchForm.style.display === "block") {
+    // `ESC` closes the search box
+    if (e.keyCode == 27 && searchForm.style.display === "block") {
       hideSearchForm();
-		}
+    }
 
     // Leader key `,` (188)
     if (e.keyCode == 188) {
@@ -82,8 +82,8 @@ window.addEventListener("DOMContentLoaded", function(event) {
           activeResult.click();
         }
       }
-		}
-	});
+    }
+  });
 
   // Close search box when user clicks outside the form. The form must has
   // `tabindex="0"` set for it to be an eligible `e.relatedTarget`.
@@ -116,13 +116,13 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
   }
 
-	function toggleSearchFormVisibility() {
+  function toggleSearchFormVisibility() {
     if (searchForm.style.display === "none") {
       showSearchForm();
     } else {
       hideSearchForm();
     }
-	}
+  }
 
   function showSearchForm() {
     if (searchForm.style.display === "none") {
@@ -180,7 +180,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
     if (query === "") {
       for (let i in index) {
-      let active = (i == 0);
+        let active = (i == 0);
         let doc = index[i];
         let result = renderSearchResult(doc, active);
         innerHTML = innerHTML + result;
