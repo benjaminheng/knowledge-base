@@ -167,3 +167,11 @@ titles, not their contents.
 
 I'm happy with how my up/down keyboard navigation turned out. I had to take
 care of a few edge cases, but the end result is quite pleasing.
+
+## Deployment
+
+The knowledge base is version controlled using Git and hosted on GitHub. It's
+hosted on [Netlify](https://www.netlify.com/). Netlify also handles automatic
+deployment whenever I push to master. I use [Netlify
+CMS](https://www.netlifycms.org/) to provide a web interface for editing posts,
+though 95% of the time I'm using my `kb` tool + vim to do so instead.
