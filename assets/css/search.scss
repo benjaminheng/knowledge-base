@@ -2,8 +2,8 @@
     position: sticky;
     bottom: 0;
     width: 100%;
-    background-color: #f7f7f7;
-    border-top: 1px solid #ccc;
+    background-color: #fffcfa;
+    border-top: 1px solid #eddec0;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     font-size: 16px;
     font-family: monospace;
@@ -26,9 +26,8 @@
         .result {
             width: 100%;
 
-            // TODO: set active during keyboard navigation
             &.active {
-                background-color: #ddd; // TODO: change
+                background-color: #f2eae4;
 
                 .gutter::before {
                     content: ">";
