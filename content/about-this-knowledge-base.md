@@ -18,12 +18,13 @@ The source of my knowledge base is also publicly available at
 ## Design philosophy
 
 This site has a somewhat brutalist design. I'm not interested in an overly
-stylized design. Link stylings are left to the browser's default. I did make a
-concession to add a sidebar for ease of navigation. Most of my styles are for
-typography.
+stylized design. Link stylings are left to the browser's default. Most my
+styles are typography related. I did however make a concession to add a sidebar for
+ease of navigation.  typography.
 
 I try to minimize unnecessary network calls. This means no images, unless
-they're part of a post. I only use system fonts.
+they're part of a post. I also only use system fonts, to avoid having to fetch
+external fonts.
 
 I don't support dark mode. I figure people who prefer dark mode will have
 opinions on what makes a good dark mode. I know I feel this way. I don't like
