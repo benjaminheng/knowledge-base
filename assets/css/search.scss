@@ -27,11 +27,12 @@
             width: 100%;
 
             &.active {
-                background-color: #f2eae4;
+                background-color: #ede5df;
 
                 .gutter::before {
                     content: ">";
                     font-weight: 600;
+                    color: #66523d;
                 }
             }
 
