@@ -4,19 +4,19 @@ window.addEventListener("DOMContentLoaded", function(event) {
   let leaderKeyPressedAt = null;
   let leaderKeyTimeoutMS = 200;
 
-  search_form = document.getElementById("search-form");
-  search_input = document.getElementById("search-input");
+  searchForm = document.getElementById("search-form");
+  searchInput = document.getElementById("search-input");
   search_results = document.getElementById("search-results");
 
 	document.addEventListener('keydown', function(e) {
     // `CTRL + /` or `CTRL + K` will toggle the search flow
 		if (e.ctrlKey && (e.which === 191 || e.which === 75)) {
-			search_toggle_visibility(); // toggle visibility of search box
+			toggleSearchFormVisibility(); // toggle visibility of search box
 		}
 
 		// `ESC` closes the search box
-		if (e.keyCode == 27 && search_form.style.display === "block") {
-      hide_search_form();
+		if (e.keyCode == 27 && searchForm.style.display === "block") {
+      hideSearchForm();
 		}
 
     // Leader key `,` (188)
@@ -29,7 +29,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
       if (leaderKeyPressedAt !== null) {
         let pressedAt = (new Date()).getTime();
         if ((pressedAt-leaderKeyPressedAt) < leaderKeyTimeoutMS) {
-          if (show_search_form()) {
+          if (showSearchForm()) {
             e.preventDefault()
           }
         }
@@ -38,7 +38,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
     // DOWN (40) or UP (38) arrow
     if (e.keyCode == 40 || e.keyCode == 38) {
-      if (document.activeElement == search_input) {
+      if (document.activeElement == searchInput) {
         e.preventDefault();
         let activeResult = document.querySelector("#search-results > .result.active");
         if (activeResult != null) {
@@ -75,7 +75,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
     // Use Enter (13) to move to the first result
     if (e.keyCode == 13) {
-      if (document.activeElement == search_input) {
+      if (document.activeElement == searchInput) {
         e.preventDefault();
         let activeResult = document.querySelector("#search-results > .result.active > a");
         if (activeResult != null) {
@@ -87,18 +87,18 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
   // Close search box when user clicks outside the form. The form must has
   // `tabindex="0"` set for it to be an eligible `e.relatedTarget`.
-  search_form.addEventListener('focusout', function(e) {
-    if (e.relatedTarget === null || !search_form.contains(e.relatedTarget)) {
-      hide_search_form();
+  searchForm.addEventListener('focusout', function(e) {
+    if (e.relatedTarget === null || !searchForm.contains(e.relatedTarget)) {
+      hideSearchForm();
     }
   });
 
-  search_input.addEventListener('keyup', function(e) {
+  searchInput.addEventListener('keyup', function(e) {
     if (this.value == currentQuery) {
       return;
     }
     currentQuery = this.value;
-    search_term(this.value);
+    executeSearch(this.value);
   });
 
   function reset_active_search_result() {
@@ -116,35 +116,35 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
   }
 
-	function search_toggle_visibility() {
-    if (search_form.style.display === "none") {
-      show_search_form();
+	function toggleSearchFormVisibility() {
+    if (searchForm.style.display === "none") {
+      showSearchForm();
     } else {
-      hide_search_form();
+      hideSearchForm();
     }
 	}
 
-  function show_search_form() {
-    if (search_form.style.display === "none") {
-      search_form.style.display = "block";
-      search_input.value = "";
-      search_input.focus()
+  function showSearchForm() {
+    if (searchForm.style.display === "none") {
+      searchForm.style.display = "block";
+      searchInput.value = "";
+      searchInput.focus()
       reset_active_search_result();
       return true
     }
     return false
   }
 
-  function hide_search_form() {
-    if (search_form.style.display === "block") {
-      search_form.style.display = "none";
-      search_input.blur();
+  function hideSearchForm() {
+    if (searchForm.style.display === "block") {
+      searchForm.style.display = "none";
+      searchInput.blur();
       return true
     }
     return false
   }
 
-  function render_search_result(doc, active=false) {
+  function renderSearchResult(doc, active=false) {
     let result = `
         <div class="result ${active ? "active" : ""}">
           <span class="gutter"></span><a href="${doc.permalink}"><span class="title">${doc.raw_text}</span></a>
@@ -153,7 +153,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
     return result
   }
 
-  function fuzzy_search(query) {
+  function fuzzySearch(query) {
     let results = [];
     // TODO
     for (let i in index) {
@@ -171,7 +171,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
     return results
   }
 
-  function search_term(query) {
+  function executeSearch(query) {
     if (index === null) {
       return
     }
@@ -182,7 +182,7 @@ window.addEventListener("DOMContentLoaded", function(event) {
       for (let i in index) {
       let active = (i == 0);
         let doc = index[i];
-        let result = render_search_result(doc, active);
+        let result = renderSearchResult(doc, active);
         innerHTML = innerHTML + result;
       }
       search_results.innerHTML = innerHTML;
@@ -190,11 +190,11 @@ window.addEventListener("DOMContentLoaded", function(event) {
     }
 
     // Perform search
-    let results = fuzzy_search(query)
+    let results = fuzzySearch(query)
     for (let i in results) {
       let active = (i == 0);
       let doc = results[i].document;
-      let resultHTML = render_search_result(doc, active);
+      let resultHTML = renderSearchResult(doc, active);
       innerHTML = innerHTML + resultHTML;
     }
 
