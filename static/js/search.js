@@ -29,8 +29,9 @@ window.addEventListener("DOMContentLoaded", function(event) {
       if (leaderKeyPressedAt !== null) {
         let pressedAt = (new Date()).getTime();
         if ((pressedAt-leaderKeyPressedAt) < leaderKeyTimeoutMS) {
-          e.preventDefault()
-          show_search_form(); // toggle visibility of search box
+          if (show_search_form()) {
+            e.preventDefault()
+          }
         }
       }
     }
@@ -124,15 +125,23 @@ window.addEventListener("DOMContentLoaded", function(event) {
 	}
 
   function show_search_form() {
-    search_form.style.display = "block";
-    search_input.value = "";
-    search_input.focus()
-    reset_active_search_result();
+    if (search_form.style.display === "none") {
+      search_form.style.display = "block";
+      search_input.value = "";
+      search_input.focus()
+      reset_active_search_result();
+      return true
+    }
+    return false
   }
 
   function hide_search_form() {
-    search_form.style.display = "none";
-    search_input.blur();
+    if (search_form.style.display === "block") {
+      search_form.style.display = "none";
+      search_input.blur();
+      return true
+    }
+    return false
   }
 
   function render_search_result(doc, active=false) {
