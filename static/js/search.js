@@ -200,34 +200,4 @@ window.addEventListener("DOMContentLoaded", function(event) {
 
     search_results.innerHTML = innerHTML;
   }
-
-	// Load script based on https://stackoverflow.com/a/55451823
-	function load_script(url) {
-		return new Promise(function(resolve, reject) {
-			let script = document.createElement("script");
-			script.onerror = reject;
-			script.onload = resolve;
-			if (document.currentScript) {
-				document.currentScript.parentNode.insertBefore(script, document.currentScript);
-			}
-			else {
-				document.head.appendChild(script)
-			}
-			script.src = url;
-		});
-	}
-
-	function fetch_JSON(path, callback) {
-		var httpRequest = new XMLHttpRequest();
-		httpRequest.onreadystatechange = function() {
-			if (httpRequest.readyState === 4) {
-				if (httpRequest.status === 200) {
-					var data = JSON.parse(httpRequest.responseText);
-						if (callback) callback(data);
-				}
-			}
-		};
-		httpRequest.open('GET', path);
-		httpRequest.send();
-	}
 }, false);
