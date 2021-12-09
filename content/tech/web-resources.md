@@ -24,6 +24,7 @@ title: Web resources
 - [Fontjoy](https://fontjoy.com/) - Font pairings
 - [unDraw - Open source illustrations](https://undraw.co/illustrations)
 - https://philippta.github.io/web-frontends-in-go/
+- [CSS shadow palette generator](https://www.joshwcomeau.com/shadow-palette/)
 
 ## Fonts
 
