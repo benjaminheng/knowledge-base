@@ -72,3 +72,19 @@ Notice that when compiled with UCS-4, Python can represent each code point as 3
 bytes. With UCS-2, the 3-byte code points are instead decomposed into surrogate
 pairs. These surrogate pairs are only valid in UTF-16 and do not comply with
 the UTF-8 spec.
+
+## [Django] View raw SQL queries being run
+
+`DEBUG` must first set to `True`. Queries will only be shown for the current
+process. This is useful when debugging in the python shell.
+
+```python
+>>> from django.db import connection
+>>> connection.queries
+
+>>> from django.db import connections
+>>> connections['my_db_alias'].queries
+
+>>> from django.db import reset_queries
+>>> reset_queries()
+```
