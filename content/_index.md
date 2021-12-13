@@ -11,5 +11,7 @@ and various things I find interesting. You can also think of this space as a
 > public.
 
 Articles linked in the knowledge base are archived
-[here](https://github.com/benjaminheng/link-archive) for posterity. The tech
-stack is documented in [this blog post](https://hbenjamin.com/post/knowledge-base/).
+[here](https://github.com/benjaminheng/link-archive) for posterity. More
+information about the knowledge base can be found in this
+[post](about-this-knowledge-base). I also have a
+[blog](https://hbenjamin.com/post/) on my main website.
