@@ -8,4 +8,4 @@ Articles linked in the knowledge base are archived at
 [github.com/benjaminheng/link-archive](https://github.com/benjaminheng/link-archive)
 for posterity.
 
-The tech stack is documented in [this blog post](https://hbenjamin.com/post/knowledge-base/).
+You can find more information in [this post on my knowledge base](https://kb.hbenjamin.com/about-this-knowledge-base/).
