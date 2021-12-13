@@ -38,20 +38,16 @@ site owners to implement dark mode in usable manner.
 
 ## Note taking philosophy
 
-Each note in my knowledge base is loosely categorized into a single very broad
-category. On the filesystem, a category is a directory. At the time of writing
-I have categories for Tech, Games, and Fitness. However despite the note
-hierarchy, I expect each note to be sensibly named as though the hierarchy
-didn't exist. For instance I wouldn't have files called
-`tech/general-resources.md` or `fitness/general-resources.md`, because I
-consider the leaf (`general-resources.md`) to be the authoritative name and
-they would conflict. Instead I'd name them `tech/tech.md` and
-`fitness/fitness.md`. This way when you take away the hierarchy, the filename
-still properly describes its content.
+Notes are stored on the filesystem as a flat list. Search is the preferred
+method for navigation. However since I also publish my knowledge base on the
+web, I loosely categorize notes into a single category. The categorization
+makes the web browsing experience a little easier. At the time of writing I
+have categories for Tech, Fitness, and Games. Notes are categorized using a
+frontmatter param, rather than directories on the filesystem.
 
 I don't use many backlinks. I know lots of people swear by them, but personally
 I don't find them particularly useful. I prefer having a [single post about a
-topic](/tech/postgres/), with headings to break up the content, rather than
+topic](/postgres/), with headings to break up the content, rather than
 multiple small notes all backlinked together. Between my editor's file, text,
 and tag search capabilities, I have no trouble jumping to a specific place in a
 specific note.  Furthermore, knowledge bases that make liberal use of backlinks
