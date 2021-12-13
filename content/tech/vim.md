@@ -81,6 +81,16 @@ Breaking it down, we're still matching against `err := DoThingX`, but the
 `\zs\ze` at the beginning indicates where our replacement will be applied. In
 this case, our replacement is inserted at the beginning of the match.
 
+## Execute a macro in buffers using `:bufdo` or `:argdo`
+
+`:bufdo` executes a macro in all open buffers. `:argdo` executes a macro in all
+files in the arglist (`:args`).
+
+```
+:bufdo execute "normal! @a" | update
+:argdo execute "normal! @a" | update
+```
+
 ## Common errors
 
 ### Tab key not working in insert mode with UltiSnips, neovim
