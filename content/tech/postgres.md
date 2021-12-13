@@ -16,7 +16,7 @@ toc: true
 
 ### Show running queries (pre 9.2):
 
-```
+```sql
 SELECT procpid, age(clock_timestamp(), query_start), usename, client_addr, current_query 
 FROM pg_stat_activity 
 WHERE current_query != '<IDLE>' AND current_query NOT ILIKE '%pg_stat_activity%' 
@@ -25,7 +25,7 @@ ORDER BY query_start ASC;
 
 ### Show running queries (9.2)
 
-```
+```sql
 SELECT pid, age(clock_timestamp(), query_start), usename, client_addr, query 
 FROM pg_stat_activity 
 WHERE query != '<IDLE>' AND query NOT ILIKE '%pg_stat_activity%' 
@@ -34,13 +34,13 @@ ORDER BY query_start ASC;
 
 ### Kill running query
 
-```
+```sql
 SELECT pg_cancel_backend(procpid);
 ```
 
 ### Show currently-held locks
 
-```
+```sql
 SELECT l.relation::regclass, l.mode, l.locktype, l.pid, age(clock_timestamp(), a.query_start) as age
 FROM pg_locks l, pg_stat_activity a
 WHERE l.GRANTED and l.pid = a.pid;
@@ -48,13 +48,13 @@ WHERE l.GRANTED and l.pid = a.pid;
 
 ### Show when autovacuum last ran
 
-```
+```sql
 SELECT relname, last_vacuum, last_autovacuum FROM pg_stat_user_tables ORDER BY last_autovacuum;
 ```
 
 ### (Disk usage) Show size of relations
 
-```
+```sql
 SELECT nspname || '.' || relname AS "relation",
     pg_size_pretty(pg_relation_size(C.oid)) AS "size"
   FROM pg_class C
@@ -66,7 +66,7 @@ SELECT nspname || '.' || relname AS "relation",
 
 ### (Disk usage) Show size of tables
 
-```
+```sql
 SELECT nspname || '.' || relname AS "relation",
     pg_size_pretty(pg_total_relation_size(C.oid)) AS "total_size"
   FROM pg_class C
@@ -82,7 +82,7 @@ SELECT nspname || '.' || relname AS "relation",
 
 Warning: expensive query on large tables.
 
-```
+```sql
 select
     pg_size_pretty(sum(pg_column_size(column_name))) as total_size,
     pg_size_pretty(avg(pg_column_size(column_name))) as average_size,
@@ -94,7 +94,7 @@ from table_name;
 
 Source: https://www.cybertec-postgresql.com/en/get-rid-of-your-unused-indexes/
 
-```
+```sql
 SELECT s.schemaname,
        s.relname AS tablename,
        s.indexrelname AS indexname,
@@ -112,7 +112,7 @@ ORDER BY pg_relation_size(s.indexrelid) DESC;
 
 ### (pg\_stat\_statements) Get query statistics
 
-```
+```sql
 SELECT
     calls, total_time, rows,
     100.0 * shared_blks_hit / nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent,
