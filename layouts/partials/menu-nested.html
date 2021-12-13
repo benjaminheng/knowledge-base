@@ -12,7 +12,9 @@
   {{ end }}
 
   {{ range (where .Site.Pages "Params.category" "==" nil) }}
-    <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+    {{ if not (eq .File.LogicalName "_index.md") }}
+      <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
   {{ end }}
 </ul>
 </nav>

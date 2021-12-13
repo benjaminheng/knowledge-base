@@ -15,9 +15,11 @@
 {{ end }}
 
 {{ range (where .Site.Pages "Params.category" "==" nil) }}
-    {{ $title := (.Title | plainify) }}
-    {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $title}}
-    {{ $index = $index | append $entry }}
+    {{ if not (eq .File.LogicalName "_index.md") }}
+        {{ $title := (.Title | plainify) }}
+        {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $title}}
+        {{ $index = $index | append $entry }}
+    {{ end }}
 {{ end }}
 
 {{ $index | jsonify }}
