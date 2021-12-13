@@ -36,14 +36,28 @@ or addons like [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/dark
 a more consistent dark mode tailored to your preference, rather than relying on
 site owners to implement dark mode in usable manner.
 
-## Deployment
+## Note taking philosophy
 
-The knowledge base is built using [Hugo](https://gohugo.io/). It's version
-controlled using Git and hosted on GitHub. I deploy it on
-[Netlify](https://www.netlify.com/). Netlify also handles automatic deployment
-whenever I push to master. I use [Netlify CMS](https://www.netlifycms.org/) to
-provide a web interface for editing posts, though 95% of the time I'm using my
-`kb` tool + vim to do so instead.
+Each note in my knowledge base is loosely categorized into a single very broad
+category. On the filesystem, a category is a directory. At the time of writing
+I have categories for Tech, Games, and Fitness. However despite the note
+hierarchy, I expect each note to be sensibly named as though the hierarchy
+didn't exist. For instance I wouldn't have files called
+`tech/general-resources.md` or `fitness/general-resources.md`, because I
+consider the leaf (`general-resources.md`) to be the authoritative name and
+they would conflict. Instead I'd name them `tech/tech.md` and
+`fitness/fitness.md`. This way when you take away the hierarchy, the filename
+still properly describes its content.
+
+I don't use many backlinks. I know lots of people swear by them, but personally
+I don't find them particularly useful. I prefer having a [single post about a
+topic](/tech/postgres/), with headings to break up the content, rather than
+multiple small notes all backlinked together. Between my editor's file, text,
+and tag search capabilities, I have no trouble jumping to a specific place in a
+specific note.  Furthermore, knowledge bases that make liberal use of backlinks
+don't end up being very browseable when published on the web. Ultimately I want
+to share my knowledge, and I think it's easier for readers when the knowledge
+base doesn't have each topic splintered across dozens of interlinked notes.
 
 ## Archiving links
 
@@ -81,6 +95,15 @@ I've written about [CLI
 tools](https://hbenjamin.com/post/build-cli-tools-for-common-tasks/) on my
 blog, and `kb` is one example of the sort of tools I write for making my life
 easier.
+
+## Deployment
+
+The knowledge base is built using [Hugo](https://gohugo.io/). It's version
+controlled using Git and hosted on GitHub. I deploy it on
+[Netlify](https://www.netlify.com/). Netlify also handles automatic deployment
+whenever I push to master. I use [Netlify CMS](https://www.netlifycms.org/) to
+provide a web interface for editing posts, though 95% of the time I'm using my
+`kb` tool + vim to do so instead.
 
 ## Search
 
