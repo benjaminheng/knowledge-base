@@ -1,5 +1,6 @@
 ---
 title: Mahjong
+category: games
 ---
 Infodump on Riichi Mahjong strategy as I learn.
 

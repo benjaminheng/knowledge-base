@@ -1,6 +1,7 @@
 ---
 title: Climbing trips
 toc: true
+category: fitness
 ---
 ## Tonsai, Thailand
 

@@ -1,5 +1,6 @@
 ---
 title: Scylla
+category: tech
 ---
 
 ## Links

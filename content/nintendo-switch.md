@@ -1,6 +1,7 @@
 ---
 title: Nintendo Switch
 toc: true
+category: games
 ---
 ## Accessing the eshop in SG
 

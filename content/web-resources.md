@@ -1,5 +1,6 @@
 ---
 title: Web resources
+category: tech
 ---
 
 ## Links

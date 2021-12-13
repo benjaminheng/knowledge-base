@@ -1,6 +1,7 @@
 ---
 title: Vim
 toc: true
+category: tech
 ---
 
 ## My vim config

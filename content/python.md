@@ -1,6 +1,7 @@
 ---
 title: Python
 toc: true
+category: tech
 ---
 
 ## [Python 2] UTF-8 decoder in Python 2 accepts surrogate pairs

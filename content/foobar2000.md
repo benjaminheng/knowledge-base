@@ -1,5 +1,6 @@
 ---
 title: foobar2000
+category: tech
 ---
 ## Tweaks
 

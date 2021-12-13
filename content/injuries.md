@@ -1,5 +1,6 @@
 ---
 title: Injuries
+category: fitness
 ---
 
 - [Athlean-X - Shoulder Pain and Popping](https://youtu.be/zsmeXwHu6W0). Rotator cuff related injuries such as shoulder impingement.

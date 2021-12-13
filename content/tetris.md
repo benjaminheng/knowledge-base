@@ -1,5 +1,6 @@
 ---
 title: Tetris
+category: games
 ---
 
 - [My tetr.io profile](https://ch.tetr.io/u/wqwqwq)

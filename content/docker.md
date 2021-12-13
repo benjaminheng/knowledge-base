@@ -1,5 +1,6 @@
 ---
 title: Docker
+category: tech
 ---
 
 - Host machine can be accessed from within a docker container using the

@@ -1,5 +1,6 @@
 ---
 title: Fitness
+category: fitness
 ---
 
 ## Exercises

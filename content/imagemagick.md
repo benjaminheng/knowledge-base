@@ -1,5 +1,6 @@
 ---
 title: ImageMagick
+category: tech
 ---
 
 ## Image manipulation

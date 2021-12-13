@@ -1,5 +1,6 @@
 ---
 title: Android Rooting
+category: tech
 ---
 
 ## Rooting Pixel 3a

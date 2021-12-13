@@ -1,5 +1,6 @@
 ---
 title: Cycling
+category: fitness
 ---
 ## Maps
 

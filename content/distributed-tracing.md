@@ -1,5 +1,6 @@
 ---
 title: Distributed tracing
+category: tech
 ---
 
 ## Links

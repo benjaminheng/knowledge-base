@@ -1,6 +1,7 @@
 ---
 title: pprof
 toc: true
+category: tech
 ---
 ## pprof commands
 

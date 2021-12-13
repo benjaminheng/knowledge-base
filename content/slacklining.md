@@ -1,6 +1,7 @@
 ---
 title: Slacklining
 toc: false
+category: fitness
 ---
 ## Slackline spots in Singapore
 

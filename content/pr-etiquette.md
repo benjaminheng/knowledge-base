@@ -1,6 +1,7 @@
 ---
 title: Pull Request etiquette
 toc: true
+category: tech
 ---
 
 Some thoughts on good Pull Request (PR) practices to make your reviewer's life

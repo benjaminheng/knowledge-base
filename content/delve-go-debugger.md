@@ -1,5 +1,6 @@
 ---
 title: Delve - Go debugger
+category: tech
 ---
 ## Remote debugging (CLI)
 

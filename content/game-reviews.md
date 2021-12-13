@@ -1,6 +1,7 @@
 ---
 title: Game reviews
 toc: true
+category: games
 ---
 
 ## A Hat in Time

@@ -1,5 +1,6 @@
 ---
 title: "Knowledge Base"
+category: tech
 ---
 
 Hello, this is my knowledge base! Here I record my thoughts, links, resources,

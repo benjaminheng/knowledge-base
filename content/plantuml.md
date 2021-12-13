@@ -1,6 +1,7 @@
 ---
 title: PlantUML
 toc: true
+category: tech
 ---
 
 ## Resources

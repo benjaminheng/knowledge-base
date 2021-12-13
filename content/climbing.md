@@ -1,5 +1,6 @@
 ---
 title: Climbing
+category: fitness
 ---
 
 ## Training

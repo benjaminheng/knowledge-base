@@ -1,5 +1,6 @@
 ---
 title: Javascript
+category: tech
 ---
 
 ## Load JS script on demand
