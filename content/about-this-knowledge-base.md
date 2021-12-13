@@ -21,7 +21,7 @@ The source of my knowledge base is also publicly available at
 This site has a somewhat brutalist design. I'm not interested in an overly
 stylized design. Link stylings are left to the browser's default. Most my
 styles are typography related. I did however make a concession to add a sidebar for
-ease of navigation.  typography.
+ease of navigation.
 
 I try to minimize unnecessary network calls. This means no images, unless
 they're part of a post. I also only use system fonts, to avoid having to fetch
@@ -35,6 +35,15 @@ mode](https://support.mozilla.org/en-US/kb/firefox-reader-view-clutter-free-web-
 or addons like [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/). You'll get
 a more consistent dark mode tailored to your preference, rather than relying on
 site owners to implement dark mode in usable manner.
+
+## Deployment
+
+The knowledge base is built using [Hugo](https://gohugo.io/). It's version
+controlled using Git and hosted on GitHub. I deploy it on
+[Netlify](https://www.netlify.com/). Netlify also handles automatic deployment
+whenever I push to master. I use [Netlify CMS](https://www.netlifycms.org/) to
+provide a web interface for editing posts, though 95% of the time I'm using my
+`kb` tool + vim to do so instead.
 
 ## Archiving links
 
@@ -86,8 +95,8 @@ The search currently consists of a simple substring match, though I'd like to
 implement a rudimentary fuzzy search algorithm in the future.
 
 The search is not documented because it's not meant for discovery. Discovery is
-better done by scrolling through the sidebar. The search is more so regular
-users (me) can quickly jump to certain posts.
+better done by scrolling through the sidebar. The search is more so users like
+me, who already know which post they want to view, can quickly jump to it.
 
 ### Hugo template to generate the search index
 
@@ -95,7 +104,6 @@ users (me) can quickly jump to certain posts.
 
 Writing template code for Hugo is such a pain. This script recursively
 generates a flattened list of pages.
-
 
 ```go-text-template
 {{ $index := slice }}
@@ -167,11 +175,3 @@ titles, not their contents.
 
 I'm happy with how my up/down keyboard navigation turned out. I had to take
 care of a few edge cases, but the end result is quite pleasing.
-
-## Deployment
-
-The knowledge base is version controlled using Git and hosted on GitHub. It's
-hosted on [Netlify](https://www.netlify.com/). Netlify also handles automatic
-deployment whenever I push to master. I use [Netlify
-CMS](https://www.netlifycms.org/) to provide a web interface for editing posts,
-though 95% of the time I'm using my `kb` tool + vim to do so instead.
