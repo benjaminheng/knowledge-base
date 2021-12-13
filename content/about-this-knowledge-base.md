@@ -121,50 +121,48 @@ me, who already know which post they want to view, can quickly jump to it.
 
 [source](https://github.com/benjaminheng/knowledge-base/blob/368b77174b9b9dc18d2f9623f25803b5e98b92eb/layouts/partials/search-index)
 
-Writing template code for Hugo is such a pain. This script recursively
-generates a flattened list of pages.
+The template code to generate the search index is very similar to how I
+generate the sidebar. First I group pages by their category and generate JSON
+objects for them, then I generate the JSON objects for pages without a
+category.
 
 ```go-text-template
 {{ $index := slice }}
-{{ $index = partial "search-index-recurse" (dict "index" $index "page" .Site "parents" slice "rootPagesOnly" true) }}
+
+{{ range .Site.Pages.GroupByParam "category" }}
+  {{ range .Pages }}
+    {{ $title := (.Title | plainify) }}
+    {{ $rawText := $title }}
+
+    {{ if isset .Params "category" }}
+        {{ $rawText = print (.Params.category | title) " > " $title }}
+    {{ end }}
+
+    {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $rawText }}
+    {{ $index = $index | append $entry }}
+  {{ end }}
+{{ end }}
+
+{{ range (where .Site.Pages "Params.category" "==" nil) }}
+    {{ if not (eq .File.LogicalName "_index.md") }}
+        {{ $title := (.Title | plainify) }}
+        {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $title}}
+        {{ $index = $index | append $entry }}
+    {{ end }}
+{{ end }}
+
 {{ $index | jsonify }}
 {{ return $index }}
+```
 
-{{ define "partials/search-index-recurse" }}
-    {{ $index := .index }}
-    {{ $parents := .parents }}
+The search index is an array of objects:
 
-    {{ range .page.Sections }}
-        {{ $parents := $parents | append (slice .Title) }}
-        {{ $sectionIndex := slice }}
-        {{ $result := (partial "search-index-recurse" (dict "index" $sectionIndex "page" . "parents" $parents)) }}
-        {{ $index = $index | append $result }}
-    {{ end }}
-
-    {{ $parentsPath := (delimit $parents " > ") }}
-
-    {{ $pages := .page.Pages }}
-    {{ if .rootPagesOnly }}
-        {{ $pages = (where .page.Pages "Section" "") }}
-    {{ end }}
-
-    {{ range $pages }}
-        {{ if eq (len .Sections) 0 }}
-            {{ $title := (.Title | plainify) }}
-            {{ $entry := dict "permalink" .RelPermalink "title" $title }}
-            {{ $rawText := $title }}
-
-            {{ if not (eq $parentsPath "") }}
-                {{ $entry = merge $entry (dict "parents" $parentsPath) }}
-                {{ $rawText = print (delimit $parents " > ") " > " $title }}
-            {{ end }}
-
-            {{ $entry = merge $entry (dict "raw_text" $rawText ) }}
-            {{ $index = $index | append $entry }}
-        {{ end }}
-    {{ end }}
-    {{ return $index }}
-{{ end }}
+```json
+[
+    {"title": "Postgres", "permalink": "/postgres/", "raw_text": "Tech > Postgres"},
+    {"title": "Scylla", "permalink": "/scylla/", "raw_text": "Tech > Scylla"},
+    {"title": "Recipes", "permalink": "/recipes/", "raw_text": "Recipes"},
+]
 ```
 
 ### HTML snippet for the search box
