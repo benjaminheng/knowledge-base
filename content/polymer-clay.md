@@ -2,7 +2,11 @@
 title: Polymer clay
 ---
 
-[Glass Attic](https://www.glassattic.com/) is an extremely detailed polymer clay encyclopedia. Almost every bit of information can be found here.
+## General resources
+
+- [Glass Attic](https://www.glassattic.com/) is an extremely detailed polymer
+  clay encyclopedia. Almost every bit of information can be found here.
+- [Koiming](https://koiming.com/en/) for jewelry findings.
 
 ## Model references
 
