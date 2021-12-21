@@ -21,18 +21,21 @@ category: tech
 
 Components have a shorthand: `[X]` is shorthand for `component X`.
 
-## Component diagrams
+## Tree
 
-This just a quick reference for common use cases. See [plantuml.com/component-diagram](https://plantuml.com/component-diagram) for a complete reference.
+More information can be found at https://plantuml.com/creole (CTRL+F "tree").
 
-### Aliases
+{{% plantuml name="tree" collapse="true" %}}
+
+
+## Aliases
 
 The `as` keyword defines aliases. This is useful if a component has a
 long name and you plan on reusing the component in your diagram.
 
 {{% plantuml name="alias" %}}
 
-### Links and arrows
+## Links and arrows
 
 Links between elements are made using combinations of dotted line (`..`),
 straight line (`--`), and arrows (`-->`) symbols. 
@@ -41,27 +44,27 @@ Double dashes (or dots) orient the link vertically while a single dash orients t
 
 {{% plantuml name="arrows" %}}
 
-### Arrow labels
+## Arrow labels
 
 Use `: <label>` as a suffix to add labels to arrows and relationships between objects.
 
 {{% plantuml name="arrow-label" %}}
 
-### Stereotypes or object annotations
+## Stereotypes or object annotations
 
 Stereotypes can be thought of as an annotation within an object. It is
 specified using `<<` and `>>`.
 
 {{% plantuml name="stereotype" %}}
 
-### Notes
+## Notes
 
 You can use the `note left of`, `note right of`, `note top of`, `note bottom
 of` keywords to define notes related to a single object.
 
 {{% plantuml name="notes" %}}
 
-### Grouping components
+## Grouping components
 
 You can use several keywords to group components and interfaces together: package, node, folder, frame, cloud, database.
 
