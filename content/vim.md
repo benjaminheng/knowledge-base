@@ -60,7 +60,7 @@ indicates the start of the match, and `\ze` the end.
 This is useful when matching against a long string, but you only want to
 replace a substring of it. For instance given the following piece of code:
 
-```
+```go
 func DoThingX() error {}
 
 func foo() {
