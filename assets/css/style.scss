@@ -124,20 +124,6 @@ main {
         margin-left: auto;
         margin-right: auto;
     }
-    .admin-container {
-        position: absolute;
-        top: 0;
-        right: 0;
-        margin: 0.6em 1.6em;
-        font-size: 0.8rem;
-        color: #999;
-    }
-    .admin-container a:link, .admin-container a:visited, .admin-container a:active {
-        color: #999;
-    }
-    .admin-container a:hover {
-        color: #888;
-    }
 }
 
 /* table of contents */
