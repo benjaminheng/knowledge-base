@@ -18,7 +18,7 @@ title: Polymer clay
 
 ## Baking
 
-- Using a [Sona SMO 23A toaster oven](https://www.sona.com.sg/smo-23a-10l-mini-oven), 150C on the dial
+- Using a [Sona SMO 23A toaster oven](https://www.sona.com.sg/smo-23a-10l-mini-oven), 145C on the dial
   corresponds to 130C internal temperature.
 - Do a few test runs with a baking thermometer to calibrate your oven; the
   temperature usually doesn't exactly match the value on the dial.
