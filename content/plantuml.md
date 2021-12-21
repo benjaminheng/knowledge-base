@@ -69,3 +69,10 @@ of` keywords to define notes related to a single object.
 You can use several keywords to group components and interfaces together: package, node, folder, frame, cloud, database.
 
 {{% plantuml name="grouping" %}}
+
+## Colors
+
+Colors can be applied using a variety of syntax. One method is
+`<color:red>Text</color>`. See https://plantuml.com/color for more information.
+
+{{% plantuml name="colors" collapse="true" %}}
