@@ -87,9 +87,31 @@ this case, our replacement is inserted at the beginning of the match.
 `:bufdo` executes a macro in all open buffers. `:argdo` executes a macro in all
 files in the arglist (`:args`).
 
-```
+```vim
 :bufdo execute "normal! @a" | update
 :argdo execute "normal! @a" | update
+```
+
+## Syntax highlighting for Go text template tags in HTML files
+
+If [vim-go](https://github.com/fatih/vim-go) is installed, it comes with syntax
+highlighting files for the `gohtmltmpl` filetype. Enable using:
+
+```vim
+:set ft=gohtmltmpl
+```
+
+Alternatively, if you don't want to install vim-go, you can also copy the
+[`gohtmltmpl.vim`](https://github.com/fatih/vim-go/blob/00c5f2dad170131c0c850dbf331d63ddf515116d/syntax/gohtmltmpl.vim)
+files from vim-go's repository. Some modification to the files may be needed.
+
+## Syntax highlighting for code blocks in markdown files
+
+By default vim uses [tpope's Markdown runtime
+files](https://github.com/tpope/vim-markdown) for syntax highlighting. Enable syntax highlighting in code blocks using:
+
+```vim
+let g:markdown_fenced_languages = ['html', 'python', 'bash=sh']
 ```
 
 ## Common errors
@@ -98,7 +120,7 @@ files in the arglist (`:args`).
 
 Make sure the python3 binary is properly referenced:
 
-```
+```vim
 let g:python_host_prog='/usr/bin/python'
 let g:python3_host_prog='/Users/benheng/.pyenv/shims/python3'
 ```
