@@ -3,7 +3,8 @@ title: "Pathfinder: Wrath of the Righteous"
 category: games
 ---
 
-[Steam page](https://store.steampowered.com/app/1184370/Pathfinder\_Wrath\_of\_the\_Righteous/)
+> This is a review for the game [Pathfinder: Wrath of the
+Righteous](https://store.steampowered.com/app/1184370/Pathfinder\_Wrath\_of\_the\_Righteous/).
 
 _Pathfinder: Wrath of the Righteous_ (henceforth abbreviated as Pathfinder) is
 based on the pen-and-paper [Pathfinder
