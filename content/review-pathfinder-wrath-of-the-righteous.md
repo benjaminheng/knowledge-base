@@ -10,7 +10,7 @@ _Pathfinder: Wrath of the Righteous_ is based on the pen-and-paper [Pathfinder
 RPG](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game), which is
 itself based on the standard D&D ruleset. The game is a traditional CRPG,
 similar to the likes of _Baldur's Gate_ or the more recent _Divinity: Original
-Sin_.
+Sin_. It's developed by Owlcat Games, a relatively new studio formed in 2016.
 
 Pathfinder is an incredibly ambitious game. There are 25 classes, each with
 about 5 sub-classes. There are hundreds of unique spells and items. My first
@@ -49,6 +49,12 @@ just let the game level up my companions for me, going with the default builds
 for them. My main character was the only one I built myself. The default builds
 chosen by the game are certainly more than capable of beating the game on
 Normal difficulty.
+
+Multi-classing is a thing as well, and fantastic for role-playing. You don't
+have to restrict yourself to one class or sub-class. With 20 levels to work
+with, you could put 10 levels as a Druid and 10 as a Barbarian if you wanted
+to. I wouldn't necessarily recommend multi-classing for a first playthrough,
+maybe on subsequent ones instead.
 
 On top of classes, your character has multiple mythic paths to choose from. The
 Angel path seems to be the canonical one, with the most tie-ins to the story.
