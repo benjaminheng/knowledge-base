@@ -6,8 +6,7 @@ category: games
 > This is a review for the game [Pathfinder: Wrath of the
 Righteous](https://store.steampowered.com/app/1184370/Pathfinder\_Wrath\_of\_the\_Righteous/).
 
-_Pathfinder: Wrath of the Righteous_ (henceforth abbreviated as Pathfinder) is
-based on the pen-and-paper [Pathfinder
+_Pathfinder: Wrath of the Righteous_ is based on the pen-and-paper [Pathfinder
 RPG](https://en.wikipedia.org/wiki/Pathfinder_Roleplaying_Game), which is
 itself based on the standard D&D ruleset. The game is a traditional CRPG,
 similar to the likes of _Baldur's Gate_ or the more recent _Divinity: Original
@@ -49,7 +48,16 @@ The sheer number of options can be overwhelming. For my first playthrough I
 just let the game level up my companions for me, going with the default builds
 for them. My main character was the only one I built myself. The default builds
 chosen by the game are certainly more than capable of beating the game on
-Normal difficulty
+Normal difficulty.
+
+On top of classes, your character has multiple mythic paths to choose from. The
+Angel path seems to be the canonical one, with the most tie-ins to the story.
+Other paths include Demon, Lich, Trickster, and more.
+
+The amount of flexibility in character builds adds a lot of replayability. My
+first playthrough was a shapeshfting Druid on the Angel mythic path. For my
+second one I'm considering a caster archetype since I'm more familar with the
+spell system now.
 
 ## Difficulty
 
@@ -69,6 +77,9 @@ town). This is consistent with pen-and-paper Pathfinder mechanics, but I just
 found it annoying in-game. Thankfully there's an option to remove all debuffs
 after resting in the field, without having to travel back to a town to rest.
 
+I played on Normal difficulty, with some quality-of-life tweaks like dispelling
+debuffs on rest.
+
 ## Story
 
 I found the story very captivating. It's not mindblowing, but I think it's as
@@ -85,6 +96,11 @@ large impact on your story. A character you save early on might play a critical
 role in a future conflict. A character you kill early on could lock you out of
 a certain branch later on. The game makes it clear early on that your decisions
 can have repercussions, which gives weight to those decisions you make.
+
+There's a secret ending, which is basically impossible to organically reach.
+Don't concern yourself with it on your first playthrough. The default ending is
+satisfying by itself; you don't _need_ the secret ending to get a "good"
+ending.
 
 ## Lack of consolidated wiki knowledge
 
@@ -126,11 +142,11 @@ A common theme you'll read in reviews is that the game is buggy. I think this
 sentiment might be a holdover from the launch period. I didn't experience any
 game-breaking bugs in my playthrough.
 
-The game does have quite a lot of jank to it, which may be getting misreported
-as bugs. For instance:
+However the game does have quite a lot of jank to it, which may be getting
+misreported as bugs. For instance:
 
-- There's a memory leak where after 2 or 3 hours the game starts to stutter in
-  large battles. I only noticed it in the very end-game, but I suppose the
+- There's a resource leak where after 2 or 3 hours the game starts to stutter
+  in large battles. I only noticed it in the very end-game, but I suppose the
   issue has always been present. The larger end-game battles probably made the
   issue more noticeable.
 - Framerate is not great. I'm using a GTX1070 and Ryzen 5 3600, and the
@@ -154,6 +170,9 @@ as bugs. For instance:
   simply to figure out what the rules are, let alone actually solve it
   according to those rules. The interface to interact with the puzzles is janky
   as well, which adds to the frustration.
+- At one point I had a bug where NPCs were rendered about a meter below where
+  they were supposed to, so they were all underground. Re-entering the zone or
+  reloading a save solved the issue.
 
 This is a game that succeeds despite all of its jank. Take a look at the Steam
 reviews and you'll see similar sentiments. Personally I think the game has
@@ -165,3 +184,9 @@ be used to modify the game state to fix any issues that crop up. It's not just
 for fixing bugs either; but you can use this mod to customize your game outside
 of the boundaries set by the developers. It's an role-playing game after all;
 role-play however you wish.
+
+## Overall
+
+_Pathfinder: Wrath of the Righteous_ is an incredibly ambitious game.
+Considering its sheer scope, the game is executed really well, even if it is a
+little janky. I strongly recommend this game for any fans of CRPGs.
