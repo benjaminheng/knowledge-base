@@ -1,5 +1,5 @@
 ---
-title: "Review: Pathfinder: Wrath of the Righteous"
+title: "Pathfinder: Wrath of the Righteous"
 category: games
 ---
 
