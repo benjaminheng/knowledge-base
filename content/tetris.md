@@ -5,6 +5,7 @@ category: games
 
 - [My tetr.io profile](https://ch.tetr.io/u/wqwqwq)
 - [Tetris fundamentals](https://www.tetrisconcept.com/p/start.html)
+- [Tetresse](https://tetresse.harddrop.com/) - Finesse training tool
 
 ## 40L sprint progress
 
