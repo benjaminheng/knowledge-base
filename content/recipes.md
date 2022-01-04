@@ -28,3 +28,7 @@ Instructions:
 - Pressure cook for 11 minutes, slow release for 3
 - Add pasta
 - Pressure cook for 4 minutes, slow release for 3
+
+## General resources
+
+- [CookLang](https://cooklang.org/) - DSL for describing recipes.
