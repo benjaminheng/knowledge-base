@@ -30,7 +30,7 @@ title: Polymer clay
 - Place the item on a piece of parchment paper to avoid shiny spots where the
   item touches the surface it is baking on.
 - Cover the item with a tent of aluminum foil to keep the temperature
-  consistent, since the oven will cycle the heating elements on an off.
+  consistent, since the oven will cycle the heating elements on and off.
 
 ## Conditioning hard/crumbly clay
 
