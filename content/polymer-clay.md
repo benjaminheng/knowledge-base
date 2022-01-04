@@ -31,3 +31,38 @@ title: Polymer clay
   item touches the surface it is baking on.
 - Cover the item with a tent of aluminum foil to keep the temperature
   consistent, since the oven will cycle the heating elements on an off.
+
+## Conditioning hard/crumbly clay
+
+Some clays can be very hard. When pulled, it might crumble rather than stretch.
+The hardness of clay could be due to age or having been stored in a hot
+environment. No amount of rolling or folding will condition this clay. To do so
+we need to add additional agents to it.
+
+Some options you could add:
+
+- Official products like Sculpey clay softener
+- Liquid clay
+- Mineral oil
+- Vaseline or petroleum jelly
+
+Personally I use mineral oil. It's often marketed as baby oil and can be found
+in pharmacies or supermarkets. Ideally you want one that's unscented, but
+either will work. If buying baby oil, make sure the ingredients list contains
+only mineral oil. For scented baby oil, the ingredients list may contain
+"fragrance" -- this is fine.
+
+Here's my method using mineral oil:
+
+- Break the clay into small pieces, the smaller the better.
+- Put the pieces in a ziploc bag.
+- Add a few drops of mineral oil.
+- Shake the bag to coat.
+- Massage from outside the bag to work the oil into the clay. This prevents
+  your hands from getting coated with oil.
+- Use your hands to finish working the clay. By the point the clay would have
+  absorbed the oil, so your hands wouldn't get as oily.
+
+A little mineral oil goes a long way. The amount of oil to add depends on the
+amount of clay you have and how hard it is. Start with 3-5 drops, and add more
+as needed.
