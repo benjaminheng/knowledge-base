@@ -2,9 +2,17 @@
 title: Recipes
 toc: true
 ---
+
+## Pressure cooker timings
+
+Timings are for a Philips model HD2137/62.
+
+- Chicken breast: 15min
+- Pasta: 4min
+
 ## Slightly tomato-flavored pasta with faintly tomato-flavored chicken
 
-When you just want some protein and carbs without regard for taste.
+When you just want some protein and carbs without regard for taste. Single pot.
 
 Ingredients:
 
