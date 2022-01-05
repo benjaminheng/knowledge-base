@@ -2,7 +2,7 @@ baseURL = "https://kb.hbenjamin.com/"
 languageCode = "en-us"
 title = "Knowledge Base"
 pluralizelisttitles = false
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableEmoji = true
 
 [markup]
