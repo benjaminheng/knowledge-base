@@ -2,8 +2,9 @@
 layout: recipe
 category: recipes
 title: "Chicken, potatoes, tomatoes stew"
-serves: 2
-time: 45 minutes
+metadata:
+    - serves: 2
+    - time: 45 minutes
 ingredients:
     - 4 chicken thighs or drumsticks
     - 1 can of tomatoes
