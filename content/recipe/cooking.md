@@ -1,6 +1,6 @@
 ---
-title: Recipes
-toc: true
+title: Cooking
+category: recipes
 ---
 
 ## Pressure cooker timings
