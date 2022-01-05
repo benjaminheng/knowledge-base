@@ -114,6 +114,16 @@ files](https://github.com/tpope/vim-markdown) for syntax highlighting. Enable sy
 let g:markdown_fenced_languages = ['html', 'python', 'bash=sh']
 ```
 
+## Syntax highlighting for YAML frontmatter in Markdown files
+
+Add the following to `after/syntax/markdown.vim`.
+
+```vim
+unlet b:current_syntax
+syntax include @Yaml syntax/yaml.vim
+syntax region yamlFrontmatter start=/\%^---$/ end=/^---$/ keepend contains=@Yaml
+```
+
 ## Common errors
 
 ### Tab key not working in insert mode with UltiSnips, neovim
