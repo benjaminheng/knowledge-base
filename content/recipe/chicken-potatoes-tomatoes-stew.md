@@ -23,6 +23,7 @@ title: "Chicken, potatoes, tomatoes stew"
 
 ## Notes
 
+- Inspired by this [recipe](https://www.seriouseats.com/colombian-chicken-stew-with-potatoes-tomato-onion-recipe).
 - Ingredient amounts are rough. Add more or less of each ingredient based
   on your preference.
 - Frozen and canned goods can be replaced with fresh ones; I used
