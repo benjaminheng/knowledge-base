@@ -14,3 +14,10 @@ Shipping from the US ends up being pretty expensive as well. I've bought from
 [Heat Hot Sauce](https://heathotsauce.com/) in the past via comGateway, a
 US-based package forwarder. Their international shipping is too expensive
 otherwise.
+
+Stores and shipping rates:
+
+- https://www.fuegobox.com -- USD$16 shipping
+- https://queenmajestyhotsauce.com -- USD$23 shipping
+- https://heatonist.com -- USD$36 shipping
+- https://heathotsauce.com -- USD$40+ shipping
