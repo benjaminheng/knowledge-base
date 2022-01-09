@@ -11,5 +11,6 @@ Some of my favorite hot sauces:
 
 The more artisanal brands of hot sauce aren't readily available in Singapore.
 Shipping from the US ends up being pretty expensive as well. I've bought from
-[Heat Hot Sauce](https://heathotsauce.com/) in the past, but there may be
-stores with cheaper shipping to Singapore now.
+[Heat Hot Sauce](https://heathotsauce.com/) in the past via comGateway, a
+US-based package forwarder. Their international shipping is too expensive
+otherwise.
