@@ -124,6 +124,15 @@ syntax include @Yaml syntax/yaml.vim
 syntax region yamlFrontmatter start=/\%^---$/ end=/^---$/ keepend contains=@Yaml
 ```
 
+## Read from stdin into a new, unsaved named file
+
+Opens vim with some content in the buffer. The file is named, but not yet
+saved to disk.
+
+```
+echo "some content" | nvim - -c "file /tmp/filename.txt"
+```
+
 ## Common errors
 
 ### Tab key not working in insert mode with UltiSnips, neovim
