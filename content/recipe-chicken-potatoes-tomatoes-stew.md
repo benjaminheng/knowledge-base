@@ -14,7 +14,7 @@ title: "Chicken, potatoes, tomatoes stew"
 - 6 baby potatoes
 - Assorted frozen vegetables
 
-## Steps
+## Directions
 
 1. Add chicken parts, onions, potatoes, frozen vegetables to a pressure cooker.
 2. Add canned tomatoes, without liquid
