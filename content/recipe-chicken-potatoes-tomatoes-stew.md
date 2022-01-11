@@ -9,22 +9,24 @@ title: "Chicken, potatoes, tomatoes stew"
 ## Ingredients
 
 - 4 chicken thighs or drumsticks
-- 1 can of tomatoes
+- 2 diced tomatoes
 - 1 diced onion
-- 6 baby potatoes
-- Assorted frozen vegetables
+- 2 large potatoes or 6 baby potatoes
+- (optional) Other vegetables
 
 ## Directions
 
-1. Add chicken parts, onions, potatoes, frozen vegetables to a pressure cooker.
-2. Add canned tomatoes, without liquid
+1. Dice the potatoes into large chunks. If using baby potatoes, halve them.
+2. Add all ingredients into a pressure cooker.
 3. Add salt and pepper, mix thoroughly
 4. Pressure cook for 25 minutes
 
 ## Notes
 
+- This is a one-pot recipe.
 - Inspired by this [recipe](https://www.seriouseats.com/colombian-chicken-stew-with-potatoes-tomato-onion-recipe).
 - Ingredient amounts are rough. Add more or less of each ingredient based
   on your preference.
-- Frozen and canned goods can be replaced with fresh ones; I used
-  frozen/canned because I'm optimizing for convenience
+- For additional vegetables, use hardy ones like brocolli or carrots, not leafy greens.
+- Ingredients can be substituted with canned or frozen, to further optimize for
+  convenience.
