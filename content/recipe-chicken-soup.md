@@ -8,6 +8,8 @@ category: recipes
 
 ## Ingredients
 
+// TODO: add more exact ingredient amounts
+
 - 2 chicken breasts
 - 2 chicken thighs or drumsticks
 - Carrots, sliced
