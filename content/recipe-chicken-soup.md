@@ -15,8 +15,8 @@ category: recipes
 - Carrots, sliced
 - Celery, diced
 - Onions, diced
-- Chicken broth
-- (Optional) Water
+- 1L chicken broth
+- 500ml water
 
 ## Directions
 
