@@ -32,4 +32,5 @@ To remove these bullshit sections from the search results:
 www.youtube.com##ytd-shelf-renderer:has-text(/Previously watched/)
 www.youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
+www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search for/)
 ```
