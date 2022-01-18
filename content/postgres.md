@@ -55,7 +55,7 @@ SELECT relname, last_vacuum, last_autovacuum FROM pg_stat_user_tables ORDER BY l
 
 ### Get an estimated count of rows in a table
 
-https://wiki.postgresql.org/wiki/Count\_estimate
+https://wiki.postgresql.org/wiki/Count_estimate
 
 ```sql
 SELECT reltuples AS estimate FROM pg_class WHERE relname = 'table_name';
