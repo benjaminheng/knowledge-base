@@ -10,7 +10,9 @@ toc: true
 
 ## Directed graph
 
-```dot
+![render-34d8458eb066b9b3ac396fd5aee4c068.svg](/resource/diagrams/render-34d8458eb066b9b3ac396fd5aee4c068.svg)
+
+```dot render
 digraph G {
     A -> B;
     B -> C -> D;
@@ -20,7 +22,9 @@ digraph G {
 
 ## Undirected graph
 
-```dot
+![render-5b9297952b1eda00ba80b40bface8431.svg](/resource/diagrams/render-5b9297952b1eda00ba80b40bface8431.svg)
+
+```dot render
 graph G {
     A -- B;
     B -- C -- D;
@@ -30,7 +34,9 @@ graph G {
 
 ## Edge labels
 
-```dot
+![render-e0901508d58e2c30ae2798e4cb05011c.svg](/resource/diagrams/render-e0901508d58e2c30ae2798e4cb05011c.svg)
+
+```dot render
 digraph G {
     A -> B [label="goes to"];
 }
@@ -40,8 +46,10 @@ digraph G {
 
 The `{ }` is shorthand for describing a fork.
 
-```dot
-digraph G
+![render-a3dd0f719961a10734dcd251184e4ecf.svg](/resource/diagrams/render-a3dd0f719961a10734dcd251184e4ecf.svg)
+
+```dot render
+digraph G {
     # Equivalent to:
     #   A -> B
     #   A -> C
@@ -53,7 +61,9 @@ digraph G
 
 Full list of shapes: https://graphviz.org/doc/info/shapes.html
 
-```dot
+![render-1cc0073efcdfe5ecaa84f74a19bea43c.svg](/resource/diagrams/render-1cc0073efcdfe5ecaa84f74a19bea43c.svg)
+
+```dot render
 digraph G {
     B [shape=cylinder];
 
@@ -71,7 +81,9 @@ What we want instead is an acyclic graph with three nodes, where two of the
 nodes share the same name, `A`. To do so we can create two nodes with different
 names but similar labels.
 
-```dot
+![render-6f28f1dabbd32b299f21116bb6ec3eb5.svg](/resource/diagrams/render-6f28f1dabbd32b299f21116bb6ec3eb5.svg)
+
+```dot render
 digraph G {
     A1 [label="A"];
     A2 [label="A"];
