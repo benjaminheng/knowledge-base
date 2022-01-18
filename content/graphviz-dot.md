@@ -36,6 +36,19 @@ digraph G {
 }
 ```
 
+## Fork shorthand
+
+The `{ }` is shorthand for describing a fork.
+
+```dot
+digraph G
+    # Equivalent to:
+    #   A -> B
+    #   A -> C
+    A -> {B C}
+}
+```
+
 ## Shapes
 
 Full list of shapes: https://graphviz.org/doc/info/shapes.html
