@@ -101,6 +101,16 @@ whenever I push to master. I use [Netlify CMS](https://www.netlifycms.org/) to
 provide a web interface for editing posts, though 95% of the time I'm using my
 `kb` tool + vim to do so instead.
 
+## Rendering diagrams
+
+My knowledge base contains reference pages for [PlantUML](/plantuml/) and
+[Graphviz](/graphviz-dot/). These pages contain snippets of code that render
+into diagrams. I have an experimental program called
+[md-code-render](https://github.com/benjaminheng/md-code-render) that renders
+`dot` (Graphviz) code blocks into images, then inlines the image above the code
+block. It's still experimental and only supports `dot`. I might extend it to
+support PlantUML in the future.
+
 ## Search
 
 The search feature is undocumented, since it's mostly for myself. It can be
