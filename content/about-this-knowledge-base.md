@@ -171,7 +171,7 @@ The search index is an array of objects:
 [
     {"title": "Postgres", "permalink": "/postgres/", "raw_text": "Tech > Postgres"},
     {"title": "Scylla", "permalink": "/scylla/", "raw_text": "Tech > Scylla"},
-    {"title": "Recipes", "permalink": "/recipes/", "raw_text": "Recipes"},
+    {"title": "Recipes", "permalink": "/recipes/", "raw_text": "Recipes"}
 ]
 ```
 
