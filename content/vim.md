@@ -162,3 +162,10 @@ index f17cd862..cada0890 100644
      let l:output = []
      let l:dir = expand('#' . a:buffer . ':p:h')
 ```
+
+### Neovim's LSP omnifunc does not support fuzzy matches
+
+Issue: https://github.com/neovim/neovim/issues/15414
+
+This is currently blocking me from adopting neovim's built-in LSP. The LSP
+server provides fuzzy matching, but the omnifunc handler is filtering them out.
