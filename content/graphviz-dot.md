@@ -10,7 +10,7 @@ toc: true
 
 ## Directed graph
 
-![render-34d8458eb066b9b3ac396fd5aee4c068.svg](/resource/diagrams/render-34d8458eb066b9b3ac396fd5aee4c068.svg)
+![render-8d72883a4e16ed44fa98b1d93100219d.svg](/resource/diagrams/render-8d72883a4e16ed44fa98b1d93100219d.svg)
 
 ```dot render
 digraph G {
@@ -22,7 +22,7 @@ digraph G {
 
 ## Undirected graph
 
-![render-5b9297952b1eda00ba80b40bface8431.svg](/resource/diagrams/render-5b9297952b1eda00ba80b40bface8431.svg)
+![render-82c0164539fd0da1368fb1baba659882.svg](/resource/diagrams/render-82c0164539fd0da1368fb1baba659882.svg)
 
 ```dot render
 graph G {
@@ -34,7 +34,7 @@ graph G {
 
 ## Edge labels
 
-![render-e0901508d58e2c30ae2798e4cb05011c.svg](/resource/diagrams/render-e0901508d58e2c30ae2798e4cb05011c.svg)
+![render-0ca3a594460f7edc26db04a243993f1b.svg](/resource/diagrams/render-0ca3a594460f7edc26db04a243993f1b.svg)
 
 ```dot render
 digraph G {
@@ -46,7 +46,7 @@ digraph G {
 
 The `{ }` is shorthand for describing a fork.
 
-![render-a3dd0f719961a10734dcd251184e4ecf.svg](/resource/diagrams/render-a3dd0f719961a10734dcd251184e4ecf.svg)
+![render-482a0d19e7cdaf12f04f1b145bd90801.svg](/resource/diagrams/render-482a0d19e7cdaf12f04f1b145bd90801.svg)
 
 ```dot render
 digraph G {
@@ -61,7 +61,7 @@ digraph G {
 
 Full list of shapes: https://graphviz.org/doc/info/shapes.html
 
-![render-1cc0073efcdfe5ecaa84f74a19bea43c.svg](/resource/diagrams/render-1cc0073efcdfe5ecaa84f74a19bea43c.svg)
+![render-6bb5b1de0802bc9fc5ecec59ad9118fe.svg](/resource/diagrams/render-6bb5b1de0802bc9fc5ecec59ad9118fe.svg)
 
 ```dot render
 digraph G {
@@ -81,7 +81,7 @@ What we want instead is an acyclic graph with three nodes, where two of the
 nodes share the same name, `A`. To do so we can create two nodes with different
 names but similar labels.
 
-![render-6f28f1dabbd32b299f21116bb6ec3eb5.svg](/resource/diagrams/render-6f28f1dabbd32b299f21116bb6ec3eb5.svg)
+![render-471f402c2e13550fc2a7e6bcc13369b0.svg](/resource/diagrams/render-471f402c2e13550fc2a7e6bcc13369b0.svg)
 
 ```dot render
 digraph G {
