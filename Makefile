@@ -12,4 +12,4 @@ plantuml:
 	./render-plantuml-diagrams.sh
 
 diagrams:
-	md-code-render --types dot --output-dir ./static/resource/diagrams/ --link-prefix "/resource/diagrams/" ./content/*.md
+	md-code-render render --languages dot --output-dir ./static/resource/diagrams/ --link-prefix "/resource/diagrams/" ./content/*.md
