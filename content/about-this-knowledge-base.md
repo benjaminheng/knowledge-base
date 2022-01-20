@@ -92,6 +92,15 @@ tools](https://hbenjamin.com/post/build-cli-tools-for-common-tasks/) on my
 blog, and `kb` is one example of the sort of tools I write for making my life
 easier.
 
+## Rendering diagrams
+
+My knowledge base may contain diagrams and graphs, most notably in my reference
+pages for [PlantUML](/plantuml/) and [Graphviz](/graphviz-dot/). I wrote a tool
+called [md-code-renderer](https://github.com/benjaminheng/md-code-renderer)
+that renders `dot` and `plantuml` code blocks into images, then inlines the
+image next to the code block. This allows me to easily add and modify diagrams
+in pages.
+
 ## Deployment
 
 The knowledge base is built using [Hugo](https://gohugo.io/). It's version
@@ -100,16 +109,6 @@ controlled using Git and hosted on GitHub. I deploy it on
 whenever I push to master. I use [Netlify CMS](https://www.netlifycms.org/) to
 provide a web interface for editing posts, though 95% of the time I'm using my
 `kb` tool + vim to do so instead.
-
-## Rendering diagrams
-
-My knowledge base contains reference pages for [PlantUML](/plantuml/) and
-[Graphviz](/graphviz-dot/). These pages contain snippets of code that render
-into diagrams. I have an experimental program called
-[md-code-render](https://github.com/benjaminheng/md-code-render) that renders
-`dot` (Graphviz) code blocks into images, then inlines the image above the code
-block. It's still experimental and only supports `dot`. I might extend it to
-support PlantUML in the future.
 
 ## Search
 
