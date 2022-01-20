@@ -12,5 +12,5 @@ plantuml:
 	./render-plantuml-diagrams.sh
 
 diagrams:
-	md-code-render render --languages dot --output-dir ./static/resource/diagrams/ --link-prefix "/resource/diagrams/" ./content/*.md
-	md-code-render clean --image-dir ./static/resource/diagrams/ ./content/*.md
+	md-code-renderer render --languages dot --output-dir ./static/resource/diagrams/ --link-prefix "/resource/diagrams/" ./content/*.md
+	md-code-renderer clean --image-dir ./static/resource/diagrams/ ./content/*.md
