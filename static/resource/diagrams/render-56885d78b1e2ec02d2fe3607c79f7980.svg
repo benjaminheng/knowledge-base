@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="67px" preserveAspectRatio="none" style="width:362px;height:67px;background:#FFFFFF;" version="1.1" viewBox="0 0 362 67" width="362px" zoomAndPan="magnify"><defs><filter height="300%" id="f1se7m7epo9p21" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[ab8011494b009f71eb7a101944338a8c]
+entity MessageQueue--><path d="M251.5,8.5 L350.5,8.5 C355.5,8.5 355.5,29.9883 355.5,29.9883 C355.5,29.9883 355.5,51.4766 350.5,51.4766 L251.5,51.4766 C246.5,51.4766 246.5,29.9883 246.5,29.9883 C246.5,29.9883 246.5,8.5 251.5,8.5 " fill="#FEFECE" filter="url(#f1se7m7epo9p21)" style="stroke:#A80036;stroke-width:1.5;"/><path d="M350.5,8.5 C345.5,8.5 345.5,29.9883 345.5,29.9883 C345.5,51.4766 350.5,51.4766 350.5,51.4766 " fill="none" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="89" x="251.5" y="27.0352">«kafka topic»</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="262" y="43.5234">events-v1</text><!--MD5=[62b36487eb3886e110012d39c609da20]
+entity foo-service--><rect fill="#FEFECE" filter="url(#f1se7m7epo9p21)" height="46.4883" style="stroke:#A80036;stroke-width:1.5;" width="118" x="7" y="7"/><rect fill="#FEFECE" height="10" style="stroke:#A80036;stroke-width:1.5;" width="15" x="105" y="12"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="103" y="14"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="103" y="18"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="22" y="40.5352">foo-service</text><!--MD5=[35947f42d2088000e14ad8da4d794eca]
+link foo-service to MessageQueue--><path d="M125.3,30 C160.68,30 205.48,30 240.98,30 " fill="none" id="foo-service-to-MessageQueue" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="246.15,30,237.15,26,241.15,30,237.15,34,246.15,30" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="85" x="143.25" y="23.5684">publish event</text><!--MD5=[fca892c124f36f40063d745aa9ac35a0]
+@startuml
+queue "events-v1" <<kafka topic>> as MessageQueue
+[foo-service] -> MessageQueue : publish event
+@enduml
+
+PlantUML version 1.2022.0(Wed Jan 12 00:16:42 SGT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: SG
+--></g></svg>

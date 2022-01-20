@@ -17,7 +17,42 @@ category: tech
 
 ## Shapes
 
-{{% plantuml name="shapes" collapse="true" %}}
+![render-3027250163c300488ff5d52f4f038c11.svg](/resource/diagrams/render-3027250163c300488ff5d52f4f038c11.svg)
+
+<details><summary>Source</summary>
+
+```plantuml render{"mode": "code-collapsed"}
+@startuml
+actor actor
+agent agent
+artifact artifact
+boundary boundary
+card card
+circle circle
+cloud cloud
+collections collections
+component component
+control control
+database database
+entity entity
+file file
+folder folder
+frame frame
+interface interface
+node node
+package package
+queue queue
+rectangle rectangle
+stack stack
+storage storage
+usecase usecase
+hexagon hexagon
+label label
+person person
+@enduml
+```
+
+</details>
 
 Components have a shorthand: `[X]` is shorthand for `component X`.
 
@@ -25,15 +60,54 @@ Components have a shorthand: `[X]` is shorthand for `component X`.
 
 More information can be found at https://plantuml.com/creole (CTRL+F "tree").
 
-{{% plantuml name="tree" collapse="true" %}}
+![render-c87ca4fb20c3a1dab063b9314a7d09e4.svg](/resource/diagrams/render-c87ca4fb20c3a1dab063b9314a7d09e4.svg)
 
+<details><summary>Source</summary>
+
+```plantuml render{"mode": "code-collapsed"}
+@startuml
+skinparam titleFontSize 14
+
+title
+  Fieldset
+  |_ **Screen**
+    |_ **Group**
+      |_ **Field**{label=<color:green>"Listing title"</color>, component=<color:green>"text_input"</color>}
+      |_ **Field**{label=<color:green>"Category"</color>, component=<color:green>"category_picker"</color>}
+      |_ **Field**{label=<color:green>"Photo"</color>, component=<color:green>"photo_picker"</color>}
+    |_ **Group**{title=<color:green>"About the item"</color>}
+      |_ **Field**{label=<color:green>"Condition"</color>, component=<color:green>"single_picker"</color>}
+      |_ **Field**{label=<color:green>"Price"</color>, component=<color:green>"single_picker"</color>}
+      |_ **Field**{label=<color:green>""</color>, component=<color:green>"numeric_input"</color>}
+      |_ **Field**{label=<color:green>"Description"</color>, component=<color:green>"text_input"</color>}
+      |_ **Field**{label=<color:green>"Brand"</color>, component=<color:green>"single_picker"</color>}
+      |_ **Field**{label=<color:green>"Size"</color>, component=<color:green>"single_picker"</color>}
+    |_ **Group**{title=<color:green>"Optional details"</color>}
+      |_ **Field**{label=<color:green>"Colour"</color>, component=<color:green>"single_picker"</color>}
+      |_ **Field**{label=<color:green>"Chest"</color>, component=<color:green>"numeric_input"</color>}
+      |_ **Field**{label=<color:green>"Length"</color>, component=<color:green>"numeric_input"</color>}
+      |_ **Field**{label=<color:green>"Multiple quantities"</color>, component=<color:green>"checkbox"</color>}
+end title
+
+@enduml
+```
+
+</details>
 
 ## Aliases
 
 The `as` keyword defines aliases. This is useful if a component has a
 long name and you plan on reusing the component in your diagram.
 
-{{% plantuml name="alias" %}}
+![render-0a524db8a86964c26d0f50bddcfb2512.svg](/resource/diagrams/render-0a524db8a86964c26d0f50bddcfb2512.svg)
+
+```plantuml render
+@startuml
+[/api/1.1/user/roles/] as RolesAPI
+[foo-service] -> RolesAPI
+[bar-service] -> RolesAPI
+@enduml
+```
 
 ## Links and arrows
 
@@ -56,31 +130,83 @@ Double dashes (or dots) orient the link vertically while a single dash orients t
 
 Use `: <label>` as a suffix to add labels to arrows and relationships between objects.
 
-{{% plantuml name="arrow-label" %}}
+![render-93ecc564228d6be2035b7f2ca31372f7.svg](/resource/diagrams/render-93ecc564228d6be2035b7f2ca31372f7.svg)
+
+```plantuml render
+@startuml
+[foo-service] -> [bar-service] : DoSomething RPC
+@enduml
+```
 
 ## Stereotypes or object annotations
 
 Stereotypes can be thought of as an annotation within an object. It is
 specified using `<<` and `>>`.
 
-{{% plantuml name="stereotype" %}}
+![render-56885d78b1e2ec02d2fe3607c79f7980.svg](/resource/diagrams/render-56885d78b1e2ec02d2fe3607c79f7980.svg)
+
+```plantuml render
+@startuml
+queue "events-v1" <<kafka topic>> as MessageQueue
+[foo-service] -> MessageQueue : publish event
+@enduml
+```
 
 ## Notes
 
 You can use the `note left of`, `note right of`, `note top of`, `note bottom
 of` keywords to define notes related to a single object.
 
-{{% plantuml name="notes" %}}
+![render-43e4b612af241fdeab271b43c34e3d47.svg](/resource/diagrams/render-43e4b612af241fdeab271b43c34e3d47.svg)
+
+```plantuml render
+@startuml
+note left of HTTP : Web Service only
+
+note right of [First Component]
+  A note can also
+  be on several lines
+end note
+
+HTTP - [First Component]
+@enduml
+```
 
 ## Grouping components
 
 You can use several keywords to group components and interfaces together: package, node, folder, frame, cloud, database.
 
-{{% plantuml name="grouping" %}}
+![render-9a25cbd35ea7367486ecf3dbd42d62a7.svg](/resource/diagrams/render-9a25cbd35ea7367486ecf3dbd42d62a7.svg)
+
+```plantuml render
+@startuml
+package "Foo service" {
+    [First component] as foo.A
+    [Second component] as foo.B
+}
+
+database "foo-db" {
+    [some table] as foo.table.A
+    [another table] as foo.table.B
+}
+
+foo.A --> foo.table.A
+@enduml
+```
 
 ## Colors
 
 Colors can be applied using a variety of syntax. One method is
 `<color:red>Text</color>`. See https://plantuml.com/color for more information.
 
-{{% plantuml name="colors" collapse="true" %}}
+![render-2fb55c3f9bc55ff0d94de1986a0d3339.svg](/resource/diagrams/render-2fb55c3f9bc55ff0d94de1986a0d3339.svg)
+
+<details><summary>Source</summary>
+
+```plantuml render{"mode": "code-collapsed"}
+@startuml
+colors
+@enduml
+```
+
+</details>
