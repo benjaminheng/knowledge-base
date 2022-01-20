@@ -91,3 +91,14 @@ digraph G {
     A1 -> B -> A2;
 }
 ```
+
+## Left-to-right direction
+
+![render-32455c4fc3bf7fc9a6c67d15f4cfd869.svg](/resource/diagrams/render-32455c4fc3bf7fc9a6c67d15f4cfd869.svg)
+
+```dot render
+digraph G {
+    rankdir=LR;
+    A -> B -> C;
+}
+```
