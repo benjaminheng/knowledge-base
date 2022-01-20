@@ -42,7 +42,15 @@ straight line (`--`), and arrows (`-->`) symbols.
 
 Double dashes (or dots) orient the link vertically while a single dash orients the link horizontally.
 
-{{% plantuml name="arrows" %}}
+![render-8a1e6dc8e45c652570867bef06d79e6c.svg](/resource/diagrams/render-8a1e6dc8e45c652570867bef06d79e6c.svg)
+
+```plantuml render
+@startuml
+[A] -> [B]
+[B] .> [C]
+[C] --> [D]
+@enduml
+```
 
 ## Arrow labels
 
