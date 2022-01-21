@@ -24,6 +24,7 @@ category: tech
 - [History of different unicode standards: UTF-8 vs UTF-16 vs UTF-32](https://stackoverflow.com/questions/3473295/utf-8-or-utf-16-or-utf-32-or-ucs-2/3473635#3473635)
 - [A half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Short summary of the Rust language and its syntax
 - [Using the `perf` Linux profiler](https://www.brendangregg.com/perf.html)
+- [GPS](https://ciechanow.ski/gps/)
 
 ## Misc
 
