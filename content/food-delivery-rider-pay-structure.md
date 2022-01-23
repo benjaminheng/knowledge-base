@@ -45,8 +45,8 @@ Likely there are many other signals that contribute to the final fee.
 - Fee is based on:
     - Distance
     - Transport type (bicycle, scooter, or walking)
-- May automatically add grouped orders to a rider's delivery. The rider isn't
-  prompted to accept a grouped order.
+- Grab may automatically add grouped orders to a rider's delivery. The rider
+  isn't prompted to accept a grouped order.
 - Additional incentives provided by two systems, Zone Boost Gems and Quest Gems.
 - Zone Boost Gems:
     - Every week, different [zones](https://www.grab.com/sg/gfzone/) are assigned gem values.
