@@ -56,7 +56,7 @@ Likely there are many other signals that contribute to the final fee.
     - There isn't much information available on what a "mission" consists of.
     - Completing missions gives gems, which can be redeemed for cash.
 
-// TODO: look more into [Shift system](https://www.grab.com/sg/gfdp-shiftbooking/)
+// TODO: look more into the [shift system](https://www.grab.com/sg/gfdp-shiftbooking/)
 and the [different tiers](https://www.grab.com/sg/gfdp-emeraldcircle/).
 Scanning through the pages, it looks like shifts are a way to formalize a
 rider's commitment to delivery. Shifts come with more restrictions and
