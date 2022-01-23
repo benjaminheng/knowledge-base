@@ -3,6 +3,10 @@ title: Cooking
 category: recipes
 ---
 
+## Single portions
+
+- Pasta: 100g
+
 ## Pressure cooker timings
 
 Timings are for a Philips model HD2137/62.

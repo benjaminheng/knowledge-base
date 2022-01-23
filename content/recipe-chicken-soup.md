@@ -3,7 +3,7 @@ title: "Chicken soup"
 category: recipes
 ---
 
-- **Serves:** 2-3
+- **Serves:** 3
 - **Time:** 45 minutes
 
 ## Ingredients
