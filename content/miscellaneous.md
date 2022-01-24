@@ -14,6 +14,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [So you've made a mistake and it's public...](https://meta.wikimedia.org/wiki/So_you've_made_a_mistake_and_it's_public...)
 - [Find reddit discussions for TV shows](https://www.redditdiscuss.com/)
 - [Hacker News Books](https://hackernewsbooks.com/) - Search for HN references to books.
+- [search.marginalia.nu](https://search.marginalia.nu/explore/random) -- An "independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware"
 
 ## Travel
 
