@@ -104,6 +104,12 @@ h1.title {
 #right {
     flex-grow: 1;  /*ensures that the container will take up the full height of the parent container*/
 }
+details.mobile-menu {
+    display: none;
+    summary {
+        margin-left: 1em;
+    }
+}
 nav.menu {
     padding: 1em;
     ul {
@@ -207,6 +213,20 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 details > summary {
     cursor: pointer;
+}
+
+@media only screen and (max-width : 768px) {
+    #left {
+        max-width: 100%;
+        min-height: 2em;
+        nav.menu {
+            display: none;
+        }
+
+        details.mobile-menu {
+            display: block;
+        }
+    }
 }
 
 // @import is being deprecated in favor of @use, but Hugo's sass compiler only

@@ -6,7 +6,14 @@
     <div class="main-container">
       <!-- sidebar -->
       <div id="left" class="column">
-        {{ partial "menu-nested.html" . }}
+        <details class="mobile-menu">
+          <summary>Index</summary>
+          {{ partial "page-index.html" . }}
+        </details>
+        </nav>
+        <nav class="menu">
+          {{ partial "page-index.html" . }}
+        </nav>
       </div>
 
       <!-- content -->
