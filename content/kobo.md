@@ -41,6 +41,9 @@ really use any of these though.
 That said, I wouldn't recommend a Kobo to the average person. Kindles are more
 user-friendly. I'm not a fan of Amazon's dominance of books and ebooks, but
 most people don't care about that. I'm not a fan of the closed formats, but
-again, people don't care about that. Kindles make the happy path for the
-regular, non-technical user very convenient, and so is still my default
-recommendation.
+again, people don't care about that.
+
+Kindles make the happy path for the regular, non-technical user very
+convenient, and so is still my default recommendation. For people with strong
+opinions about how they want to read their books, I'd advise considering other
+brands before deciding.
