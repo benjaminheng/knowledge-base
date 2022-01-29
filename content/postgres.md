@@ -12,6 +12,7 @@ category: tech
 - [pgbadger](https://github.com/darold/pgbadger) - Analyze and generate reports from logs.
 - [WAL write amplification from UUID indexes](https://www.2ndquadrant.com/en/blog/on-the-impact-of-full-page-writes/)
 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- :star: [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 
 ## Queries
 
