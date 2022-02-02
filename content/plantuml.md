@@ -243,7 +243,6 @@ end note
 @enduml
 ```
 
-
 ## Sequence diagrams
 
 Documentation: https://plantuml.com/sequence-diagram
