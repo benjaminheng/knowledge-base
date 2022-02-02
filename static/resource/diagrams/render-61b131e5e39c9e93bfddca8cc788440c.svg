@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="116px" preserveAspectRatio="none" style="width:294px;height:116px;background:#FFFFFF;" version="1.1" viewBox="0 0 294 116" width="294px" zoomAndPan="magnify"><defs><filter height="300%" id="fw76lkyreddcz" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[a39f4bffbea95f922f5da8714f49e9ec]
+entity Foo--><rect fill="#FEFECE" filter="url(#fw76lkyreddcz)" height="46.4883" style="stroke:#A80036;stroke-width:1.5;" width="66" x="214.5" y="34"/><rect fill="#FEFECE" height="10" style="stroke:#A80036;stroke-width:1.5;" width="15" x="260.5" y="39"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="258.5" y="41"/><rect fill="#FEFECE" height="2" style="stroke:#A80036;stroke-width:1.5;" width="4" x="258.5" y="45"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="26" x="229.5" y="67.5352">Foo</text><path d="M6,6 L6,107.8633 A0,0 0 0 0 6,107.8633 L179,107.8633 A0,0 0 0 0 179,107.8633 L179,61 L214.36,57 L179,53 L179,16 L169,6 L6,6 A0,0 0 0 0 6,6 " fill="#FBFB77" filter="url(#fw76lkyreddcz)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M169,6 L169,16 L179,16 L169,6 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="23.5684">This is</text><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="30" x="58" y="23.5684">bold</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="38.8789">This is</text><text fill="#000000" font-family="sans-serif" font-size="13" font-style="italic" lengthAdjust="spacing" textLength="38" x="58" y="38.8789">italics</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="54.1895">This is</text><text fill="#000000" font-family="monospace" font-size="13" lengthAdjust="spacing" textLength="80" x="58" y="53.8657">monospaced</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="69.5">This is</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="line-through" textLength="80" x="58" y="69.5">stricken-out</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="84.8105">This is</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="67" x="58" y="84.8105">underlined</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="42" x="12" y="100.1211">This is</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="wavy underline" textLength="106" x="58" y="100.1211">wave-underlined</text><!--MD5=[255681b78deb615be0c32c0b9f541de4]
+@startuml
+component Foo
+note left
+  This is **bold**
+  This is //italics//
+  This is ""monospaced""
+  This is - -stricken-out- -
+  This is __underlined__
+  This is ~~wave-underlined~~
+end note
+@enduml
+
+PlantUML version 1.2022.0(Wed Jan 12 00:16:42 SGT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: SG
+--></g></svg>

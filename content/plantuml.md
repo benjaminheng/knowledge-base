@@ -225,6 +225,25 @@ block comment
 @enduml
 ```
 
+### Emphasized text
+
+![render-61b131e5e39c9e93bfddca8cc788440c.svg](/resource/diagrams/render-61b131e5e39c9e93bfddca8cc788440c.svg)
+
+```plantuml render
+@startuml
+component Foo
+note left
+  This is **bold**
+  This is //italics//
+  This is ""monospaced""
+  This is --stricken-out--
+  This is __underlined__
+  This is ~~wave-underlined~~
+end note
+@enduml
+```
+
+
 ## Sequence diagrams
 
 Documentation: https://plantuml.com/sequence-diagram
@@ -256,7 +275,7 @@ Client <-- Foo --
 
 ### Participants
 
-![render-896abe8a6d9800a18076a30423b48038.svg](/resource/diagrams/render-896abe8a6d9800a18076a30423b48038.svg)
+![render-1b538797a697f265fb68f0b75399bd38.svg](/resource/diagrams/render-1b538797a697f265fb68f0b75399bd38.svg)
 
 ```plantuml render
 @startuml
