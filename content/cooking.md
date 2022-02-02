@@ -12,7 +12,7 @@ category: recipes
 Timings are for a Philips model HD2137/62.
 
 - Chicken breast: 15min
-- Pasta: 4min
+- Pasta: 3min + ~5min natural release
 - Brown rice: 15min + 5min natural release (untested)
 
 ## General resources
