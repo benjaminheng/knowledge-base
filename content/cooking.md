@@ -5,7 +5,7 @@ category: recipes
 
 ## Single portions
 
-- Pasta: 100g
+- Pasta: 80g
 
 ## Pressure cooker timings
 
