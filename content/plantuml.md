@@ -351,3 +351,18 @@ on several lines
 end note
 @enduml
 ```
+
+## CLI
+
+### Make target to render diagrams
+
+When adding documentation to a repo, I usually have the .plantuml files as
+siblings to the documentation file. I'll then add the following to my
+`Makefile`. I then generate diagrams using `make diagrams`. The
+`-checkmetadata` flag will only render images where the source doesn't match
+the previously-generated image.
+
+```
+diagrams:
+    plantuml -metadata -checkmetadata -progress -tsvg ./docs/*.plantuml
+```
