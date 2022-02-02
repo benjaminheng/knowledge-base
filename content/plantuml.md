@@ -213,6 +213,18 @@ colors
 
 </details>
 
+### Comments
+
+```plantuml
+@startuml
+' This is a comment
+
+/' This is a
+block comment
+'/
+@enduml
+```
+
 ## Sequence diagrams
 
 Documentation: https://plantuml.com/sequence-diagram
