@@ -11,7 +11,8 @@ based on an article (now several years old) detailing the pay structures for
 riders on different delivery platforms. My takeaway from that article is that
 Deliveroo treats their riders the best, and thus I decided to support them. I
 can't recall what the article was, or what exactly led me to this decision, so
-I've decided to summarize the rider pay structures here.
+I've decided to perform my own research and summarize the rider pay structures
+of different delivery providers here.
 
 Based on the information gathered, I intend to continue supporting Deliveroo.
 Their pay structure is simple and upfront, with no bullshit. Grab has many more
