@@ -1,5 +1,6 @@
 ---
 title: Git aliases
+category: tech
 ---
 
 Several Git aliases I use. This list may not be exhaustive. See my dotfiles for more.
