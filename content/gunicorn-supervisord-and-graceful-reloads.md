@@ -258,6 +258,215 @@ digraph G {
 ## With supervisor
 
 Unfortunately the SIGUSR2 approach to gracefully reloading applications does
-not play nice with supervisor.
+not play nice with supervisor. The new gunicorn master process isn't owned by
+supervisor. When the old master process is terminated, supervisor will attempt
+to restart gunicorn. This results in there being two master processes.
 
-// TODO
+What we can do instead is wrap the gunicorn master processes with a script.
+Supervisor will manage this wrapper script, not the gunicorn master processes.
+The script will handle sending SIGUSR2/SIGTERM to reload gunicorn gracefully.
+The script will present itself to supervisor with a consistent PID to insulate
+supervisor from the changing PIDs of the currently-active gunicorn master process.
+
+<details>
+<summary>Click to view script</summary>
+
+```bash
+#!/bin/bash
+
+trap restart SIGHUP
+trap shutdown SIGTERM
+
+gunicorn_pidfile="/run/gunicorn.pid"
+gunicorn_args=("$@")
+
+function log() {
+    echo "[$(date --rfc-3339=seconds)] [gunicorn-wrapper] $1"
+}
+
+function shutdown() {
+    if [ -f "$gunicorn_pidfile" ]; then
+        pid=$(cat $gunicorn_pidfile)
+        log "Shutting down. Sending SIGTERM to $pid"
+        kill -s SIGTERM "$pid"
+        wait_pid "$pid"
+    fi
+    exit
+}
+
+function restart() {
+    if [ ! -f "$gunicorn_pidfile" ]; then
+        return
+    fi
+
+    old_gunicorn_pid=$(cat $gunicorn_pidfile)
+
+    # If existing pid doesn't exist, start gunicorn and return
+    if ! ps -p "$old_gunicorn_pid" &> /dev/null; then
+        start_gunicorn
+        return
+    fi
+
+    # Signal gunicorn to fork the master process
+    log "Sending SIGUSR2 to $old_gunicorn_pid"
+    kill -s SIGUSR2 "$old_gunicorn_pid"
+
+    # Give the new master process 30s to start up
+    sleep 30
+
+    # Gracefully terminate the old master process
+    log "Sending SIGTERM to $old_gunicorn_pid"
+    kill -s SIGTERM "$old_gunicorn_pid"
+    wait_pid "$old_gunicorn_pid"
+    log "Gunicorn pid $old_gunicorn_pid shutdown complete"
+    sleep 2
+    log "New gunicorn pid is $(cat $gunicorn_pidfile)"
+}
+
+function wait_pid() {
+    pid=$1
+    tail --pid="$pid" -f /dev/null
+}
+
+function start_gunicorn() {
+    log "Starting gunicorn"
+    gunicorn "${gunicorn_args[@]}" &
+}
+
+# Start gunicorn if not yet started
+if [ ! -f "$gunicorn_pidfile" ]; then
+    start_gunicorn
+elif ! ps -p "$(cat "$gunicorn_pidfile")" &> /dev/null; then
+    start_gunicorn
+fi
+
+# Loop to keep the script alive
+while true; do
+    sleep 5
+    # If somehow gunicorn has stopped, exit this script.
+    if [ ! -f "$gunicorn_pidfile" ]; then
+        exit
+    elif ! ps -p "$(cat "$gunicorn_pidfile")" &> /dev/null; then
+        exit
+    fi
+done
+```
+
+</details>
+
+When the script receives SIGTERM, we propagate the signal to the gunicorn
+process and wait for it to exit, before the script itself exits.
+
+```bash
+gunicorn_pidfile="/run/gunicorn.pid"
+trap shutdown SIGTERM
+
+function shutdown() {
+    if [ -f "$gunicorn_pidfile" ]; then
+        pid=$(cat $gunicorn_pidfile)
+        log "Shutting down. Sending SIGTERM to $pid"
+        kill -s SIGTERM "$pid"
+        wait_pid "$pid"
+    fi
+    exit
+}
+
+function wait_pid() {
+    pid=$1
+    tail --pid="$pid" -f /dev/null
+}
+```
+
+When the script receives SIGHUP, we gracefully reload gunicorn using the
+SIGUSR2+SIGTERM approach. The new gunicorn master process is given 30 seconds
+to warm up. This warm up period depends on how long it takes your application
+to start.
+
+```bash
+trap restart SIGHUP
+
+function restart() {
+    if [ ! -f "$gunicorn_pidfile" ]; then
+        return
+    fi
+
+    old_gunicorn_pid=$(cat $gunicorn_pidfile)
+
+    # If existing pid doesn't exist, start gunicorn and return
+    if ! ps -p "$old_gunicorn_pid" &> /dev/null; then
+        start_gunicorn
+        return
+    fi
+
+    # Signal gunicorn to fork the master process
+    log "Sending SIGUSR2 to $old_gunicorn_pid"
+    kill -s SIGUSR2 "$old_gunicorn_pid"
+
+    # Give the new master process 30s to start up
+    sleep 30
+
+    # Gracefully terminate the old master process
+    log "Sending SIGTERM to $old_gunicorn_pid"
+    kill -s SIGTERM "$old_gunicorn_pid"
+    wait_pid "$old_gunicorn_pid"
+    log "Gunicorn pid $old_gunicorn_pid shutdown complete"
+    sleep 2
+    log "New gunicorn pid is $(cat $gunicorn_pidfile)"
+}
+```
+
+When the script is first invoked, we start the gunicorn process if it is not
+already started. The script is kept alive using an infinite loop. Periodically
+within the loop, we check if gunicorn was externally killed, and exit the
+script if so. When the script exits, supervisor will handle restarting the
+script.
+
+```bash
+gunicorn_args=("$@")
+
+function start_gunicorn() {
+    log "Starting gunicorn"
+    gunicorn "${gunicorn_args[@]}" &
+}
+
+# Start gunicorn if not yet started
+if [ ! -f "$gunicorn_pidfile" ]; then
+    start_gunicorn
+elif ! ps -p "$(cat "$gunicorn_pidfile")" &> /dev/null; then
+    start_gunicorn
+fi
+
+# Loop to keep the script alive
+while true; do
+    sleep 5
+    # If somehow gunicorn has stopped, exit this script.
+    if [ ! -f "$gunicorn_pidfile" ]; then
+        exit
+    elif ! ps -p "$(cat "$gunicorn_pidfile")" &> /dev/null; then
+        exit
+    fi
+done
+```
+
+This wrapper script is a drop-in replacement for gunicorn in your supervisor config.
+
+```diff
+[program:app]
+- command=gunicorn
++ command=gunicorn-wrapper
+    --pid /run/gunicorn.pid
+    --chdir=/opt/code
+    wsgi:application 
+stopsignal=TERM
+```
+
+You can then trigger a hot reload of your application by sending SIGHUP to the
+program managed by supervisor.
+
+```bash
+kill -s SIGHUP $(supervisorctl pid app)
+```
+
+In Carousell we trigger these hot reloads using
+[consul-template](https://github.com/hashicorp/consul-template) whenever there
+is a configuration update.
