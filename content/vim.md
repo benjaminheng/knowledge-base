@@ -133,6 +133,19 @@ saved to disk.
 echo "some content" | nvim - -c "file /tmp/filename.txt"
 ```
 
+## Edit macro contents
+
+Use `C-r` followed by a register to paste the contents of the register.
+
+```
+:let @a=<C-r>a
+```
+
+When used in insert mode, the contents is pasted into the buffer. In insert mode,
+it's recommended to use `C-r` twice to paste literally, otherwise the text is
+treated as though typed and is subject to autoindent and other formatting
+options.
+
 ## Common errors
 
 ### Tab key not working in insert mode with UltiSnips, neovim
