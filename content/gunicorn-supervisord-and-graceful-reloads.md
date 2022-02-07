@@ -469,4 +469,5 @@ kill -s SIGHUP $(supervisorctl pid app)
 
 In Carousell we trigger these hot reloads using
 [consul-template](https://github.com/hashicorp/consul-template) whenever there
-is a configuration update.
+is a configuration update. Our service will reload and pick up the
+configuration changes.
