@@ -34,7 +34,7 @@ To illustrate, this is what happens when gunicorn receives SIGHUP:
 
 **Step 1**: Requests go to the worker processes.
 
-![gunicorn-sighup-handling-1.svg](/resource/diagrams/gunicorn-sighup-handling-1.svg)
+![gunicorn-sighup-handling-1.svg](/resource/diagrams/gunicorn-sighup-handling-1.svg) <!-- hash:e954a769 -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sighup-handling-1.svg"}
@@ -53,7 +53,7 @@ digraph G {
 workers. The new workers are not yet initialized and so can't process
 requests.
 
-![gunicorn-sighup-handling-2.svg](/resource/diagrams/gunicorn-sighup-handling-2.svg)
+![gunicorn-sighup-handling-2.svg](/resource/diagrams/gunicorn-sighup-handling-2.svg) <!-- hash:3559fcbb -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sighup-handling-2.svg"}
@@ -83,7 +83,7 @@ digraph G {
 requests. No new requests are going to old workers. New requests are still
 going to the yet uninitialized new workers.
 
-![gunicorn-sighup-handling-3.svg](/resource/diagrams/gunicorn-sighup-handling-3.svg)
+![gunicorn-sighup-handling-3.svg](/resource/diagrams/gunicorn-sighup-handling-3.svg) <!-- hash:6bd7461d -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sighup-handling-3.svg"}
@@ -112,7 +112,7 @@ digraph G {
 **Step 4**: Old workers finish shutting down. New workers are not yet
 initialized.
 
-![gunicorn-sighup-handling-4.svg](/resource/diagrams/gunicorn-sighup-handling-4.svg)
+![gunicorn-sighup-handling-4.svg](/resource/diagrams/gunicorn-sighup-handling-4.svg) <!-- hash:460394dd -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sighup-handling-4.svg"}
@@ -135,7 +135,7 @@ digraph G {
 **Step 5**: After about 20 seconds, the new workers are initialized. Requests are
 now getting processed again.
 
-![gunicorn-sighup-handling-5.svg](/resource/diagrams/gunicorn-sighup-handling-5.svg)
+![gunicorn-sighup-handling-5.svg](/resource/diagrams/gunicorn-sighup-handling-5.svg) <!-- hash:7609d11a -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sighup-handling-5.svg"}
@@ -166,7 +166,7 @@ To illustrate:
 
 **Step 1**: Before receiving the signal, gunicorn has one master process.
 
-![gunicorn-sigusr2-1.svg](/resource/diagrams/gunicorn-sigusr2-1.svg)
+![gunicorn-sigusr2-1.svg](/resource/diagrams/gunicorn-sigusr2-1.svg) <!-- hash:e954a769 -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sigusr2-1.svg"}
@@ -184,7 +184,7 @@ digraph G {
 **Step 2**: Sending SIGUSR2 to the master process will cause it to spawn a new
 one. The new master process starts to initialize its workers.
 
-![gunicorn-sigusr2-2.svg](/resource/diagrams/gunicorn-sigusr2-2.svg)
+![gunicorn-sigusr2-2.svg](/resource/diagrams/gunicorn-sigusr2-2.svg) <!-- hash:3389e72c -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sigusr2-2.svg"}
@@ -213,7 +213,7 @@ digraph G {
 **Step 3**: After the workers in the new master process are initialized,
 requests will start getting served by both masters.
 
-![gunicorn-sigusr2-3.svg](/resource/diagrams/gunicorn-sigusr2-3.svg)
+![gunicorn-sigusr2-3.svg](/resource/diagrams/gunicorn-sigusr2-3.svg) <!-- hash:c1595b4a -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sigusr2-3.svg"}
@@ -240,7 +240,7 @@ gracefully shut down its workers. The workers will finish processing the
 in-flight requests. The old master process will exit once all workers have
 exited. Only the new master remains.
 
-![gunicorn-sigusr2-4.svg](/resource/diagrams/gunicorn-sigusr2-4.svg)
+![gunicorn-sigusr2-4.svg](/resource/diagrams/gunicorn-sigusr2-4.svg) <!-- hash:7599318c -->
 
 <!--
 ```dot render{"mode": "code-hidden", "filename": "gunicorn-sigusr2-4.svg"}
