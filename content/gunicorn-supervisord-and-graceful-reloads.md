@@ -379,10 +379,35 @@ while true; do
 done
 ```
 
-This is the full source of the script:
+The [full source of the `gunicorn-wrapper` script](#gunicorn-wrapper-script)
+can be found in the appendices. This wrapper script is a drop-in replacement
+for gunicorn in your supervisor config.
 
-<details>
-<summary>Click to view source</summary>
+```diff
+[program:app]
+- command=gunicorn
++ command=gunicorn-wrapper
+    --pid /run/gunicorn.pid
+    --chdir=/opt/code
+    wsgi:application 
+stopsignal=TERM
+```
+
+You can then trigger a hot reload of your application by sending SIGHUP to the
+program managed by supervisor.
+
+```bash
+kill -s SIGHUP $(supervisorctl pid app)
+```
+
+In Carousell we trigger these hot reloads using
+[consul-template](https://github.com/hashicorp/consul-template) whenever there
+is a configuration update. Our service will reload and pick up the
+configuration changes.
+
+## Appendices
+
+### gunicorn-wrapper script
 
 ```bash
 #!/bin/bash
@@ -473,29 +498,3 @@ while true; do
     fi
 done
 ```
-
-</details>
-
-This wrapper script is a drop-in replacement for gunicorn in your supervisor config.
-
-```diff
-[program:app]
-- command=gunicorn
-+ command=gunicorn-wrapper
-    --pid /run/gunicorn.pid
-    --chdir=/opt/code
-    wsgi:application 
-stopsignal=TERM
-```
-
-You can then trigger a hot reload of your application by sending SIGHUP to the
-program managed by supervisor.
-
-```bash
-kill -s SIGHUP $(supervisorctl pid app)
-```
-
-In Carousell we trigger these hot reloads using
-[consul-template](https://github.com/hashicorp/consul-template) whenever there
-is a configuration update. Our service will reload and pick up the
-configuration changes.
