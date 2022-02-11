@@ -1,6 +1,7 @@
 ---
 title: "Gunicorn, supervisord, and graceful reloads"
 category: tech
+toc: true
 ---
 
 // TODO: this page is a WIP.
