@@ -1,9 +1,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="noindex">
   <title>{{ if .IsHome }}Home{{ else}}{{ .Title }}{{ end }} | {{ .Site.Title }}</title>
 
   {{ $style := resources.Get "css/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+
+  <script data-goatcounter="https://cc0395a8.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
