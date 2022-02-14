@@ -47,7 +47,22 @@ then unselect the pattern with `\ <regex>`.
 - `Y` / `gY`      -- yank (copy) current/all selected row(s) to system clipboard
 - `zY` / `gzY`    -- yank (copy) contents of current column for current/selected row(s) to system clipboard
 
+## Histogram
+
+- `Shift+F` to show a histogram of values in the selected column
+
 ## Save session (cmdlog)
 
 - Save cmdlog with `CTRL+D`
 - Replay cmdlog with the CLI flags `-p <cmdlog>` or `--play <cmdlog>`
+
+## Convert to X format
+
+```bash
+vd input.csv -b -o output.json
+vd input.csv -b -o output.html
+vd input.csv -b -o output.md
+vd input.csv -b --save-filetype json -o - # Output json to stdout
+```
+
+Tip: Convert to JSON and use `jq` to explore.
