@@ -8,19 +8,16 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Column manipulation
 
-- Adjust width:
-    - `_` -- toggle between full and default width
-    - `z_ <number>` -- set column width
+- `_`           -- toggle between full and default width
+- `z_ <number>` -- set column width
+- `^`           -- rename column
+- `i`           -- add column with incremental values
+- `: <regex>`   -- add new columns from regex split
+- `; <regex>`   -- add new columns from capture groups of regex
+- `-`           -- hide current column
+- `gv`          -- unhide all columns
 - Change data type: `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
-- `^` -- rename column
-- Create new columns:
-    - `i` -- add column with incremental values
-    - `: <regex>` -- add new columns from regex split
-    - `; <regex>` -- add new columns from capture groups of regex
-- Hide columns:
-    - `-` -- hide current column
-    - `gv` -- unhide all columns
-- Delete a column: `C` to go to Columns sheet, `d` to delete columns
+- Delete a column:  `C` to go to Columns sheet, `d` to delete columns
 
 ## Sorting
 
@@ -58,6 +55,7 @@ then unselect the pattern with `\ <regex>`.
 ## Histogram
 
 - `Shift+F` to show a histogram of values in the selected column
+- `<Enter>` on a histogram bin to view rows with that value
 
 ## Save session (cmdlog)
 
