@@ -6,14 +6,21 @@ toc: true
 
 See `man vd` for all options. This page is a reference for features I commonly use.
 
-## Adjust column width
+## Column manipulation
 
-- `_` toggle between full and default
-- `z_ <number>` set column width
-
-## Set column datatype
-
-- `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
+- Adjust width:
+    - `_` -- toggle between full and default width
+    - `z_ <number>` -- set column width
+- Change data type: `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
+- `^` -- rename column
+- Create new columns:
+    - `i` -- add column with incremental values
+    - `: <regex>` -- add new columns from regex split
+    - `; <regex>` -- add new columns from capture groups of regex
+- Hide columns:
+    - `-` -- hide current column
+    - `gv` -- unhide all columns
+- Delete a column: `C` to go to Columns sheet, `d` to delete columns
 
 ## Sorting
 
@@ -24,10 +31,10 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Select rows
 
-- `| <regex>`       -- Select rows matching regex in current column
-- `g| <regex>`      -- Select rows matching regex in all columns
-- `\ <regex>`       -- Unselect rows
-- `gs` / `gt` / `gu`     -- Select/toggle/unselect all rows
+- `| <regex>`       -- select rows matching regex in current column (`g` prefix for all columns)
+- `\ <regex>`       -- unselect rows matching regex in current column (`g` prefix for all columns)
+- `s` / `t` / `u`   -- select/toggle/unselect current row (`g` prefix for all rows)
+- `,`               -- select rows matching display value of current cell in current column
 
 Tip: To select rows not matching a pattern, first select all rows with `gs`
 then unselect the pattern with `\ <regex>`.
@@ -41,6 +48,7 @@ then unselect the pattern with `\ <regex>`.
 
 - `Shift+S` to view sheets.
 - `d` to remove sheets
+- `e` to rename sheet (`e` generally edits a column)
 
 ## Copying to clipboard
 
@@ -65,4 +73,12 @@ vd input.csv -b -o output.md
 vd input.csv -b --save-filetype json -o - # Output json to stdout
 ```
 
-Tip: Convert to JSON and use `jq` to explore.
+Tip: Convert CSV files to JSON and use `jq` to explore.
+
+## Explore fixed width data
+
+Many CLI programs output fixed width data. `vd` can be used to easily explore the output of these programs
+
+```bash
+kubectl get pods | vd -f fixed -
+```
