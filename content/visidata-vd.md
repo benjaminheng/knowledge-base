@@ -16,6 +16,7 @@ See `man vd` for all options. This page is a reference for features I commonly u
 - `; <regex>`   -- add new columns from capture groups of regex
 - `-`           -- hide current column
 - `gv`          -- unhide all columns
+- `(` / `)`     -- expand/collapse nested column (prefix with `g` to expand all _visible_ columns)
 - Change data type: `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
 - Delete a column:  `C` to go to Columns sheet, `d` to delete columns
 
