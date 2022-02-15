@@ -20,6 +20,11 @@ See `man vd` for all options. This page is a reference for features I commonly u
 - Change data type: `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
 - Delete a column:  `C` to go to Columns sheet, `d` to delete columns
 
+## Search
+
+- `/` / `g/`    -- search forward in current/all columns
+- `?` / `g?`    -- search backward in current/all columns
+
 ## Sorting
 
 - `[` / `]`      -- sort ascending/descending by current column; replace any existing sort criteria
@@ -32,10 +37,7 @@ See `man vd` for all options. This page is a reference for features I commonly u
 - `| <regex>`       -- select rows matching regex in current column (`g` prefix for all columns)
 - `\ <regex>`       -- unselect rows matching regex in current column (`g` prefix for all columns)
 - `s` / `t` / `u`   -- select/toggle/unselect current row (`g` prefix for all rows)
-- `,`               -- select rows matching display value of current cell in current column
-
-Tip: To select rows not matching a pattern, first select all rows with `gs`
-then unselect the pattern with `\ <regex>`.
+- `,`               -- select all rows where the current column matches the current cell (`g` prefix to match all columns)
 
 ## Filtering rows
 
