@@ -80,3 +80,8 @@ Many CLI programs output fixed width data. `vd` can be used to easily explore th
 ```bash
 kubectl get pods | vd -f fixed -
 ```
+
+## Filter by date
+
+1. `z|` to filter a column by a Python expression
+2. `COLNAME > datetime.date(2022, 1, 1)` as the expression.
