@@ -14,4 +14,4 @@ category: games
 - 2021-11-05: 1m10s
 - 2021-11-27: 59.475s (first sub-60s)
 - 2021-12-29: 54.870s (first sub-55s)
-- 2021-02-12: 49.065s (first sub-50s)
+- 2022-02-12: 49.065s (first sub-50s)
