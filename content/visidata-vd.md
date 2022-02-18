@@ -51,12 +51,14 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Select rows
 
-| Shortcut        | Description                                                                                         |
-| ---             | ---                                                                                                 |
-| `\| <regex>`    | select rows matching regex in current column (`g` prefix for all columns)                          |
-| `\ <regex>`     | unselect rows matching regex in current column (`g` prefix for all columns)                         |
-| `s` / `t` / `u` | select/toggle/unselect current row (`g` prefix for all rows)                                        |
-| `,`             | select all rows where the current column matches the current cell (`g` prefix to match all columns) |
+| Shortcut              | Description                                                       |
+| ---                   | ---                                                               |
+| `\|` / `g\|`          | select rows matching regex in current/all columns                 |
+| `\` / `g\`            | unselect rows matching regex in current/all columns               |
+| `s` / `t` / `u`       | select/toggle/unselect current row                                |
+| `gs` / `gt` / `gu`    | select/toggle/unselect all rows                                   |
+| `,`                   | select all rows where the current column matches the current cell |
+| `g,`                  | select all rows where any column matches the current cell         |
 
 - To select all rows except a pattern, first select the pattern using `|
   <regex>`, then `gt` to invert the selection.
