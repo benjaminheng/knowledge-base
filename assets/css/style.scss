@@ -193,18 +193,17 @@ blockquote {
 
 table {
     border-collapse: collapse;
-    margin: auto;
+    width: 100%;
     thead th {
         text-align: left;
-        border-bottom: 1px solid #ccc;
+        border-bottom: 2px solid #ccc;
     }
     th, td {
         padding: 5px;
+        border: 1px solid #ccc;
     }
+    thead, tfoot, tr:nth-child(even) { background: #f0f0f0; }
 }
-table thead th { border-bottom: 1px solid #ddd; }
-th, td { padding: 5px; }
-thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 .footnotes ol li p {
     margin-top: 0;

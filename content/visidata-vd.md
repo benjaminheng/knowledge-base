@@ -8,36 +8,58 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Column manipulation
 
-- `_`           -- toggle between full and default width
-- `z_ <number>` -- set column width
-- `^`           -- rename column
-- `i`           -- add column with incremental values
-- `: <regex>`   -- add new columns from regex split
-- `; <regex>`   -- add new columns from capture groups of regex
-- `-`           -- hide current column
-- `gv`          -- unhide all columns
-- `(` / `)`     -- expand/collapse nested column (prefix with `g` to expand all _visible_ columns)
-- Change data type: `~` str; `#` int; `%` float; `$` currency; `@` date; `z#` length
-- Delete a column:  `C` to go to Columns sheet, `d` to delete columns
+| Shortcut      | Description                                                                     |
+| ---           | ---                                                                             |
+| `_`           | toggle between full and default width                                           |
+| `z_ <number>` | set column width                                                                |
+| `^`           | rename column                                                                   |
+| `i`           | add column with incremental values                                              |
+| `: <regex>`   | add new columns from regex split                                                |
+| `; <regex>`   | add new columns from capture groups of regex                                    |
+| `-`           | hide current column                                                             |
+| `gv`          | unhide all columns                                                              |
+| `C`           | go to Columns sheet                                                             |
+| `(` / `)`   | expand/collapse nested column        |
+| `g(` / `g)` | expand/collapse all _visible_ columns |
+
+## Change column data type
+
+| Shortcut | Description                                                 |
+| ---      | ---                                                         |
+| `~`      | string                                                      |
+| `#`      | int                                                         |
+| `%`      | float                                                       |
+| `$`      | currency (this is just a dirty float with 2 decimal places) |
+| `@`      | date                                                        |
+| `z#`     | length                                                      |
 
 ## Search
 
-- `/` / `g/`    -- search forward in current/all columns
-- `?` / `g?`    -- search backward in current/all columns
+| Shortcut   | Description                            |
+| ---        | ---                                    |
+| `/` / `g/` | search forward in current/all columns  |
+| `?` / `g?` | search backward in current/all columns |
 
 ## Sorting
 
-- `[` / `]`      -- sort ascending/descending by current column; replace any existing sort criteria
-- `g[` / `g]`     -- sort ascending/descending by all key columns; replace any existing sort criteria
-- `z[` / `z]`     -- sort ascending/descending by current column; add to existing sort criteria
-- `gz[` / `gz]`    -- sort ascending/descending by all key columns; add to existing sort criteria
+| Shortcut      | Description                                                                      |
+| ---           | ---                                                                              |
+| `[` / `]`     | sort ascending/descending by current column; replace any existing sort criteria  |
+| `g[` / `g]`   | sort ascending/descending by all key columns; replace any existing sort criteria |
+| `z[` / `z]`   | sort ascending/descending by current column; add to existing sort criteria       |
+| `gz[` / `gz]` | sort ascending/descending by all key columns; add to existing sort criteria      |
 
 ## Select rows
 
-- `| <regex>`       -- select rows matching regex in current column (`g` prefix for all columns)
-- `\ <regex>`       -- unselect rows matching regex in current column (`g` prefix for all columns)
-- `s` / `t` / `u`   -- select/toggle/unselect current row (`g` prefix for all rows)
-- `,`               -- select all rows where the current column matches the current cell (`g` prefix to match all columns)
+| Shortcut        | Description                                                                                         |
+| ---             | ---                                                                                                 |
+| `\| <regex>`    | select rows matching regex in current column (`g` prefix for all columns)                          |
+| `\ <regex>`     | unselect rows matching regex in current column (`g` prefix for all columns)                         |
+| `s` / `t` / `u` | select/toggle/unselect current row (`g` prefix for all rows)                                        |
+| `,`             | select all rows where the current column matches the current cell (`g` prefix to match all columns) |
+
+- To select all rows except a pattern, first select the pattern using `|
+  <regex>`, then `gt` to invert the selection.
 
 ## Filtering rows
 
@@ -52,8 +74,10 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Copying to clipboard
 
-- `Y` / `gY`      -- yank (copy) current/all selected row(s) to system clipboard
-- `zY` / `gzY`    -- yank (copy) contents of current column for current/selected row(s) to system clipboard
+| Shortcut     | Description                                                                            |
+| ---          | ---                                                                                    |
+| `Y` / `gY`   | yank (copy) current/all selected row(s) to system clipboard                            |
+| `zY` / `gzY` | yank (copy) contents of current column for current/selected row(s) to system clipboard |
 
 ## Histogram
 
