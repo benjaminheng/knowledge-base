@@ -8,19 +8,19 @@ See `man vd` for all options. This page is a reference for features I commonly u
 
 ## Column manipulation
 
-| Shortcut      | Description                                                                     |
-| ---           | ---                                                                             |
-| `_`           | toggle between full and default width                                           |
-| `z_ <number>` | set column width                                                                |
-| `^`           | rename column                                                                   |
-| `i`           | add column with incremental values                                              |
-| `: <regex>`   | add new columns from regex split                                                |
-| `; <regex>`   | add new columns from capture groups of regex                                    |
-| `-`           | hide current column                                                             |
-| `gv`          | unhide all columns                                                              |
-| `C`           | go to Columns sheet                                                             |
-| `(` / `)`   | expand/collapse nested column        |
-| `g(` / `g)` | expand/collapse all _visible_ columns |
+| Shortcut      | Description                                  |
+| ---           | ---                                          |
+| `_`           | toggle between full and default width        |
+| `z_ <number>` | set column width                             |
+| `^`           | rename column                                |
+| `i`           | add column with incremental values           |
+| `: <regex>`   | add new columns from regex split             |
+| `; <regex>`   | add new columns from capture groups of regex |
+| `-`           | hide current column                          |
+| `gv`          | unhide all columns                           |
+| `C`           | go to Columns sheet                          |
+| `(` / `)`     | expand/collapse nested column                |
+| `g(` / `g)`   | expand/collapse all _visible_ columns        |
 
 ## Change column data type
 
