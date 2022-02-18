@@ -1,6 +1,7 @@
 ---
 title: uBlock Origin filters
 ---
+
 ## Remove YouTube end cards
 
 The end cards that YouTube shows at the end of videos will block video content
@@ -34,3 +35,7 @@ www.youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search for/)
 ```
+
+## Block copycat github/stackoverflow sites from search results
+
+https://github.com/quenhus/uBlock-Origin-dev-filter
