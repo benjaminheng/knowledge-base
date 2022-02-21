@@ -69,6 +69,18 @@ See `man vd` for all options. This page is a reference for features I commonly u
 1. Select rows
 2. `"` to open selected rows in new sheet
 
+## Editing
+
+| Shortcut             | Description                                                                        |
+| ---                  | ---                                                                                |
+| `e`                  | edit contents of current cell                                                      |
+| `ge <text>`          | set contents of current column for selected rows to _text_                         |
+| `g* <regex>/<subst>` | replace matching _regex_ in current column for selected rows with _subst_          |
+| `g= <expr>`          | evaluate Python _expr_ over each selected row and set current column to the result |
+
+Tip: Columns can be renamed in bulk in the Columns sheet `Shift+C`. `g*` is
+particularly useful here.
+
 ## Sheet management
 
 - `Shift+S` to view sheets.

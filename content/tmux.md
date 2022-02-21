@@ -24,5 +24,5 @@ Use [ansi2html](https://github.com/pycontribs/ansi2html) to render the output
 to HTML.
 
 ```
-$ cat /tmp/tmux.log | ansi2html > /tmp/output.html
+cat /tmp/tmux.log | ansi2html > /tmp/output.html
 ```
