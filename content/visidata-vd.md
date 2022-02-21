@@ -55,6 +55,7 @@ See `man vd` for all options. This page is a reference for features I commonly u
 | ---                   | ---                                                               |
 | `\|` / `g\|`          | select rows matching regex in current/all columns                 |
 | `\` / `g\`            | unselect rows matching regex in current/all columns               |
+| `z\|` / `z\`          | select/unselect rows matching a Python expr in any visible column |
 | `s` / `t` / `u`       | select/toggle/unselect current row                                |
 | `gs` / `gt` / `gu`    | select/toggle/unselect all rows                                   |
 | `,`                   | select all rows where the current column matches the current cell |
