@@ -25,6 +25,7 @@ category: tech
 - [A half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) - Short summary of the Rust language and its syntax
 - [Using the `perf` Linux profiler](https://www.brendangregg.com/perf.html)
 - [GPS](https://ciechanow.ski/gps/)
+- [Datawrapper -- data visualization](https://www.datawrapper.de/)
 
 ## Misc
 
