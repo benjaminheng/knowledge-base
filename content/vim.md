@@ -146,6 +146,21 @@ it's recommended to use `C-r` twice to paste literally, otherwise the text is
 treated as though typed and is subject to autoindent and other formatting
 options.
 
+## Update buffer from external command, keeping cursor position
+
+I haven't tested the actual command yet, this is just a demonstration of
+[`winsaveview`](https://vimhelp.org/builtin.txt.html#winsaveview%28%29),
+[`winrestview`](https://vimhelp.org/builtin.txt.html#winrestview%28%29), and
+[`keepjumps`](https://vimhelp.org/motion.txt.html#%3Akeepjumps).
+
+```
+function Format() {
+    let s:save = winsaveview()
+    silent keepjumps execute !goimports -w %
+    call winrestview(s:save)
+}
+```
+
 ## Common errors
 
 ### Tab key not working in insert mode with UltiSnips, neovim
