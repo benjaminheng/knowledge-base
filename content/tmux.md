@@ -11,7 +11,7 @@ tmux capture-pane -b <buffer_name>
 tmux save-buffer -b <buffer_name> /tmp/tmux.log
 ```
 
-## Copy tmux pane contents to file (with ANSI color codes)
+## Copy tmux pane contents to a file (with ANSI color codes)
 
 Call `capture-pane` with the `-e` flag to capture color codes.
 
