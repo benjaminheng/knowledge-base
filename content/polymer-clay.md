@@ -2,22 +2,6 @@
 title: Polymer clay
 ---
 
-## Where to buy
-
-Sculpey Premo is almost always sold out in stores.
-
-- Shopee (Art Friend):
-  [1](https://shopee.sg/Sculpey-Premo-i.349330423.10707454379),
-  [2](https://shopee.sg/Sculpey-Premo-i.349330423.9360607840),
-  [3](https://shopee.sg/Sculpey-Premo-i.349330423.11307530877) 
-- [Spotlight](https://www.spotlightstores.com/sg/craft-hobbies/art-supplies/modelling/modelling-clay/sculpey-premo-oven-bake-clay/BP80351272-alizarin-crimson)
-- [Carousell](https://www.carousell.sg/search/sculpey%20premo)
-- Overseas stores:
-    - [DickBlick](https://www.dickblick.com/products/sculpey-premo/)
-    - [Official Sculpey store](https://www.sculpey.com/20-premo-sculpey)
-    - [Polymer Clay Superstore](https://polymerclaysuperstore.com/products/sculpey-premo)
-    - [Blueberry Beads](https://shop.blueberrybeads.com/clay/sculpey/premo/)
-
 ## General resources
 
 - [Glass Attic](https://www.glassattic.com/) is an extremely detailed polymer
@@ -31,6 +15,8 @@ Sculpey Premo is almost always sold out in stores.
 - [Cat 2](https://www.youtube.com/watch?v=qgBXDFfJSfU)
 - [Cats 3](https://www.reddit.com/r/crafts/comments/q8zxax/we_have_our_first_big_event_today_i_made_so_many/)
 - [Knitting pattern](https://www.youtube.com/watch?v=x_tROGXipzU)
+- [Brownie](https://www.youtube.com/watch?v=87ysrmJ3Uro) -- Contains techniques
+  for doing a cake-like texture.
 
 ## Baking
 
@@ -82,3 +68,20 @@ Here's my method using mineral oil:
 A little mineral oil goes a long way. The amount of oil to add depends on the
 amount of clay you have and how hard it is. Start with 3-5 drops, and add more
 as needed.
+
+## Where to buy
+
+Sculpey Premo is almost always sold out in stores.
+
+- Shopee (Art Friend):
+  [1](https://shopee.sg/Sculpey-Premo-i.349330423.10707454379),
+  [2](https://shopee.sg/Sculpey-Premo-i.349330423.9360607840),
+  [3](https://shopee.sg/Sculpey-Premo-i.349330423.11307530877) 
+- [Spotlight](https://www.spotlightstores.com/sg/craft-hobbies/art-supplies/modelling/modelling-clay/sculpey-premo-oven-bake-clay/BP80351272-alizarin-crimson)
+- [Carousell](https://www.carousell.sg/search/sculpey%20premo)
+- Overseas stores:
+    - [DickBlick](https://www.dickblick.com/products/sculpey-premo/)
+    - [Official Sculpey store](https://www.sculpey.com/20-premo-sculpey)
+    - [Polymer Clay Superstore](https://polymerclaysuperstore.com/products/sculpey-premo)
+    - [Blueberry Beads](https://shop.blueberrybeads.com/clay/sculpey/premo/)
+
