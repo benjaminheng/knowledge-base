@@ -26,3 +26,6 @@ to HTML.
 ```
 cat /tmp/tmux.log | ansi2html > /tmp/output.html
 ```
+
+I use this method in my blog post: [Exploring my listen history with
+VisiData](https://hbenjamin.com/post/exploring-my-listen-history-with-visidata/).
