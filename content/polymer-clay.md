@@ -17,6 +17,7 @@ title: Polymer clay
 - [Knitting pattern](https://www.youtube.com/watch?v=x_tROGXipzU)
 - [Brownie](https://www.youtube.com/watch?v=87ysrmJ3Uro) -- Contains techniques
   for doing a cake-like texture.
+- [Various animals](https://www.reddit.com/r/polymerclay/comments/tb6avt/more_little_critters_thank_you_guys_sm_for_your/)
 
 ## Baking
 
