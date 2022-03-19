@@ -10,16 +10,15 @@ title: "Beef stew"
 
 ## Ingredients
 
-- Onions
-- Celery?
 - 500ml beef stock
 - 500g beef cubes
 - 50g frozen peas
 - ?g onions; diced
 - 15g gelatin
 - 30g tomato paste
-- 150g carrots
-- 200g potatoes
+- 200g carrots
+- 150g celery
+- 250g potatoes
 - Mixed spices
 
 ## Directions
