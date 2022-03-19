@@ -16,6 +16,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Hacker News Books](https://hackernewsbooks.com/) - Search for HN references to books.
 - [search.marginalia.nu](https://search.marginalia.nu/explore/random) -- An "independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware"
 - [Musicbed - Licensed music](https://www.musicbed.com)
+- [Projector Plus](https://theprojector.sg/themes/now-on-vod/) - Movie rental service by The Projector.
 
 ## Travel
 
