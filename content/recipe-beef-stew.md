@@ -12,17 +12,18 @@ title: "Beef stew"
 
 - 500ml beef stock
 - 500g beef cubes
-- 50g frozen peas
-- ?g onions; diced
 - 15g gelatin
 - 30g tomato paste
-- 200g carrots
-- 150g celery
-- 250g potatoes
+- 50g frozen peas
+- 150g onions; diced
+- 200g carrots; sliced
+- 150g celery; sliced
+- 250g potatoes; diced
 - Mixed spices
 
 ## Directions
 
+- Put all ingredients into a pot.
 - Pressure cook for 30 minutes
 
 ## TODO
