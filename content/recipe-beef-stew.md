@@ -5,12 +5,12 @@ title: "Beef stew"
 
 // TODO: recipe under development
 
-- **Serves:** ?
-- **Time:** ? minutes
+- **Serves:** 2
+- **Time:** 55 minutes
 
 ## Ingredients
 
-- 250ml beef stock
+- 450ml beef stock
 - 500g beef cubes
 - 15g gelatin
 - 30g tomato paste
@@ -24,7 +24,9 @@ title: "Beef stew"
 ## Directions
 
 - Put all ingredients into a pot.
-- Pressure cook for 30 minutes
+- Pressure cook for 25 minutes
+- Slow release for 10 minutes
+- Leave to thicken for 10 minutes
 
 ## TODO
 
@@ -34,11 +36,7 @@ title: "Beef stew"
 - Is gelatin a decent substitute for flour? 
 - Experiment with mushrooms. I find that mushrooms don't reheat well, but worth another try.
 - Iteration 1:
-    - Bit too watery. Reduce stock from 500ml to 250ml. Might require some
-      flour too.
+    - Bit too watery. Reduce stock from 500ml to 450ml.
     - 30 minute pressure cook is good. Consider reducing to 25 minutes if
       planning to freeze.
-    - Potatoes are fine but might be a bit soft given that I'll be freezing and
-      reheating it. Consider cooking potatoes separately next time?
-    - Taste is excellent. No additional seasoning required.
     - Increase carrots from 200g to 250g.
