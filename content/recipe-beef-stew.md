@@ -33,6 +33,7 @@ title: "Beef stew"
 
 ## Notes
 
-- Stew is a little watery immediately after cooking. It thickens up after
-  freezing and being reheated.
+- I recommend making this to freeze and reheat for meals later. The stew is a
+  little watery immediately after cooking, but thickens up after being
+  reheated.
 - Consider bread or rice on the side.
