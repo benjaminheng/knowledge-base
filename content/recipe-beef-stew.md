@@ -3,10 +3,14 @@ category: recipes
 title: "Beef stew"
 ---
 
-// TODO: recipe under development
-
 - **Serves:** 2
 - **Time:** 55 minutes
+- **Nutrition:**
+    - Calories: 663 Cal
+    - Protein: 83g
+    - Fat: 81g
+    - Carbs: 305g
+- **Approx. cost:** $9 ($6 for beef alone)
 
 ## Ingredients
 
@@ -26,17 +30,9 @@ title: "Beef stew"
 - Put all ingredients into a pot.
 - Pressure cook for 25 minutes
 - Slow release for 10 minutes
-- Leave to thicken for 10 minutes
 
-## TODO
+## Notes
 
-- Experiment with different timings
-- Experiment with freezing the stew. How does it hold up after a couple weeks?
-  Do the potatoes need to be frozen separately?
-- Is gelatin a decent substitute for flour? 
-- Experiment with mushrooms. I find that mushrooms don't reheat well, but worth another try.
-- Iteration 1:
-    - Bit too watery. Reduce stock from 500ml to 450ml.
-    - 30 minute pressure cook is good. Consider reducing to 25 minutes if
-      planning to freeze.
-    - Increase carrots from 200g to 250g.
+- Stew is a little watery immediately after cooking. It thickens up after
+  freezing and being reheated.
+- Consider bread or rice on the side.
