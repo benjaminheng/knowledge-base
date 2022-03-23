@@ -36,6 +36,12 @@ www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search for/)
 ```
 
+## Remove shorts from subscriptions feed
+
+```
+##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/SHORTS/)
+```
+
 ## Block copycat github/stackoverflow sites from search results
 
 https://github.com/quenhus/uBlock-Origin-dev-filter
