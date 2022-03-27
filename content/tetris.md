@@ -16,3 +16,8 @@ category: games
 - 2021-12-29: 54.870s (first sub-55s)
 - 2022-02-12: 49.065s (first sub-50s)
 - 2022-03-26: 46.053s
+
+## Practice downstacking
+
+In tetrio, go into Zen mode and configure: (1) levelling off, (2) cheese height
+to 6, (3) cheese timer to 4.
