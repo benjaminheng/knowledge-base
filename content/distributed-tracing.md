@@ -38,6 +38,9 @@ category: tech
 
 - [Semantic conventions](https://opentelemetry.io/docs/reference/specification/trace/semantic_conventions/)
 - [Migrating from OpenTracing](https://opentelemetry.io/docs/migration/opentracing/)
+- [Assigning custom trace IDs using an IDGenerator](https://github.com/open-telemetry/opentelemetry-go/blob/625d76daea7147c5f28a364cb77540d966615ff3/sdk/trace/provider.go#L318-L332)
+  -- Useful if your application generates a unique request ID and you want to
+  use it for the corresponding trace as well.
 
 ## Reading queue
 
