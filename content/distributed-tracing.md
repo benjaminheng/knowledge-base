@@ -34,7 +34,11 @@ category: tech
 - [Jaeger using Kubernetes - various deployment configurations](https://github.com/jaegertracing/jaeger-kubernetes)
 - :star: [Distributed Tracing Infrastructure with Jaeger on Kubernetes](https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677)
 
+## OpenTelemetry
+
+- [Semantic conventions](https://opentelemetry.io/docs/reference/specification/trace/semantic_conventions/)
+- [Migrating from OpenTracing](https://opentelemetry.io/docs/migration/opentracing/)
+
 ## Reading queue
 
 - [Canopy: Scalable Distributed Tracing & Analysis @ Facebook (49m video)](https://www.infoq.com/presentations/canopy-scalable-tracing-analytics-facebook/)
-
