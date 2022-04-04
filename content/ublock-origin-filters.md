@@ -1,5 +1,6 @@
 ---
 title: uBlock Origin filters
+toc: true
 ---
 
 ## [YouTube] Remove end cards
