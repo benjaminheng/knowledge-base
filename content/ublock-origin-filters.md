@@ -2,7 +2,7 @@
 title: uBlock Origin filters
 ---
 
-## Remove YouTube end cards
+## [YouTube] Remove end cards
 
 The end cards that YouTube shows at the end of videos will block video content
 if the author doesn't specifically add an additional few seconds of buffer to
@@ -13,7 +13,7 @@ experience on YouTube is much better without the end cards.
 www.youtube.com##.ytp-ce-element-show
 ```
 
-## Remove bullshit from YouTube search results
+## [YouTube] Remove bullshit from search results
 
 When searching for something, YouTube insists on interspersing the search
 results with a bunch of completely unrelated videos. These are the sections
@@ -36,12 +36,18 @@ www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search for/)
 ```
 
-## Remove shorts from subscriptions feed
+## [YouTube] Remove shorts from subscriptions feed
 
 ```
 ##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/SHORTS/)
 ```
 
-## Block copycat github/stackoverflow sites from search results
+## [Google] Block copycat github/stackoverflow sites from search results
 
 https://github.com/quenhus/uBlock-Origin-dev-filter
+
+## [Carousell] Remove spotlight search results
+
+```
+www.carousell.sg##[data-testid*="listing-card-"]:has(p:has-text(/Spotlight/))
+```
