@@ -15,8 +15,12 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Find reddit discussions for TV shows](https://www.redditdiscuss.com/)
 - [Hacker News Books](https://hackernewsbooks.com/) - Search for HN references to books.
 - [search.marginalia.nu](https://search.marginalia.nu/explore/random) -- An "independent DIY search engine that focuses on non-commercial content, and attempts to show you sites you perhaps weren't aware"
-- [Musicbed - Licensed music](https://www.musicbed.com)
 - [Projector Plus](https://theprojector.sg/themes/now-on-vod/) - Movie rental service by The Projector.
+
+## Music
+
+- [Musicbed - Licensed music](https://www.musicbed.com)
+- [Royalty free music](https://www.hurtrecord.com/bgm/) -- Japanese site, BGM, used by the tetrio soundtrack.
 
 ## Travel
 
