@@ -20,10 +20,10 @@ Depending on the game I either use touch controls or the on-screen controller
 buttons. I'm waiting for a tablet mount to be delivered, at which point I'll
 likely switch to using my controller connected to the PC (host device).
 
-Input lag is noticeable depending on the game. I estimate it to be about 30ms.
-Fast-paced games like first-person shooters are not ideal, though doable. Frame
-accurate games like Tetris or fighting games are out of the question. However
-there are lots of games that are perfectly playable.
+Input lag may be noticeable depending on the game. I estimate it to be about
+30ms. Fast-paced games like first-person shooters are not ideal, though
+doable. Frame accurate games like Tetris or fighting games are out of the
+question. However there are lots of games that are perfectly playable.
 
 [Moonlight](https://moonlight-stream.org/) is another app for streaming games.
 It's an open-source implementation of Nvidia's GameStream technology, the same
@@ -56,6 +56,6 @@ controller buttons, so you have to pick your tradeoffs.
 
 Works well with touch controls. Input lag is not noticeable at all. The game
 makes use of right-click as a back button, and I prefer Steam Link's back
-button interaction. On the Steam Link the back button is a tap with two
-fingers, on Moonlight it's tap and hold with one finger. The two finger tap is
-faster, but maybe a little less ergonomic for some.
+button interaction. On the Steam Link a right-click is a tap with two fingers,
+on Moonlight it's a tap and hold with one finger. The two finger tap is faster,
+but maybe a little less ergonomic for some.
