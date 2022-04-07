@@ -46,13 +46,13 @@ sitting on my PC. Typically these are narrative-heavy or casual games.
 
 ## Games I've played
 
-## [Coromon](https://store.steampowered.com/app/1218210/Coromon/)
+### [Coromon](https://store.steampowered.com/app/1218210/Coromon/)
 
 Works well with on-screen controller buttons. Feels slightly better on
 Moonlight with the lower input lag, but Moonlight has worse on-screen
 controller buttons, so you have to pick your tradeoffs.
 
-## [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/)
+### [Phoenix Wright: Ace Attorney Trilogy](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/)
 
 Works well with touch controls. Input lag is not noticeable at all. The game
 makes use of right-click as a back button, and I prefer Steam Link's back
