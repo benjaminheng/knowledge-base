@@ -16,6 +16,7 @@ category: games
 - 2021-12-29: 54.870s (first sub-55s)
 - 2022-02-12: 49.065s (first sub-50s)
 - 2022-03-26: 46.053s
+- 2022-04-07: 45.230s
 
 ## Practice downstacking
 
