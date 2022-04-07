@@ -18,7 +18,7 @@ simple to set up and works really well. Steam Link supports a variety of inputs:
 
 Depending on the game I either use touch controls or the on-screen controller
 buttons. I'm waiting for a tablet mount to be delivered, at which point I'll
-likely switch to my external controller connected to the PC (host device).
+likely switch to using my controller connected to the PC (host device).
 
 Input lag is noticeable depending on the game. I estimate it to be about 30ms.
 Fast-paced games like first-person shooters are not ideal, though doable. Frame
