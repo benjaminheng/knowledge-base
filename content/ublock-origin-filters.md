@@ -52,3 +52,14 @@ https://github.com/quenhus/uBlock-Origin-dev-filter
 ```
 www.carousell.sg##[data-testid*="listing-card-"]:has(p:has-text(/Spotlight/))
 ```
+
+## [StackExchange] Remove cookie consent banner
+
+Normally if you use the element picker mode to remove the banner whenever you
+come across it, it'll only get removed for that particular subdomain. There are
+so many StackExchange subdomains that you'll probably encounter it again.
+Remove the banner for all subdomains with this.
+
+```
+stackexchange.com##.js-consent-banner
+```
