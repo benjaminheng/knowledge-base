@@ -18,6 +18,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Projector Plus](https://theprojector.sg/themes/now-on-vod/) - Movie rental service by The Projector.
 - [SaaS landing page examples](https://saaslandingpage.com/)
 - [Anatomy of a mechanical watch](https://ciechanow.ski/mechanical-watch/)
+- [smallandroidphone.com](https://smallandroidphone.com/)
 
 ## Music
 
