@@ -22,6 +22,7 @@ category: fitness
 - [Sport Anchors – Part 3 of 4 – Cleaning the Anchor](https://www.vdiffclimbing.com/clean-bolted-anchor/)
 - [Using rope as PAS](https://www.mountainproject.com/forum/topic/108506432/anything-wrong-with-this-pas#ForumMessage-108507208)
 - [Cleaning sport anchors](https://www.youtube.com/watch?v=G7N5RcsSyUw)
+- [Rapping off anchors](https://vimeo.com/167639018)
 
 ## Misc
 
