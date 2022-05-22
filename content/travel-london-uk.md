@@ -1,5 +1,5 @@
 ---
-title: Travel to London
+title: Travel to London, UK
 toc: true
 category: travel
 ---
@@ -30,7 +30,7 @@ General tips:
 - Snatch thieves are common. Don't walk around using your phone. Be aware of
   your surroundings if you need to use your phone.
 - Pickpockets are common in tourist areas. Such places include Westminster,
-  Oxford Street, Covent Gardens, Leicester Square, etc. Be partigularly
+  Oxford Street, Covent Gardens, Leicester Square, etc. Be particularly
   protective of your belongings in these areas.
 - Pickpockets also exist in other parts of London, so don't get complacent.
 - Look up crime statistics in your area before booking accommodation. You can
