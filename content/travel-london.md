@@ -40,7 +40,7 @@ General tips:
 - At night, keep to lit areas when walking. Especially if walking alone.
 - Women should be extra careful walking alone at night.
 
-Tips for the paranoid:
+Tips for East Asians and other minority races:
 
 - If you are East Asian, you will be at higher risk due to anti-Asian sentiment
   in the wake of COVID-19. You will be more of a target of pickpockets and
@@ -59,3 +59,61 @@ Tips for the paranoid:
 - On tube stations, don't stand near the tracks. [People have been killed by
   being intentionally pushed onto the tracks](https://en.wikipedia.org/wiki/Death_of_Michelle_Go). Stand behind a
   pillar, or with your back to the wall.
+
+## Things to do
+
+This section will only consist of things that I'm interested in. It will not be
+exhaustive or to everyone's taste.
+
+### Museums
+
+- British Museum
+- Natural History Museum
+- Museum of London
+
+### Parks and nature
+
+- [Hampstead Heath](https://goo.gl/maps/zz1PjHH1aFn5odzP7). In the south-east
+  corner sits [Parliament Hill](https://en.wikipedia.org/wiki/Parliament_Hill,_London), providing a
+  vantage point of London's skyline.
+- Other royal parks: [royalparks.org.uk](https://www.royalparks.org.uk/)
+- Kew Gardens
+- Finsbury Park. There are slackliners here on most days, and particularly on
+  Sunday. People also tend to post on the [Facebook
+  group](https://www.facebook.com/groups/77154016654/) when they'll be slacklining.
+
+### Theatre
+
+- Book of Mormon
+- Come from Away
+- & Juliet
+- Lion King
+
+Recommended places to get tickets are either
+[TKTS](https://officiallondontheatre.com/tkts/) (online or at their booth in
+Leicester Square), [LWTheatres](https://lwtheatres.co.uk/), or
+[TodayTix](https://www.todaytix.com/).
+
+### Day trips
+
+- Bath
+- Canterbury
+- Cambridge
+
+### Tours
+
+- https://www.liquidhistorytours.com/drink-london-tour
+- https://www.walks.com/
+
+### Miscelleneous
+
+- Comedy shows:
+    - check https://guides.ticketmaster.co.uk/comedy-guide/
+    - https://thetopsecretcomedyclub.co.uk/ 
+    - https://www.angelcomedy.co.uk/bill-murray/ 
+- Find meetups on meetup.com. There are usually indoor bouldering meetups.
+  There's a [tree top climbing + picnic meetup](https://www.meetup.com/london-tree-top-club/) that looks fun.
+- Find meetups on [/r/LondonSocialClub](https://www.reddit.com/r/LondonSocialClub/)
+- [Ordering at a pub](https://loveandlondon.com/things-to-know-pubs-in-london/)
+- [https://randomlylondon.com/london-guide/](https://randomlylondon.com/london-guide/)
+- [https://londonist.com/](https://londonist.com/)
