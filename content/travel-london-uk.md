@@ -43,8 +43,7 @@ General tips:
 Tips for East Asians and other minority races:
 
 - If you are East Asian, you will be at higher risk due to anti-Asian sentiment
-  in the wake of COVID-19. You will be more of a target of pickpockets and
-  thieves.
+  in the wake of COVID-19. You will be more of a target of criminals.
 - Violent hate crimes against Asians are on the rise. This is not limited to London.
     - [Asian woman punched 125 times in New York](https://www.nbcnews.com/news/asian-america/asian-woman-punched-125-new-york-attack-suspect-charged-attempted-murd-rcna19984)
     - [Christina Lee was stabbed to death in New York; assailant followed her into her building](https://www.cbsnews.com/news/christina-lee-assamad-nash-stabbing-death-new-york-chinatown/)

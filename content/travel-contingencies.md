@@ -47,9 +47,10 @@ need to be filed first.
 
 ## Lost credit card
 
-Keep a backup credit card in hotel room.
+Keep a backup credit card in hotel room. Use your phone to cancel the stolen card.
 
-Use your phone to cancel the stolen card.
+Depending on the country, bringing a physical card may be unnecessary if
+contactless payments is common.
 
 ## Lost ID card
 
