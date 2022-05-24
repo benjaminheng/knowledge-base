@@ -1,16 +1,14 @@
 ---
-title: "Climbing in Batu Caves, Malaysia"
+title: "Travel to Kuala Lumpur, Malaysia"
 toc: true
 category: travel
 ---
 
 ## Getting there
 
-// TODO
+- [Airport to city center](https://www.ourtravelmix.com/kuala-lumpur-airport-to-city-centre/)
 
 ## Accommodation
-
-Batu Caves is located just north of Kuala Lumpur.
 
 - [citizenM Kuala Lumpur Bukit Bintang](https://www.booking.com/hotel/my/citizenm-kuala-lumpur-bukit-bintang.en-gb.html)
 

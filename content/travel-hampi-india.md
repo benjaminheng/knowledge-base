@@ -1,5 +1,5 @@
 ---
-title: Climbing in Hampi, India
+title: Travel to Hampi, India
 toc: true
 category: travel
 ---

@@ -1,8 +1,10 @@
 ---
-title: Climbing in Krabi, Thailand
+title: Travel to Krabi, Thailand
 toc: true
 category: travel
 ---
+
+This post is focused on climbing trips at Tonsai/Railay.
 
 ## Getting there
 
