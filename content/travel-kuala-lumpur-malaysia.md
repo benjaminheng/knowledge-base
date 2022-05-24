@@ -6,7 +6,15 @@ category: travel
 
 ## Getting there
 
+From the airport, take the **Star Shuttle Express**. It departs from both KLIA
+and KLIA2 every 30 minutes. The bus ride takes about 1 hour. It alights at Pudu
+Sentral, which is a short walk from the
+[citizenM](https://www.booking.com/hotel/my/citizenm-kuala-lumpur-bukit-bintang.en-gb.html)
+hotel, if you choose to book accommodation there.
+
 - [Airport to city center](https://www.ourtravelmix.com/kuala-lumpur-airport-to-city-centre/)
+- [Pudu Sentral to KLIA with Star Shuttle](https://railtravelstation.com/star-shuttle-pudu-sentral-to-klia-and-klia2-by-express-bus/)
+- [KLIA2 transportation hub](https://www.klia2.info/transportation/)
 
 ## Accommodation
 
