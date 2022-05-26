@@ -42,3 +42,4 @@ Dry season is from December to February.
 - [Crackhouse Comedy Club](https://www.facebook.com/crackhousekl/). Headliners are
   usually on Fridays and weekends. Open mic nights on other days. Check their
   Facebook page for upcoming events.
+- [Connaught night market](https://goo.gl/maps/YxZWBH2Q4RnLbZYQ8), only on Wednesday.
