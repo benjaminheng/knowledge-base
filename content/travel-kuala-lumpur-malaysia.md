@@ -39,3 +39,6 @@ Dry season is from December to February.
 - KLCC Park
 - [BUMP Bouldering](https://www.bumpbouldering.com/)
 - Camp5 @ 1Utama
+- [Crackhouse Comedy Club](https://www.facebook.com/crackhousekl/). Headliners are
+  usually on Fridays and weekends. Open mic nights on other days. Check their
+  Facebook page for upcoming events.
