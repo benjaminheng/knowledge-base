@@ -19,3 +19,8 @@ Sport climbing.
 ## Laos
 
 Stay at [Green Climbers Home](https://www.greenclimbershome.com/). Nearby access to several crags. Gear rental available.
+
+## Yangshuo, China
+
+- https://www.thewanderingclimber.com/climbing-yangshuo/
+- Climber's Inn: https://www.booking.com/hotel/cn/yang-shuo-pan-yan-ke-zhan-climbers-inn.en-gb.html
