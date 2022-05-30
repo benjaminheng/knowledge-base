@@ -20,6 +20,7 @@ prices by booking in person.
 Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blog/unique-experiences-in-chiang-mai-thailand#Adventurous-Things-to-do-in-Chiang-Mai).
 
 - [r/thailandtourism](https://www.reddit.com/r/ThailandTourism/) is an active community.
+- Food tour by [A Chef's Tour](https://achefstour.com/tour/chiang-mai-food-tour) ([TripAdvisor](https://www.tripadvisor.com.sg/Attraction_Review-g293917-d12845334-Reviews-A_Chef_s_Tour_Chiang_Mai-Chiang_Mai.html)). Seems somewhat expensive, but well recommended. May be worth the money.
 - [Doi Suthep Walkers](https://www.facebook.com/groups/DoiSuthepWalkers/)
   Facebook group with organized hikes. Usually weekly on Saturday mornings.
   Range of difficulties.
