@@ -37,3 +37,7 @@ Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blo
 - Festivals:
     - [April] Songkran
     - [November] Loy Krathong
+
+## Day trip to Pai
+
+Consider heading to Pai for a day trip, or even a few days.
