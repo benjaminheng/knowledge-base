@@ -19,6 +19,7 @@ prices by booking in person.
 
 Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blog/unique-experiences-in-chiang-mai-thailand#Adventurous-Things-to-do-in-Chiang-Mai).
 
+- [r/thailandtourism](https://www.reddit.com/r/ThailandTourism/) is an active community.
 - [Doi Suthep Walkers](https://www.facebook.com/groups/DoiSuthepWalkers/)
   Facebook group with organized hikes. Usually weekly on Saturday mornings.
   Range of difficulties.

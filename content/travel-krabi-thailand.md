@@ -36,7 +36,9 @@ finding partners.
   Private guides cost 3000THB (SGD$120) for half-day or 4500THB (SGD$180) for
   full-day. Very expensive.
 
-## Resources from other climbers
+## Other resources
+
+[r/thailandtourism](https://www.reddit.com/r/ThailandTourism/) is an active community. Work a look.
 
 Here's a [very detailed Reddit post on climbing at
 Tonsai](https://www.reddit.com/r/climbing/comments/gegy44/a_throwback_to_better_days_longboats_and/fpoc8t6/).
