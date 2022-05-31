@@ -10,6 +10,10 @@ toc: true
 
 ## Chiang Mai
 
+NOTE: [Chiang Mai looks quite dead as of April
+2022](https://www.youtube.com/watch?v=YxDLM_XX-rY). Consider waiting a few more
+months for tourism to pick back up.
+
 ### Getting there
 
 Chiang Mai has an international airport. Scoot runs direct flights there.
