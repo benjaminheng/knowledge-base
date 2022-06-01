@@ -8,6 +8,8 @@ toc: true
 
 // TODO
 
+- [Reddit post: Give Bangkok a chance](https://old.reddit.com/r/solotravel/comments/daukjs/my_give_bangkok_a_damn_chance_guide/)
+
 ## Chiang Mai
 
 NOTE: [Chiang Mai looks quite dead as of April
