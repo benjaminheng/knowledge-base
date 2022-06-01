@@ -8,7 +8,7 @@ toc: true
 
 // TODO
 
-- [Reddit post: Give Bangkok a chance](https://old.reddit.com/r/solotravel/comments/daukjs/my_give_bangkok_a_damn_chance_guide/)
+- [Reddit post: Give Bangkok a chance](https://old.reddit.com/r/solotravel/comments/daukjs/my_give_bangkok_a_damn_chance_guide/) ([archive](https://github.com/benjaminheng/link-archive/blob/master/manual-archive/reddit-give-bangkok-a-chance.md))
 
 ## Chiang Mai
 
