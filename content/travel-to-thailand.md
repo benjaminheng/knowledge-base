@@ -9,6 +9,12 @@ toc: true
 // TODO
 
 - [Reddit post: Give Bangkok a chance](https://old.reddit.com/r/solotravel/comments/daukjs/my_give_bangkok_a_damn_chance_guide/) ([archive](https://github.com/benjaminheng/link-archive/blob/master/manual-archive/reddit-give-bangkok-a-chance.md))
+- [Ayutthaya](https://preparetravelplans.com/ayutthaya-day-trip-from-bangkok/)
+- Jodd Fairs
+- Chinatown
+- Talat Noi. Little historical area near Chinatown. Lots of street art.
+- Lumphini park
+- Benchakitti park
 
 ## Chiang Mai
 
