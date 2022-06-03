@@ -3,6 +3,11 @@ title: "Thai language"
 toc: true
 ---
 
+## Pronunciation
+
+- K is pronounced softly, more like a G.
+- Kh is pronounced as a hard K.
+
 ## Basic
 
 - **Hello**: *sa-wat-dee khrap*.
