@@ -18,7 +18,7 @@ toc: true
     - For more formality, append *khrap*/*ka*.
 - **Yes/No**:
     - Yes and no is a bit complicated in Thai. The verb from the question needs
-      to be repeated to mean yes, and "*mai* <verb>" to mean no. Requires a
+      to be repeated to mean yes, and "*mai* \<verb\>" to mean no. Requires a
       deeper understanding of the language to effectively use yes and no
       appropriately.
 
@@ -31,7 +31,7 @@ toc: true
 Notes:
 
 - *nuua* means meat, so different types of meat can be referred to as "meat of
-  <animal>". For example, beef is *nuua wuua*, which means "meat of cow".
+  \<animal\>". For example, beef is *nuua wuua*, which means "meat of cow".
   Simply saying *wuua* (cow) sounds strange; in English it would be like saying
   you want to eat a cow. However notice that chicken can be referred to as
   simply *gai* instead of *nuua gai*, because chicken is both a term for the
