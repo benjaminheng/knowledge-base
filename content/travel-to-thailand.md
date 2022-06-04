@@ -44,8 +44,10 @@ Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blo
 - [Doi Suthep Walkers](https://www.facebook.com/groups/DoiSuthepWalkers/)
   Facebook group with organized hikes. Usually weekly on Saturday mornings.
   Range of difficulties.
-- Monk's Trail (Wat Pha Lat Trail). About a 30 minute hike. Temple at the end
-  of the trail.
+- [Monk's Trail](https://www.tielandtothailand.com/hiking-monk-trail-doi-suthep-chiang-mai/).
+    - Two temples along the hike. About a 30 minute hike to Wat Phra That, and
+      2 hours to Doi Suthep.
+    - Go in early morning to avoid the mid-day heat.
 - Live music at [Seven Pounds](https://goo.gl/maps/JGZ97jTCsCxx5ryYA)
 - Chill at Stamps hostel at night even if you're not staying there.
 - Markets:
