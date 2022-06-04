@@ -63,6 +63,11 @@ Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blo
 
 ## Pai
 
+Seems to me like Pai is heavily geared towards tourists looking party. Might be
+worth a trip if you intend to ride a scooter, since you'll then be able to
+easily access the surrounding areas. Without a scooter you'd be mostly limited
+to the town.
+
 ### Getting there
 
 Pai can be reached from Chiang Mai. Travel options ordered by speed are by
