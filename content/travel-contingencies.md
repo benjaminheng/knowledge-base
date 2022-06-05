@@ -4,8 +4,9 @@ toc: true
 category: travel
 ---
 
-This page contains my various contingency plans when travelling abroad. The
-plans may be tweaked based on my threat model for different destinations.
+This page contains my various contingency plans when travelling abroad. It's
+intended to act as a sort of runbook. The plans are tweaked based on my threat
+model for different destinations.
 
 ## General tips
 
