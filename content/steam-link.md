@@ -59,3 +59,9 @@ makes use of right-click as a back button, and I prefer Steam Link's back
 button interaction. On the Steam Link a right-click is a tap with two fingers,
 on Moonlight it's a tap and hold with one finger. The two finger tap is faster,
 but maybe a little less ergonomic for some.
+
+### [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/)
+
+Optimized for touch screens, works very well when streamed over Steam Link.
+The game has some quick time events that work better with low latency, but
+it's not really a big problem.
