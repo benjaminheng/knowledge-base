@@ -18,22 +18,13 @@ toc: true
 
 ## Chiang Mai
 
-NOTE: [Chiang Mai looks quite dead as of April
-2022](https://www.youtube.com/watch?v=YxDLM_XX-rY). Consider waiting a few more
-months for tourism to pick back up.
-
-### Getting there
-
-Chiang Mai has an international airport. Scoot runs direct flights there.
-Alternatively consider combining Bangkok and Chiang Mai in the same trip.
-
 ### Accommodation
 
-I feel like the prices on booking.com are inflated. Probably can get cheaper
-prices by booking in person.
-
-- [Stamps](https://www.booking.com/hotel/th/stamps-backpackers.en-gb.html). Book in advance.
-- [The Common Hostel](https://www.booking.com/hotel/th/slow-poke-poshtel-by-bed.en-gb.html)
+[Stamps](https://www.booking.com/hotel/th/stamps-backpackers.en-gb.html) is one
+of the more popular hostels in Chiang Mai. It's a social hostel, with events
+being hosted each day. Their events are available to everyone; not just those
+staying at the hostel. Even if not staying at Stamps, it's a good idea to stay
+nearby and to hang out at Stamps occasionally.
 
 ### Things to do
 
@@ -70,14 +61,7 @@ worth a trip if you intend to ride a scooter, since you'll then be able to
 easily access the surrounding areas. Without a scooter you'd be mostly limited
 to the town.
 
-### Getting there
-
 Pai can be reached from Chiang Mai. Travel options ordered by speed are by
 scooter or minibus. Booking a bus can be done at
 [12go.asia](https://12go.asia). There may be other better booking options, but
 I haven't researched this.
-
-### Things to do
-
-- Pai Canyon. Consider bringing proper hiking shoes; there's a path across a
-  ridgeline that may be a little dangerous.

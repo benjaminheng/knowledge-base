@@ -27,5 +27,6 @@ to HTML.
 cat /tmp/tmux.log | ansi2html > /tmp/output.html
 ```
 
-I use this method in my blog post: [Exploring my listen history with
+I use a little [wrapper script](https://github.com/benjaminheng/dotfiles/blob/master/bin/bin/tmuxpane2html)
+to capture the terminal content shown in this blog post: [Exploring my listen history with
 VisiData](https://hbenjamin.com/post/exploring-my-listen-history-with-visidata/).
