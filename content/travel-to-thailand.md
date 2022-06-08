@@ -15,6 +15,7 @@ toc: true
 - Talat Noi. Little historical area near Chinatown. Lots of street art.
 - Lumphini park
 - Benchakitti park
+- Day trip to [Siem Reap](/travel-to-cambodia#siem-reap)
 
 ## Chiang Mai
 
