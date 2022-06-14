@@ -4,6 +4,24 @@ category: travel
 toc: true
 ---
 
+## Covid travel restrictions
+
+Information here is up to date as of 2022-06-14.
+
+- A [Thailand Pass](https://www.thaiembassy.com/travel-to-thailand/thailand-pass) is
+  required for each entry into Thailand. If you leave Thailand and wish to
+  return, even just a couple days later, you'll need a new
+  Thailand pass application.
+- Each Thailand Pass application requires your inbound flight information. This
+  means that last-minute trips into Thailand is infeasible. Flights will have
+  to be booked in advance.
+- The Thailand Pass is valid up to +3 days from the original date of arrival.
+  This is to account for flight delays.
+- Pass application typically takes 15min to 2 hours. It can take up to 12
+  hours. It'll rarely take more than that.
+- Pass application requires an address in Thailand. Accommodation may need to
+  be booked before applying.
+
 ## Bangkok
 
 // TODO
