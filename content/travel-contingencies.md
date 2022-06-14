@@ -32,27 +32,40 @@ Store the following on your phone. Store it on paper, in phone storage, in email
 - Address of your local embassy
 - Passport-sized photos (in the event of a lost passport)
 
-If you normally use a password manager with generated passwords, then passwords
-to critical services like email should be changed to something memorable prior
-to the trip.
-
 ## Lost phone
 
-Keep a backup phone in hotel room. Log into email account using the backup phone
-to retrieve your important documents.
+Keep a backup phone in hotel room. Prepare it in advance so you can easily
+access your documents.
+
+1. Download your password manager file. Obfuscate the file name.
+2. Download your password manager.
+3. Download your backup Google 2FA codes. You won't have your 2FA
+   device if your primary phone gets stolen. Store them in your password
+   manager.
+
+Make sure to do a dry run for your lost phone contingency. You'll probably need
+to sign in once in order to download the password manager app from the app
+store. Make sure to sign out after to avoid leaving an active account on the
+phone if the backup gets stolen instead.
 
 ## Lost passport
 
 Contact your embassy. Depending on the country you are in, a police report may
 need to be filed first.
 
+Losing a passport may not be a big deal if you're in a city where you have
+physical embassy presence. Just visit the embassy and they'll help you out.
+This also means that if travelling somewhere without embassy presence, you'll
+want to take even better care of your passport.
+
 ## Lost credit card
 
-Keep a backup credit card in hotel room. Use your phone to cancel the stolen card.
-
-Depending on the country, bringing a physical card may be unnecessary if
-contactless payments is common.
+Bring multiple cards. Keep a backup credit card in hotel room. Use your phone
+to cancel the stolen card.
 
 ## Lost ID card
 
-Contact your embassy. This is generally not a big deal.
+Contact your embassy. This is generally not a big deal. Some people prefer not
+bringing their ID card along, but I prefer to. Having multiple forms of
+identification, stored in separate locations is a good contingency to have in
+the event that your passport or phone gets stolen.
