@@ -91,3 +91,17 @@ try more food options, but simply didn't have the appetite to do so.
 **Kuala Lumpur isn't that exciting to me.** Well, apart from the climbing
 anyway. I probably wouldn't visit KL again unless I can tack on a climbing
 session during the trip.
+
+**Lead climbing at your limit is really quite scary.** I onsighted a 5c, which
+was fun because of how easy it was. I then proceeded to try a 6a, which turned
+out to be much scarier. 6a isn't difficult for me, nor is it my limit in terms
+of technical ability. However I haven't lead climbed enough recently to build
+up my mental game. As a result I was taking things much more cautiously than I
+needed to, and wasted loads of energy on relatively easy moves. I didn't send
+the 6a, instead falling at around 80% up the route.
+
+**I'll need to practice leading a lot more before my Krabi trip in December.**
+My endurance is currently way to bad to be going to Krabi. Ideally I'd like to
+be doing 6b or 6c comfortably before the trip. Technique-wise I should be able
+to, but I'll need to build up both my endurance and my mental game. I'll have
+to start sport climbing more regularly.
