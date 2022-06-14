@@ -1,6 +1,7 @@
 ---
 title: "Travel learnings"
 category: travel
+toc: true
 ---
 
 ## Learnings
@@ -30,8 +31,7 @@ These learnings are not universal, just what works for me.
 
 Here are learnings from specific trips.
 
-<details>
-<summary>Kuala Lumpur, 2022</summary>
+### Kuala Lumpur, 2022
 
 **You'll make mistakes.** And then you'll get over it. This is especially true
 when you solo travel. You just don't have someone else to bounce ideas off of.
@@ -95,5 +95,3 @@ try more food options, but simply didn't have the appetite to do so.
 **Kuala Lumpur isn't that exciting to me.** Well, apart from the climbing
 anyway. I probably wouldn't visit KL again unless I can tack on a climbing
 session during the trip.
-
-</details>
