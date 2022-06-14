@@ -27,11 +27,7 @@ These learnings are not universal, just what works for me.
 10. You'll make mistakes. And then you'll get over it.
 11. Merino wool is fantastic for travel.
 
-## Trips
-
-Here are learnings from specific trips.
-
-### Kuala Lumpur, Malaysia, 2022
+## Kuala Lumpur, Malaysia, 2022
 
 **You'll make mistakes.** And then you'll get over it. This is especially true
 when you solo travel. You just don't have someone else to bounce ideas off of.
