@@ -10,17 +10,15 @@ toc: true
 
 ## Basic
 
+For politeness, *khrap* (as male) or *ka* (as female) can be appended.
+
 - **Hello**: *sa-wat-dee khrap*.
     - Append *khrap* (as male), or *ka* (as female). The appended terms are
       used for formality or politeness, often when greeting strangers.
       *sa-wat-dee* may be casually spoken as *sa-wa-dee* instead.
 - **Thank you**: *khawp khun*.
-    - For more formality, append *khrap*/*ka*.
-- **Yes/No**:
-    - Yes and no is a bit complicated in Thai. The verb from the question needs
-      to be repeated to mean yes, and "*mai* \<verb\>" to mean no. Requires a
-      deeper understanding of the language to effectively use yes and no
-      appropriately.
+- **Yes**: *chai*
+- **No**: *mai chai*
 
 ## Food
 
