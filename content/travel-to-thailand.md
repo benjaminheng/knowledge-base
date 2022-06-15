@@ -72,6 +72,9 @@ Some compilations: [twowanderingsoles.com](https://www.twowanderingsoles.com/blo
 - Festivals:
     - [April] Songkran
     - [November] Loy Krathong
+- Visit an Elephant sanctuary, maybe. Be aware of exploitation, even at
+  "ethical" sanctuaries. [A truly ethical elephant sanctuary may not
+  exist.](https://medium.com/@aydinadnan/what-they-dont-tell-you-about-elephant-sanctuaries-in-thailand-af3e4c9cb886)
 
 ## Pai
 
