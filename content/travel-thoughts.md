@@ -1,5 +1,5 @@
 ---
-title: "Travel learnings"
+title: "Travel thoughts"
 category: travel
 toc: true
 ---
