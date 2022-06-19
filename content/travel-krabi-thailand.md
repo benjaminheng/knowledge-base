@@ -129,5 +129,9 @@ TL;DR: I'm on lockdown and wrote this instead of training because I have very li
 
 ## Bouldering
 
-- [Zoolander in Khon Kaen](https://khonkaenclimbing.com/zoolander-bouldering-area/) maintained by
-  the [Khon Kaen Climbing Club](https://khonkaenclimbing.com/).
+Krabi doesn't have many bouldering spots. In fact, in the SEA region there
+aren't very many well known bouldering areas, owing in part to how good the
+available sport climbing is.
+
+The best bouldering spot in Thailand would be [Zoolander in Khon Kaen](https://khonkaenclimbing.com/zoolander-bouldering-area/), maintained by
+the [Khon Kaen Climbing Club](https://khonkaenclimbing.com/).

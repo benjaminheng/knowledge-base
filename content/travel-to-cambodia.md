@@ -10,8 +10,9 @@ or 3 day side trip if you're in Bangkok. Siem Reap doesn't have good flight
 connectivity to other parts of Thailand though, so you'll need to layover in
 Bangkok.
 
-As of June 2022, the land border between Thailand and Cambodia is not open to
-foreigners. Travel by air is necessary.
+### Accommodation
+
+- [Babel Guesthouse](https://www.babelsiemreap.com/)
 
 ### Things to do
 
