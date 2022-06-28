@@ -316,6 +316,28 @@ Client <-- Foo --
 @enduml
 ```
 
+### Group part of the diagram
+
+![render-27fdff4e1572b222227d8a70a33af535.svg](/resource/diagrams/render-27fdff4e1572b222227d8a70a33af535.svg)
+
+```plantuml render
+@startuml
+actor Client as Client
+participant "Foo service" as Foo
+participant "Bar service" as Bar
+
+Client -> Foo ++ : **GET /foo/:id/**
+Foo -> Foo : Do something
+Foo -> Bar ++ : **GET /bar/:id/**
+Foo <-- Bar --
+Client <-- Foo --
+
+group "async flow"
+    Bar -> Bar : Do something
+end group
+@enduml
+```
+
 ### Title, header, and footer
 
 ![render-776a81fa47cdd118a114588cf36e0ac6.svg](/resource/diagrams/render-776a81fa47cdd118a114588cf36e0ac6.svg)
