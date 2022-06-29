@@ -105,3 +105,59 @@ My endurance is currently way to bad to be going to Krabi. Ideally I'd like to
 be doing 6b or 6c comfortably before the trip. Technique-wise I should be able
 to, but I'll need to build up both my endurance and my mental game. I'll have
 to start sport climbing more regularly.
+
+## Ipoh, Malaysia, 2020
+
+This was a climbing trip with Rockerfellas. I have a more in-depth [trip report
+on my blog](https://hbenjamin.com/post/sport-climbing-in-ipoh/).
+
+**I can pack really light.** Several of my travel companions had large
+suitcases. No idea what they brought, because I easily made do with a 28L bag.
+This is including a harness, climbing shoes, chalk bag, and helmet. In fact,
+after the trip I decided there were a few things I could cut from my packing
+list for future trips.
+
+**Travelling for outdoor climbing is more accessible than I thought.** To be
+fair, I've never really thought much about travelling to climb, but I suppose
+at the back of my mind I've always figured it'll take a considerable amount of
+planning. It's actually pretty simple to look up routes in a guidebook or
+online, then rock up to the crag with some friends and start climbing. I'm
+excited to climb more often after this trip.
+
+**I felt way more comfortable around others than I thought I would.** Initially
+I was a bit apprehensive about the trip, because I'm not the most social
+person. However during the trip I felt extremely comfortable around everyone
+else. I think it might have been because we all shared a common interest. I
+think part of it is that since I was around new people, I didn't feel
+constrained by preconceptions they might have the same way I would if I were
+around people I've known for a long time.
+
+## Lombok, Indonesia, 2018
+
+I went to Lombok with a few friends from work to climb Mount Rinjani.
+
+**Get a good hiking backpack for serious hikes.** A good bag is especially
+important for multi-day hikes with 8+ hours of walking per day. I carried a
+Osprey Talon 22, which was excellent. We had porters, so water wasn't much of a
+concern. If we were carrying our own water, I might opt for something with a
+more substantial frame. Given my relatively light load (~7kg), the Talon 22 was
+perfect.
+
+**Hiking shoes are a little unnecessary.** I wouldn't go so far as to say they
+were entirely useless, but I don't think they justify their weight and space
+requirements. For future trips I would consider a pair of trail runners
+instead, with the exception if I'm going on a particularly difficult hike.
+Trail runners are much more versatile shoes for travel, assuming there's a
+chance of the occasional trail hike.
+
+**The military has prepared me more than I initially realized.** I found the
+hike up Mount Rinjani to be downright _easy_. Some of my travel companions
+found it a little difficult however. To me it just felt like a very casual
+route march. A route march, but with ample rest, more comfortable attire, less
+load, no unwieldy rifle, and no heavy helmet.
+
+**This was the trip where I started to seriously consider solo travel.** I
+enjoyed the trip immensely. However by the last day of the trip I was starting
+to feel like I would really have liked to explore the area on my own. I'm
+introverted, so it was likely that after a few days of constant social
+interaction, I needed some time alone to recharge.
