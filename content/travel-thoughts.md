@@ -4,29 +4,6 @@ category: travel
 toc: true
 ---
 
-## Summary
-
-Here are various learnings I've gathered thus far, in no particular order.
-These learnings are not universal, just what works for me.
-
-1. Bring an ereader. If you have to cut things from your bag to make space, do
-   it.
-2. A powerbank is essential.
-3. Get comfortable shoes for walking. Walking is much more tiring than you'd
-   expect.
-4. A day bag is sometimes invaluable. Use it for water and a powerbank at
-   minimum.
-5. Onebag travel is great. A 20L bag is sufficient for a tropical climate,
-   assuming no sporting equipment.
-6. A bifold wallet makes it easier to manage physical money.
-7. Paying more for convenience is sometimes worth it.
-8. Food tourism works much better when travelling with someone. Your appetite
-   limits the number of different foods you can try.
-9. Consider purchasing a late checkout or an extra night if your departing
-   flight is late in the day.
-10. You'll make mistakes. And then you'll get over it.
-11. Merino wool is fantastic for travel.
-
 ## Kuala Lumpur, Malaysia, 2022
 
 **You'll make mistakes.** And then you'll get over it. This is especially true
