@@ -20,7 +20,7 @@ toc: true
 There's a recently constructed railway that connects to DMK. It can be accessed by:
 
 1. MRT/bus to Bang Sue MRT station
-2. SRT red line to DMK
+2. SRT red line to DMK ([video of the journey](https://www.youtube.com/watch?v=uqovRddJxdo))
 
 ## Chiang Mai
 
