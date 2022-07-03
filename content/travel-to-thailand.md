@@ -15,6 +15,13 @@ toc: true
 - Benchakitti park
 - [Siem Reap](/travel-to-cambodia#siem-reap) is a short flight away.
 
+### Transport to Don Mueang (DMK) airport
+
+There's a recently constructed railway that connects to DMK. It can be accessed by:
+
+1. MRT/bus to Bang Sue MRT station
+2. SRT red line to DMK
+
 ## Chiang Mai
 
 ### Accommodation
