@@ -236,3 +236,16 @@ The exception is if the autovacuum process is being triggered by wraparound
 protection. In this mode, the autovauum query will show `(to prevent
 wraparound)`. This process will not be automatically interrupted, and will
 block any DDL statements requiring a lock.
+
+## Performance analysis
+
+I've had good results with
+[pg\_stat\_statements](https://www.postgresql.org/docs/current/pgstatstatements.html)
+in the past. It does require restarting the database however. It can be enabled
+gracefully on a slave by taking it out of rotation, applying the config change,
+then putting it back into rotation. I did not observe any performance impact to
+having this setting enabled.
+
+[pgBadger](https://pgbadger.darold.net/) is another option. It does require
+updating log-related configuration. Typically I have logs for slow queries
+enabled, and pgBadger can be used to aggregate and analyze those.
