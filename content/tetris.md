@@ -18,6 +18,7 @@ category: games
 - 2022-03-26: 46.053s
 - 2022-04-07: 45.230s
 - 2022-04-21: 44.690s (first sub-45s)
+- 2022-07-07: 44.097s (first PB using 6-3 stacking)
 
 ## Practice downstacking
 
