@@ -91,7 +91,7 @@ clothing I own.
 - Mobility is surprisingly good despite the lack of stretch. In fact I get more
   mobility in these ILPs than I do in the Futureworks. I have no issue cycling
   in these pants.
-- Breathes extremely well. This pants works amazingly in a tropical climate
+- Breathes extremely well. These pants work amazingly in a tropical climate
   like Singapore.
 - This is my go-to travel pants for tropical countries. It's lightweight,
   breathable, comfortable, and dries super quick.
