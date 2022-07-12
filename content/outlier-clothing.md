@@ -41,9 +41,11 @@ clothing I own.
   wavy texture is due to the way nylon is knit into the fabric. I absolutely
   love this texture, it has so much character.
 - This shirt gives off an ultra casual vibe.
-- Excellent for travel in tropical countries. Apart from the usual benefits of
-  mericno, it's extremely lightweight and breathable, so you don't sweat as
-  much.
+- May not be the most durable of my Outlier clothing. Has some pilling around
+  the back where my backpack rubs against the fabric. So far this is only
+  cosmetic, my pair hasn't developed any holes or thin spots yet.
+- Excellent for travel in tropical countries due to it being a very lightweight
+  merino blend.
 - This is my favorite T-shirt material from Outlier, as far as looks go.
 
 ## Bottoms
