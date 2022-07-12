@@ -87,7 +87,7 @@ clothing I own.
 - Has a slubby texture due to the linen. I really like texture on my clothing,
   and I really like slub in particular. I used to wear a pair of Japan Blue
   JB0212 for years, which is a heavyweight and super slubby jean.
-- Loose fit. Linen has no stretch so this necessary in order to get mobility.
+- Loose fit. Linen has no stretch so this is necessary for mobility.
 - Mobility is surprisingly good despite the lack of stretch. In fact I get more
   mobility in these ILPs than I do in the Futureworks. I have no issue cycling
   in these pants.
