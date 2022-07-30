@@ -8,31 +8,21 @@ toc: true
 
 - [Reddit post: Give Bangkok a chance](https://old.reddit.com/r/solotravel/comments/daukjs/my_give_bangkok_a_damn_chance_guide/) ([archive](https://github.com/benjaminheng/link-archive/blob/master/manual-archive/reddit-give-bangkok-a-chance.md))
 - [Ayutthaya](https://preparetravelplans.com/ayutthaya-day-trip-from-bangkok/)
-- Jodd Fairs
-- Chinatown
-- Talat Noi. Little historical area near Chinatown. Lots of street art.
-- Lumphini park
-- Benchakitti park
 - [Siem Reap](/travel-to-cambodia#siem-reap) is a short flight away.
-
-### Transport to/from Don Mueang (DMK) airport
-
-There's a recently constructed railway that connects to DMK. It can be accessed
-by:
-
-1. MRT/bus to Bang Sue MRT station
-2. SRT red line to DMK ([video of the journey](https://www.youtube.com/watch?v=uqovRddJxdo))
-
-### Transport to/from Suvarnabhumi (BKK) airport
-
-BKK airport is connected to the city via the [Rail
-Link](https://www.bangkokairportonline.com/bangkok-airport-rail-link/). It
-connects to the Phaya Thai BTS station and the Makkasan station (transfer to
-Phetchaburi MRT station).
+- [Train network map](https://www.urbanrail.net/as/bang/bangkok.htm). This is
+  the best map I've found that combines all the different rail providers in
+  Bangkok.
+- Transport to/from DMK airport: Use the SRT dark red line to Bang Sue MRT.
+- Transport to/from BKK airport: Use the Rail Link. Transfer at either Phaya Thai BTS station or Makkasan MRT station.
 
 ## Chiang Mai
 
 ### Accommodation
+
+[Sleep Guesthouse](https://sleepguesthouse.com/) is my personal favorite. It's
+run by a husband and wife. Super friendly hosts. Clean rooms. Free and tasty
+breakfast. Convenient and quiet location. This place has extremely high ratings
+on all booking platforms for a reason; it's that good.
 
 [Stamps](https://www.booking.com/hotel/th/stamps-backpackers.en-gb.html) is one
 of the more popular hostels in Chiang Mai. It's a social hostel, with events

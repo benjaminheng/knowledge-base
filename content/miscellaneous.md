@@ -19,6 +19,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [SaaS landing page examples](https://saaslandingpage.com/)
 - [Anatomy of a mechanical watch](https://ciechanow.ski/mechanical-watch/)
 - [smallandroidphone.com](https://smallandroidphone.com/)
+- [Standard ebooks](https://standardebooks.org/ebooks) -- Well formatted ebooks in the public domain.
 
 ## Music
 
