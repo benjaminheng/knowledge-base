@@ -26,6 +26,8 @@ research notes. It is going to be very unstructured.
 - Leaning towards mini-v, but need to do more research.
 - Mini-v will require a short-pull brake lever.
 
+Options:
+
 - (Canti) Avid Shorty Ultimate. Expensive, but possibly worth it? Since I'm not
   intending to go for disc brakes, might be worth spending more on quality rim
   brakes.
