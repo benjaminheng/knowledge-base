@@ -7,6 +7,35 @@ toc: true
 I'm currently in the process of building a bike. This page will contain my
 research notes. It is going to be very unstructured.
 
+## Build
+
+- Frame: Surly Cross-Check 50cm (TODO: color?)
+- Brakes: 
+- Brake pads: Kool Stop Supra 2, Salmon
+
+## Research
+
+### Frame
+
+- Surly Cross-Check. Either 50cm or 52cm. Leaning towards 50cm.
+
+### Brakes
+
+- [Mini V-Brakes vs. Cantilever Brakes – Advantages and Disadvantages Compared](https://brainybiker.com/mini-v-brakes-vs-cantilever-brakes-advantages-and-disadvantages-compared/)
+- Probably will get mini-v or v brakes. Stronger and easier to set up and maintain.
+- Leaning towards mini-v, but need to do more research.
+- Mini-v will require a short-pull brake lever.
+
+- (Canti) Avid Shorty Ultimate. Expensive, but possibly worth it? Since I'm not
+  intending to go for disc brakes, might be worth spending more on quality rim
+  brakes.
+- (V) Shimano Deore BR-T610 V-Brake. https://www.bike-components.de/en/Shimano/Deore-BR-T610-V-Brake-Set-p83063/
+- (Mini-V) Tektro RX6 https://www.tektro.com/products.php?p=49
+
+Brake pads:
+
+-  Kool stop salmon
+
 ## Unorganized info dump
 
 - https://www.reddit.com/r/Bikebuilding/comments/j2r5rk/choosing_components_in_over_my_head/
