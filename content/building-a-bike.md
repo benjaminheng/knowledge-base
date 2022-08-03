@@ -9,7 +9,7 @@ research notes. It is going to be very unstructured.
 
 ## Build
 
-- Frame: Surly Cross-Check 50cm (TODO: color?)
+- Frame: Surly Cross-Check 52cm (TODO: color?)
 - Brakes: TRP CX8.4 (Mini-V)
 - Brake pads: Kool Stop Supra 2, Salmon
 
@@ -17,7 +17,7 @@ research notes. It is going to be very unstructured.
 
 ### Frame
 
-- Surly Cross-Check. Either 50cm or 52cm. Leaning towards 50cm.
+- Surly Cross-Check 52cm
 
 ### Brakes
 
