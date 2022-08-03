@@ -65,6 +65,7 @@ after prolonged riding.  More hand positions would be nice. Not interested in
 drop bars.
 
 - Jones H-Bar
+- Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
 
 ## Tools to buy
 
