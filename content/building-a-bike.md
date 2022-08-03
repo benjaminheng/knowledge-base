@@ -58,6 +58,14 @@ Before selecting a chainring, know what the BCD is of your crankset.
 
 - Wolf Tooth https://www.wolftoothcomponents.com/collections/chainrings/chain-compatibility_all-9-10-11spd
 
+### Handlebars
+
+Would like something with different hand positions. My hands tend to get tingly
+after prolonged riding.  More hand positions would be nice. Not interested in
+drop bars.
+
+- Jones H-Bar
+
 ## Tools to buy
 
 - Torque wrench
@@ -80,6 +88,8 @@ Before selecting a chainring, know what the BCD is of your crankset.
 - TODO: look into price difference between 10 speed and 11 speed groupsets. 11
   speed is definitely overkill for SG, but if it's not too much more expensive
   I might go for that. Otherwise I'll stick to 10 speed.
+- Not sure if I should be concerned about toe overlap. Seems to be a common
+  complaint about the Surly CC/Straggler.
 
 ## Unorganized info dump
 
