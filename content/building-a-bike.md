@@ -55,6 +55,11 @@ be part of my initial build. Maybe as a future upgrade.
 - Cranks https://www.whiteind.com/product/square-taper-eno-cranks/
 - Chainring https://www.whiteind.com/product/square-taper-eno-1x-tsr-chainrings/
 
+Square taper cranks tend to be thinner, because the crank-BB interface is
+thinner. A hollowtech II interface is wider, and therefore the crank has to
+have more material surrounding the interface. I'm leanings towards a square
+taper BB, since I prefer the aesthetics of thinner cranks.
+
 ### Bottom brackets
 
 - SRAM GXP A1 https://www.sram.com/en/sram/models/bb-gxp-a1
