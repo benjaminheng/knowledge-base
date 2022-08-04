@@ -62,6 +62,7 @@ taper BB, since I prefer the aesthetics of thinner cranks.
 
 ### Bottom brackets
 
+- Shimano BB-UN300 (Square taper)
 - SRAM GXP A1 https://www.sram.com/en/sram/models/bb-gxp-a1
 
 ### Freehub
