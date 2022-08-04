@@ -54,6 +54,15 @@ be part of my initial build. Maybe as a future upgrade.
 
 - SRAM GXP A1 https://www.sram.com/en/sram/models/bb-gxp-a1
 
+### Freehub
+
+Shimano is generally regarded to make somewhat silent hubs compared to other brands. For a truely silent hub, consider the Onyx brand.
+
+- Shimano 105 FH-R7000
+  [store](https://bike.shimano.com/en-EU/product/component/shimano105-r7000/FH-R7000.html),
+  [sound](https://www.youtube.com/watch?v=nZGvVKlFOoU) -- Seems reasonably, not too obnoxiously loud
+- Onyx -- Very silent hubs
+
 ### Groupsets
 
 - Shimano Deore XT (1x11)
