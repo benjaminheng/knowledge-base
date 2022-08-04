@@ -125,7 +125,7 @@ drop bars.
 
 ## Inspirations
 
-- :star: [Loads of cross-check configurations with pictures](https://bluelug.com/bike-catalog/model/surly-cross-check/)
+- [Loads of cross-check configurations with pictures](https://bluelug.com/bike-catalog/model/surly-cross-check/)
 - Black frame, silver crankset/seatpost/headset. Brown leather accents. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/
 - Black frame, silver crankset/seatpost/headset. Tan rims. https://www.reddit.com/r/Surlybikefans/comments/o3b282/my_crosscheck_with_some_freshly_built_wheels/
 - Black on black. I like the tan rims on a black bike. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/gs60f6f/
