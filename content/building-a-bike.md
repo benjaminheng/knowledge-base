@@ -43,6 +43,13 @@ Brake pads:
 
 - SRAM Rival 1 (1x11)
 
+I really like the aesthetics of White Industries, but they're too expensive to
+be part of my initial build. Maybe as a future upgrade.
+[Inspiration](https://www.reddit.com/r/Surlybikefans/comments/v813eg/new_crank_day/).
+
+- Cranks https://www.whiteind.com/product/square-taper-eno-cranks/
+- Chainring https://www.whiteind.com/product/square-taper-eno-1x-tsr-chainrings/
+
 ### Bottom brackets
 
 - SRAM GXP A1 https://www.sram.com/en/sram/models/bb-gxp-a1
