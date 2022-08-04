@@ -12,6 +12,10 @@ research notes. It is going to be very unstructured.
 - Frame: Surly Cross-Check 52cm (TODO: color?)
 - Brakes: TRP CX8.4 (Mini-V)
 - Brake pads: Kool Stop Supra 2, Salmon
+- Crank: 
+- Chainring: 
+- Cassette: ??? 11 speed
+- Chain: ??? 11 speed
 
 ## Research
 
@@ -39,9 +43,10 @@ Brake pads:
 
 -  Kool stop salmon
 
-### Crankset
+### Cranks
 
-- SRAM Rival 1 (1x11)
+- SRAM Rival 1 (1x11) (Crank-BB interface: GXP, 24/22mm axle)
+- [Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD](https://global.bluelug.com/blue-lug-rmc-multi-speed-crank-all-blk.html) (Crank-BB interface: square taper)
 
 I really like the aesthetics of White Industries, but they're too expensive to
 be part of my initial build. Maybe as a future upgrade.
@@ -73,6 +78,7 @@ Shimano is generally regarded to make somewhat silent hubs compared to other bra
 Before selecting a chainring, know what the BCD is of your crankset.
 
 - Wolf Tooth https://www.wolftoothcomponents.com/collections/chainrings/chain-compatibility_all-9-10-11spd
+- 130 BCD Wolf Tooth: https://www.wolftoothcomponents.com/collections/chainrings/products/130-bcd-cyclocross-chainrings?variant=14782015209507
 
 ### Handlebars
 
@@ -122,6 +128,7 @@ drop bars.
 - [How many spacers needed for different bottom brackets](https://off.road.cc/how-many-spacers-install-bottom-bracket-68-73-shimano-hollowtech-sram-gxp)
 - [Calculate gear ratios](https://www.sheldonbrown.com/gear-calc.html)
 - [About BCD](https://www.wolftoothcomponents.com/pages/how-to-measure-bolt-circle-diameter-bcd)
+- [Mixing groupsets; what works and what doesn't](https://cyclingtips.com/2017/12/mixing-road-groupsets-what-works-together-and-what-doesnt-2/)
 
 ## Inspirations
 
