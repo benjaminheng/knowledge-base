@@ -9,12 +9,15 @@ research notes. It is going to be very unstructured.
 
 ## Build
 
-- Frame: Surly Cross-Check 52cm (TODO: color?)
+- Frame: Surly Cross-Check 52cm; black
 - Brakes: TRP CX8.4 (Mini-V)
 - Brake pads: Kool Stop Supra 2, Salmon
-- Crank: 
-- Chainring: 
-- Cassette: ??? 11 speed
+- Bottom Bracket: Shimano BB-UN300 (Square taper)
+- Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD
+- Chainring: Wolf Tooth 42T Chainring; 130 BCD
+- Cassette: 11 speed 11-32 (brand undecided)
+- Rear Derailleur: ??
+- Shifters: ??
 - Chain: ??? 11 speed
 
 ## Research
@@ -45,8 +48,8 @@ Brake pads:
 
 ### Cranks
 
-- SRAM Rival 1 (1x11) (Crank-BB interface: GXP, 24/22mm axle)
 - [Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD](https://global.bluelug.com/blue-lug-rmc-multi-speed-crank-all-blk.html) (Crank-BB interface: square taper)
+- SRAM Rival 1 (1x11) (Crank-BB interface: GXP, 24/22mm axle)
 
 I really like the aesthetics of White Industries, but they're too expensive to
 be part of my initial build. Maybe as a future upgrade.
@@ -67,7 +70,7 @@ taper BB, since I prefer the aesthetics of thinner cranks.
 
 ### Freehub
 
-Shimano is generally regarded to make somewhat silent hubs compared to other brands. For a truely silent hub, consider the Onyx brand.
+Shimano hubs are generally regarded as somewhat silent hubs compared to other brands. For a truely silent hub, consider Onyx hubs.
 
 - Shimano 105 FH-R7000
   [store](https://bike.shimano.com/en-EU/product/component/shimano105-r7000/FH-R7000.html),
@@ -76,12 +79,24 @@ Shimano is generally regarded to make somewhat silent hubs compared to other bra
 
 ### Groupsets
 
+- Shimano Deore M8000
+- Shimano SLX M7000
 - Shimano Deore XT (1x11)
 - Shimano Deore M5100 (1x11)
 
+### Cassette
+
+I don't think I need a 11 speed for riding in mostly flat Singapore terrain. I
+usually ride with 63 gear inches. A 10 speed 11-36 with a 42T chainring
+provides provides similar gearing around that range. A 11 speed 11-42 is the
+same as a 10-speed 11-36, but with one additional low gear.
+
+- 11 speed 11-42: Shimano XT Cassette CS-M8000 11-speed
+- 10 speed 11-36
+
 ### Chainring
 
-Before selecting a chainring, know what the BCD is of your crankset.
+The chainring's BCD should match that of your cranks.
 
 - Wolf Tooth https://www.wolftoothcomponents.com/collections/chainrings/chain-compatibility_all-9-10-11spd
 - 130 BCD Wolf Tooth: https://www.wolftoothcomponents.com/collections/chainrings/products/130-bcd-cyclocross-chainrings?variant=14782015209507
@@ -98,6 +113,7 @@ drop bars.
 ## Tools to buy
 
 - Torque wrench
+- Bottom bracket tool
 - See [this post](https://www.reddit.com/r/Surlybikefans/comments/uzh01n/was_lucky_enough_to_find_a_crosscheck_in_my_size/iab6lrj/) for more
 
 ## Random questions
