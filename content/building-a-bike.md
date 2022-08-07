@@ -151,6 +151,7 @@ drop bars.
 - [Calculate gear ratios](https://www.sheldonbrown.com/gear-calc.html)
 - [About BCD](https://www.wolftoothcomponents.com/pages/how-to-measure-bolt-circle-diameter-bcd)
 - [Mixing groupsets; what works and what doesn't](https://cyclingtips.com/2017/12/mixing-road-groupsets-what-works-together-and-what-doesnt-2/)
+- [Shifting issues with a microshift derailleur? Shifting level may be too tight](https://www.reddit.com/r/Surlybikefans/comments/71ya1q/your_microshift_lever_is_too_tight/)
 
 ## Inspirations
 
