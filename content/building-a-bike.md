@@ -79,10 +79,11 @@ Shimano hubs are generally regarded as somewhat silent hubs compared to other br
 
 ### Groupsets
 
-- Shimano Deore M8000
-- Shimano SLX M7000
-- Shimano Deore XT (1x11)
-- Shimano Deore M5100 (1x11)
+- Shimano Deore M8000 (11 speed)
+- Shimano SLX M7000 (11 speed)
+- Shimano Deore XT (11 speed)
+- Shimano Deore M5100 (11 speed)
+- [Microshift Advent](https://www.microshift.com/products/groups/advent/) (9 speed)
 
 ### Cassette
 
