@@ -160,3 +160,7 @@ drop bars.
 - Black frame, silver crankset/seatpost/headset. Brown leather accents. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/
 - Black frame, silver crankset/seatpost/headset. Tan rims. https://www.reddit.com/r/Surlybikefans/comments/o3b282/my_crosscheck_with_some_freshly_built_wheels/
 - Black on black. I like the tan rims on a black bike. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/gs60f6f/
+
+## Gear ratio comparison
+
+- [Birdy vs ??](https://ritzelrechner.de/?GR=DERS&KB=52&RZ=11,12,14,16,18,21,24,28,32&UF=1380&TF=90&SL=2.6&UN=KMH&DV=gearInches&GR2=DERS&KB2=42&RZ2=11,13,15,18,21,24,28,34,42&UF2=2215)
