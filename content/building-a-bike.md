@@ -71,12 +71,16 @@ taper BB, since I prefer the aesthetics of thinner cranks.
 
 ### Freehub
 
-Shimano hubs are generally regarded as somewhat silent hubs compared to other brands. For a truely silent hub, consider Onyx hubs.
+Shimano hubs are generally regarded as somewhat silent hubs compared to other
+brands. For a truely silent hub, consider Onyx hubs.
 
+- Shimano Deore T610 (8/9/10/11 speed)
 - Shimano 105 FH-R7000
   [store](https://bike.shimano.com/en-EU/product/component/shimano105-r7000/FH-R7000.html),
   [sound](https://www.youtube.com/watch?v=nZGvVKlFOoU) -- Seems reasonably, not too obnoxiously loud
-- Onyx -- Very silent hubs
+- Onyx hubs are silent. Do they still make rim brake compatible hubs with
+  10x130mm/135mm spacing? Might need to email them to find out. Looks like the
+  only product that matches those specs has been discontinued.
 
 ### Groupsets
 
@@ -99,6 +103,7 @@ same as a 10-speed 11-36, but with one additional low gear.
 ## Wheelsets
 
 - [Hunt 4season aero road](https://www.huntbikewheels.cc/products/hunt-4season-aero-road-wheelset-1589g-28deep-22wide) (freehub sounds quite loud though)
+- [Fulcrum Racing 3](https://www.rodalink.com/sg/fulcrum-racing-3-wheelset.html)
 - [bike24 filter](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&searchTerm=&sort=) 
 - [bike24: Fulcrum wheels](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&manufacturerId%5B0%5D=114&searchTerm=&sort=price_asc)
 - [Fulcrum Racing 5](https://www.bike24.com/p2291009.html)
@@ -164,6 +169,7 @@ drop bars.
 - [Choosing a wheel](https://www.rei.com/learn/expert-advice/bike-wheels-how-to-choose.html)
 - [About wheels and hubs](https://sugarwheelworks.com/technical-information/hub-information-and-details/)
 - [Rim width vs tire width](https://www.schwalbetires.com/technology-faq/tire-dimensions/#rim) ([chart only](https://www.schwalbetires.com/media/16/8f/9b/1654668257/reifen-felgenkombination-etrto-22-en-2.pdf))
+- [Can You Put a 9-speed Cassette On An 11-speed Hub?](https://brainybiker.com/can-you-put-a-9-speed-cassette-on-an-11-speed-hub/) (yes you can)
 
 ## Inspirations
 
