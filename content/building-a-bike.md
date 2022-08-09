@@ -15,7 +15,7 @@ research notes. It is going to be very unstructured.
 - Bottom Bracket: Shimano BB-UN300 (Square taper)
 - Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD
 - Chainring: Wolf Tooth 42T Chainring; 130 BCD
-- Cassette: Microshift Advent 9-speed 11-42
+- Cassette: Microshift Advent 9-speed 11-42 CS-H093A (alloy)
 - Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
 - Shifters: Microshift Advent Trail Trigger Pro 1x9
 - Chain: ??? 9 speed
