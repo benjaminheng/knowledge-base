@@ -158,6 +158,7 @@ drop bars.
 - [Mixing groupsets; what works and what doesn't](https://cyclingtips.com/2017/12/mixing-road-groupsets-what-works-together-and-what-doesnt-2/)
 - [Shifting issues with a microshift derailleur? Shifting level may be too tight](https://www.reddit.com/r/Surlybikefans/comments/71ya1q/your_microshift_lever_is_too_tight/)
 - [Choosing a wheel](https://www.rei.com/learn/expert-advice/bike-wheels-how-to-choose.html)
+- [About wheels and hubs](https://sugarwheelworks.com/technical-information/hub-information-and-details/)
 
 ## Inspirations
 
