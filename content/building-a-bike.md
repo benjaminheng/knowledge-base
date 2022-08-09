@@ -95,7 +95,7 @@ same as a 10-speed 11-36, but with one additional low gear.
 - 11 speed 11-42: Shimano XT Cassette CS-M8000 11-speed
 - 10 speed 11-36
 
-## Wheels
+## Wheelsets
 
 - [bike24 filter](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&searchTerm=&sort=) 
 
@@ -159,6 +159,7 @@ drop bars.
 - [Shifting issues with a microshift derailleur? Shifting level may be too tight](https://www.reddit.com/r/Surlybikefans/comments/71ya1q/your_microshift_lever_is_too_tight/)
 - [Choosing a wheel](https://www.rei.com/learn/expert-advice/bike-wheels-how-to-choose.html)
 - [About wheels and hubs](https://sugarwheelworks.com/technical-information/hub-information-and-details/)
+- [Rim width vs tire width](https://www.schwalbetires.com/technology-faq/tire-dimensions/#rim) ([chart only](https://www.schwalbetires.com/media/16/8f/9b/1654668257/reifen-felgenkombination-etrto-22-en-2.pdf))
 
 ## Inspirations
 
