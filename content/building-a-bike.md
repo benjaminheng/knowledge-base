@@ -95,6 +95,10 @@ same as a 10-speed 11-36, but with one additional low gear.
 - 11 speed 11-42: Shimano XT Cassette CS-M8000 11-speed
 - 10 speed 11-36
 
+## Wheels
+
+- [bike24 filter](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&searchTerm=&sort=) 
+
 ### Chainring
 
 The chainring's BCD should match that of your cranks.
