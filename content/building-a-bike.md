@@ -19,6 +19,7 @@ research notes. It is going to be very unstructured.
 - Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
 - Shifters: Microshift Advent Trail Trigger Pro 1x9
 - Chain: ??? 9 speed
+- Wheelset: [Hunt 4 Season Aero](https://www.huntbikewheels.cc/products/hunt-4season-aero-road-wheelset-1589g-28deep-22wide)
 
 ## Research
 
@@ -97,7 +98,10 @@ same as a 10-speed 11-36, but with one additional low gear.
 
 ## Wheelsets
 
+- [Hunt 4season aero road](https://www.huntbikewheels.cc/products/hunt-4season-aero-road-wheelset-1589g-28deep-22wide)
 - [bike24 filter](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&searchTerm=&sort=) 
+- [bike24: Fulcrum wheels](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&manufacturerId%5B0%5D=114&searchTerm=&sort=price_asc)
+- [Fulcrum Racing 5](https://www.bike24.com/p2291009.html)
 
 ### Chainring
 
