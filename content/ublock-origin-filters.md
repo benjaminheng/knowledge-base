@@ -41,6 +41,7 @@ www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search 
 
 ```
 ##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/SHORTS/)
+##ytd-rich-section-renderer:has(#rich-shelf-header div#title-text:has-text(/Shorts/))
 ```
 
 ## [Google] Block copycat github/stackoverflow sites from search results
