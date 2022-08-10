@@ -19,7 +19,8 @@ research notes. It is going to be very unstructured.
 - Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
 - Shifters: Microshift Advent Trail Trigger Pro 1x9
 - Chain: ??? 9 speed
-- Wheelset:
+- Wheelset: [Shimano 105 WH-RS300-CL](https://www.hupleong.co/shop-shimano/shimano-105-clincher-24-mm-wheelset)
+- Tires: ?? 35mm
 
 ## Research
 
@@ -102,6 +103,14 @@ same as a 10-speed 11-36, but with one additional low gear.
 
 ### Wheelsets
 
+[General consensus is that running a 35mm or higher tire on a rim with 17mm
+inside width is
+fine](https://www.reddit.com/r/bikewrench/comments/5zfg48/my_rims_are_17mm_inside_width_can_i_really_get/).
+In that case I'm leaning towards the Shimano 105 WH-RS300-CL. It's relatively
+cheap, and with a fairly quiet hub. I'd like to upgrade to an Onyx hub in the
+future, but I'll defer that upgrade for now.
+
+- [Shimano 105 WH-RS300-CL](https://www.hupleong.co/shop-shimano/shimano-105-clincher-24-mm-wheelset)
 - [Hunt 4season aero road](https://www.huntbikewheels.cc/products/hunt-4season-aero-road-wheelset-1589g-28deep-22wide) (freehub sounds quite loud though)
 - [Fulcrum Racing 3](https://www.rodalink.com/sg/fulcrum-racing-3-wheelset.html)
 - [bike24 filter](https://www.bike24.com/cycling/parts/bike-wheels?dynamicAttributes%5B72%5D%5B476%5D=476&dynamicAttributes%5B130%5D%5B767%5D=767&dynamicAttributes%5B129%5D%5B757%5D=757&searchTerm=&sort=) 
