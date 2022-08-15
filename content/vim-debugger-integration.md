@@ -1,6 +1,7 @@
 ---
-title: "Vim -- debugger integration"
+title: "Vim - debugger integration"
 toc: true
+category: tech
 ---
 
 Setting up vim for debugging was more annoyingly complicated than I expected.
