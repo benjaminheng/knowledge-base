@@ -28,6 +28,7 @@ category: tech
 - [CSS shadow palette generator](https://www.joshwcomeau.com/shadow-palette/)
 - [CSS gradient generator](https://www.joshwcomeau.com/gradient-generator/) - [related article](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Paper CSS](https://www.getpapercss.com)
+- [Classless.de](https://classless.de/) -- another classless CSS framework
 
 ## Fonts
 
