@@ -27,6 +27,7 @@ category: tech
 - https://philippta.github.io/web-frontends-in-go/
 - [CSS shadow palette generator](https://www.joshwcomeau.com/shadow-palette/)
 - [CSS gradient generator](https://www.joshwcomeau.com/gradient-generator/) - [related article](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
+- [Paper CSS](https://www.getpapercss.com)
 
 ## Fonts
 
