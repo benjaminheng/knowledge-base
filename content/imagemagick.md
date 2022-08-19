@@ -3,6 +3,10 @@ title: ImageMagick
 category: tech
 ---
 
+## Basic
+
+- Describe an image: `magick identify image.jpg`
+
 ## Image manipulation
 
 - Geometry docs: http://www.imagemagick.org/script/command-line-processing.php#geometry

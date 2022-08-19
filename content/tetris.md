@@ -3,9 +3,8 @@ title: Tetris
 category: games
 ---
 
-- [My tetr.io profile](https://ch.tetr.io/u/wqwqwq)
-- [Tetris fundamentals](https://www.tetrisconcept.com/p/start.html)
-- [Tetresse](https://tetresse.harddrop.com/) - Finesse training tool
+- My tetr.io profile: https://ch.tetr.io/u/wqwqwq
+- My tetris stats: https://tetris.hbenjamin.com/
 
 ## 40L sprint progress
 
@@ -20,7 +19,9 @@ category: games
 - 2022-04-21: 44.690s (first sub-45s)
 - 2022-07-07: 44.097s (first PB using 6-3 stacking)
 
-## Practice downstacking
+## Resources
 
-In tetrio, go into Zen mode and configure: (1) levelling off, (2) cheese height
-to 6, (3) cheese timer to 4.
+- Practice downstacking: In tetrio, go into Zen mode and configure: (1)
+  levelling off, (2) cheese height to 6, (3) cheese timer to 4.
+- [Tetris fundamentals](https://www.tetrisconcept.com/p/start.html)
+- [Tetresse](https://tetresse.harddrop.com/) - Finesse training tool
