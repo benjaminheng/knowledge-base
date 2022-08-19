@@ -29,7 +29,16 @@ category: tech
 - [CSS gradient generator](https://www.joshwcomeau.com/gradient-generator/) - [related article](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Paper CSS](https://www.getpapercss.com)
 - [Classless.de](https://classless.de/) -- another classless CSS framework
+
+## Charting libraries
+
+- [uPlot](https://github.com/leeoniya/uPlot) ([demos](https://leeoniya.github.io/uPlot/demos/index.html))-- Focused on performance.
+- [Plotly.js](https://plotly.com)
+- [Highcharts](https://www.highcharts.com/demo) -- Quite heavyweight library.
+  Does a lot of things. Probably not a good choice for simple use-cases.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) -- Simple, non interactive.
 - [RoughViz](https://github.com/jwilber/roughViz) -- JS library for handdrawn looking charts
+- [Chart.js](https://www.chartjs.org/docs/latest/samples/information.html)
 
 ## Fonts
 
