@@ -29,6 +29,7 @@ category: tech
 - [CSS gradient generator](https://www.joshwcomeau.com/gradient-generator/) - [related article](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Paper CSS](https://www.getpapercss.com)
 - [Classless.de](https://classless.de/) -- another classless CSS framework
+- [RoughViz](https://github.com/jwilber/roughViz) -- JS library for handdrawn looking charts
 
 ## Fonts
 
