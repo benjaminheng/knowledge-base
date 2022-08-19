@@ -29,6 +29,8 @@ category: tech
 - [CSS gradient generator](https://www.joshwcomeau.com/gradient-generator/) - [related article](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Paper CSS](https://www.getpapercss.com)
 - [Classless.de](https://classless.de/) -- another classless CSS framework
+- [simplestatistics.org](https://simplestatistics.org/) -- Simple Statistics is a JavaScript library that implements statistical methods
+- [Papa Parse](https://www.papaparse.com/) -- CSV parser for the browser
 
 ## Charting libraries
 
