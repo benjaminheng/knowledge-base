@@ -133,6 +133,10 @@ drop bars.
 - Jones H-Bar
 - Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
 
+### Tires
+
+- Rene Herse: https://www.renehersecycles.com/product-category/components/tires/700c/
+
 ## Tools to buy
 
 - Torque wrench
