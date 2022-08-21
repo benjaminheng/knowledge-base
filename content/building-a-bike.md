@@ -136,6 +136,9 @@ drop bars.
 ### Tires
 
 - Rene Herse: https://www.renehersecycles.com/product-category/components/tires/700c/
+- Schwalbe
+- Panaracer
+- Gatorskins
 
 ## Tools to buy
 
