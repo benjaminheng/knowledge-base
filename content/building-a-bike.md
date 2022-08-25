@@ -140,6 +140,16 @@ drop bars.
 - Panaracer
 - Gatorskins
 
+### Headset
+
+- [Fairweather matte silver](https://global.bluelug.com/fairweather-headset-1-1-8-matt-silver.html) -- Very clean design, minimal branding.
+- [Ritchey classic gloss silver](https://www.bike24.com/p2295706.html)
+- [Ritchey WCS logic black](https://www.bike24.com/p2647.html)
+- Cane Creek 40
+- [Velo Orange glossy
+  silver](https://global.bluelug.com/velo-orange-grand-cru-headset-1-1-8-silver.html)
+  -- Only silver works; the branding on the black is too visible.
+
 ### Misc
 
 - Star nut
@@ -198,6 +208,7 @@ drop bars.
 ## Inspirations
 
 - [Loads of cross-check configurations with pictures](https://bluelug.com/bike-catalog/model/surly-cross-check/)
+- [Black with silver accents](https://bluelug.com/bike-catalog/11096/)
 - Black frame, silver crankset/seatpost/headset. Brown leather accents. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/
 - Black frame, silver crankset/seatpost/headset. Tan rims. https://www.reddit.com/r/Surlybikefans/comments/o3b282/my_crosscheck_with_some_freshly_built_wheels/
 - Black on black. I like the tan rims on a black bike. https://www.reddit.com/r/Surlybikefans/comments/mcictw/crosscheck/gs60f6f/
