@@ -140,10 +140,18 @@ drop bars.
 - Panaracer
 - Gatorskins
 
+### Misc
+
+- Star nut
+- Steerer tube end cap
+
 ## Tools to buy
 
 - Torque wrench
 - Bottom bracket tool
+- Grease
+- Pipe cutter
+- Star nut setting tool
 - See [this post](https://www.reddit.com/r/Surlybikefans/comments/uzh01n/was_lucky_enough_to_find_a_crosscheck_in_my_size/iab6lrj/) for more
 
 ## Random questions
