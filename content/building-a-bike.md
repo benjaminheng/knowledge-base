@@ -12,7 +12,7 @@ research notes. It is going to be very unstructured.
 - Frame: Surly Cross-Check 52cm; black
 - Brakes: TRP CX8.4 (Mini-V)
 - Brake pads: Kool Stop Supra 2, Salmon
-- Bottom Bracket: Shimano BB-UN300 (Square taper)
+- Bottom Bracket: ??
 - Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD
 - Chainring: Wolf Tooth 42T Chainring; 130 BCD
 - Cassette: Microshift Advent 9-speed 11-42 CS-H093A (alloy)
@@ -67,6 +67,7 @@ taper BB, since I prefer the aesthetics of thinner cranks.
 
 ### Bottom brackets
 
+- [Sugino Cartridge bottom bracket](https://global.bluelug.com/catalog/product/view/id/22103/s/sugino-cartridge-bottom-bracket/category/77/)
 - Shimano BB-UN300 (Square taper)
 - SRAM GXP A1 https://www.sram.com/en/sram/models/bb-gxp-a1
 
@@ -204,6 +205,7 @@ drop bars.
 - [About wheels and hubs](https://sugarwheelworks.com/technical-information/hub-information-and-details/)
 - [Rim width vs tire width](https://www.schwalbetires.com/technology-faq/tire-dimensions/#rim) ([chart only](https://www.schwalbetires.com/media/16/8f/9b/1654668257/reifen-felgenkombination-etrto-22-en-2.pdf))
 - [Can You Put a 9-speed Cassette On An 11-speed Hub?](https://brainybiker.com/can-you-put-a-9-speed-cassette-on-an-11-speed-hub/) (yes you can)
+- [Install bottom bracket](https://www.youtube.com/watch?v=1BrVjDFqotE)
 
 ## Inspirations
 
