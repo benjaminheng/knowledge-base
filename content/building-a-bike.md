@@ -12,8 +12,8 @@ research notes. It is going to be very unstructured.
 - Frame: Surly Cross-Check 52cm; black
 - Brakes: TRP CX8.4 (Mini-V)
 - Brake pads: Kool Stop Supra 2, Salmon
-- Bottom Bracket: ??
-- Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD
+- Bottom Bracket: ?? 113mm
+- Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD; 113mm BB recommended
 - Chainring: Wolf Tooth 42T Chainring; 130 BCD
 - Cassette: Microshift Advent 9-speed 11-42 CS-H093A (alloy)
 - Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
