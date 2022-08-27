@@ -158,7 +158,7 @@ drop bars.
 
 ## Tools to buy
 
-- Torque wrench
+- Torque wrench: https://dcbikes.com.sg/products/bike-hand-1-4-mtb-road-2nm-24nm-pro-torque-wrench-set-tools
 - Bottom bracket tool
 - Grease
 - Pipe cutter
