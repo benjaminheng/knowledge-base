@@ -56,6 +56,7 @@ Brake levers:
 
 - Shimano Deore T610/T611
 - [Dia Compe mx-2 polished silver](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- I think it'll go well with the silver handlebar, seen [here](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html).
+- [Velo Orange cru brake lever silver](https://global.bluelug.com/v-o-cru-brake-lever-silver.html)
 
 ### Cranks
 
