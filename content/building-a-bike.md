@@ -35,8 +35,10 @@ research notes. It is going to be very unstructured.
 - Probably will get mini-v or v brakes. Stronger and easier to set up and maintain.
 - Leaning towards mini-v, but need to do more research.
 - Mini-v will require a short-pull brake lever.
+- 2022-08-29 update: Will be going with Shimano Deore T610 due to
+  unavailability of the Tektro 726AL and other mini-v options.
 
-Options:
+Brakes:
 
 - (Canti) Avid Shorty Ultimate. Expensive, but possibly worth it? Since I'm not
   intending to go for disc brakes, might be worth spending more on quality rim
@@ -49,6 +51,11 @@ Brake pads:
 
 -  Kool stop salmon supra 2 -- general purpose
 -  Kool stop salmon type 2 -- for shimano brakes
+
+Brake levers:
+
+- Shimano Deore T610/T611
+- [Dia Compe mx-2 polished silver](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- I think it'll go well with the silver handlebar, seen [here](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html).
 
 ### Cranks
 
@@ -128,14 +135,20 @@ The chainring's BCD should match that of your cranks.
 - Wolf Tooth https://www.wolftoothcomponents.com/collections/chainrings/chain-compatibility_all-9-10-11spd
 - 130 BCD Wolf Tooth: https://www.wolftoothcomponents.com/collections/chainrings/products/130-bcd-cyclocross-chainrings?variant=14782015209507
 
-### Handlebars
+### Handlebars + stem
 
-Would like something with different hand positions. My hands tend to get tingly
-after prolonged riding.  More hand positions would be nice. Not interested in
-drop bars.
+Consider getting a cheap adjustable stem to start with, to dial in the angle
+that feels most comfortable. As for length I'm leaning towards a shorter 60mm
+stem, considering that the CrossCheck frame has a relatively long reach by
+itself.
+
+Colors: Polished silver stem. Polished silver handlebars. Black grips (or brown?).
+
+Handlebars:
 
 - Jones H-Bar
 - Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
+- [Ritchey classic flat 10 bar](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- Simple and cheap
 
 ### Tires
 
@@ -157,13 +170,6 @@ drop bars.
 ### Pedals
 
 - [MKS Allways](https://shop.circles-jp.com/en/products/mks-allways)
-
-### Handlebar + stem
-
-Consider getting a cheap adjustable stem to start with, to dial in the angle
-that feels most comfortable. As for length I'm leaning towards a shorter 60mm
-stem, considering that the CrossCheck frame has a relatively long reach by
-itself.
 
 ### Misc
 
