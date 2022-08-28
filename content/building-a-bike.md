@@ -154,9 +154,16 @@ drop bars.
   silver](https://global.bluelug.com/velo-orange-grand-cru-headset-1-1-8-silver.html)
   -- Only silver works; the branding on the black is too visible.
 
-## Pedals
+### Pedals
 
 - [MKS Allways](https://shop.circles-jp.com/en/products/mks-allways)
+
+### Handlebar + stem
+
+Consider getting a cheap adjustable stem to start with, to dial in the angle
+that feels most comfortable. As for length I'm leaning towards a shorter 60mm
+stem, considering that the CrossCheck frame has a relatively long reach by
+itself.
 
 ### Misc
 
