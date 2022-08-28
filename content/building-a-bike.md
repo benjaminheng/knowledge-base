@@ -154,6 +154,10 @@ drop bars.
   silver](https://global.bluelug.com/velo-orange-grand-cru-headset-1-1-8-silver.html)
   -- Only silver works; the branding on the black is too visible.
 
+## Pedals
+
+- [MKS Allways](https://shop.circles-jp.com/en/products/mks-allways)
+
 ### Misc
 
 - Star nut
