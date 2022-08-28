@@ -10,7 +10,8 @@ research notes. It is going to be very unstructured.
 ## Build
 
 - Frame: Surly Cross-Check 52cm; black
-- Brakes: TRP CX8.4 (Mini-V)
+- Brakes: Shimano Deore T610
+- Brake levers: Shimano Deore T610
 - Brake pads: Kool Stop Supra 2, Salmon
 - Bottom Bracket: [Sugino Cartridge bottom bracket; 113mm](https://global.bluelug.com/catalog/product/view/id/22103/s/sugino-cartridge-bottom-bracket/category/77/)
 - Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD; 113mm BB recommended
