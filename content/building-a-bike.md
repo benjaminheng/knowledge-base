@@ -40,7 +40,7 @@ Options:
 - (Canti) Avid Shorty Ultimate. Expensive, but possibly worth it? Since I'm not
   intending to go for disc brakes, might be worth spending more on quality rim
   brakes.
-- (V) Shimano Deore BR-T610 V-Brake. https://www.bike-components.de/en/Shimano/Deore-BR-T610-V-Brake-Set-p83063/
+- (V) Shimano Deore BR-T610 V-Brake. [bike-components](https://www.bike-components.de/en/Shimano/Deore-BR-T610-V-Brake-Set-p83063/), [universalcycles](https://www.universalcycles.com/shopping/product_details.php?id=110275).
 - (Mini-V) Tektro RX6 https://www.tektro.com/products.php?p=49
 - (Mini-V) TRP CX8.4 https://global.bluelug.com/trp-cx8-4-mini-v-brake-black.html
 
