@@ -19,8 +19,8 @@ research notes. It is going to be very unstructured.
 - Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
 - Shifters: Microshift Advent Trail Trigger Pro 1x9
 - Chain: ??? 9 speed
-- Wheelset: [Shimano 105 WH-RS300-CL](https://www.hupleong.co/shop-shimano/shimano-105-clincher-24-mm-wheelset)
-- Tires: ?? 35mm
+- Wheelset: [Shimano|Mavic A319 w/ Deore T610 hubs](https://www.bike24.com/p2360488.html)
+- Tires: ?? 42mm?
 
 ## Research
 
@@ -111,6 +111,7 @@ In that case I'm leaning towards the Shimano 105 WH-RS300-CL. It's relatively
 cheap, and with a fairly quiet hub. I'd like to upgrade to an Onyx hub in the
 future, but I'll defer that upgrade for now.
 
+- [Shimano|Mavic A319 w/ Deore T610 hubs](https://www.bike24.com/p2360488.html)
 - [Shimano 105 WH-RS300-CL](https://www.hupleong.co/shop-shimano/shimano-105-clincher-24-mm-wheelset)
 - [Hunt 4season aero road](https://www.huntbikewheels.cc/products/hunt-4season-aero-road-wheelset-1589g-28deep-22wide) (freehub sounds quite loud though)
 - [Fulcrum Racing 3](https://www.rodalink.com/sg/fulcrum-racing-3-wheelset.html)
