@@ -46,7 +46,8 @@ Options:
 
 Brake pads:
 
--  Kool stop salmon
+-  Kool stop salmon supra 2 -- general purpose
+-  Kool stop salmon type 2 -- for shimano brakes
 
 ### Cranks
 
