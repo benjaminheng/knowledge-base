@@ -151,6 +151,12 @@ Handlebars:
 - Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
 - [Ritchey classic flat 10 bar](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- Simple and cheap
 
+Grips:
+
+- Bar tape. I'll probably eventually go with this, out of desire to avoid logos
+  or branding. Consider this combination of [cloth tape, twine, and
+  shellac](https://www.youtube.com/watch?v=nhGAfWhaf4M).
+
 ### Tires
 
 - Rene Herse: https://www.renehersecycles.com/product-category/components/tires/700c/
