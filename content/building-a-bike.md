@@ -138,12 +138,12 @@ The chainring's BCD should match that of your cranks.
 
 ### Handlebars + stem
 
-Consider getting a cheap adjustable stem to start with, to dial in the angle
-that feels most comfortable. As for length I'm leaning towards a shorter 60mm
-stem, considering that the CrossCheck frame has a relatively long reach by
-itself.
-
-Colors: Polished silver stem. Polished silver handlebars. Black grips (or brown?).
+- Consider getting a cheap adjustable stem to start with, to dial in the angle
+  that feels most comfortable. As for length I'm leaning towards a shorter 60mm
+  stem, considering that the CrossCheck frame has a relatively long reach by
+  itself.
+- Colors: Polished silver stem. Polished silver handlebars. Black grips (or brown?).
+- If getting a steel stem, aluminum spacers will tend to be thicker and thus bulge out. Get steel spacers instead, such as [these from simworks](https://analogcycles.com/products/simworks-headset-spacers?variant=40095935135921)
 
 Handlebars:
 
