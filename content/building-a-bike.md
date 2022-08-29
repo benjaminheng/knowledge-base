@@ -147,8 +147,8 @@ Colors: Polished silver stem. Polished silver handlebars. Black grips (or brown?
 
 Handlebars:
 
-- [Ritchey classic flat 10 bar](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- Simple and cheap
 - [Fairweather b903 bullmoose bar](https://shop.circles-jp.com/en/products/fairweather-b903-bull-moose-bar)
+- [Ritchey classic flat 10 bar](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- Simple and cheap
 - [Velo Orange curvy bar](https://global.bluelug.com/velo-orange-curvy-too-handlebar-silver.html)
 - Jones H-Bar
 - Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
