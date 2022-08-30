@@ -29,3 +29,4 @@ category: fitness
 - [DCBikes](https://dcbikes.com.sg/)
 - [Hup Leong](https://www.hupleong.co/)
 - [Cycle Project Store](https://www.cycleprojectstore.com)
+- [The Bike Settlement](https://www.thebikesettlement.com)
