@@ -176,6 +176,10 @@ Stem cap:
 
 - [MKS Allways](https://shop.circles-jp.com/en/products/mks-allways)
 
+### Seatpost
+
+- Generic seatpost clamp: https://r3cycles.com/products/seatpost-clamp-29-8mm-silver
+
 ### Misc
 
 - Star nut
