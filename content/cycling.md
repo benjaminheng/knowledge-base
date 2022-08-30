@@ -28,3 +28,4 @@ category: fitness
 - [Fishtail Cyclery](https://www.fishtailcyclery.com)
 - [DCBikes](https://dcbikes.com.sg/)
 - [Hup Leong](https://www.hupleong.co/)
+- [Cycle Project Store](https://www.cycleprojectstore.com)
