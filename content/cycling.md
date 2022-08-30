@@ -22,3 +22,9 @@ category: fitness
 - [How To Build Your Own Bike (And Why You Should Do It)](https://www.icebike.org/build-your-own-bike/)
 - [Bike assembly](https://www.youtube.com/watch?v=sU2ES4dvWkc)
 - [OMATA One cycling computer](https://omata.com/collections/all/products/omata-one-kph?variant=47672917909) - Analog cycling computer. Expensive but kinda cool.
+
+## Local bike online stores
+
+- [Fishtail Cyclery](https://www.fishtailcyclery.com)
+- [DCBikes](https://dcbikes.com.sg/)
+- [Hup Leong](https://www.hupleong.co/)

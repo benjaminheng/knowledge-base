@@ -7,22 +7,6 @@ toc: true
 I'm currently in the process of building a bike. This page will contain my
 research notes. It is going to be very unstructured.
 
-## Build
-
-- Frame: Surly Cross-Check 52cm; black
-- Brakes: Shimano Deore T610
-- Brake levers: Shimano Deore T610
-- Brake pads: Kool Stop Supra 2, Salmon
-- Bottom Bracket: [Sugino Cartridge bottom bracket; 113mm](https://global.bluelug.com/catalog/product/view/id/22103/s/sugino-cartridge-bottom-bracket/category/77/)
-- Crank: Blue Lug RMC Multi Speed; Black; 165mm; 130 BCD; 113mm BB recommended
-- Chainring: Wolf Tooth 42T Chainring; 130 BCD
-- Cassette: Microshift Advent 9-speed 11-42 CS-H093A (alloy)
-- Rear Derailleur: Microshift Advent 9-speed medium cage with clutch
-- Shifters: Microshift Advent Trail Trigger Pro 1x9
-- Chain: ??? 9 speed
-- Wheelset: [Shimano|Mavic A319 w/ Deore T610 hubs](https://www.bike24.com/p2360488.html)
-- Tires: ?? 42mm?
-
 ## Research
 
 ### Frame
@@ -147,17 +131,29 @@ The chainring's BCD should match that of your cranks.
 
 Handlebars:
 
-- [Fairweather b903 bullmoose bar](https://shop.circles-jp.com/en/products/fairweather-b903-bull-moose-bar)
+- [Velo Orange postino bar](https://velo-orange.com/products/vo-postino-handlebar-22-2mm) -- 570mm wide
 - [Ritchey classic flat 10 bar](https://global.bluelug.com/ritchey-classic-flat-10-bar-silver.html) -- Simple and cheap
-- [Velo Orange curvy bar](https://global.bluelug.com/velo-orange-curvy-too-handlebar-silver.html)
+- [Velo Orange curvy bar](https://global.bluelug.com/velo-orange-curvy-too-handlebar-silver.html) -- 680mm wide. Wider version of the Postino bar.
 - Jones H-Bar
 - Surly Moloko handlebar -- a bit of a weird design, probably overkill in terms of hand positions
+- [Fairweather b903 bullmoose
+  bar](https://shop.circles-jp.com/en/products/fairweather-b903-bull-moose-bar)
+  -- 710mm. Too wide, needs to be cut down significantly, but then it'll lose
+  its charm. Not a good option for me, though I like the look.
 
 Grips:
 
 - Bar tape. I'll probably eventually go with this, out of desire to avoid logos
   or branding. Consider this combination of [cloth tape, twine, and
   shellac](https://www.youtube.com/watch?v=nhGAfWhaf4M).
+
+Spacers:
+
+- [Simworks cromoly steel spacers](https://shop.circles-jp.com/en/products/simworks-with-me-crom-spacer?variant=49598701524)
+
+Stem cap:
+
+- https://www.cycleprojectstore.com/pages/search-results-page?collection=headset-top-cap
 
 ### Tires
 
