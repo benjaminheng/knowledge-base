@@ -57,3 +57,9 @@ Sans-serif fonts:
 - Fira Sans Condensed (for subtitles)
 - Patrick Hand (comic sans -ish)
 - Lato (thick, blocky)
+
+Monospace:
+
+- [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft inspired
+  pixellated font. I think it'll look good in retro-inspired user interfaces.
+  Like a design based around ncurses.
