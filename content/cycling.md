@@ -23,10 +23,19 @@ category: fitness
 - [Bike assembly](https://www.youtube.com/watch?v=sU2ES4dvWkc)
 - [OMATA One cycling computer](https://omata.com/collections/all/products/omata-one-kph?variant=47672917909) - Analog cycling computer. Expensive but kinda cool.
 
-## Local bike online stores
+## Bike stores
+
+Local:
 
 - [Fishtail Cyclery](https://www.fishtailcyclery.com)
 - [DCBikes](https://dcbikes.com.sg/)
 - [Hup Leong](https://www.hupleong.co/)
 - [Cycle Project Store](https://www.cycleprojectstore.com)
 - [The Bike Settlement](https://www.thebikesettlement.com)
+
+Global:
+
+- https://www.bike24.com/
+- https://global.bluelug.com/
+- https://shop.circles-jp.com/en
+- https://alexscycle.com/ -- Japanese parts
