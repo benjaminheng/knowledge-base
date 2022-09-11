@@ -4,7 +4,6 @@ toc: false
 ---
 Things that don't fit nicely into another category. If there's enough of a particular topic I'll recategorize them.
 
-- [Siaw Young - Understanding Money](https://siawyoung.com/understanding-money)
 - [Album cover art lookup](https://www.covermytunes.com/)
 - [User-centric payouts by streaming services, a collection of studies and resources](https://musically.com/2020/05/13/what-are-user-centric-music-streaming-payouts/)
 - :star: [Writing for GOV.UK - Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
@@ -31,3 +30,8 @@ Things that don't fit nicely into another category. If there's enough of a parti
 
 - [Where to Stay & Things to Do in London: An Incomplete Guide](https://randomlylondon.com/london-guide/)
 - [Pre-trip nerves](https://www.reddit.com/r/solotravel/comments/tax2b5/leaving_for_my_first_solo_trip_to_budapest/)
+
+## Finance
+
+- [Siaw Young - Understanding Money](https://siawyoung.com/understanding-money)
+- [Dan Ariely on behavioral economics around money](https://www.youtube.com/watch?v=OztmXoMPjjQ)
