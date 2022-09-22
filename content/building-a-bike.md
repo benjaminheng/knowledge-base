@@ -235,6 +235,7 @@ Stem cap:
 - [Rim width vs tire width](https://www.schwalbetires.com/technology-faq/tire-dimensions/#rim) ([chart only](https://www.schwalbetires.com/media/16/8f/9b/1654668257/reifen-felgenkombination-etrto-22-en-2.pdf))
 - [Can You Put a 9-speed Cassette On An 11-speed Hub?](https://brainybiker.com/can-you-put-a-9-speed-cassette-on-an-11-speed-hub/) (yes you can)
 - [Install bottom bracket](https://www.youtube.com/watch?v=1BrVjDFqotE)
+- [Installing a Surly 8 pack front rack on a cross-check with caliper brakes](https://www.reddit.com/r/Surlybikefans/comments/pc0clv/8_pack_rack_with_v_brakes/)
 
 ## Inspirations
 
