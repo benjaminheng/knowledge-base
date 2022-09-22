@@ -236,6 +236,7 @@ Stem cap:
 - [Can You Put a 9-speed Cassette On An 11-speed Hub?](https://brainybiker.com/can-you-put-a-9-speed-cassette-on-an-11-speed-hub/) (yes you can)
 - [Install bottom bracket](https://www.youtube.com/watch?v=1BrVjDFqotE)
 - [Installing a Surly 8 pack front rack on a cross-check with caliper brakes](https://www.reddit.com/r/Surlybikefans/comments/pc0clv/8_pack_rack_with_v_brakes/)
+- [Installing a Surly 8 pack front rack on a cross-check with caliper brakes 2](https://surlybikes.com/blog/how_to_use_our_stuff_cross_check_and_24_pack_edition)
 
 ## Inspirations
 
