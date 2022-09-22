@@ -176,14 +176,11 @@ Stem cap:
 
 - [MKS Allways](https://shop.circles-jp.com/en/products/mks-allways)
 
-### Seatpost
+### Front rack
 
-- Generic seatpost clamp: https://r3cycles.com/products/seatpost-clamp-29-8mm-silver
-
-### Misc
-
-- Star nut
-- Steerer tube end cap
+- Surly 8 pack
+- Velo Orange Randonneur (cantilever mount)
+- Nitto m-18
 
 ## Tools to buy
 
