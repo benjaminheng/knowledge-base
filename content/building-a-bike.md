@@ -246,3 +246,12 @@ Stem cap:
 ## Gear ratio comparison
 
 - [Birdy vs ??](https://ritzelrechner.de/?GR=DERS&KB=52&RZ=11,12,14,16,18,21,24,28,32&UF=1380&TF=90&SL=2.6&UN=KMH&DV=gearInches&GR2=DERS&KB2=42&RZ2=11,13,15,18,21,24,28,34,42&UF2=2215)
+
+## Torque reference
+
+For my specific bike, so I don't have to keep looking it up for my specific parts
+
+- Saddle clamp: 11 nm
+- Seatpost: 8 nm
+- Brake levers: 9nm
+- Stem to steerer clamp: 6 nm
