@@ -53,7 +53,7 @@ https://github.com/quenhus/uBlock-Origin-dev-filter
 ## [Carousell] Remove spotlight search results
 
 ```
-www.carousell.sg##[data-testid*="listing-card-"]:has(p:has-text(/Spotlight/))
+www.carousell.sg##div:has(> [data-testid*="listing-card-"]:has(p:has-text(/Spotlight/)))
 ```
 
 ## [StackExchange] Remove cookie consent banner
