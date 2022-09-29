@@ -197,3 +197,16 @@ Issue: https://github.com/neovim/neovim/issues/15414
 
 This is currently blocking me from adopting neovim's built-in LSP. The LSP
 server provides fuzzy matching, but the omnifunc handler is filtering them out.
+
+### [vim-go] Outdated tags when switching branches or generating code
+
+This can occur when you have an existing vim session, and you either switch
+branches, generate code, or otherwise change the state of the codebase from an
+external source. The tags can become outdated, and omnicompletion does not pick
+up the new tags. One way to solve this is to simply restart vim to reinitialize
+gopls. Alternatively the following command can be used ([stackoverflow
+comment](https://github.com/fatih/vim-go/issues/2550#issuecomment-815576448)):
+
+```
+:GoBuildTags ''
+```
