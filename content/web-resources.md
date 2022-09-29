@@ -31,6 +31,7 @@ category: tech
 - [Classless.de](https://classless.de/) -- another classless CSS framework
 - [simplestatistics.org](https://simplestatistics.org/) -- Simple Statistics is a JavaScript library that implements statistical methods
 - [Papa Parse](https://www.papaparse.com/) -- CSV parser for the browser
+- [kill-sticky](https://github.com/t-mart/kill-sticky) -- Bookmarklet to remove sticky HTML elements.
 
 ## Charting libraries
 
