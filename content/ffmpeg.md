@@ -2,6 +2,7 @@
 title: ffmpeg
 category: tech
 ---
+
 ## Concatenate files (MPEG-TS or other formats)
 
 Create file containing paths to the parts you wish to combine.
@@ -28,3 +29,14 @@ ffmpeg -f concat -safe 0 -i filelist.txt -c copy output.mp4
 
 1. Rip to .mkv files using [MakeMKV](https://www.makemkv.com/) to strip DRM.
 2. Pass the output .mkv files to [Handbrake](https://handbrake.fr/) for encoding and compression.
+
+## Change aspect ratio
+
+On one occasion I've had a property agent send me a 9:16 portrait video
+stretched to 4:3. May simply be a mistake, or perhaps maliciously done to make
+the apartment seem bigger than it is. Here's a command to change a video's
+aspect ratio.
+
+```
+ffmpeg -i "input.mp4" -c copy -aspect 16:9 "output.mp4"
+```
