@@ -1,6 +1,6 @@
 ---
 title: "Temporal.io"
-category: Tech
+category: tech
 ---
 
 - [Temporal in 7 minutes; TLDR intro](https://www.youtube.com/watch?v=CQhUL5RogXI)

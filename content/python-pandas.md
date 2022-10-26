@@ -1,7 +1,7 @@
 ---
 title: "Python (Pandas)"
 toc: true
-category: Tech
+category: tech
 ---
 
 ## Read CSV
