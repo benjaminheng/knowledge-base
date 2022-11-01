@@ -191,6 +191,27 @@ index f17cd862..cada0890 100644
      let l:dir = expand('#' . a:buffer . ':p:h')
 ```
 
+### NERDTree panel does not resize
+
+Issue: https://github.com/preservim/nerdtree/issues/1321
+
+As a workaround, apply the patch:
+
+```diff
+diff --git a/lib/nerdtree/menu_controller.vim b/lib/nerdtree/menu_controller.vim
+index 952c67b..df34d66 100644
+--- a/lib/nerdtree/menu_controller.vim
++++ b/lib/nerdtree/menu_controller.vim
+@@ -172,6 +172,7 @@ endfunction
+ function! s:MenuController._restoreOptions()
+     let &cmdheight = self._oldCmdheight
+     let &lazyredraw = self._oldLazyredraw
++    resize
+ endfunction
+ 
+ "FUNCTION: MenuController._cursorDown() {{{1
+```
+
 ### Neovim's LSP omnifunc does not support fuzzy matches
 
 Issue: https://github.com/neovim/neovim/issues/15414
