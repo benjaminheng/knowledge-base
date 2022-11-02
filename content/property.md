@@ -10,6 +10,7 @@ title: "Property"
 
 ## General resources
 
+- :star: [Agreements and checklists](https://www.cea.gov.sg/professionals/agreements_and_checklists)
 - [Calculate buyer stamp duty](https://www.moneysmart.sg/home-loan/stamp-duty-calculator)
 - [Calculate mortgage](https://www.moneysense.gov.sg/financial-tools/mortgage-calculator)
 - [How much mortgage can I afford (rule of thumb)](https://www.investopedia.com/articles/pf/05/030905.asp)
