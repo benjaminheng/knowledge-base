@@ -32,6 +32,7 @@ category: tech
 - [simplestatistics.org](https://simplestatistics.org/) -- Simple Statistics is a JavaScript library that implements statistical methods
 - [Papa Parse](https://www.papaparse.com/) -- CSV parser for the browser
 - [kill-sticky](https://github.com/t-mart/kill-sticky) -- Bookmarklet to remove sticky HTML elements.
+- [blurhash](https://github.com/woltapp/blurhash)
 
 ## Charting libraries
 
