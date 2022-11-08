@@ -54,7 +54,7 @@ Given the following source JSON:
 
 Constructing a JSON object would normally take the form of `.[] | {payload}`, which gives us:
 
-```
+```json
 {"payload": "text"}
 ```
 
@@ -63,8 +63,8 @@ syntax to be `{labels.method}`. This does not work. Instead the syntax is `.[]
 | {"method": .labels.method}`
 
 So with this contrived example, if we wanted to select timestamp and the
-method, the jq filter would be:
+method, the jq filter would be `.[] | {timestamp, "method": .labels.method}`, which gives us:
 
-```
-. [] | {timestamp, "method": .labels.method}
+```json
+{"timestamp": 1, "method": "xxx"}
 ```
