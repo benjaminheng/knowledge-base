@@ -37,3 +37,34 @@ the recipients, not the sender. We can do:
 ```
 .[] | .sender_id as $sender_id | .chat_participants.user_id | select(. != $sender_id)
 ```
+
+## Construct a JSON object by referencing a nested field
+
+Given the following source JSON:
+
+```json
+[{
+    "timestamp": 1,
+    "labels": {
+        "method": "xxx"
+    },
+    "payload": "text"
+}]
+```
+
+Constructing a JSON object would normally take the form of `.[] | {payload}`, which gives us:
+
+```
+{"payload": "text"}
+```
+
+If we wanted to select the `.labels.method` field, naturally we might expect jq
+syntax to be `{labels.method}`. This does not work. Instead the syntax is `.[]
+| {"method": .labels.method}`
+
+So with this contrived example, if we wanted to select timestamp and the
+method, the jq filter would be:
+
+```
+. [] | {timestamp, "method": .labels.method}
+```
