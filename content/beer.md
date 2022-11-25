@@ -9,3 +9,4 @@ refer to.
 - 8/10 -- Brewlander Joy
 - 7/10 -- Singha
 - 5/10 -- Hoegaarden
+- 5/10 -- Edelweiss
