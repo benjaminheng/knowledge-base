@@ -33,6 +33,8 @@ category: tech
 - [Papa Parse](https://www.papaparse.com/) -- CSV parser for the browser
 - [kill-sticky](https://github.com/t-mart/kill-sticky) -- Bookmarklet to remove sticky HTML elements.
 - [blurhash](https://github.com/woltapp/blurhash)
+- [Tree views in CSS](https://iamkate.com/code/tree-views/)
+- [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
 
 ## Charting libraries
 

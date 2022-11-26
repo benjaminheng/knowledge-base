@@ -22,6 +22,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Stacked Area Graphs Are Not Your Friend](https://everydayanalytics.ca/2014/08/stacked-area-graphs-are-not-your-friend.html)
 - [Visualization of revenue vs gross profit vs net profit](https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/)
 - [Kagi search](https://kagi.com/) -- Paid search engine
+- [Datasette](https://datasette.io/)
 
 ## Music
 

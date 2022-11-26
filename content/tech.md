@@ -29,3 +29,5 @@ category: tech
 - [Datawrapper -- data visualization](https://www.datawrapper.de/)
 - [q - query CSVs with SQL](https://github.com/harelba/q)
 - uBlock Origin rule to block YouTube end cards: `www.youtube.com##.ytp-ce-element-show`
+- [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
+- [Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
