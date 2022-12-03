@@ -1,20 +1,17 @@
 {{ $index := slice }}
 
-{{ range .Site.Pages.GroupByParam "category" }}
-  {{ range .Pages }}
-    {{ $title := (.Title | plainify) }}
-    {{ $rawText := $title }}
-
-    {{ if isset .Params "category" }}
-        {{ $rawText = print (.Params.category | title) " > " $title }}
+{{ range .Site.Pages.GroupBy "Section" }}
+    {{ if not (eq .Key "") }}
+        {{ range .Pages }}
+            {{ $title := (.Title | plainify) }}
+            {{ $rawText := print (.Section | title) " > " $title }}
+            {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $rawText }}
+            {{ $index = $index | append $entry }}
+        {{ end }}
     {{ end }}
-
-    {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $rawText }}
-    {{ $index = $index | append $entry }}
-  {{ end }}
 {{ end }}
 
-{{ range (where .Site.Pages "Params.category" "==" nil) }}
+{{ range (where .Site.Pages "Section" "==" "" ) }}
     {{ if not (eq .File.LogicalName "_index.md") }}
         {{ $title := (.Title | plainify) }}
         {{ $entry := dict "permalink" .RelPermalink "title" $title "raw_text" $title}}

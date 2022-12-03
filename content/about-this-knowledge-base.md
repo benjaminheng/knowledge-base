@@ -42,8 +42,7 @@ Notes are stored on the filesystem as a flat list. Search is the preferred
 method for navigation. However since I also publish my knowledge base on the
 web, I loosely categorize notes into a single category. The categorization
 makes the web browsing experience a little easier. At the time of writing I
-have categories for Tech, Fitness, and Games. Notes are categorized using a
-frontmatter param, rather than directories on the filesystem.
+have categories for Tech, Fitness, and Games.
 
 I don't use many backlinks. I know lots of people swear by them, but personally
 I don't find them particularly useful. I prefer having a [single post about a

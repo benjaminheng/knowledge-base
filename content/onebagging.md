@@ -1,6 +1,5 @@
 ---
 title: "Onebagging"
-category: travel
 ---
 
  // TODO: I have an idea for a post, currently dumping content here while I

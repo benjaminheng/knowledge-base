@@ -1,7 +1,6 @@
 ---
 title: Climbing trips
 toc: true
-category: travel
 ---
 
 Other climbing locations. These are places I've not researched in detail yet. Once researched I'll move them into dedicated pages.

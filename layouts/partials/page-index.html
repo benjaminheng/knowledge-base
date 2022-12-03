@@ -1,15 +1,18 @@
 <ul>
   <li><a href="/">Home</a></li>
-  {{ range .Site.Pages.GroupByParam "category" }}
-    <li>{{ .Key | title }}</li>
-    <ul>
-      {{ range .Pages }}
+
+  {{ range .Site.Pages.GroupBy "Section" }}
+    {{ if not (eq .Key "") }}
+      <li>{{ .Key | title }}</li>
+      <ul>
+        {{ range .Pages }}
         <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
+        {{ end }}
+      </ul>
+    {{ end }}
   {{ end }}
 
-  {{ range (where .Site.Pages "Params.category" "==" nil) }}
+  {{ range (where .Site.Pages "Section" "==" "" ) }}
     {{ if not (eq .File.LogicalName "_index.md") }}
       <li><a href="{{.RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
