@@ -23,6 +23,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Visualization of revenue vs gross profit vs net profit](https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/)
 - [Kagi search](https://kagi.com/) -- Paid search engine
 - [Datasette](https://datasette.io/)
+- https://pudding.cool/
 
 ## Music
 
