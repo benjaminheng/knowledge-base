@@ -32,3 +32,4 @@ title: Tech
 - [Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Ilograph](https://app.ilograph.com/demo.ilograph.Ilograph/Request) -- Interactive graphs, with a very cool service architecture demo.
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md) -- Diagramming tool. Unlike plantuml/graphviz/mermaid/d2, Pikchr allows for granular layout tweaks, at the cost of a more esoteric DSL.
+- [github.com/BurntSushi/erd](https://github.com/BurntSushi/erd) -- Diagramming tool for ER diagrams _only_.
