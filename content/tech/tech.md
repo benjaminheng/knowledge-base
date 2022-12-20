@@ -30,3 +30,4 @@ title: Tech
 - uBlock Origin rule to block YouTube end cards: `www.youtube.com##.ytp-ce-element-show`
 - [How stdbuf works](https://hmarr.com/blog/how-stdbuf-works/)
 - [Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
+- [Ilograph](https://app.ilograph.com/demo.ilograph.Ilograph/Request) -- Interactive graphs, with a very cool service architecture demo.
