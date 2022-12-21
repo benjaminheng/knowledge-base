@@ -11,3 +11,4 @@ title: Tetris
   levelling off, (2) cheese height to 6, (3) cheese timer to 4.
 - [Tetris fundamentals](https://www.tetrisconcept.com/p/start.html)
 - [Tetresse](https://tetresse.harddrop.com/) - Finesse training tool
+- [Sprint guide](https://harddrop.com/forums/index.php?showtopic=4371)
