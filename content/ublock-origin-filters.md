@@ -66,3 +66,10 @@ Remove the banner for all subdomains with this.
 ```
 stackexchange.com##.js-consent-banner
 ```
+
+## [Shopee] Remove homescreen overlay
+
+```
+shopee.sg##shopee-banner-popup-stateful
+shopee.sg##body:style(overflow:auto!important)
+```
