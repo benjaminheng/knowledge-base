@@ -33,3 +33,9 @@ title: Tech
 - [Ilograph](https://app.ilograph.com/demo.ilograph.Ilograph/Request) -- Interactive graphs, with a very cool service architecture demo.
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md) -- Diagramming tool. Unlike plantuml/graphviz/mermaid/d2, Pikchr allows for granular layout tweaks, at the cost of a more esoteric DSL.
 - [github.com/BurntSushi/erd](https://github.com/BurntSushi/erd) -- Diagramming tool for ER diagrams _only_.
+
+## ID formats
+
+- [Sharding and IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+- [hashids](https://hashids.org/)
+- [nanoid](https://github.com/ai/nanoid)
