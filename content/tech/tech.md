@@ -39,3 +39,4 @@ title: Tech
 - [Sharding and IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [hashids](https://hashids.org/)
 - [nanoid](https://github.com/ai/nanoid)
+- [ksuid](https://github.com/segmentio/ksuid)
