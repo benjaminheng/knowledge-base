@@ -26,6 +26,7 @@ title: Mental health
 - [Burnout and the Brain](https://www.psychologicalscience.org/observer/burnout-and-the-brain) and [HN discussion](https://news.ycombinator.com/item?id=20331654)
 - [HN: Extremely disillusioned with technology. Please help](https://news.ycombinator.com/item?id=23072333)
 - [Surviving disillusionment](https://www.spakhm.com/p/surviving-disillusionment)
+- [Is Your Burnout From Too Much Work or Too Little Impact?](https://hbr.org/2021/12/is-your-burnout-from-too-much-work-or-too-little-impact)
 
 ## Loneliness
 
