@@ -16,6 +16,8 @@ title: "Mac and cheese"
 
 ## Directions
 
+Base steps:
+
 1. Boil macaroni to al dente.
 2. Make a roux:
     1. Melt butter in a saucepan over medium heat.
