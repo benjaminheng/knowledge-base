@@ -2,13 +2,13 @@
 title: "Beef stew"
 type: recipe
 metadata:
-    serves: 2
-    time: 55 minutes
-    nutrition:
-        calories: 663 Cal
-        protein: 83g
-        fat: 81g
-        carbs: 305g
+    - serves: 2
+    - time: 55 minutes
+    - nutrition:
+        - calories: 663 Cal
+        - protein: 83g
+        - fat: 81g
+        - carbs: 305g
 ingredients:
     - 400ml beef stock
     - 500g beef cubes

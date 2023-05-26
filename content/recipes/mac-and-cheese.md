@@ -2,7 +2,7 @@
 title: "Mac and cheese"
 type: recipe
 metadata:
-    serves: 4
+    - serves: 4
 ingredients:
     - 225g macaroni
     - 57g butter
@@ -11,7 +11,7 @@ ingredients:
     - 450g shredded cheddar
     - salt
     - pepper
-    - 100g parmesan (optional)
+    - (optional) 100g parmesan
 ---
 
 ## Directions

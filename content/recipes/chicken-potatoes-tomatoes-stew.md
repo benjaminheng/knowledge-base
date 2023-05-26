@@ -1,24 +1,28 @@
 ---
 title: "Chicken, potatoes, tomatoes stew"
+type: recipe
+metadata:
+    - serves: 2
+    - time: 45 minutes
+ingredients:
+    - 4 chicken thighs or drumsticks
+    - 2 tomatoes
+    - 1 onion
+    - 2 large potatoes or 6 baby potatoes
+    - salt
+    - pepper
+    - (optional) Other vegetables
 ---
-
-- **Serves:** 2
-- **Time:** 45 minutes
-
-## Ingredients
-
-- 4 chicken thighs or drumsticks
-- 2 diced tomatoes
-- 1 diced onion
-- 2 large potatoes or 6 baby potatoes
-- (optional) Other vegetables
 
 ## Directions
 
-1. Dice the potatoes into large chunks. If using baby potatoes, halve them.
-2. Add all ingredients into a pressure cooker.
-3. Add salt and pepper, mix thoroughly
-4. Pressure cook for 25 minutes
+In a single pot:
+
+1. Dice the [potatoes] and [tomatoes] into large chunks.
+2. Slice or dice [onions] into small chunks.
+3. Add [chicken].
+4. Add [salt] and [pepper], mix thoroughly
+5. Pressure cook for 25 minutes
 
 ## Notes
 

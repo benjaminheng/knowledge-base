@@ -2,8 +2,8 @@
 title: "Chicken soup"
 type: recipe
 metadata:
-    serves: 3
-    time: 45 minutes
+    - serves: 3
+    - time: 45 minutes
 ingredients:
     - 2 chicken breasts
     - 2 chicken thighs or drumsticks

@@ -24,13 +24,15 @@
 
 {{ define "metadata" }}
 <ul>
-  {{ range $k, $v := . }}
-    {{ if (reflect.IsMap $v) }}
+  {{ range $item := . }}
+    {{ range $k, $v := $item }}
       <li><strong>{{ $k | title }}</strong>:
-      {{ template "metadata" $v }}
+        {{ if (reflect.IsSlice $v) }}
+          {{ template "metadata" $v }}
+        {{ else }}
+          {{$v}}
+        {{ end }}
       </li>
-    {{ else }}
-      <li><strong>{{ $k | title }}</strong>: {{$v}}</li>
     {{ end }}
   {{ end }}
 </ul>
