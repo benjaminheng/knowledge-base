@@ -173,6 +173,14 @@ code {
 }
 
 /* misc elements */
+.recipe-highlight-word {
+    background-color: #333333;
+    border-radius: .125rem;
+    padding: .125rem .375rem;
+    background-color: #fef9c3;
+    color: rgb(113, 63, 18);
+}
+
 hr {
   margin: 2em 0;
   border: 0;
