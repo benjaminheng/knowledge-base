@@ -5,11 +5,7 @@
         {{ if .Params.toc }}{{ partial "toc.html" . }}{{ end }}
 
         {{ if .Params.metadata }}
-        <ul>
-          {{ range $k, $v := .Params.metadata }}
-          <li><strong>{{ $k | title }}</strong>: {{$v}}</li>
-          {{ end }}
-        </ul>
+        {{ template "metadata" .Params.metadata }}
         {{ end }}
 
         {{ if .Params.ingredients }}
@@ -24,4 +20,18 @@
         {{ .Content | replaceRE `(<h[1-9] id=\"([^\"]+)\"[^\>]*\>)(.*)(</h[1-9]+>)` `${1}<a href="#${2}" class="anchor" ariaLabel="Anchor"></a>${3}${4}` | replaceRE `\[(.+?)\]([^\(])` `<span class="recipe-highlight-word">${1}</span>${2}` | safeHTML }}
     </div>
 </main>
+{{ end }}
+
+{{ define "metadata" }}
+<ul>
+  {{ range $k, $v := . }}
+    {{ if (reflect.IsMap $v) }}
+      <li><strong>{{ $k | title }}</strong>:
+      {{ template "metadata" $v }}
+      </li>
+    {{ else }}
+      <li><strong>{{ $k | title }}</strong>: {{$v}}</li>
+    {{ end }}
+  {{ end }}
+</ul>
 {{ end }}

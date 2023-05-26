@@ -1,21 +1,19 @@
 ---
 title: "Chicken soup"
+type: recipe
+metadata:
+    serves: 3
+    time: 45 minutes
+ingredients:
+    - 2 chicken breasts
+    - 2 chicken thighs or drumsticks
+    - Carrots, sliced
+    - Celery, diced
+    - Onions, diced
+    - 1L chicken broth
+    - 500ml water
+
 ---
-
-- **Serves:** 3
-- **Time:** 45 minutes
-
-## Ingredients
-
-// TODO: add more exact ingredient amounts
-
-- 2 chicken breasts
-- 2 chicken thighs or drumsticks
-- Carrots, sliced
-- Celery, diced
-- Onions, diced
-- 1L chicken broth
-- 500ml water
 
 ## Directions
 
