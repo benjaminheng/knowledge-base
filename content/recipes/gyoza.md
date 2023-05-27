@@ -27,8 +27,7 @@ ingredients:
 1. Finely mince [cabbage].
 2. [Salt] the cabbage and let it rest for 15 minutes.
 3. Once rested, squeeze cabbage in a towel to draw out as much moisture as possible.
-4. Finely mince [garlic], [ginger], and [scallions].
-5. Combine [garlic], [ginger], and [scallions] with cabbage.
+4. Finely mince [garlic], [ginger], and [scallions]. Combine with [cabbage].
 6. Season with [salt] and [white pepper].
 7. Combine and knead to form the filling.
 
