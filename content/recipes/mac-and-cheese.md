@@ -8,7 +8,7 @@ ingredients:
     - 57g butter
     - 34g flour
     - 575ml milk
-    - 450g shredded cheddar
+    - 450g shredded red cheddar
     - salt
     - pepper
     - (optional) 100g parmesan
@@ -24,7 +24,8 @@ Base steps:
     2. Add [flour], [salt], and [pepper]. Stir until smooth.
     3. Slowly pour in [milk] and stir until the mixture is smooth and bubbling.
 3. Slowly stir in [cheddar cheese].
-4. Stir in cooked [macaroni].
+4. Taste and season if needed.
+5. Stir in cooked [macaroni].
 
 Baking is optional. If choosing to bake:
 
