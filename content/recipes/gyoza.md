@@ -4,17 +4,18 @@ type: recipe
 metadata:
     - serves: 6-8
 ingredients:
-    - 450g cabbage
-    - 450g ground pork
-    - 1 tbsp salt
-    - 1 tsp pepper
-    - 3 garlic cloves
-    - 1 tsp ginger
-    - 50g scallions
-    - 2 tsp sugar
-    - ~50 dumpling wrappers
-    - vegetable oil
-    - "Dipping Sauce":
+    - Gyoza:
+        - 450g cabbage
+        - 450g ground pork
+        - 1 tbsp salt
+        - 1 tsp pepper
+        - 3 garlic cloves
+        - 1 tsp ginger
+        - 50g scallions
+        - 2 tsp sugar
+        - ~50 dumpling wrappers
+        - vegetable oil
+    - "Dipping sauce":
         - 1 part rice vinegar
         - 2 parts soy sauce
         - chili oil

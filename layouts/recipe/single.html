@@ -9,12 +9,8 @@
         {{ end }}
 
         {{ if .Params.ingredients }}
-        <h2>Ingredients</h2>
-        <ul>
-          {{ range $v := .Params.ingredients }}
-          <li>{{$v}}</li>
-          {{ end }}
-        </ul>
+          <h2>Ingredients</h2>
+          {{ template "ingredients" .Params.ingredients }}
         {{ end }}
 
         {{ .Content | replaceRE `(<h[1-9] id=\"([^\"]+)\"[^\>]*\>)(.*)(</h[1-9]+>)` `${1}<a href="#${2}" class="anchor" ariaLabel="Anchor"></a>${3}${4}` | replaceRE `\[(.+?)\]([^\(])` `<span class="recipe-highlight-word">${1}</span>${2}` | safeHTML }}
@@ -33,6 +29,29 @@
           {{$v}}
         {{ end }}
       </li>
+    {{ end }}
+  {{ end }}
+</ul>
+{{ end }}
+
+{{ define "ingredients" }}
+<ul>
+  {{ range $item := . }}
+    {{ if (reflect.IsMap $item) }}
+      {{ range $k, $v := $item }}
+        <li><strong>{{ $k | title }}</strong>:
+          {{ if (reflect.IsSlice $v) }}
+            <ul>
+              {{ range $v := $v }}
+                <li>{{$v}}</li>
+              {{ end }}
+            </ul>
+          {{ else }}
+            {{$v}}
+          {{ end }}
+      {{ end }}
+    {{ else }}
+      <li>{{$item}}</li>
     {{ end }}
   {{ end }}
 </ul>
