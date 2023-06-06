@@ -18,3 +18,5 @@ Timings are for a Philips model HD2137/62.
 
 - [CookLang](https://cooklang.org/) - DSL for describing recipes.
 - https://based.cooking/ - Straightforward recipe site
+- Guide to pizza dough: https://github.com/hendricius/pizza-dough
+- [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
