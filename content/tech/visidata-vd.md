@@ -126,3 +126,27 @@ kubectl get pods | vd -f fixed -
 
 1. `z|` to filter a column by a Python expression
 2. `COLNAME > datetime.date(2022, 1, 1)` as the expression.
+
+## Join datasets
+
+[https://www.visidata.org/docs/join/](https://www.visidata.org/docs/join/)
+
+Open the datasets in VisiData. Two options to do so:
+
+- `vd d1.tsv d2.tsv`
+- Press o and enter a filepath for each file.
+
+To join:
+
+- Press `S` to open up the Sheets Sheet. Through here, you can navigate to every sheet by pressing `Enter` on the row it is referenced in.
+- Navigate to the sheets you want the join, and set their shared columns as key columns with `!`.
+- Press `S` to return to the Sheets sheet. Select the sheets you want to merge with `s`.
+- Optional: If performing a left outer join, use `Shift+J` or `Shift+K` to reorder the sheets. The first sheet will be the one for whom all rows will be retained.
+- Type `&` to open the join-chooser, and select your desired join type with `Enter`.
+
+## Append (concatenate) datasets
+
+- Open the datasets with VisiData.
+- Press `Shift+S` to open the Sheets sheet.
+- Use `s` or `t` to select the sheets to merge.
+- Type `&` and press `Enter` on append to concatenate the selected datasets.
