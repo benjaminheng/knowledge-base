@@ -34,6 +34,7 @@ title: Tech
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md) -- Diagramming tool. Unlike plantuml/graphviz/mermaid/d2, Pikchr allows for granular layout tweaks, at the cost of a more esoteric DSL.
 - [github.com/BurntSushi/erd](https://github.com/BurntSushi/erd) -- Diagramming tool for ER diagrams _only_.
 - [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
+- [How Figma scaled to multiple databases - the growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 
 ## ID formats
 
