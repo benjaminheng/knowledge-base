@@ -33,6 +33,7 @@ title: Tech
 - [Ilograph](https://app.ilograph.com/demo.ilograph.Ilograph/Request) -- Interactive graphs, with a very cool service architecture demo.
 - [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md) -- Diagramming tool. Unlike plantuml/graphviz/mermaid/d2, Pikchr allows for granular layout tweaks, at the cost of a more esoteric DSL.
 - [github.com/BurntSushi/erd](https://github.com/BurntSushi/erd) -- Diagramming tool for ER diagrams _only_.
+- [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
 
 ## ID formats
 

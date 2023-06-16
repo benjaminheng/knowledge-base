@@ -33,7 +33,7 @@ title: Web resources
 - [kill-sticky](https://github.com/t-mart/kill-sticky) -- Bookmarklet to remove sticky HTML elements.
 - [blurhash](https://github.com/woltapp/blurhash)
 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
-- [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
+- [HyperUI](https://www.hyperui.dev/) -- Free tailwind components
 
 ## Charting libraries
 
