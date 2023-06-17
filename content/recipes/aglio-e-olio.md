@@ -1,5 +1,6 @@
 ---
 title: "Aglio E Olio"
+type: recipe
 metadata:
     - serves: 2
 ingredients:
