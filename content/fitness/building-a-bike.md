@@ -3,8 +3,9 @@ title: "Building a bike"
 toc: true
 ---
 
-I'm currently in the process of building a bike. This page will contain my
-research notes. It is going to be very unstructured.
+## Status
+
+I've finished building my bike. This page is kept for posterity.
 
 ## Research
 
