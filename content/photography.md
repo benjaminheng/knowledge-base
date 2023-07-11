@@ -12,6 +12,9 @@ title: "Photography"
 - Reviews:
     - http://malificent-images.com/gear/reviews/a-long-term-review-of-the-ricoh-gr-iii/
 - Settings walkthrough: https://www.youtube.com/watch?v=Biu8hDc4R7M
+- [Disassembling the Ricoh GR for sensor cleaning](https://jamiecollinson.com/blog/disassembling-ricoh-gr-for-sensor-cleaning/)
+- [IIIx sample gallery](https://m.dpreview.com/samples/3722541064/ricoh-gr-iiix-sample-gallery#&gid=1&pid=13)
+- [Ricoh Recipes](https://ricohrecipes.com/)
 
 ### III vs IIIx
 
