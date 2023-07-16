@@ -2,6 +2,10 @@
 title: "Photography"
 ---
 
+## General
+
+- [Street photography tips](https://jamesmaherphotography.com/street_photography/what-is-street-photography/)
+
 ## Ricoh GR III/IIIx
 
 - Comprehensive knowledge base by Gerd Waloszek: http://www.waloszek.de/overview_gr_e.php
