@@ -33,16 +33,17 @@ Review each image again, and bump to 3 stars if needed.
 
 Apply search filter to show images with 3 stars rating.
 
-Review each image. Process images if necessary. Apply a green label if image is ready to be exported.
+Move all images (RAW, JPEG) with 3 stars to the `archive/{year}/raw` directory.
 
-## Archive images
+Select the `archive/{year}/raw` directory.
 
-Copy all 3 star raw images to the `archive/*/raw` directory.
+Review each image. Apply a blue label if image should be exported.
 
-Export all raw images marked with the green label to jpeg. Place the jpegs in `archive/*/`.
+Move and export labelled images according to the following rules:
 
-Copy all 3 star jpegs marked with the green label to `archive/*/`.
+- JPEGs with blue label will be **moved** to the `archive/{year}/` directory.
+- RAWs with blue label will be **exported** as JPEG to the `archive/{year}/` directory.
 
 ## Tag images
 
-Open DigiKam. Tag all newly added jpegs in the `archive/*/` directory.
+Open DigiKam. Tag all newly added jpegs in the `archive/{year}/` directory.
