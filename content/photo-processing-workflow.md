@@ -2,8 +2,6 @@
 title: "Photo processing workflow"
 ---
 
-> NOTE: This document is a work in progress. It's just a braindump at the moment.
-
 ## Review and process
 
 Directory structure:
@@ -47,3 +45,11 @@ Move and export labelled images according to the following rules:
 ## Tag images
 
 Open DigiKam. Tag all newly added jpegs in the `archive/{year}/` directory.
+
+## Backup images
+
+I Backblaze B2 for cloud backups, and [rclone](https://rclone.org/) for synchronization.
+
+```
+rclone copy --progress /mnt/e/Photos/archive <remote>:<bucket>/photos/
+```
