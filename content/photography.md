@@ -10,3 +10,4 @@ title: "Photography"
 
 - [fgallery](https://www.thregr.org/%7Ewavexx/software/fgallery/) -- Static photo gallery generator
 - [nanogallery2](https://nanogallery2.nanostudio.org/) -- Lightbox JS library
+- [PhotoSwipe](https://photoswipe.com/) -- Lightbox JS library
