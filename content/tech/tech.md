@@ -35,6 +35,7 @@ title: Tech
 - [github.com/BurntSushi/erd](https://github.com/BurntSushi/erd) -- Diagramming tool for ER diagrams _only_.
 - [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
 - [How Figma scaled to multiple databases - the growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+- [Understanding what happens when you run a program on a computer](https://cpu.land/)
 
 ## ID formats
 
