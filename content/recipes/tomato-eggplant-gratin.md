@@ -12,8 +12,6 @@ ingredients:
     - Parsley (optional)
 ---
 
-> Recipe in progress
-
 ## Directions
 
 1. Slice [tomatoes] and [eggplant], equal widths.
@@ -24,5 +22,9 @@ ingredients:
 6. Drizzle bacon fat.
 7. Layer [tomatoes].
 8. Season with [salt] and [black pepper].
-9. Top with [cheese].
+9. Top with (a lot of) [cheese].
 10. Place in oven at 220C for 7 minutes.
+
+## Alternatives
+
+- Replace eggplant with mashed potatoes instead.
