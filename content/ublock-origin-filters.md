@@ -37,6 +37,8 @@ www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
 www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search for/)
 www.youtube.com##ytd-shelf-renderer:has-text(/Results for similar searches/)
 www.youtube.com##ytd-shelf-renderer:has-text(/Channels new to you/)
+www.youtube.com##ytd-shelf-renderer:has-text(/From related searches/)
+www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(#time-status:has-text(/SHORTS/))
 ```
 
 ## [YouTube] Remove shorts from subscriptions feed
