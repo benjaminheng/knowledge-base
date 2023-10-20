@@ -1,8 +1,10 @@
 ---
-title: "Linux debugging"
+title: "Linux desktop"
 ---
 
-## Shutdown reboots instead
+> This page contains various bits and bobs I've used when setting up my desktop.
+
+## System reboots instead of shutting down
 
 https://wiki.archlinux.org/title/Wake-on-LAN#Fix_by_Kernel_quirks
 
@@ -19,3 +21,8 @@ To identify your monitors, use:
 ```
 xrandr | grep -w connected
 ```
+
+## journalctl
+
+- Show logs from last boot: `-b-1`
+- Show only kernel messages `-k`
