@@ -26,3 +26,9 @@ xrandr | grep -w connected
 
 - Show logs from last boot: `-b-1`
 - Show only kernel messages `-k`
+
+## Firefox
+
+### :hover event removed before mousedown
+
+In about:config, set `widget.gtk.ignore-bogus-leave-notify` to `1` (default `2`). See https://bugzilla.mozilla.org/show_bug.cgi?id=1820405.
