@@ -67,3 +67,12 @@ method, the jq filter would be `.[] | {timestamp, "method": .labels.method}`, wh
 ```json
 {"timestamp": 1, "method": "xxx"}
 ```
+
+## Search for value at an arbitrarily deep nested key
+
+```
+.. | objects | select(.id == "x")
+```
+
+1. `..` is a recursive descent ([ref](https://jqlang.github.io/jq/manual/#arrays-objects-iterables-booleans-numbers-normals-finites-strings-nulls-values-scalars)). It produces every value.
+2. `objects` filters for only objects ([ref](https://jqlang.github.io/jq/manual/#arrays-objects-iterables-booleans-numbers-normals-finites-strings-nulls-values-scalars))
