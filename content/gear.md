@@ -21,6 +21,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Defy -- https://defybags.com/collections/all/slings
 - Code of bell -- https://www.codeofbell.com/
 - [Chuyentactical](https://chuyentactical.com/balo/tui-deo-hong-ct4w/)
+- [Goodwerks Boogie Bag](https://www.good-werks.com/shop/p/boogie-bag-mkii)
 
 ## Shoes
 
