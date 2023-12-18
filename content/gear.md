@@ -15,6 +15,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 ## Bags
 
 - Tom Bihn
+- Rofmia
 - 1733 -- https://www.seventeenthirtythree.com/
 - Instinct London -- https://instinctbackpack.com
 - Defy -- https://defybags.com/collections/all/slings
