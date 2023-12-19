@@ -23,6 +23,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Chuyentactical](https://chuyentactical.com/balo/tui-deo-hong-ct4w/)
 - [Goodwerks Boogie Bag](https://www.good-werks.com/shop/p/boogie-bag-mkii)
 - [Greenroom136](https://www.greenroom136.com)
+- [Sealson](https://sealson.co)
 
 ## Shoes
 
