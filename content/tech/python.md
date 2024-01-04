@@ -88,3 +88,15 @@ process. This is useful when debugging in the python shell.
 >>> from django.db import reset_queries
 >>> reset_queries()
 ```
+
+## Install openai-whisper with a AMD 7800 XT
+
+```
+$ python -m venv ~/dev/python-virtualenvs/whisper
+$ source ~/dev/python-virtualenvs/whisper/bin/activate
+$ pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/rocm5.6/
+$ pip3 install openai-whisper
+$ HSA_OVERRIDE_GFX_VERSION=11.0.0 whisper <args>
+```
+
+`HSA_OVERRIDE_GFX_VERSION=11.0.0` forces pytorch to treat the card as a 7900XTX.
