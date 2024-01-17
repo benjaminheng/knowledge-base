@@ -36,3 +36,4 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Skillhunt M150](https://www.skilhunt.com/portfolio/m150-usb-magnetic-charging-flashlight/) flashlight
 - [Sofirn SC21Pro](https://www.sofirnlight.com/products/sofirn-sc21pro-1100-lumen-flashlight?variant=6ff1c4de-d3f7-4091-a673-0b532095ce16) flashlight
 - Nomad
+- Similar to Outlier's 3bar closure: https://dutchwaregear.com/product/double-line-lock/
