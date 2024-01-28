@@ -11,6 +11,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Mission workshop (jeans)
 - Darn tough (socks)
 - [Swrve](https://swrve.us)
+- [Theory](https://www.theory.com/)
 
 ## Bags
 
