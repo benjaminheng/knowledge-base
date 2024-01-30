@@ -18,3 +18,4 @@ title: "Property"
   -- I've found that the 3-3-5 breaks down somewhat at higher incomes, because
   fixed expenses don't scale linearly with income.
 - ["Temporary" 15 month wait out measure for buying HDB after disposing of a private property](https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/29092022-propertymeasures2022)
+- [Teoalida](https://www.teoalida.com) -- Lots of resources about HDBs and condos in Singapore
