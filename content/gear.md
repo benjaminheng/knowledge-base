@@ -40,3 +40,4 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Similar to Outlier's 3bar closure: https://dutchwaregear.com/product/double-line-lock/
 - Jewelry: https://edenandelie.sg/collections/everyday-collection
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
+- Puppets: https://blankpuppets.bigcartel.com/
