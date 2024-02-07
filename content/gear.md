@@ -43,3 +43,4 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
 - EYL, japanese brand, various items: https://e-y-l.com
+- https://meridian.vision
