@@ -44,3 +44,5 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Pens: https://www.billetspin.com/
 - EYL, japanese brand, various items: https://e-y-l.com
 - https://meridian.vision
+- https://earth-studies.com
+- Machined carabiners: https://www.handgrey.com/collections/all
