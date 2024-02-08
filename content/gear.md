@@ -31,6 +31,13 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Shoes like pottery
 - Greats
 
+## Rain jackets
+
+- Patagonia Torrentshell 3L
+- Marmot Precip
+- Montbell Versalite
+- Montbell Torrent Flier
+
 ## Misc
 
 - https://sew-strong.myshopify.com/products/patch-tags
