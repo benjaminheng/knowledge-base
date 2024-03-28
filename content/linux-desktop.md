@@ -27,6 +27,10 @@ xrandr | grep -w connected
 - Show logs from last boot: `-b-1`
 - Show only kernel messages `-k`
 
+## Clipboard stops working after upgrading to Plasma 6
+
+Plasma 6 defaults to Wayland. xclip and xsel will not work in Wayland. Install `wl-clipboard` instead.
+
 ## Firefox
 
 ### :hover event removed before mousedown
