@@ -12,8 +12,14 @@ Resources:
 
 ## Bracket setup
 
+Tentative setup:
+
 - Deck: Bandito
 - Front bracket: Gbomb glass drop
 - Front truck: DT poppy 55
 - Rear bracket: Gbomb glass drop
 - Rear truck: ??
+
+Alternative components:
+
+- [Lepsk8 integrated front truck](https://www.lepsk8.com/product/ldp-integrated-rkp-front-truck-55-degree/)
