@@ -22,4 +22,4 @@ Tentative setup:
 
 Alternative components:
 
-- [Lepsk8 integrated front truck](https://www.lepsk8.com/product/ldp-integrated-rkp-front-truck-55-degree/)
+- [Lepsk8 integrated front truck](https://www.lepsk8.com/product/ldp-integrated-rkp-front-truck-55-degree/) -- [RKP may have wheelbite on the bandito.](https://www.reddit.com/r/longboardingDISTANCE/comments/1akt015/board_recommendations_please_pantheon_bandito_vs/kpp1iaa/) TKP version might work better. Pantheon is running a limited run of Bandito completes with a custom made Lepsk8 TKP front truck. Look out for that.
