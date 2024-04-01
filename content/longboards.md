@@ -9,3 +9,11 @@ Pantheon Pranayana:
 
 Resources:
 - [Mechanics of trucks](https://randal.com/faq/)
+
+## Bracket setup
+
+- Deck: Bandito
+- Front bracket: Gbomb glass drop
+- Front truck: DT poppy 55
+- Rear bracket: Gbomb glass drop
+- Rear truck: ??
