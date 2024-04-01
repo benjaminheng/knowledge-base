@@ -16,9 +16,11 @@ Tentative setup:
 
 - Deck: Bandito
 - Front bracket: Gbomb glass drop
-- Front truck: DT poppy 55
+- Front truck: DT poppy 55. 125mm or wider?
 - Rear bracket: Gbomb glass drop
-- Rear truck: ??
+- Rear truck: Randal 35deg or DT poppy rear 20
+
+A 35deg truck in the rear with the glass drop (+/-15deg wedge) allows us to bring our rear angle to 20deg. With a 40deg truck, we'd only get down to 25deg. Alternatively, a DT rear poppy is available with a 20deg angle, but this truck is much more expensive.
 
 Alternative components:
 
