@@ -11,6 +11,9 @@ Resources:
 - [Mechanics of trucks](https://randal.com/faq/)
 - [Truck geometry](https://sabretrucks.com/technology/longboard-truck-geometry-guide/)
 
+Misc products:
+- Angled risers: https://thanelife.com/products/seismic-angled-truck-risers
+
 ## Bracket setup
 
 Setup 1:
