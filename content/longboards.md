@@ -9,6 +9,7 @@ Pantheon Pranayana:
 
 Resources:
 - [Mechanics of trucks](https://randal.com/faq/)
+- [Truck geometry](https://sabretrucks.com/technology/longboard-truck-geometry-guide/)
 
 ## Bracket setup
 
