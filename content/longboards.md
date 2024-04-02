@@ -26,6 +26,8 @@ Setup 1:
 
 A 35deg truck in the rear with the glass drop (+/-15deg wedge) allows us to bring our rear angle to 20deg. With a 40deg truck, we'd only get down to 25deg. Alternatively, a DT rear poppy is available with a 20deg angle, but this truck is much more expensive.
 
+[Riptide APS bushings recommended?](https://www.reddit.com/r/longboarding/comments/11p8em1/first_bracket_setup_unbelievably_stoked/jbzawdd/)
+
 Setup 2:
 
 - Deck: Bandito
