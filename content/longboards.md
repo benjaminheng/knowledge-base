@@ -10,6 +10,7 @@ Pantheon Pranayana:
 Resources:
 - [Mechanics of trucks](https://randal.com/faq/)
 - [Truck geometry](https://sabretrucks.com/technology/longboard-truck-geometry-guide/)
+- [Reddit: LDPump Setup Questions for Enthusiasts/Experts](https://www.reddit.com/r/longboardingDISTANCE/comments/xcczh0/ldpump_setup_questions_for_enthusiastsexperts/)
 
 Misc products:
 - Angled risers: https://thanelife.com/products/seismic-angled-truck-risers
