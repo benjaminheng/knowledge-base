@@ -14,6 +14,8 @@ Resources:
 - [LDP components google doc](https://docs.google.com/document/d/11tfkmbysz080hL6g66L8ewps-sCY0T6FWr6YXAk-9JI/edit)
 - [Linktree: ldpsg](https://linktr.ee/ldpsg)
 - [Torsion tail mechanics](https://changingangles.com/2021/10/06/gbomb-torsion-tails-a-closer-look/)
+- [Google Maps: LDP routes](https://www.google.com/maps/d/u/0/viewer?mid=1eqI6iPaLVsRWKQYBo0QSS5dU09L0E2A&ll=1.3301342370202547%2C103.9185787572786&z=13)
+- [Google Maps: PCNs](https://www.google.com/maps/d/u/0/viewer?mid=1d-f3wTmqM3jmT7C1LtTzorsRbGw&shorturl=1&ll=1.333225619549455%2C103.93625551620613&z=15)
 
 Misc products:
 - Angled risers: https://thanelife.com/products/seismic-angled-truck-risers
