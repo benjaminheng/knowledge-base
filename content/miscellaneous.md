@@ -25,6 +25,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Datasette](https://datasette.io/)
 - https://pudding.cool/
 - [Standing desks, science and other resources](https://www.reddit.com/r/StandingDesk/comments/ntb5pn/my_thoughts_after_owning_a_standing_desk_for_3/)
+- [BNPL](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/)
 
 ## Music
 
