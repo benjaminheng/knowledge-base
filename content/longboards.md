@@ -26,3 +26,4 @@ Misc products:
 - gbomb releasing new "bear claw" brackets in spring 2024.
 - lepsk8 tail / integrated RKP is around same height at glass drop + poppy.
 - lepsk8 tail on main website is newer than the one on thanelife? has barrel bushings on the main website, cones on thanelife.
+- on a bandito, glass drop + narrow poppy works. [fb search + grep "Borivoje"](https://www.facebook.com/groups/109640769061630/search/?q=bandito).
