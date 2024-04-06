@@ -25,3 +25,4 @@ Misc products:
 - SSS drop 1 should be around same height at a gbomb TTX and glass drops.
 - gbomb releasing new "bear claw" brackets in spring 2024.
 - lepsk8 tail / integrated RKP is around same height at glass drop + poppy.
+- lepsk8 tail on main website is newer than the one on thanelife? has barrel bushings on the main website, cones on thanelife.
