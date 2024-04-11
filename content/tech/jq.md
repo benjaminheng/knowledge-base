@@ -74,5 +74,5 @@ method, the jq filter would be `.[] | {timestamp, "method": .labels.method}`, wh
 .. | objects | select(.id == "x")
 ```
 
-1. `..` is a recursive descent ([ref](https://jqlang.github.io/jq/manual/#arrays-objects-iterables-booleans-numbers-normals-finites-strings-nulls-values-scalars)). It produces every value.
+1. `..` is a recursive descent ([ref](https://jqlang.github.io/jq/manual/#recursive-descent)). It produces every value.
 2. `objects` filters for only objects ([ref](https://jqlang.github.io/jq/manual/#arrays-objects-iterables-booleans-numbers-normals-finites-strings-nulls-values-scalars))
