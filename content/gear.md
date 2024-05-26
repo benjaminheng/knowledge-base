@@ -53,3 +53,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://meridian.vision
 - https://earth-studies.com
 - Machined carabiners: https://www.handgrey.com/collections/all
+
+## Climbing
+
+- Chalk bags: https://www.cxm-cbym.com
