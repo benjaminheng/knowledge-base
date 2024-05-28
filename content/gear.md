@@ -25,6 +25,8 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Goodwerks Boogie Bag](https://www.good-werks.com/shop/p/boogie-bag-mkii)
 - [Greenroom136](https://www.greenroom136.com)
 - [Sealson](https://sealson.co)
+- [Yamatomichi](https://www.yamatomichi.com):
+    - [Sacoche](https://www.yamatomichi.com/products/yamatomichi-sacoche)
 
 ## Shoes
 
@@ -53,6 +55,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://meridian.vision
 - https://earth-studies.com
 - Machined carabiners: https://www.handgrey.com/collections/all
+- Whiskey glasses ($$$): https://kagami.sg/collections/whiskey-glass
 
 ## Climbing
 
