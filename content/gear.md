@@ -56,6 +56,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://earth-studies.com
 - Machined carabiners: https://www.handgrey.com/collections/all
 - Whiskey glasses ($$$): https://kagami.sg/collections/whiskey-glass
+- Netbook: GPD Pocket 3 ($1300+ SGD)
 
 ## Climbing
 
