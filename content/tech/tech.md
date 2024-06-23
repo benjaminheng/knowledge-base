@@ -36,6 +36,8 @@ title: Tech
 - [qalculate](https://github.com/Qalculate/libqalculate) -- Multi-purpose cross-platform desktop calculator.
 - [How Figma scaled to multiple databases - the growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 - [Understanding what happens when you run a program on a computer](https://cpu.land/)
+- Dithering: https://surma.dev/things/ditherpunk/
+- Dithering: https://beyondloom.com/blog/dither.html
 
 ## ID formats
 
