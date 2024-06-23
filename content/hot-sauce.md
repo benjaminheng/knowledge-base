@@ -21,6 +21,7 @@ Stores and shipping rates:
 - https://queenmajestyhotsauce.com -- USD$23 shipping
 - https://heatonist.com -- USD$36 shipping
 - https://heathotsauce.com -- USD$40+ shipping
+- https://hot-sauce-bar.myshopify.com (Japan)
 
 ## DIY
 
