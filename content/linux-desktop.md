@@ -31,6 +31,18 @@ xrandr | grep -w connected
 
 Plasma 6 defaults to Wayland. xclip and xsel will not work in Wayland. Install `wl-clipboard` instead.
 
+## Disable autoconnect for Wireguard connections imported using NetworkManager
+
+Wireguard connections imported from a config file can't be updated using the UI
+for some reason. The connection is imported with the setting to automatically
+connect set to true. To disable, the config file needs to be edited manually.
+
+```
+sudo vim /etc/NetworkManager/system-connections/<connName>.nmconnection
+```
+
+Add `autoconnect=false` to the `[connection]` section.
+
 ## Firefox
 
 ### :hover event removed before mousedown
