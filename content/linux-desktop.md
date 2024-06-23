@@ -6,7 +6,9 @@ title: "Linux desktop"
 
 ## System reboots instead of shutting down
 
-https://wiki.archlinux.org/title/Wake-on-LAN#Fix_by_Kernel_quirks
+https://wiki.archlinux.org/title/Wake-on-LAN#Fix_by_Kernel_quirks might work.
+
+NOTE: None of the fixes I tried worked for me. Eventually it was solved by a kernel update.
 
 ## Disable secondary monitor during sddm
 
