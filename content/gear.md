@@ -27,6 +27,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Sealson](https://sealson.co)
 - [Yamatomichi](https://www.yamatomichi.com):
     - [Sacoche](https://www.yamatomichi.com/products/yamatomichi-sacoche)
+- [Black Ember](https://blackember.com)
 
 ## Shoes
 
