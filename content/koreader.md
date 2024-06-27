@@ -35,3 +35,12 @@ if Device.input.rotation_map then
 end
 logger.info("Hardware button rotation disabled by user patch")
 ```
+
+## Dictionaries
+
+https://github.com/koreader/koreader/wiki/Dictionary-support
+
+Recommended dictionaries:
+
+- [Wiktionary](https://github.com/BoboTiG/ebook-reader-dict/releases/tag/en)
+- Shorter Oxford English Dictionary (SOED). Not openly available.
