@@ -22,7 +22,7 @@ toc: true
 
 <details><summary>Source</summary>
 
-```plantuml render{"mode": "code-collapsed"}
+```plantuml render("mode": "code-collapsed")
 @startuml
 actor actor
 agent agent
@@ -65,7 +65,7 @@ More information can be found at https://plantuml.com/creole (CTRL+F "tree").
 
 <details><summary>Source</summary>
 
-```plantuml render{"mode": "code-collapsed"}
+```plantuml render("mode": "code-collapsed")
 @startuml
 skinparam titleFontSize 14
 
@@ -204,7 +204,7 @@ Colors can be applied using a variety of syntax. One method is
 
 <details><summary>Source</summary>
 
-```plantuml render{"mode": "code-collapsed"}
+```plantuml render("mode": "code-collapsed")
 @startuml
 colors
 @enduml
