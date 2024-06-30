@@ -2,6 +2,8 @@
 title: "Kobo"
 ---
 
+## Why Kobo
+
 I use a [Kobo Aura One](https://us.kobobooks.com/products/kobo-aura-one) for
 reading. Previously I had a Kindle Paperwhite 2. The Paperwhite was fine, but
 after moving to my Kobo I can't imagine going back to Kindles.
@@ -47,3 +49,8 @@ Kindles make the happy path for the regular, non-technical user very
 convenient, and so is still my default recommendation. For people with strong
 opinions about how they want to read their books, I'd advise considering other
 brands before deciding.
+
+## Calibre "on device" column empty after restart
+
+> Unless you are allowing Nickel to run so the books gets imported after calibre has sent them, they will not be in the database and will not show on the next connect. [...] For Kobo ereaders, the On Device comes from the database. The database records are created during the book import process after you safely disconnect.
+> - https://www.mobileread.com/forums/showthread.php?t=361916
