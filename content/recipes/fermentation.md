@@ -10,6 +10,7 @@ title: Fermentation
 - 0.5 ghost pepper
 - 10 garlic cloves (30g)
 - 1/2 yellow onion (70g)
+- 3.5% brine
 
 Additional notes:
 
