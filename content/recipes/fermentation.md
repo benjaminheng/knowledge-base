@@ -6,12 +6,10 @@ title: Fermentation
 
 ### 1 -- Jalapeno, ghost pepper
 
-- 6 jalapeno peppers
+- 6 jalapeno peppers (150g)
 - 0.5 ghost pepper
-- ?? garlic cloves
-- ?? Onions
-- Something citrus
-- Cumin?
+- 10 garlic cloves (30g)
+- 1/2 yellow onion (70g)
 
 Additional notes:
 
