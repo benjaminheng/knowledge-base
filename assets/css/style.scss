@@ -234,6 +234,10 @@ details > summary {
             display: block;
         }
     }
+
+    main .content {
+      margin-left: auto;
+    }
 }
 
 // @import is being deprecated in favor of @use, but Hugo's sass compiler only
