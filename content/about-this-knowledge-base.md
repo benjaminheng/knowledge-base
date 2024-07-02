@@ -94,7 +94,7 @@ easier.
 ## Rendering diagrams
 
 My knowledge base may contain diagrams and graphs, most notably in my reference
-pages for [PlantUML](plantuml) and [Graphviz](graphviz-dot). I wrote a tool
+pages for [PlantUML](/tech/plantuml) and [Graphviz](/tech/graphviz-dot). I wrote a tool
 called [md-code-renderer](https://github.com/benjaminheng/md-code-renderer)
 that renders `dot` and `plantuml` code blocks into images, then inlines the
 image next to the code block. This allows me to easily add and modify diagrams
