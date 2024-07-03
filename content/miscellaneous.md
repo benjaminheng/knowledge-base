@@ -27,6 +27,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Standing desks, science and other resources](https://www.reddit.com/r/StandingDesk/comments/ntb5pn/my_thoughts_after_owning_a_standing_desk_for_3/)
 - [BNPL](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/)
 - [Visualization: effect of childhood experiences on life](https://pudding.cool/2024/03/teenagers/)
+- [Wikipedia: Current Events](https://en.wikipedia.org/wiki/Portal:Current_events)
 
 ## Music
 
