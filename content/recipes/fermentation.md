@@ -20,6 +20,7 @@ Additional notes:
 
 Log:
 - 24h: Only a few bubbles. Minimal sign of fermentation. Consider lowering the brine percentage for the next batch.
+- 48h: More bubbles! Solution starting to get cloudy. No mold yet. Looking good so far.
 
 ## Resources
 
