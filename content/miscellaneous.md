@@ -28,6 +28,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [BNPL](https://www.bitsaboutmoney.com/archive/buy-now-pay-later/)
 - [Visualization: effect of childhood experiences on life](https://pudding.cool/2024/03/teenagers/)
 - [Wikipedia: Current Events](https://en.wikipedia.org/wiki/Portal:Current_events)
+- [Map of saga trees in SG](https://www.google.com/maps/d/u/0/viewer?mid=1yF1gMCZhBaeEouT9GB-7bQqXmuw&g_ep=CAISBjYuODIuNBgAIN1iQgJTRw%3D%3D&g_st=ic&ll=1.325120244712371%2C103.88081993510957&z=12)
 
 ## Music
 
