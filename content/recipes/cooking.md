@@ -25,3 +25,8 @@ Timings are for a Philips model HD2137/62.
 
 - https://www.razorsharp.com.sg/
 - https://arthurzaaro.com/ -- Cutting boards 
+
+## Pasta brands
+
+- La Molisana (Fairprice)
+- Liguori (Redmart)
