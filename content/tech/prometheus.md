@@ -19,3 +19,7 @@ elements in `vector2` with _exactly matching label sets_. However because
 `hour()` is a vector with no labels, simply doing `and hour() >= 0` will not
 return any results. Instead we add the `on()` operator to ignore all labels
 when performing the join.
+
+## Misc
+
+- [Cardinality is defined as the number of active time series](https://stackoverflow.com/questions/46373442/how-dangerous-are-high-cardinality-labels-in-prometheus/69167162#69167162)
