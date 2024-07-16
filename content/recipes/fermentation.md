@@ -21,6 +21,7 @@ Log:
 - 24h: Only a few bubbles. Minimal sign of fermentation. Consider lowering the brine percentage for the next batch.
 - 48h: More bubbles! Solution starting to get cloudy. No mold yet. Looking good so far.
 - Day 5: Fementation going well. No mold. I"m not using any weights so the peppers are floating to the top.
+- Day 15: Still going well. No mold. Using a fermentation weight for the past few days.
 
 ### 2 -- Habanero
 
