@@ -39,6 +39,20 @@ Bottling notes:
 Log:
 - 24h: Bubbles appearing. Starting to get cloudy. Fermentation started earlier than the previous batch.
 
+### 3 -- Habanero
+
+Not started yet. Some notes:
+
+- Habaneros, onions, garlic
+- Carrots
+- Roasted peppers, for the smoky flavor
+- Lime for acid
+- 2 weeks ferment. Ferments in our relatively high temperature goes faster. 3 weeks might be a bit too much.
+- Apple cider vinegar instead of white vinegar?
+
 ## Resources
 
 - [On fermenting garlic honey safely](https://www.reddit.com/r/fermentation/comments/q3z46v/concerned_about_fermenting_garlic_in_honey/hfwaz9x/)
+
+Ingredient ideas:
+- Pickled ginger, for a milder ginger kick.
