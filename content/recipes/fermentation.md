@@ -12,16 +12,22 @@ title: Fermentation
 - 1/2 yellow onion (70g)
 - 3.5% brine
 
-Additional notes:
-
-- Bring pH down to < 4.5 using vinegar or lime juice to stabilize it before storing. Botulism threshold is 4.6? Aim for 3.5?
-- Add fruits at the end
-
 Log:
 - 24h: Only a few bubbles. Minimal sign of fermentation. Consider lowering the brine percentage for the next batch.
 - 48h: More bubbles! Solution starting to get cloudy. No mold yet. Looking good so far.
 - Day 5: Fementation going well. No mold. I"m not using any weights so the peppers are floating to the top.
 - Day 15: Still going well. No mold. Using a fermentation weight for the past few days.
+- Day 21: Bottled.
+
+Bottling notes:
+- Added 50g of pineapple, some lemon zest, white vinegar, black pepper, and salt.
+- Taste lacks depth. Quite spicy, but not much of other flavors. Consistency is a bit thick.
+- pH brought down to 3.6 using white vinegar.
+- Takeaways:
+    - Blend with more of the fermentation liquid.
+    - Pineapple alone isn't enough.
+    - Consider fermenting with bell peppers.
+    - Other spices are needed.
 
 ### 2 -- Habanero
 
