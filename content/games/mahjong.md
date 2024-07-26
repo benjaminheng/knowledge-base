@@ -16,3 +16,4 @@ Infodump on Riichi Mahjong strategy as I learn.
     - You have a (significant) lead
     - You already have a high-scoring hand
     - You have many possibilities to improve your hand
+- When defending, use the [suji technique](https://mahjongsoul.yo-star.com/classroom/12) to evaluate which tiles are safer to discard.
