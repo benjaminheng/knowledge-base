@@ -2,7 +2,7 @@
 title: Fermented hot sauce
 ---
 
-## 1 -- Jalapeno, ghost pepper
+## Batch 1 -- Jalapeno, ghost pepper
 
 - 6 jalapeno peppers (150g)
 - 0.5 ghost pepper
@@ -27,7 +27,7 @@ Bottling notes:
     - Consider fermenting with bell peppers.
     - Other spices are needed.
 
-## 2 -- Habanero
+## Batch 2 -- Habanero
 
 - 100g habanero peppers (10pc)
 - 38g garlic
@@ -46,7 +46,7 @@ I like the taste more than batch #1. The sweetness of the peach comes through an
 
 Two weeks for fermentation is just right. I think with the hot weather here, going for three weeks is a little too long.
 
-## 3 -- Habanero (not started)
+## Batch 3 -- Habanero (not started)
 
 The main goal for this ferment is to experiment with adding more depth of flavor. I plan to attempt this through two aspects:
 
