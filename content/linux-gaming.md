@@ -2,12 +2,19 @@
 title: "Linux gaming"
 ---
 
-## Trails in the Sky FC
+## General tips
+
+- To debug crashes, add `PROTON_LOG=1 %command%` to the game's launch options. A log file will be written to `~/steam-<appid>.log`.
+- If an old game fails to launch, it might be due to it being a 32-bit application, and your system might not have the required drivers. For AMD, I needed `lib32-vulkan-radeon`. See also: https://wiki.archlinux.org/title/AMDGPU
+
+## Games
+
+### Trails in the Sky FC
 
 - Proton 9.x
 - Run using directx 8
 
-## Trails in the Sky SC
+### Trails in the Sky SC
 
 Old fix for black screen in configuration tool:
 
