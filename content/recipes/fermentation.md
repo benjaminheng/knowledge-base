@@ -38,16 +38,37 @@ Bottling notes:
 
 Log:
 - 24h: Bubbles appearing. Starting to get cloudy. Fermentation started earlier than the previous batch.
+- Day 14: Bottled
 
-### 3 -- Habanero
+Added half a small peach, lemon juice, white vinegar, black pepper, and some salt. pH brought down to 3.1.
 
-Not started yet. Some notes:
+Accidentally added too much vinegar. The pH value was 3.6 even before the vinegar, though I'm not confident that my pH meter isn't broken. Using pH strips indicate the pH should be around 4.0 instead, but it also doesn't seem very accurate.
 
-- Habaneros, onions, garlic
-- Carrots
-- Roasted peppers, for the smoky flavor
-- Lime for acid
-- 2 weeks ferment. Ferments in our relatively high temperature goes faster. 3 weeks might be a bit too much.
+I like the taste more than batch #1. The sweetness of the peach comes through and there's more depth of flavor. The taste is slightly too dominated by the vinegar though. Will add less next time.
+
+Two weeks for fermentation is just right. I think with the hot weather here, going for three weeks is a little too long.
+
+### 3 -- Habanero (not started)
+
+The main goal for this ferment is to experiment with adding more depth of flavor. I plan to attempt this through two aspects:
+
+1. Use different types of peppers
+2. Add roasted bell peppers for a more smoky flavor
+
+Additionally, I'd like to try straining the sauce to achieve a smoother texture. Might use the immersion blender instead of the food processor as well, not sure if this will yield a finer blend.
+
+I'm also going to try fermenting the fruits instead of adding it fresh at the end. Overall it's quite a lot of changes from the previous batch, so it's not exactly a scientific method, but I'm going ahead anyway.
+
+Ferment:
+- Length: 2 weeks
+- 4 parts habanero peppers (10pc)
+- 1 part ghost pepper
+- Garlic
+- Onion
+- Roasted red bell peppers
+- 3.5% brine based on total weight
+
+Finish with:
 - Apple cider vinegar instead of white vinegar?
 
 ## Resources
@@ -56,3 +77,4 @@ Not started yet. Some notes:
 
 Ingredient ideas:
 - Pickled ginger, for a milder ginger kick.
+- Confit onion. Will have a lot of sugars to get the fermentation started.
