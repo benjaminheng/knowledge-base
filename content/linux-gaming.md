@@ -33,3 +33,12 @@ Misc:
 
 - Save games stored in `~/.steam/steam/userdata/44445982/251150/remote/SC`
 - If using voice mod, add `WINEDLLOVERRIDES="dinput8.dll=n,b" %command%` to launch options. Avoids needing to use protontricks.
+
+### Gothic 1
+
+- Enable workshop beta: settings > betas > workshop beta
+- Subscribe to following mods: GD3D11 renderer, Union, Gothic 1 Community Patch
+- Launch game using the Mod Launcher. Music probably does not work.
+- To fix music:
+    - Install protontricks: `yay -S protontricks`
+    - Install directmusic for the game's wineprefix: `protontricks 65540 directmusic`
