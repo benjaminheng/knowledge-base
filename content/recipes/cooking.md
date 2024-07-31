@@ -31,10 +31,13 @@ Timings are for a Philips model HD2137/62.
 - La Molisana (Fairprice)
 - Liguori (Redmart)
 
-## Where to buy: hot peppers
+## Where to buy
 
-- Ghost peppers: Thompson Plaza Fairprice Finest
-- Jalapenos: Thompson Plaza Fairprice Finest
-- Habaneros:
-    - La Mexicana
-    - Chia's Vegetables at Tekka Market
+- Hot peppers:
+    - Ghost peppers: Thompson Plaza Fairprice Finest
+    - Jalapenos: Thompson Plaza Fairprice Finest
+    - Habaneros:
+        - La Mexicana
+        - Chia's Vegetables at Tekka Market
+- Meat:
+    - https://www.zacbutchery.com/
