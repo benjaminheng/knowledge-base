@@ -64,6 +64,8 @@ Ferment:
 - Garlic
 - Onion
 - Roasted red bell peppers
+- Cumin
+- Allspice
 - 3.5% brine based on total weight
 
 Finish with:
