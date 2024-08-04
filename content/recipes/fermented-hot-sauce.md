@@ -46,27 +46,45 @@ I like the taste more than batch #1. The sweetness of the peach comes through an
 
 Two weeks for fermentation is just right. I think with the hot weather here, going for three weeks is a little too long.
 
-## Batch 3 -- Habanero (not started)
+## Batch 3 -- Mango habanero (with carolina reapers and chilli padi)
 
-The main goal for this ferment is to experiment with adding more depth of flavor. I plan to attempt this through two aspects:
+The main goal for batch 3 and 4 is to experiment with adding more depth of flavor. I plan to attempt this through two aspects:
 
 1. Use different types of peppers
-2. Add roasted bell peppers for a more smoky flavor
+2. Add bell peppers
 
 Additionally, I'd like to try straining the sauce to achieve a smoother texture. Might use the immersion blender instead of the food processor as well, not sure if this will yield a finer blend.
 
 I'm also going to try fermenting the fruits instead of adding it fresh at the end. Overall it's quite a lot of changes from the previous batch, so it's not exactly a scientific method, but I'm going ahead anyway.
 
 Ferment:
-- Length: 2 weeks
-- 4 parts habanero peppers (10pc)
-- 1 part ghost pepper
-- Garlic
-- Onion
-- Roasted red bell peppers
+- 70g habanero
+- 22g carolina reapers
+- 5pc chilli padi
+- 55g mango
+- 70g onion
+- 30g garlic
+- 50g red bell peppers
 - Cumin
-- Allspice
-- 3.5% brine based on total weight
+- Spice powder (coriander, cumin, cinnamon, star anise)
+- 3.5% brine
 
-Finish with:
-- Apple cider vinegar instead of white vinegar?
+Log:
+- Start: 2024-08-04
+
+## Batch 4 -- Blueberry jalapeno (with carolina reapers and chilli padi)
+
+Ferment:
+- 75g jalapenos
+- 15g carolina reapers
+- 5pc chilli padi
+- 55g blueberries
+- 70g onion
+- 30g garlic
+- 50g red bell peppers
+- Cumin
+- Spice powder (coriander, cumin, cinnamon, star anise)
+- 3.5% brine
+
+Log:
+- Start: 2024-08-04
