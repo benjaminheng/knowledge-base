@@ -1,5 +1,6 @@
 ---
 title: Fermented hot sauce
+toc: true
 ---
 
 ## Batch 1 -- Jalapeno, ghost pepper
