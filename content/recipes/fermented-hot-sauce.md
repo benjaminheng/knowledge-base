@@ -89,3 +89,7 @@ Ferment:
 
 Log:
 - Start: 2024-08-04
+- End: 2024-08-11 (7 days)
+- **Fermentation time**: I noticed that fermentation had more or less stopped. My original plan was to ferment for two weeks, but I decided to process it after a week to get an idea of the taste of a softer ferment. I think one week is fine, especially given the relatively hot weather in Singapore. I'll likely stick with one week ferments for subsequent batches.
+- **pH value**: pH was 2.7. Some lemon juice added for a brighter flavor. No vinegar added. Surprising low pH value, which could be due to a high ratio between peppers and fruits; the sugars from the fruits were all consumed and turned into lactic acid.
+- **Flavor**: Definitely more depth of flavor compared to the first jalapeno batch. Adding different peppers made a noticeable difference. The bell peppers and blueberries probably helped as well. Can't taste much of the blueberries. Should add more fruits next time. Fermenting the fruits alongside the peppers mellow out the flavor quite significantly, so more fruits will be needed to compensate.
