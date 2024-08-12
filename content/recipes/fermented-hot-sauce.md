@@ -72,6 +72,10 @@ Ferment:
 
 Log:
 - Start: 2024-08-04
+- End: 2024-08-12 (8 days)
+- **pH value**: pH was 2.5. No added vinegar.
+- **Flavor**: Very spicy, but quite tasty too. I'm rather satisfied with how it turned out. There's a lot of heat that kicks in immediately, but after a while mellows out to reveal more flavors underneath.
+- **Additional notes**: I omitted about 5 cloves of garlic from the final blend. I noticed that my previous batches were a little too heavy on the garlic. I think in subsequent batches I'll do 15g of garlic instead, so 5 cloves instead of 10.
 
 ## Batch 4 -- Blueberry jalapeno (with carolina reapers and chilli padi)
 
