@@ -42,3 +42,7 @@ Misc:
 - To fix music:
     - Install protontricks: `yay -S protontricks`
     - Install directmusic for the game's wineprefix: `protontricks 65540 directmusic`
+
+### Shapez 2
+
+- Blueprints are stored in `~/.config/unity3d/tobspr Games/shapez 2/blueprints/`
