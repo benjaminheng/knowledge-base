@@ -32,6 +32,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Anatomy of a credit rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 - https://www.gnod.com/ -- AI tools to discover new things
 - [ErsatzTV](https://ersatztv.org/) -- Person IPTV server
+- https://www.theguardian.com/books/2014/sep/24/terry-pratchett-angry-not-jolly-neil-gaiman
 
 ## Music
 
