@@ -34,6 +34,7 @@ title: Web resources
 - [blurhash](https://github.com/woltapp/blurhash)
 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
 - [HyperUI](https://www.hyperui.dev/) -- Free tailwind components
+- [When to use CSS grid vs flexbox](https://ishadeed.com/article/grid-layout-flexbox-components/)
 
 ## Charting libraries
 
