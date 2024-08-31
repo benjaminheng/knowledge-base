@@ -61,4 +61,4 @@ Bulk fermentation:
 
 ## Log
 
-- 2024-08-31: Dough slumps when removed from banneton. Might be overproofed. Reduce bulk fermentation time in next batch. Lower hydration to 70%.
+- 2024-08-31: Dough slumps when removed from banneton. Might be overproofed. Things to try in next batch: reduce bulk fermentation time, lower hydration to 75 to 70%, or reduce innoculation percentage from 18 to 15%.
