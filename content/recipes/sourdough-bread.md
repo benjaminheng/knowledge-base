@@ -57,4 +57,8 @@ Bulk fermentation:
 
 1. Fold 4 times, turning the bowl 90deg after each fold.
 2. Wait 60min.
-3. Repeat for 4-7 times. 6 works well for me.
+3. Repeat for 4-7 times.
+
+## Log
+
+- 2024-08-31: Dough slumps when removed from banneton. Might be overproofed. Reduce bulk fermentation time in next batch. Lower hydration to 70%.
