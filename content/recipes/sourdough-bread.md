@@ -28,17 +28,17 @@ Summary:
 Detailed steps:
 
 1. Autolyse:
-    1. Add 315g white bread flour.
-    2. Add 135g wheat flour.
+    1. Add [315g white bread flour].
+    2. Add [135g wheat flour].
     3. Mix.
-    4. Add 300g water.
+    4. Add [300g water].
     5. Mix. Use a bench scraper because it gets sticky.
     6. Wait 45min. Cover with damp towel.
 2. Incorporate starter:
-    1. Add 75g starter
+    1. Add [75g starter]
     2. Mix by pinching
-    3. Add 9g salt
-    4. Add 9g water
+    3. Add [9g salt]
+    4. Add [9g water]
     5. Mix by pinching
     6. Wait 10min. Cover with damp towel.
 3. Build gluten:
