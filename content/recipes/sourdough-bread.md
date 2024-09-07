@@ -53,3 +53,4 @@ Detailed steps:
 
 - 2024-08-31: Dough slumps when removed from banneton. Might be overproofed. Things to try in next batch: reduce bulk fermentation time, lower hydration to 75 to 70%, or reduce innoculation percentage from 18 to 15%.
 - 2024-09-01: 70% hydraton, 16.6% starter percentage works well.
+- 2024-09-07: Same ratios as previous batch. This time I bulk fermented for 2 hours at room temp, then retarded the fermentation in the fridge overnight. Continued the next day. Another hour of bulk fermentation, then an hour of proofing beforebaking. Turned out about the same as the previous batch.
