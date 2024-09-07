@@ -13,3 +13,4 @@ week.
 ## Resources
 
 - https://sourdoughcalculator.info/
+- https://www.youtube.com/watch?v=ZA_lt-zMeig
