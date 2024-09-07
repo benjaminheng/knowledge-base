@@ -51,6 +51,14 @@ Detailed steps:
 
 ## Log
 
-- 2024-08-31: Dough slumps when removed from banneton. Might be overproofed. Things to try in next batch: reduce bulk fermentation time, lower hydration to 75 to 70%, or reduce innoculation percentage from 18 to 15%.
-- 2024-09-01: 70% hydraton, 16.6% starter percentage works well.
-- 2024-09-07: Same ratios as previous batch. This time I bulk fermented for 2 hours at room temp, then retarded the fermentation in the fridge overnight. Continued the next day. Another hour of bulk fermentation, then an hour of proofing beforebaking. Turned out about the same as the previous batch.
+- **2024-08-31**: Dough slumps when removed from banneton. Might be overproofed.
+  Things to try in next batch: reduce bulk fermentation time, lower hydration
+  to 75 to 70%, or reduce innoculation percentage from 18 to 15%.
+- **2024-09-01**: 70% hydraton, 16.6% starter percentage works well.
+- **2024-09-07**:
+    - Same ratios as previous batch.
+    - Didn't bother trying to pass the windowpane test. Folded the dough only for about 3 minutes.
+    - Bulk fermented for 2 hours at room temp, with folds every 30min, then
+      retarded the fermentation in the fridge overnight. Continued the next day
+      with an hour of bulk fermentation, then an hour of proofing before
+      baking. Turned out about the same as the previous batch.
