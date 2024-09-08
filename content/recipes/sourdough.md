@@ -2,6 +2,9 @@
 title: "Sourdough"
 toc: true
 ---
+## Calculator
+
+{{< sourdough-calculator >}}
 
 ## Maintaining starter
 

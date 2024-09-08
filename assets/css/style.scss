@@ -133,6 +133,51 @@ main {
     }
 }
 
+/* sourdough calculator */
+.sourdough-calculator {
+  margin: 1em 0;
+  display: flex;
+  background-color: #ecf4f8;
+  border: 1px solid #9ccddc;
+  padding: 1em;
+  flex-direction: column;
+  .row {
+    display: flex;
+    flex-direction: row;
+  }
+  .col {
+    flex: 1;
+    &.col-inputs {
+      flex-basis: 45%;
+    }
+    &.col-results {
+      flex-basis: 55%;
+    }
+  }
+  .input-group {
+    margin: 0.5em;
+    display: flex;
+    gap: 0.2em;
+    > input {
+      padding: 5px;
+    }
+    > label {
+      min-width: 80px;
+    }
+  }
+  .results {
+    p {
+      margin-top: 0.5em;
+      .label {
+        font-weight: 600;
+      }
+    }
+    pre.detailed-calculations {
+      font-size: 0.9em;
+    }
+  }
+}
+
 /* table of contents */
 .toc {
     background-color: #fffcf5;

@@ -5,7 +5,8 @@ metadata:
     - makes: 1 loaf
 ---
 
-Recipe adapted from: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
+- Recipe adapted from: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
+- See [sourdough page](/recipes/sourdough/) for calculator.
 
 ## Day 1: Refresh starter
 

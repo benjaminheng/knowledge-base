@@ -1,0 +1,82 @@
+<div class="sourdough-calculator">
+  <div class="row">
+    <strong>Sourdough Calculator</strong>
+  </div>
+  <div class="row">
+    <div class="col col-inputs">
+      <div class="input-group">
+        <label for="flour">Flour (g):</label>
+        <input type="number" id="flour" name="flour" min="0" step="10" value="450" oninput="calculate()" />
+      </div>
+
+      <div class="input-group">
+        <label for="water">Water (g):</label>
+        <input type="number" id="water" name="water" min="0" step="10" value="300" oninput="calculate()" />
+      </div>
+
+      <div class="input-group">
+        <label for="starter">Starter (g):</label>
+        <input type="number" id="starter" name="starter" min="0" step="5" value="75" oninput="calculate()" />
+      </div>
+    </div>
+
+    <div class="col col-results">
+      <div class="results">
+        <p>
+          <span class="label">Hydration:</span> <span id="hydration"></span>%
+          <br/>
+          <span class="label">Starter percentage:</span> <span id="starterPercentage"></span>%
+          <br/>
+          <span class="label">Salt:</span> <span id="salt"></span>g
+        </p>
+
+        <details>
+        <pre class="detailed-calculations"><code id="detailedCalc"></code></pre>
+        </details>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function calculate() {
+  const flour = parseFloat(document.getElementById('flour').value);
+  const water = parseFloat(document.getElementById('water').value);
+  const starter = parseFloat(document.getElementById('starter').value);
+
+  // Calculate total hydration
+  const starterFlour = starter / 2; // Assuming 100% hydration starter
+  const starterWater = starter / 2;
+  const totalFlour = flour + starterFlour;
+  const totalWater = water + starterWater;
+  const hydration = (totalWater / totalFlour) * 100;
+
+  // Calculate starter percentage
+  const starterPercentage = (starter / flour) * 100;
+
+  // Calculate salt required (2% of flour weight)
+  const salt = totalFlour * 0.02;
+
+  // Update results
+  document.getElementById('hydration').textContent = hydration.toFixed(2);
+  document.getElementById('starterPercentage').textContent = starterPercentage.toFixed(2);
+  document.getElementById('salt').textContent = salt.toFixed(2);
+
+  // Update detailed calculations
+  const detailedCalc = `flour = ${flour}g
+water = ${water}g
+starter = ${starter}g
+starter_flour = ${starterFlour.toFixed(2)}g
+starter_water = ${starterWater.toFixed(2)}g
+total_water = water + starter_water = ${totalWater.toFixed(2)}g
+total_flour = flour + starter_flour = ${totalFlour.toFixed(2)}g
+total_hydration = total_water / total_flour = ${hydration.toFixed(2)}%
+starter_percentage = starter / flour = ${starterPercentage.toFixed(2)}%
+salt = 0.02 * total_flour = ${salt.toFixed(2)}g`;
+
+  document.getElementById('detailedCalc').textContent = detailedCalc;
+}
+
+// Initial calculation on page load
+calculate();
+</script>
