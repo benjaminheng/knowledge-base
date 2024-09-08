@@ -6,7 +6,7 @@ metadata:
 ---
 
 - Recipe adapted from: https://cooking.nytimes.com/guides/59-how-to-make-sourdough-bread
-- See [sourdough page](/recipes/sourdough/) for calculator.
+- See [sourdough page](/recipes/bread/) for calculator.
 
 ## Day 1: Refresh starter
 
