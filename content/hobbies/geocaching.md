@@ -4,6 +4,7 @@ title: "Geocaching"
 
 - [Cachetur - Geocache route planner](https://cachetur.no)
 - [Upcoming souvenirs](https://thea-team.net/souvenirs/upcoming)
+- [Map with proximity overlay](https://www.geocaching.com/hide/planning.aspx)
 
 ## Puzzle solving tools
 
