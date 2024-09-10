@@ -19,3 +19,4 @@ title: "Property"
   fixed expenses don't scale linearly with income.
 - ["Temporary" 15 month wait out measure for buying HDB after disposing of a private property](https://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/press-releases/29092022-propertymeasures2022)
 - [Teoalida](https://www.teoalida.com) -- Lots of resources about HDBs and condos in Singapore
+- [Resale market trends](https://sg-housing.onrender.com/public-homes) -- By Cliff Chew
