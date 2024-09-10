@@ -21,7 +21,7 @@ Summary:
 - 450g flour (315g white, 135g wheat)
 - 300g water (66%)
 - 75g starter (16.6%)
-- 9g salt (0.2%)
+- 9g salt (2%)
 - 60min autolyse
 - 4h bulk ferment
 - 1h ambient proof
