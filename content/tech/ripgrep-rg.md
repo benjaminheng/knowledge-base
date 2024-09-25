@@ -13,3 +13,9 @@ rg -f <pattern_file> <file>`
 ```
 rg -l "<string>" | xargs -n1 sed -i '' 's|<string>|<replacement>|g'
 ```
+
+## Show file, line number, and match on same line
+
+```
+rg --no-header
+```
