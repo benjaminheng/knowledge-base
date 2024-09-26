@@ -12,6 +12,7 @@ toc: true
 - [WAL write amplification from UUID indexes](https://www.2ndquadrant.com/en/blog/on-the-impact-of-full-page-writes/)
 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
 - :star: [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 
 ## Queries
 
