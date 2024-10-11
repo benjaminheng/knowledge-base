@@ -5,6 +5,7 @@ title: ImageMagick
 ## Basic
 
 - Describe an image: `magick identify image.jpg`
+- Remove exif metadata: `exiftool -all= image.jpg`
 
 ## Image manipulation
 
@@ -18,7 +19,3 @@ title: ImageMagick
 ```
 mogrify -strip -auto-orient -resize 1200x1200 -quality 75 *.jpg
 ```
-
-## Installation
-
-- MacOS: `brew install imagemagick`
