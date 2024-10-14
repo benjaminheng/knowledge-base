@@ -12,6 +12,14 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Darn tough (socks)
 - [Swrve](https://swrve.us)
 - [Theory](https://www.theory.com/)
+- Japanese:
+    - [Nanga](https://store.nanga.jp/)
+    - [F/CE](https://fce-store.com)
+    - [Wild Things](https://www.wildthings.jp/)
+    - [CMF Comfy Outdoor Garment](http://losthills-store.jp/)
+    - [Nanamica](https://www.nanamica.com/)
+    - [Norbit](https://norbit-store.com/)
+    - [Snowpeak](https://www.snowpeak.com/)
 
 ## Bags
 
@@ -42,6 +50,13 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Marmot Precip
 - Montbell Versalite
 - Montbell Torrent Flier
+
+## Shirts
+
+- [Kamakura](https://kamakurashirts.com/collections/casual-shirts): Excellent quality button downs
+- [Wool and Prince](https://woolandprince.com/collections/all-shirts)
+- [Veilance Spere LT Jacket](https://arcteryx.com/us/en/shop/mens/spere-lt-jacket): Zips rather than buttons.
+- [Mission Workshop Sansom](https://missionworkshop.com/products/sansom-japanese-stretch-woven-cotton-button-up-shirt)
 
 ## Misc
 
