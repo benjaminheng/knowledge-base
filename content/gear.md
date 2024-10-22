@@ -44,12 +44,20 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Shoes like pottery
 - Greats
 
-## Rain jackets
+## Jackets
+
+Rain jackets
 
 - Patagonia Torrentshell 3L
 - Marmot Precip
 - Montbell Versalite
 - Montbell Torrent Flier
+
+Hoodies and other jackets:
+
+- [Senchi Alpha 90](https://senchidesigns.com/products/alpha-90-hoodie-w-half-zip?variant=47162187153705):
+- Notes:
+    - Look for pieces with Polartec Alpha.
 
 ## Shirts
 
@@ -80,3 +88,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 ## Climbing
 
 - Chalk bags: https://www.cxm-cbym.com
+
+## Singapore
+
+- [The Decorum Singapore](https://maps.app.goo.gl/4Zy9bFrz6TLKRHst9): menswear
+- [Colony Clothing](https://colonyclothing.net/)
+- [Kerbside](https://kerbside-co.com/): denim
+- [Last & Lapel](https://www.lastandlapel.com): mainly shoes, some clothing
