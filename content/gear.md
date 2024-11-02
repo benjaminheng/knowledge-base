@@ -97,3 +97,4 @@ Hoodies and other jackets:
 - [Kerbside](https://kerbside-co.com/): denim
 - [Last & Lapel](https://www.lastandlapel.com): mainly shoes, some clothing
 - [Natural Project](https://www.naturalproject.com.sg)
+- [Collaro](https://collaro.co/) - Online MTO
