@@ -65,6 +65,7 @@ Hoodies and other jackets:
 - [Wool and Prince](https://woolandprince.com/collections/all-shirts)
 - [Veilance Spere LT Jacket](https://arcteryx.com/us/en/shop/mens/spere-lt-jacket): Zips rather than buttons.
 - [Mission Workshop Sansom](https://missionworkshop.com/products/sansom-japanese-stretch-woven-cotton-button-up-shirt)
+- [Hawes and Curtis](https://www.hawesandcurtis.co.uk)
 
 ## Misc
 
