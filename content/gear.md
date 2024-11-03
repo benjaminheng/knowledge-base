@@ -20,6 +20,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Nanamica](https://www.nanamica.com/)
     - [Norbit](https://norbit-store.com/)
     - [Snowpeak](https://www.snowpeak.com/)
+    - [Attachment](https://attachment.co.jp/)
+    - [Markaware](https://markaware.jp)
+    - [Soph](https://www.soph.net/)
+    - [Teatora](https://store.silver-and-gold.com/?mode=cate&cbid=1792526&csid=0)
 
 ## Bags
 
@@ -98,3 +102,4 @@ Hoodies and other jackets:
 - [Last & Lapel](https://www.lastandlapel.com): mainly shoes, some clothing
 - [Natural Project](https://www.naturalproject.com.sg)
 - [PickAShirt](https://www.pickashirt.com) - Online MTO
+- [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
