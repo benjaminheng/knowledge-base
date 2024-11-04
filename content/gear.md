@@ -12,6 +12,8 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Darn tough (socks)
 - [Swrve](https://swrve.us)
 - [Theory](https://www.theory.com/)
+- [Outerknown](https://www.outerknown.com/): Interesting textured jackets and other garments.
+- [Taylor Stitch](https://www.taylorstitch.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
@@ -24,6 +26,11 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Markaware](https://markaware.jp)
     - [Soph](https://www.soph.net/)
     - [Teatora](https://store.silver-and-gold.com/?mode=cate&cbid=1792526&csid=0)
+- Hong Kong:
+    - Delstore (physical store)
+    - [Initial](https://shop.initialfashion.com/)
+    - [Harrison Wong](https://harrisonwong.com)
+    - [Yeung Chin](https://yeungchin.com): Too avant garde to be practical, but very very cool.
 
 ## Bags
 
