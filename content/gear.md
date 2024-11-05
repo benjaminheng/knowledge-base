@@ -31,6 +31,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Initial](https://shop.initialfashion.com/)
     - [Harrison Wong](https://harrisonwong.com)
     - [Yeung Chin](https://yeungchin.com): Too avant garde to be practical, but very very cool.
+    - [Hide and Seek](https://www.hideandseekstore.com)
 
 ## Bags
 
