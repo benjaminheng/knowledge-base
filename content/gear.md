@@ -15,6 +15,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Outerknown](https://www.outerknown.com/): Interesting textured jackets and other garments.
 - [Taylor Stitch](https://www.taylorstitch.com)
 - [Anian](https://anianmfg.com): Overshirts
+- [notPERFECTLINEN](https://notperfectlinen.com)
 - Singapore:
     - [The Decorum Singapore](https://maps.app.goo.gl/4Zy9bFrz6TLKRHst9): menswear
     - [Colony Clothing](https://colonyclothing.net/)
