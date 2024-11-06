@@ -15,6 +15,14 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Outerknown](https://www.outerknown.com/): Interesting textured jackets and other garments.
 - [Taylor Stitch](https://www.taylorstitch.com)
 - [Anian](https://anianmfg.com): Overshirts
+- Singapore:
+    - [The Decorum Singapore](https://maps.app.goo.gl/4Zy9bFrz6TLKRHst9): menswear
+    - [Colony Clothing](https://colonyclothing.net/)
+    - [Kerbside](https://kerbside-co.com/): denim
+    - [Last & Lapel](https://www.lastandlapel.com): mainly shoes, some clothing
+    - [Natural Project](https://www.naturalproject.com.sg)
+    - [PickAShirt](https://www.pickashirt.com) - Online MTO
+    - [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
@@ -98,17 +106,4 @@ Hoodies and other jackets:
 - Whiskey glasses ($$$): https://kagami.sg/collections/whiskey-glass
 - Netbook: GPD Pocket 3 ($1300+ SGD)
 - [Monoli](https://monoli.easy-myshop.jp/) -- Interesting glass trinkets
-
-## Climbing
-
 - Chalk bags: https://www.cxm-cbym.com
-
-## Singapore
-
-- [The Decorum Singapore](https://maps.app.goo.gl/4Zy9bFrz6TLKRHst9): menswear
-- [Colony Clothing](https://colonyclothing.net/)
-- [Kerbside](https://kerbside-co.com/): denim
-- [Last & Lapel](https://www.lastandlapel.com): mainly shoes, some clothing
-- [Natural Project](https://www.naturalproject.com.sg)
-- [PickAShirt](https://www.pickashirt.com) - Online MTO
-- [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
