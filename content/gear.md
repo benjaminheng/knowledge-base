@@ -108,3 +108,4 @@ Hoodies and other jackets:
 - Netbook: GPD Pocket 3 ($1300+ SGD)
 - [Monoli](https://monoli.easy-myshop.jp/) -- Interesting glass trinkets
 - Chalk bags: https://www.cxm-cbym.com
+- [Japanese handmade wooden products](https://www.hacoa.net/)
