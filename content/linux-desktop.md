@@ -45,6 +45,15 @@ sudo vim /etc/NetworkManager/system-connections/<connName>.nmconnection
 
 Add `autoconnect=false` to the `[connection]` section.
 
+## KIO Error: terminal konsole not found
+
+Error occured for me when using Obsidian's "open in default app" command. Seems like obsidian doesn't respect my default terminal application configured in the KDE settings app. To fix, specify the terminal application in `~/.config/kdeglobals`:
+
+```
+[General]
+TerminalApplication=alacritty
+```
+
 ## Firefox
 
 ### :hover event removed before mousedown
