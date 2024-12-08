@@ -6,6 +6,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 
 ## Clothes
 
+- [Spreadsheet of jackets with warmth and pricing info](https://docs.google.com/spreadsheets/d/1ceVWWwGTdc1KcTkIQFWscILPtA2pbgpq0UQQIq1D6gE/htmlview#)
 - Outlier
 - Seagale
 - Mission workshop (jeans)
