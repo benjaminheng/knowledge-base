@@ -5,6 +5,7 @@ title: "Photography"
 ## General
 
 - [Street photography tips](https://jamesmaherphotography.com/street_photography/what-is-street-photography/)
+- [Shooting fireworks](https://www.reddit.com/r/AnalogCommunity/comments/w683ap/fireworks_on_120_slide_film_a_surprising_success/): Make use of something to block off the light to cut off the exposure quickly (a card or something) if using T mode, simply lift up the card when a firework is up, and cover the lens back up when the fireworks die down, repeat up to maybe 4-5 fireworks before cycling to the next shot.
 
 ## Tech resources
 
