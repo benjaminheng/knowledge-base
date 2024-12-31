@@ -22,3 +22,12 @@ title: "Photography"
   so care has to be taken when mixing. Generally Xtol is safer. If considering
   between Xtol and D-76, go with Xtol.
 - [Other notes about Rodinal vs HC110 vs DD-X](https://www.reddit.com/r/Darkroom/comments/w3g14o/alternatives_to_ddx/igwsvsb/)
+
+## Misc
+
+Tag film photos:
+
+```
+exiftool -ISO=400 -Make=Konica -Model="Konica C35 FD" *
+exiftool -delete_original *
+```
