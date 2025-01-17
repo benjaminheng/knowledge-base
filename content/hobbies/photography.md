@@ -33,6 +33,10 @@ Film cameras:
 - [Other notes about Rodinal vs HC110 vs DD-X](https://www.reddit.com/r/Darkroom/comments/w3g14o/alternatives_to_ddx/igwsvsb/)
 - [DIY caffenol](https://www.caffenol.org/recipes/) - Fun little DIY developer
 
+## Products
+
+- https://ninjageisha.com/ -- Handmade camera straps, pricey
+
 ## Misc
 
 Tag film photos:
