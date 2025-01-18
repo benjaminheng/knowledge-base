@@ -35,6 +35,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - https://www.theguardian.com/books/2014/sep/24/terry-pratchett-angry-not-jolly-neil-gaiman
 - [Opt out of advertising mail via singpost](https://crmint.singpost.com/spcontactus)
 - [SteamPeek - game suggestions](https://steampeek.hu/)
+- [Coloring page generator](https://color.lol/)
 
 ## Music
 
