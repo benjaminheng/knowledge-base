@@ -37,6 +37,7 @@ Film cameras:
 
 - https://ninjageisha.com/ -- Handmade camera straps, pricey
 - https://www.cameradactyl.com -- 3D printed stuff for cameras, including a 4x5 camera.
+- https://ondupinhole.com -- Wooden pinhole cameras.
 
 ## Misc
 
