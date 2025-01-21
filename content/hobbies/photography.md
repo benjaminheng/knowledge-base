@@ -39,7 +39,7 @@ Film cameras:
 - https://www.cameradactyl.com -- 3D printed stuff for cameras, including a 4x5 camera.
 - https://ondupinhole.com -- Wooden pinhole cameras.
 
-## Misc
+## CLI commands
 
 Tag film photos:
 
@@ -47,3 +47,14 @@ Tag film photos:
 exiftool -ISO=400 -Make=Konica -Model="Konica C35 FD" *
 exiftool -delete_original *
 ```
+
+## Camera repair
+
+### Adjust Leica CL rangefinder
+
+- Remove the small plastic plug near the hotshoe. Use this [tip from joel\_matherson](https://www.photo.net/forums/topic/34892-leica-cl-rangefinder-adjustment/)
+- [Diagram of the adjustment screws](https://www.photrio.com/forum/threads/leica-minolta-cl-rangefinder-adjustment.171412/)
+- Inner screw adjusts the vertical alignment, outer screw adjusts the
+  horizontal. No need for a U-shaped screwdriver because the outer screw is
+  raised, so you can just use a flathead screwdriver.
+
