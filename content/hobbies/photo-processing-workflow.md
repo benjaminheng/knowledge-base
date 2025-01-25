@@ -30,7 +30,9 @@ photos/
     - Orange: Photo needs editing.
     - Blue: Copy photo to the archive as-is (usually only used for JPGs).
     - Green: Export photo as JPEG to the archive.
-11. Copy or export photos, based on the labels.
+11. Copy or export photos, based on the labels:
+    - Blue + JPEG: Copy
+    - Green: Export
 
 ## Tag images
 
