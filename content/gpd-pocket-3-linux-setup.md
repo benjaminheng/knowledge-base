@@ -46,3 +46,8 @@ xrandr --output DSI-1 --rotate right
 ## Bluetooth module not detected
 
 Install `bluez` and `bluez-utils`. Enable the bluetooth service with `systemctl enable bluetooth`.
+
+## Mount encrypted partition in recovery media
+
+1. Unencrypt with `cryptsetup open /dev/nvme0n1p3 root`
+2. Mount with `mount /dev/mapper/root /mnt`
