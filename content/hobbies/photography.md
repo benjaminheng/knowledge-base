@@ -60,13 +60,15 @@ exiftool -delete_original *
 
 ## B&W film development notes
 
+Tap water temperature at my home is 28c.
+
 Dilutions:
 
 See https://www.digitaltruth.com/devchart.php for more details. Timings here
-are extracted for personal reference.
+are extracted for personal reference. Timings are calculated based on two principles. First, our water temperature is 28c, and Ilford recommends reducing development time by 10% for each 1c increase. Ilford gives timings for 24c, so to obtain the timings for 28c, we do `x*(0.9**4)` where `x` is the 24c time. Secondly, Ilford does not give timings for 1:9 dilution, so we estimate it by multiplying the 1:4 timings by 60%.
 
-- HP5+, 800 ISO, 1:9 dilution: 13min
-- HP5+, 1600 ISO, 1:9 dilution: 16min
+- HP5+, 800 ISO, 1:9 dilution, 28c: 8m30s
+- HP5+, 1600 ISO, 1:9 dilution, 28c: 10m30s.
 
 Ilford Rapid Fixer should be diluted 1:4. Fixer can be reused.
 
