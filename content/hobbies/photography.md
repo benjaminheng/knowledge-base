@@ -58,3 +58,29 @@ exiftool -delete_original *
   horizontal. No need for a U-shaped screwdriver because the outer screw is
   raised, so you can just use a flathead screwdriver.
 
+## B&W film development notes
+
+Dilutions:
+
+See https://www.digitaltruth.com/devchart.php for more details. Timings here
+are extracted for personal reference.
+
+- HP5+, 800 ISO, 1:9 dilution: 13min
+- HP5+, 1600 ISO, 1:9 dilution: 16min
+
+Ilford Rapid Fixer should be diluted 1:4.
+
+Steps:
+
+1. Prepare developer. 300ml for one 35mm roll, 500ml for two 35mm rolls or one 120 roll.
+2. Load film into tank.
+3. Add developer.
+4. Agitate: Invert 4 times during first 10 seconds. Tap to get rid of bubbles.
+5. Every minute, agitate again. Tap to get rid of bubbles after each agitation sequence.
+6. Pour out developer for disposal (DD-X is a one-shot developer).
+7. Rinse with water. Add water, agitate for 30s, pour out, repeat once more.
+8. Add fixer, 600ml to be sure the rolls are covered. Agitate for the first 10 seconds and every minute thereafter.
+9. Return fixer to bottle for re-use.
+10. Rinse with water. Add, agitate, repeat 3 to 5 times.
+11. Add wetting agent for a final rinse.
+12. Hang to dry.
