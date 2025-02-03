@@ -68,11 +68,12 @@ are extracted for personal reference.
 - HP5+, 800 ISO, 1:9 dilution: 13min
 - HP5+, 1600 ISO, 1:9 dilution: 16min
 
-Ilford Rapid Fixer should be diluted 1:4.
+Ilford Rapid Fixer should be diluted 1:4. Fixer can be reused.
 
 Steps:
 
 1. Prepare developer. 300ml for one 35mm roll, 500ml for two 35mm rolls or one 120 roll.
+2. Prepare wetting agent. 2ml Photo-Flo, 500ml water.
 2. Load film into tank.
 3. Add developer.
 4. Agitate: Invert 4 times during first 10 seconds. Tap to get rid of bubbles.
