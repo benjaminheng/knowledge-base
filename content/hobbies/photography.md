@@ -87,3 +87,9 @@ Steps:
 10. Rinse with water. Add, agitate, repeat 3 to 5 times.
 11. Add wetting agent for a final rinse.
 12. Hang to dry.
+
+Tips to load film smoothly onto a paterson tank reel:
+
+1. Make sure the reel is dry. Any moisture will cause sticking. Perhaps run it over with a blowdryer before use.
+2. Wash thoroughly after each use. Wetting agents like Photo-flo can cause stickiness.
+3. Round off the ends of the film before loading.
