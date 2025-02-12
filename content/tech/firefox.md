@@ -9,3 +9,7 @@ Set `browser.ml.chat.enabled` to `false`.
 ## Disable tab hover preview
 
 Set `browser.tabs.hoverPreview.enabled` to `false`.
+
+## Keep browser open when closing last tab
+
+Set `browser.tabs.closeWindowWithLastTab` to `false`.
