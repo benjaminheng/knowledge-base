@@ -13,3 +13,7 @@ Set `browser.tabs.hoverPreview.enabled` to `false`.
 ## Keep browser open when closing last tab
 
 Set `browser.tabs.closeWindowWithLastTab` to `false`.
+
+## Remove Firefox logo from new tab page
+
+Set `browser.newtabpage.activity-stream.newtabLayouts.variant-b` to `false`.
