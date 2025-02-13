@@ -33,6 +33,16 @@ Film cameras:
 - [Other notes about Rodinal vs HC110 vs DD-X](https://www.reddit.com/r/Darkroom/comments/w3g14o/alternatives_to_ddx/igwsvsb/)
 - [DIY caffenol](https://www.caffenol.org/recipes/) - Fun little DIY developer
 
+## DIY pinhole camera resources
+
+- Calculator: https://mrpinhole.com/calcpinh.php
+- Camera designs: https://pinholica.blogspot.com/p/camera-designs.html
+- Instructions: https://www.instructables.com/Design-and-Build-your-own-Pinhole-Camera/
+
+Tentative plan is 50mm focal length and 0.298mm pinhole diameter for a camera
+that takes 120 film. Effective fstop is 168. Planning on doing a first build
+with foamcore, may upgrade to wood if the proof-of-concept works.
+
 ## Products
 
 - https://ninjageisha.com/ -- Handmade camera straps, pricey
