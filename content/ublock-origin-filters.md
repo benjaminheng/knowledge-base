@@ -3,34 +3,15 @@ title: uBlock Origin filters
 toc: true
 ---
 
-## [YouTube] Remove end cards
+## YouTube
 
-The end cards that YouTube shows at the end of videos will block video content
-if the author doesn't specifically add an additional few seconds of buffer to
-their video. Regardless of whether the author accounts for these end cards, the
-experience on YouTube is much better without the end cards.
+YouTube has loads of bullshit to fix.
 
 ```
+! remove end cards
 www.youtube.com##.ytp-ce-element-show
-```
 
-## [YouTube] Remove bullshit from search results
-
-When searching for something, YouTube insists on interspersing the search
-results with a bunch of completely unrelated videos. These are the sections
-for:
-
-1. **Previously watched** -- I've already watched these videos, why is YouTube
-   showing them to me when I've clearly displayed intent to watch something
-   else?
-2. **People also watch** -- Why would I care what other people are watching? I
-   want to watch the thing that I've just searched for.
-3. **For you** -- You know what would be best for me right now? Showing me the
-   search results for the query I just entered.
-
-To remove these bullshit sections from the search results:
-
-```
+! remove crap in search results
 www.youtube.com##ytd-shelf-renderer:has-text(/Previously watched/)
 www.youtube.com##ytd-shelf-renderer:has-text(/People also watched/)
 www.youtube.com##ytd-shelf-renderer:has-text(/For you/)
@@ -38,24 +19,48 @@ www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search 
 www.youtube.com##ytd-shelf-renderer:has-text(/Results for similar searches/)
 www.youtube.com##ytd-shelf-renderer:has-text(/Channels new to you/)
 www.youtube.com##ytd-shelf-renderer:has-text(/From related searches/)
+
+! remove shorts
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:has( > .ytd-reel-shelf-renderer.style-scope:has-text(/Shorts/))
+www.youtube.com##ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer:has-text(/SHORTS/))
 www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(#time-status:has-text(/SHORTS/))
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:has-text(/Shorts/)
+
+! annoying banner in home feed
+www.youtube.com##.ytd-rich-section-renderer:has-text(/Tell us what you like/)
+
+! block the live-updating likes count animation
+https://www.youtube.com/youtubei/v1/updated_metadata*
 ```
 
-## [YouTube] Remove shorts from subscriptions feed
+## Carousell
 
 ```
-##ytd-grid-video-renderer.ytd-grid-renderer.style-scope:has-text(/SHORTS/)
-##ytd-rich-section-renderer:has(#rich-shelf-header div#title-text:has-text(/Shorts/))
-```
-
-## [Google] Block copycat github/stackoverflow sites from search results
-
-https://github.com/quenhus/uBlock-Origin-dev-filter
-
-## [Carousell] Remove spotlight search results
-
-```
+! remove google sign in prompt
+www.carousell.sg###credential_picker_container
+! remove spotlight search results
 www.carousell.sg##div:has(> [data-testid*="listing-card-"]:has(p:has-text(/Spotlight/)))
+```
+
+## Shoppee
+
+```
+shopee.sg##shopee-banner-popup-stateful
+shopee.sg##body:style(overflow:auto!important)
+```
+
+## Reddit
+
+```
+! remove likes count, I don't care about likes
+www.reddit.com##.likes.entry > .tagline > .likes.score
+
+! remove the sidebar
+www.reddit.com##.grippy
+www.reddit.com##.initialized.listing-chooser
+
+! remove the orange banner prompting the user to use the new layout
+www.reddit.com###sr-header-area > .width-clip > .redesign-beta-optin
 ```
 
 ## [StackExchange] Remove cookie consent banner
@@ -69,9 +74,3 @@ Remove the banner for all subdomains with this.
 stackexchange.com##.js-consent-banner
 ```
 
-## [Shopee] Remove homescreen overlay
-
-```
-shopee.sg##shopee-banner-popup-stateful
-shopee.sg##body:style(overflow:auto!important)
-```
