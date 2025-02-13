@@ -17,3 +17,7 @@ Set `browser.tabs.closeWindowWithLastTab` to `false`.
 ## Remove Firefox logo from new tab page
 
 Set `browser.newtabpage.activity-stream.newtabLayouts.variant-b` to `false`.
+
+## Disable URL trimming
+
+Set `browser.urlbar.trimURLs` to `false`.
