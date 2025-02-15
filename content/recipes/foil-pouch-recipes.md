@@ -19,9 +19,10 @@ beef, or fish. Carbs like potatoes will be nice too.
 - Add the ingredients to a large piece of aluminum foil.
 - Drizzle some olive oil and toss to coat.
 - Add salt, pepper, and other seasonings
-- Wrap in at least two layers of foil, three to be safe.
-- Bake at 175c for about 30 minutes. Timing will vary based on your choice of
+- Wrap in at two layers of foil. More layers require more baking time.
+- Bake at 200c for about 30 minutes. Timing will vary based on your choice of
   protein.
+    - Chicken breast: 30-40min, or until 74c internal temperature.
 
 Some other notes:
 
