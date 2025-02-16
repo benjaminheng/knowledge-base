@@ -48,6 +48,7 @@ with foamcore, may upgrade to wood if the proof-of-concept works.
 - https://ninjageisha.com/ -- Handmade camera straps, pricey
 - https://www.cameradactyl.com -- 3D printed stuff for cameras, including a 4x5 camera.
 - https://ondupinhole.com -- Wooden pinhole cameras.
+- https://www.zeroimage.com -- Pinhole cameras
 
 ## CLI commands
 
