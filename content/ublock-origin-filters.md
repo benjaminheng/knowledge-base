@@ -19,6 +19,7 @@ www.youtube.com##ytd-horizontal-card-list-renderer:has-text(/People also search 
 www.youtube.com##ytd-shelf-renderer:has-text(/Results for similar searches/)
 www.youtube.com##ytd-shelf-renderer:has-text(/Channels new to you/)
 www.youtube.com##ytd-shelf-renderer:has-text(/From related searches/)
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:has(> .ytd-shelf-renderer.style-scope:has-text(/Explore more/))
 
 ! remove shorts
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:has( > .ytd-reel-shelf-renderer.style-scope:has-text(/Shorts/))
