@@ -54,6 +54,19 @@ Error occured for me when using Obsidian's "open in default app" command. Seems 
 TerminalApplication=alacritty
 ```
 
+## Display brightness getting reset after switching monitor inputs
+
+My fix is to disable the brightness control from KDE. Brightness can be set on
+the monitor directly instead. To do so, first edit the plasma-powerdevil config
+with: `systemctl --user edit plasma-powerdevil.service`
+
+Add the following:
+
+```
+[Service]
+Environment=POWERDEVIL_NO_DDCUTIL=1
+```
+
 ## Firefox
 
 ### :hover event removed before mousedown
