@@ -1,0 +1,105 @@
+<div class="pinhole-exposure-calculator">
+    <div class="inputs">
+        <div class="input-group">
+            <label for="fstop">Pinhole size (f-stop):</label>
+            <input type="number" id="fstop" value="168" min="1">
+        </div>
+        <div class="input-group">
+            <label for="reciprocity">Reciprocity factor:</label>
+            <input type="number" id="reciprocity" value="1.31" step="0.01" min="1">
+        </div>
+    </div>
+    
+    <table>
+        <thead>
+            <tr>
+                <th>f/16</th>
+                <th>f/<span id="selected-fstop">168</span></th>
+                <th>f/<span id="selected-fstop-recip">168</span> (compensated)</th>
+            </tr>
+        </thead>
+        <tbody id="exposure-table">
+        </tbody>
+    </table>
+    
+    <hr/>
+    <div class="notes">
+      <ul>
+        <li>Reciprocity factors for Ilford films: <a href="https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf">https://www.ilfordphoto.com/wp/wp-content/uploads/2024/05/Reciprocity-Failure-Compensation-v2.pdf</a>
+        <li>Kodak Ektar 100 has no reciprocity failure up to 10 seconds.
+      </ul>
+    </div>
+
+    <script>
+        function formatTime(seconds) {
+            if (seconds >= 3600) {
+                const hours = Math.floor(seconds / 3600);
+                const remainingMinutes = Math.floor((seconds % 3600) / 60);
+                const remainingSeconds = Math.floor(seconds % 60);
+                let result = hours + 'h';
+                if (remainingMinutes > 0) result += ' ' + remainingMinutes + 'm';
+                if (remainingSeconds > 0) result += ' ' + remainingSeconds + 's';
+                return result;
+            } else if (seconds >= 60) {
+                const minutes = Math.floor(seconds / 60);
+                const remainingSeconds = Math.floor(seconds % 60);
+                return remainingSeconds > 0 ? 
+                    `${minutes}m ${remainingSeconds}s` : 
+                    `${minutes}m`;
+            } else if (seconds >= 1) {
+                return Math.floor(seconds) + 's';
+            } else {
+                // For fractions of a second, we'll keep the existing format
+                return '1/' + Math.round(1/seconds) + 's';
+            }
+        }
+
+        function updateTable() {
+            const fstop = parseFloat(document.getElementById('fstop').value);
+            const reciprocity = parseFloat(document.getElementById('reciprocity').value);
+            const tbody = document.getElementById('exposure-table');
+            
+            // Update fstop display in headers
+            document.querySelectorAll('#selected-fstop, #selected-fstop-recip')
+                .forEach(el => el.textContent = fstop);
+
+            // Clear existing rows
+            tbody.innerHTML = '';
+
+            // Starting from 1/4000s (0.00025s)
+            let baseTime = 0.00025;
+            
+            // Calculate fstop squared ratio
+            const fstopRatio = (fstop/16) * (fstop/16);
+
+            for (let i = 0; i < 20; i++) {
+                const row = document.createElement('tr');
+                
+                // f/16 time
+                const f16Time = baseTime;
+                
+                // Selected fstop time without reciprocity
+                const fstopTime = f16Time * fstopRatio;
+                
+                // Selected fstop time with reciprocity
+                const reciprocityTime = Math.pow(fstopTime, reciprocity);
+
+                row.innerHTML = `
+                    <td>${formatTime(f16Time)}</td>
+                    <td>${formatTime(fstopTime)}</td>
+                    <td>${formatTime(reciprocityTime)}</td>
+                `;
+                
+                tbody.appendChild(row);
+                baseTime *= 2; // Double the time for next row
+            }
+        }
+
+        // Add event listeners
+        document.getElementById('fstop').addEventListener('input', updateTable);
+        document.getElementById('reciprocity').addEventListener('input', updateTable);
+
+        // Initial table population
+        updateTable();
+    </script>
+</div>
