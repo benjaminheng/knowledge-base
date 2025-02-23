@@ -31,26 +31,66 @@
     </div>
 
     <script>
+        const f16Times = [
+            1/4000, // 1/4000s
+            1/2000, // 1/2000s
+            1/1000, // 1/1000s
+            1/500,  // 1/500s
+            1/250,  // 1/250s
+            1/125,  // 1/125s
+            1/60,   // 1/64s
+            1/30,   // 1/32s
+            1/15,   // 1/15s
+            1/8,    // 1/8s
+            1/4,    // 1/4s
+            1/2,    // 1/2s
+            1,      // 1s
+            2,      // 2s
+            4,      // 4s
+            8,      // 8s
+            16,     // 16s
+            32,     // 32s
+            65,     // 1m 5s
+            131     // 2m 11s
+        ];
+
         function formatTime(seconds) {
             if (seconds >= 3600) {
                 const hours = Math.floor(seconds / 3600);
                 const remainingMinutes = Math.floor((seconds % 3600) / 60);
-                const remainingSeconds = Math.floor(seconds % 60);
+                const remainingSeconds = Math.ceil(seconds % 60);
                 let result = hours + 'h';
                 if (remainingMinutes > 0) result += ' ' + remainingMinutes + 'm';
                 if (remainingSeconds > 0) result += ' ' + remainingSeconds + 's';
                 return result;
             } else if (seconds >= 60) {
                 const minutes = Math.floor(seconds / 60);
-                const remainingSeconds = Math.floor(seconds % 60);
+                const remainingSeconds = Math.ceil(seconds % 60);
                 return remainingSeconds > 0 ? 
                     `${minutes}m ${remainingSeconds}s` : 
                     `${minutes}m`;
             } else if (seconds >= 1) {
-                return Math.floor(seconds) + 's';
+                return Math.ceil(seconds) + 's';
             } else {
-                // For fractions of a second, we'll keep the existing format
-                return '1/' + Math.round(1/seconds) + 's';
+              // For fractions of a second, we'll keep the existing format
+              const roundedSeconds = Math.round(1/seconds);
+              if (roundedSeconds === 1) {
+                return "1s";
+              } else {
+                return '1/' + roundedSeconds + 's';
+              }
+            }
+        }
+
+        function applyReciprocity(time, reciprocityFactor) {
+            if (time >= 1) {
+                // For times >= 1 second, use power function
+                return Math.pow(time, reciprocityFactor);
+            } else {
+                // For times < 1 second, convert to fraction first
+                const denominator = 1 / time;
+                const newDenominator = Math.pow(denominator, 1/reciprocityFactor);
+                return 1 / newDenominator;
             }
         }
 
@@ -66,23 +106,20 @@
             // Clear existing rows
             tbody.innerHTML = '';
 
-            // Starting from 1/4000s (0.00025s)
-            let baseTime = 0.00025;
-            
             // Calculate fstop squared ratio
             const fstopRatio = (fstop/16) * (fstop/16);
 
-            for (let i = 0; i < 20; i++) {
+            for (let i = 0; i < f16Times.length; i++) {
                 const row = document.createElement('tr');
                 
                 // f/16 time
-                const f16Time = baseTime;
+                const f16Time = f16Times[i];
                 
                 // Selected fstop time without reciprocity
                 const fstopTime = f16Time * fstopRatio;
                 
                 // Selected fstop time with reciprocity
-                const reciprocityTime = Math.pow(fstopTime, reciprocity);
+                const reciprocityTime = applyReciprocity(fstopTime, reciprocity);
 
                 row.innerHTML = `
                     <td>${formatTime(f16Time)}</td>
@@ -91,7 +128,6 @@
                 `;
                 
                 tbody.appendChild(row);
-                baseTime *= 2; // Double the time for next row
             }
         }
 
