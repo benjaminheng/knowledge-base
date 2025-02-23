@@ -87,10 +87,8 @@
                 // For times >= 1 second, use power function
                 return Math.pow(time, reciprocityFactor);
             } else {
-                // For times < 1 second, convert to fraction first
-                const denominator = 1 / time;
-                const newDenominator = Math.pow(denominator, 1/reciprocityFactor);
-                return 1 / newDenominator;
+              // For times < 1 second, no need to apply reciprocity factor
+              return time;
             }
         }
 
