@@ -14,5 +14,3 @@ space as a [digital garden](https://nesslabs.com/digital-garden-set-up).
 Notes in this space are often only minimally formatted. In many cases, they're
 nothing more than link dumps. The intention is to have my notes publicly
 available so others may also learn from them.
-
-{{< search-button >}}
