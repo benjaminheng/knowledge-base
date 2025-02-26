@@ -1,0 +1,36 @@
+<button id="search-button" class="search-button" onclick="showSearchForm(); return false;">
+    Search
+</button>
+<script>
+    function showSearchForm() {
+        const searchForm = document.getElementById("search-form");
+        if (searchForm.style.display === "none") {
+            searchForm.style.display = "block";
+            const searchInput = document.getElementById("search-input");
+            searchInput.value = "";
+            searchInput.focus();
+        }
+        return false;
+    }
+</script>
+<style>
+    .search-button {
+        display: inline-block;
+        padding: 8px 16px;
+        margin-top: 10px;
+        background-color: #4a4a4a;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    .search-button:hover {
+        background-color: #333333;
+    }
+    @media (min-width: 768px) {
+        .search-button {
+            display: none; /* Hide on desktop where keyboard shortcut is available */
+        }
+    }
+</style>
