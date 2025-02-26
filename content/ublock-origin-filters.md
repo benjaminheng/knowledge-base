@@ -29,6 +29,7 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:h
 
 ! annoying banner in home feed
 www.youtube.com##.ytd-rich-section-renderer:has-text(/Tell us what you like/)
+www.youtube.com###star-survey
 
 ! block the live-updating likes count animation
 https://www.youtube.com/youtubei/v1/updated_metadata*
