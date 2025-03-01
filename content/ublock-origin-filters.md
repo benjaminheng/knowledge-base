@@ -33,6 +33,9 @@ www.youtube.com###star-survey
 
 ! block the live-updating likes count animation
 https://www.youtube.com/youtubei/v1/updated_metadata*
+
+! Remove AI generated video summary
+www.youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope:has(#expanded-title:has-text(/AI-generated video summary/))
 ```
 
 ## Carousell
