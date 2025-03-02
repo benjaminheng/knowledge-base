@@ -23,6 +23,7 @@ beef, or fish. Carbs like potatoes will be nice too.
 - Bake at 200c for about 30 minutes. Timing will vary based on your choice of
   protein.
     - Chicken breast: 30-40min, or until 74c internal temperature.
+    - Salmon: 20min
 
 Some other notes:
 
