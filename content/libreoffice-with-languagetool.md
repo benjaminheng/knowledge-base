@@ -2,6 +2,8 @@
 title: "LibreOffice with LanguageTool"
 ---
 
+> 2025 update: I've replaced LanguageTool with LLMs.
+
 Some quick notes about getting LibreOffice configured to use a local LanguageTool server.
 
 ---
