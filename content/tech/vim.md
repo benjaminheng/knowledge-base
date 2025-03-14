@@ -215,8 +215,9 @@ index 952c67b..df34d66 100644
 
 Issue: https://github.com/neovim/neovim/issues/15414
 
-This is currently blocking me from adopting neovim's built-in LSP. The LSP
-server provides fuzzy matching, but the omnifunc handler is filtering them out.
+The LSP server provides fuzzy matching, but the omnifunc handler is filtering
+them out. 0.11.0, which is still in nightly, adds `completeopt=fuzzy` option
+that allows fuzzy matching in the omnifunc handler.
 
 ### [vim-go] Outdated tags when switching branches or generating code
 
