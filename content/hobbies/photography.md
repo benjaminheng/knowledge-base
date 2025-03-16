@@ -82,7 +82,7 @@ are extracted for personal reference. Timings are calculated based on two princi
 - Ilford HP5+, 400 ISO, 1:9 dilution, 28c: 7m20s.
 - Ilford HP5+, 800 ISO, 1:9 dilution, 28c: 8m30s.
 - Ilford HP5+, 1600 ISO, 1:9 dilution, 28c: 10m30s.
-- Kentmere Pan 100, 100 ISO, 1:9 dilution, 28c: 4m30s.
+- Kentmere Pan 100, 100 ISO, 1:9 dilution, 28c: 7m20s.
 
 Ilford Rapid Fixer should be diluted 1:4. Fixer can be reused.
 
