@@ -69,3 +69,13 @@ Recommended dictionaries:
 
 - [Wiktionary](https://github.com/BoboTiG/ebook-reader-dict/releases/tag/en)
 - Shorter Oxford English Dictionary (SOED). Not openly available.
+
+## Remove Adobe DRM from .acsm file
+
+- AUR: https://aur.archlinux.org/packages/gourou
+- Homepage: https://forge.soutade.fr/soutade/libgourou/
+
+```
+acsmdownloader <acsm-file>
+adept_remove <downloaded-epub>
+```
