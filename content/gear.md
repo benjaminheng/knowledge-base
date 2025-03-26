@@ -111,3 +111,4 @@ Hoodies and other jackets:
 - [Monoli](https://monoli.easy-myshop.jp/) -- Interesting glass trinkets
 - Chalk bags: https://www.cxm-cbym.com
 - [Japanese handmade wooden products](https://www.hacoa.net/)
+- [topdrawer](https://topdrawershop.com) -- various quality, well-designed goods
