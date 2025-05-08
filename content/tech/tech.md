@@ -38,6 +38,7 @@ title: Tech
 - [Understanding what happens when you run a program on a computer](https://cpu.land/)
 - Dithering: https://surma.dev/things/ditherpunk/
 - Dithering: https://beyondloom.com/blog/dither.html
+- [Navidrome](https://www.navidrome.org/) -- self-hosted music streaming
 
 ## ID formats
 
