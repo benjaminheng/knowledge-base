@@ -6,6 +6,7 @@ title: "Linux gaming"
 
 - To debug crashes, add `PROTON_LOG=1 %command%` to the game's launch options. A log file will be written to `~/steam-<appid>.log`.
 - If an old game fails to launch, it might be due to it being a 32-bit application, and your system might not have the required drivers. For AMD, I needed `lib32-vulkan-radeon`. See also: https://wiki.archlinux.org/title/AMDGPU
+- If using a third party controller connected in xinput mode, but it's not detected by the OS, check if the `xpad` kernel module is enabled. If using `xone` (only for Xbox One controllers, not Xbox 360), it will disable `xpad`. To use `xone` while retaining Xbox 360 controller support, install `xpad-noone`.
 
 ## Games
 

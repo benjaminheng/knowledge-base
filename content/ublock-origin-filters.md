@@ -36,6 +36,12 @@ https://www.youtube.com/youtubei/v1/updated_metadata*
 
 ! Remove AI generated video summary
 www.youtube.com###expandable-metadata > .ytd-watch-flexy.style-scope:has(#expanded-title:has-text(/AI-generated video summary/))
+
+! Compact video list. Display 4 videos per row. Reduce title font size.
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 4 !important;)
+youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 4 !important;)
+youtube.com##ytd-rich-grid-media #video-title:style(font-size: 14px !important;)
 ```
 
 ## Carousell
