@@ -47,3 +47,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 
 - [Where to Stay & Things to Do in London: An Incomplete Guide](https://randomlylondon.com/london-guide/)
 - [Pre-trip nerves](https://www.reddit.com/r/solotravel/comments/tax2b5/leaving_for_my_first_solo_trip_to_budapest/)
+
+## Singapore
+
+- [House of Melissa](https://www.houseofmelissa.com.sg/) -- Some interesting curated experiences
