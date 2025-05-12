@@ -54,3 +54,9 @@ brands before deciding.
 
 > Unless you are allowing Nickel to run so the books gets imported after calibre has sent them, they will not be in the database and will not show on the next connect. [...] For Kobo ereaders, the On Device comes from the database. The database records are created during the book import process after you safely disconnect.
 > - https://www.mobileread.com/forums/showthread.php?t=361916
+
+## Disable kepub conversation
+
+```
+Configure this device > Collections, covers & uploads > uncheck "Use Kobo viewer for EPUB books"
+```
