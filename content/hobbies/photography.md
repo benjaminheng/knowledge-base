@@ -108,3 +108,16 @@ Tips to load film smoothly onto a paterson tank reel:
 1. Make sure the reel is dry. Any moisture will cause sticking. Perhaps run it over with a blowdryer before use.
 2. Wash thoroughly after each use. Wetting agents like Photo-flo can cause stickiness.
 3. Round off the ends of the film before loading.
+
+## Zone focusing notes
+
+Various DoF calculations, because I haven't internalized them yet.
+
+- 40mm:
+    - f/5.6 @ 5m: 3.28m to 6.72m
+    - f/5.6 @ 10m: 4.86m to Inf
+    - f/8 @ 3m: 2.08m to 5.40m
+    - f/8 @ 5m: 2.87m to 19.50m
+    - f/8 @ 6.71m: 3.17m to Inf
+    - f/11 @ 3m: 1.84m to 8.06m
+    - f/11 @ 5m: 2.44m to Inf
