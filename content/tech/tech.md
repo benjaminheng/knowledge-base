@@ -46,3 +46,10 @@ title: Tech
 - [hashids](https://hashids.org/)
 - [nanoid](https://github.com/ai/nanoid)
 - [ksuid](https://github.com/segmentio/ksuid)
+
+## Self-hosted
+
+- Music streaming:
+    - [gonic](https://github.com/sentriz/gonic)
+    - [Navidrome](https://www.navidrome.org)
+    - Jellyfin
