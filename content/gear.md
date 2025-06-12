@@ -63,6 +63,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://recycledfirefighter.com
 - [Able Carry](https://ablecarry.com/)
 
+Women's bags:
+
+- https://goodtotes.co
+
 ## Shoes
 
 - Shoes like pottery
