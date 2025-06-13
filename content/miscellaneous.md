@@ -37,6 +37,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [SteamPeek - game suggestions](https://steampeek.hu/)
 - [Coloring page generator](https://color.lol/)
 - [Stoop coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
+- [Gender Dysphoria Bible](https://genderdysphoria.fyi/en)
 
 ## Music
 
