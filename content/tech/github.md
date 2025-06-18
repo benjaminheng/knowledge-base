@@ -7,5 +7,5 @@ title: "GitHub"
 Assuming you have push permissions, use the collaborators API to find those with admin permissions.
 
 ```
-gh api repos/carousell/Carousell-Go/collaborators | jq '[ .[] | select(.permissions.admin == true) | .login ]'
+gh api repos/ORG/REPO/collaborators | jq '[ .[] | select(.permissions.admin == true) | .login ]'
 ```
