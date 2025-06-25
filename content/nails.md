@@ -12,3 +12,4 @@ title: "Nails"
 - https://gardenpathlacquers.com (no international shipping)
 - https://www.chamaeleon-nails.com/en/ (no international shipping)
 - https://www.beeskneeslacquer.com/ (?? international shipping)
+- https://luridlacquer.com (?? international shipping)
