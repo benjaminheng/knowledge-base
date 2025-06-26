@@ -25,6 +25,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Natural Project](https://www.naturalproject.com.sg)
     - [PickAShirt](https://www.pickashirt.com) - Online MTO
     - [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
+    - [Graye](https://grayestudio.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
