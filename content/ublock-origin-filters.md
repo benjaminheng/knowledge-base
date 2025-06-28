@@ -26,6 +26,7 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:h
 www.youtube.com##ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer:has-text(/SHORTS/))
 www.youtube.com##ytd-video-renderer.ytd-item-section-renderer.style-scope:has(#time-status:has-text(/SHORTS/))
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:has-text(/Shorts/)
+www.youtube.com##grid-shelf-view-model:has(.ytSectionHeaderViewModelHost:has-text(/Shorts/))
 
 ! annoying banner in home feed
 www.youtube.com##.ytd-rich-section-renderer:has-text(/Tell us what you like/)
