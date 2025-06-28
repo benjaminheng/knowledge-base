@@ -104,7 +104,9 @@ Hoodies and other jackets:
 - [Sofirn SC21Pro](https://www.sofirnlight.com/products/sofirn-sc21pro-1100-lumen-flashlight?variant=6ff1c4de-d3f7-4091-a673-0b532095ce16) flashlight
 - Nomad
 - Similar to Outlier's 3bar closure: https://dutchwaregear.com/product/double-line-lock/
-- Jewelry: https://edenandelie.sg/collections/everyday-collection
+- Jewelry:
+    - https://edenandelie.sg/collections/everyday-collection
+    - https://theindividualsociety.com
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
