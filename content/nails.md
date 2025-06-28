@@ -8,6 +8,7 @@ title: "Nails"
 - https://roguelacquer.com/ (flakies)
 - https://femmefatalecosmetics.com.au/ (AU, stockist for various indie brands)
 - https://rainbow-connection.co.uk (UK, stockist for various indie brands)
+- https://www.hypnoticpolish.com/ (EU, stockist for various indie brands)
 - https://www.kbshimmer.com/ (no international shipping)
 - https://gardenpathlacquers.com (no international shipping)
 - https://www.chamaeleon-nails.com/en/ (no international shipping)
