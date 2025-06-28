@@ -6,6 +6,7 @@ title: "Nails"
 - https://funlacquer.com (SG)
 - https://www.mooncat.com/
 - https://roguelacquer.com/ (flakies)
+- https://cosmicpolish.com (AU)
 - https://femmefatalecosmetics.com.au/ (AU, stockist for various indie brands)
 - https://rainbow-connection.co.uk (UK, stockist for various indie brands)
 - https://www.hypnoticpolish.com/ (EU, stockist for various indie brands)
