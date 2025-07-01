@@ -2,6 +2,8 @@
 title: "Nails"
 ---
 
+## Stores
+
 - [Manipedia spreadsheet](https://docs.google.com/spreadsheets/d/1n-xVwhHyuQd29e-Wjq_JwsPG5kiSC5_LcdXFHFYbljI/edit?gid=1503374535#gid=1503374535)
 - https://funlacquer.com (SG)
 - https://www.mooncat.com/
@@ -15,3 +17,7 @@ title: "Nails"
 - https://gardenpathlacquers.com (no international shipping)
 - https://www.chamaeleon-nails.com/en/ (no international shipping)
 - https://www.beeskneeslacquer.com/ (?? international shipping)
+
+## DIY
+
+The main problem with DIY is getting suspension base shipped to SG. Can't find any local sellers, and any international shipments will require additional feels for handling hazardous materials. [Glitter Unique](https://www.glitterunique.com/) ships for $50, but I suspect this is before the hazardous handling fee. Worth emailing to check.
