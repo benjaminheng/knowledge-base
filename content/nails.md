@@ -12,12 +12,12 @@ title: "Nails"
 - https://femmefatalecosmetics.com.au/ (AU, stockist for various indie brands)
 - https://rainbow-connection.co.uk (UK, stockist for various indie brands)
 - https://www.hypnoticpolish.com/ (EU, stockist for various indie brands)
+- https://clionadhcosmetics.com (CA, $45 international shipping)
 - https://luridlacquer.com ($53 international shipping)
 - https://www.kbshimmer.com/ (no international shipping)
 - https://gardenpathlacquers.com (no international shipping)
 - https://www.chamaeleon-nails.com/en/ (no international shipping)
 - https://www.beeskneeslacquer.com/ (?? international shipping)
-- https://clionadhcosmetics.com (CA, ?? international shipping)
 
 ## DIY
 
