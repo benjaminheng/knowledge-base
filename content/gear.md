@@ -105,8 +105,10 @@ Hoodies and other jackets:
 - Nomad
 - Similar to Outlier's 3bar closure: https://dutchwaregear.com/product/double-line-lock/
 - Jewelry:
-    - https://edenandelie.sg/collections/everyday-collection
-    - https://theindividualsociety.com
+    - https://edenandelie.sg/collections/everyday-collection (SG)
+    - https://theindividualsociety.com (SG)
+    - https://www.5iveletters.com/ (SG)
+    - APM Moncao: https://www.apm.mc
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
