@@ -108,6 +108,7 @@ Hoodies and other jackets:
     - https://edenandelie.sg/collections/everyday-collection (SG)
     - https://theindividualsociety.com (SG)
     - https://www.5iveletters.com/ (SG)
+    - https://www.byinviteonly.shop (SG)
     - APM Moncao: https://www.apm.mc
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
