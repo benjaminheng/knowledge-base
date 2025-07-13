@@ -38,6 +38,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Coloring page generator](https://color.lol/)
 - [Stoop coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 - [Gender Dysphoria Bible](https://genderdysphoria.fyi/en)
+- [TransgenderSG - Measuring Public Sentiments and Challenges Faced by Singapore’s Transgender and Gender-Diverse Community](https://transgendersg.com/wp-content/uploads/2025/02/MPSC-Report.pdf)
 
 ## Music
 
