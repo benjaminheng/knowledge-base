@@ -123,3 +123,5 @@ Hoodies and other jackets:
 - Chalk bags: https://www.cxm-cbym.com
 - [Japanese handmade wooden products](https://www.hacoa.net/)
 - [topdrawer](https://topdrawershop.com) -- various quality, well-designed goods
+- Perfume:
+    - https://www.cbihateperfume.com/
