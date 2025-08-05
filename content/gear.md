@@ -17,7 +17,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Taylor Stitch](https://www.taylorstitch.com)
 - [Anian](https://anianmfg.com): Overshirts
 - [notPERFECTLINEN](https://notperfectlinen.com)
-- Singapore:
+- Singapore men's:
     - [The Decorum Singapore](https://maps.app.goo.gl/4Zy9bFrz6TLKRHst9): menswear
     - [Colony Clothing](https://colonyclothing.net/)
     - [Kerbside](https://kerbside-co.com/): denim
@@ -27,6 +27,8 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
     - [Graye](https://grayestudio.com)
     - [A For Arcade](https://www.aforarcade.com)
+- Singapore women's:
+    - [Neonmello](https://www.neonmello.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
