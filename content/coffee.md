@@ -9,7 +9,8 @@ Buy beans:
 
 Beans tried:
 
-- [Los Pirineos Pacamara Honey Processed by Tim Wendelboe](https://timwendelboe.no/product/los-pirineos-pacamara-honey-processed/)
+- [Tim Wendelboe - Los Pirineos Pacamara Honey Processed](https://timwendelboe.no/product/los-pirineos-pacamara-honey-processed/)
+- [Nylon - Ethiopia Guji Hambela Goro](https://nylon.coffee/products/ethiopia-guji-hambela-goro): Meyer Lemon, Yellow Peach, Orange Blossom, Earl Grey
 
 ## Pourover
 

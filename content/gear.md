@@ -29,6 +29,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [A For Arcade](https://www.aforarcade.com)
 - Singapore women's:
     - [Neonmello](https://www.neonmello.com)
+    - [HerVelvetVase](https://www.hervelvetvase.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
