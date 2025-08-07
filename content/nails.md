@@ -22,3 +22,8 @@ title: "Nails"
 ## DIY
 
 The main problem with DIY is getting suspension base shipped to SG. Can't find any local sellers, and any international shipments will require additional feels for handling hazardous materials. [Glitter Unique](https://www.glitterunique.com/) ships for $50, but I suspect this is before the hazardous handling fee. Worth emailing to check.
+
+## Notes
+
+- Avoid base coats and polishes with polyvinyl butyral (PVB). It's likely to cause nails to peel.
+    - FUN Lacquer's Ridge Filler base coat and Be On Top! top coat are PVB free. See their [ingredient list](https://funlacquer.com/pages/ingredient-list).
