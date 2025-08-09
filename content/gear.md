@@ -30,6 +30,8 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - Singapore women's:
     - [Neonmello](https://www.neonmello.com)
     - [HerVelvetVase](https://www.hervelvetvase.com)
+    - [Our Second Nature](https://oursecondnature.com)
+    - [6style](https://www.6style.co)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
