@@ -19,3 +19,9 @@ title: ImageMagick
 ```
 mogrify -strip -auto-orient -resize 1200x1200 -quality 75 *.jpg
 ```
+
+## Font to image
+
+```
+magick -background transparent -font "path/to/your/font.ttf" -pointsize 48 -fill "#333333" label:"Your text here" output.png
+```
