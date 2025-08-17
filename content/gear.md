@@ -36,6 +36,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Ohvola](https://ohvola.com)
     - [The Tinsel Rack](https://thetinselrack.com)
     - [Lovet](https://lovet.sg)
+    - [The Willow Label](https://www.thewillowlabel.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
