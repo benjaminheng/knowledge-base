@@ -27,16 +27,6 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
     - [Graye](https://grayestudio.com)
     - [A For Arcade](https://www.aforarcade.com)
-- Singapore women's:
-    - [Neonmello](https://www.neonmello.com)
-    - [HerVelvetVase](https://www.hervelvetvase.com)
-    - [Our Second Nature](https://oursecondnature.com)
-    - [6style](https://www.6style.co)
-    - [Love & Bravery](https://www.loveandbravery.com)
-    - [Ohvola](https://ohvola.com)
-    - [The Tinsel Rack](https://thetinselrack.com)
-    - [Lovet](https://lovet.sg)
-    - [The Willow Label](https://www.thewillowlabel.com)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
@@ -55,6 +45,18 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Harrison Wong](https://harrisonwong.com)
     - [Yeung Chin](https://yeungchin.com): Too avant garde to be practical, but very very cool.
     - [Hide and Seek](https://www.hideandseekstore.com)
+
+## Women's clothes
+
+- [Neonmello](https://www.neonmello.com)
+- [HerVelvetVase](https://www.hervelvetvase.com)
+- [Our Second Nature](https://oursecondnature.com)
+- [6style](https://www.6style.co)
+- [Love & Bravery](https://www.loveandbravery.com)
+- [Ohvola](https://ohvola.com)
+- [The Tinsel Rack](https://thetinselrack.com)
+- [Lovet](https://lovet.sg)
+- [The Willow Label](https://www.thewillowlabel.com)
 
 ## Bags
 
