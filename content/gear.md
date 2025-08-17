@@ -33,6 +33,9 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Our Second Nature](https://oursecondnature.com)
     - [6style](https://www.6style.co)
     - [Love & Bravery](https://www.loveandbravery.com)
+    - [Ohvola](https://ohvola.com)
+    - [The Tinsel Rack](https://thetinselrack.com)
+    - [Lovet](https://lovet.sg)
 - Japanese:
     - [Nanga](https://store.nanga.jp/)
     - [F/CE](https://fce-store.com)
