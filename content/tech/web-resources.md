@@ -36,6 +36,7 @@ title: Web resources
 - [Tree views in CSS](https://iamkate.com/code/tree-views/)
 - [HyperUI](https://www.hyperui.dev/) -- Free tailwind components
 - [When to use CSS grid vs flexbox](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [perfect-freehand](https://perfect-freehand-example.vercel.app/) ([github](https://github.com/steveruizok/perfect-freehand))
 
 ## Charting libraries
 
