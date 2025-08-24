@@ -57,6 +57,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [The Tinsel Rack](https://thetinselrack.com)
 - [Lovet](https://lovet.sg)
 - [The Willow Label](https://www.thewillowlabel.com)
+- [The Style Soiree](www.thestylesoiree.sg)
 
 ## Bags
 
