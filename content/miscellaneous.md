@@ -39,6 +39,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Stoop coffee](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
 - [Gender Dysphoria Bible](https://genderdysphoria.fyi/en)
 - [TransgenderSG - Measuring Public Sentiments and Challenges Faced by Singapore’s Transgender and Gender-Diverse Community](https://transgendersg.com/wp-content/uploads/2025/02/MPSC-Report.pdf)
+- [The Kid Should See This](https://thekidshouldseethis.com/) -- Smart videos for curious minds of all ages 
 
 ## Music
 
