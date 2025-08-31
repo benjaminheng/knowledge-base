@@ -78,8 +78,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://recycledfirefighter.com
 - [Able Carry](https://ablecarry.com/)
 
-Women's bags:
+## Women's bags
 
+- https://www.toccotoscano.com/ -- leather
+- https://pb0110.com -- leather
 - https://goodtotes.co
 
 ## Shoes
