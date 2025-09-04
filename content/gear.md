@@ -48,16 +48,21 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 
 ## Women's clothes
 
-- [Neonmello](https://www.neonmello.com)
-- [HerVelvetVase](https://www.hervelvetvase.com)
-- [Our Second Nature](https://oursecondnature.com)
 - [6style](https://www.6style.co)
+- [Carrislabelle](https://www.carrislabelle.com)
+- [Fashmob](https://www.shopfashmob.com)
+- [HerVelvetVase](https://www.hervelvetvase.com)
+- [Kind to Kind](https://www.kindtokind.com.sg)
 - [Love & Bravery](https://www.loveandbravery.com)
-- [Ohvola](https://ohvola.com)
-- [The Tinsel Rack](https://thetinselrack.com)
 - [Lovet](https://lovet.sg)
-- [The Willow Label](https://www.thewillowlabel.com)
+- [Neonmello](https://www.neonmello.com)
+- [Ohvola](https://ohvola.com)
+- [Our Second Nature](https://oursecondnature.com)
+- [Shop Sassy Dream](https://www.shopsassydream.com/)
+- [The Editor's Market](https://www.theeditorsmarket.com)
 - [The Style Soiree](https://www.thestylesoiree.sg)
+- [The Tinsel Rack](https://thetinselrack.com)
+- [The Willow Label](https://www.thewillowlabel.com)
 
 ## Bags
 
