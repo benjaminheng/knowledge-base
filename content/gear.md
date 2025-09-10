@@ -131,6 +131,7 @@ Hoodies and other jackets:
     - https://www.byinviteonly.shop (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
+    - https://ferkosfinejewelry.com
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
