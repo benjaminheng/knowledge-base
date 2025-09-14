@@ -52,6 +52,10 @@ youtube.com##ytd-rich-grid-media #video-title:style(font-size: 14px !important;)
 www.carousell.sg###credential_picker_container
 ! remove spotlight search results
 www.carousell.sg##div:has(> [data-testid*="listing-card-"]:has(p:has-text(/Spotlight/)))
+www.carousell.sg##div:has(> div > div > div > div > span:has-text(/Promoted content/))
+||sl3-cdn.karousell.com/components/bulky-delivery-banner-t2d.png$image
+www.carousell.sg##div:has(>div > p:has-text(/Expert search tips/))
+www.carousell.sg###credential_picker_container
 ```
 
 ## Shoppee
@@ -59,6 +63,7 @@ www.carousell.sg##div:has(> [data-testid*="listing-card-"]:has(p:has-text(/Spotl
 ```
 shopee.sg##shopee-banner-popup-stateful
 shopee.sg##body:style(overflow:auto!important)
+shopee.sg###modal:has(section#HomePagePopupBannerSection)
 ```
 
 ## Reddit
