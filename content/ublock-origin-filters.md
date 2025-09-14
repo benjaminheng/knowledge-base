@@ -58,7 +58,7 @@ www.carousell.sg##div:has(>div > p:has-text(/Expert search tips/))
 www.carousell.sg###credential_picker_container
 ```
 
-## Shoppee
+## Shopee
 
 ```
 shopee.sg##shopee-banner-popup-stateful
