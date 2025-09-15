@@ -129,6 +129,7 @@ Hoodies and other jackets:
     - https://theindividualsociety.com (SG)
     - https://www.5iveletters.com/ (SG)
     - https://www.byinviteonly.shop (SG)
+    - https://www.madedifferent.co (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
