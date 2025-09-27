@@ -82,6 +82,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Alpha one niner](https://www.alphaoneniner.com)
 - https://recycledfirefighter.com
 - [Able Carry](https://ablecarry.com/)
+- Issey Miyake. Specifically [fuwa fuwa](https://www.isseymiyake.com/products/gg53ag043?)
 
 ## Women's bags
 
