@@ -84,15 +84,19 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - https://recycledfirefighter.com
     - [Able Carry](https://ablecarry.com/)
 - Feminine:
-    - https://www.toccotoscano.com/ -- leather
-    - https://pb0110.com -- leather
-    - https://goodtotes.co
+    - https://www.toccotoscano.com/ (SG)
+    - https://goodtotes.co (SG)
+    - https://www.pedroshoes.com (SG)
+    - https://www.wuhaus.world (SG)
+    - https://sabrinagoh.com/collections/bags (SG)
+    - https://pb0110.com (GER)
     - Issey Miyake. Specifically [fuwa fuwa](https://www.isseymiyake.com/products/gg53ag043?)
     - [The Superior Labor](https://nap-dog.com/en/collections/bags) (JP)
     - [Peg and Awl](https://pegandawlbuilt.com/collections/bags-1) (JP)
     - [waa. studios](https://waa-studios.com/collections/bags) (VN)
     - [Tente Handcrafted](https://shop.tente-handcrafted.com/categories/4603935) (JP)
     - [Epoi](https://www.epoi-jp.com/) (JP, $$$)
+    - https://www.ichizawa.co.jp (JP)
 
 ## Shoes
 
