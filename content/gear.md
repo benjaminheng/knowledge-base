@@ -83,6 +83,9 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - https://recycledfirefighter.com
 - [Able Carry](https://ablecarry.com/)
 - Issey Miyake. Specifically [fuwa fuwa](https://www.isseymiyake.com/products/gg53ag043?)
+- [The Superior Labor](https://nap-dog.com/en/collections/bags) (JP)
+- [Peg and Awl](https://pegandawlbuilt.com/collections/bags-1) (JP)
+- [waa. studios](https://waa-studios.com/collections/bags) (VN)
 
 ## Women's bags
 
@@ -134,6 +137,7 @@ Hoodies and other jackets:
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
+    - https://www.jesslynsutisna.com/jss-jwl
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
