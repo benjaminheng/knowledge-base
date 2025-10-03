@@ -83,6 +83,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Alpha one niner](https://www.alphaoneniner.com)
     - https://recycledfirefighter.com
     - [Able Carry](https://ablecarry.com/)
+    - https://www.nomadostore.com/collections/bags
 - Feminine:
     - https://www.toccotoscano.com/ (SG)
     - https://goodtotes.co (SG)
@@ -97,6 +98,9 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Tente Handcrafted](https://shop.tente-handcrafted.com/categories/4603935) (JP)
     - [Epoi](https://www.epoi-jp.com/) (JP, $$$)
     - https://www.ichizawa.co.jp (JP)
+    - https://urukust.com ([online store, JP only](https://urukust.shop/)) (JP)
+    - https://shop.hamanobag.com (JP)
+    - [SLOW](https://store.slow-web.com) (JP)
 
 ## Shoes
 
