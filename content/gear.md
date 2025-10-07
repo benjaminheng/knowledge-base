@@ -48,21 +48,21 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 
 ## Women's clothes
 
-- [6style](https://www.6style.co)
-- [Carrislabelle](https://www.carrislabelle.com)
-- [Fashmob](https://www.shopfashmob.com)
-- [HerVelvetVase](https://www.hervelvetvase.com)
-- [Kind to Kind](https://www.kindtokind.com.sg)
-- [Love & Bravery](https://www.loveandbravery.com)
-- [Lovet](https://lovet.sg)
-- [Neonmello](https://www.neonmello.com)
-- [Ohvola](https://ohvola.com)
-- [Our Second Nature](https://oursecondnature.com)
-- [Shop Sassy Dream](https://www.shopsassydream.com/)
-- [The Editor's Market](https://www.theeditorsmarket.com)
-- [The Style Soiree](https://www.thestylesoiree.sg)
-- [The Tinsel Rack](https://thetinselrack.com)
-- [The Willow Label](https://www.thewillowlabel.com)
+- [6style](https://www.6style.co) ([new in](https://www.6style.co/collection/new-in))
+- [Carrislabelle](https://www.carrislabelle.com) ([new in](https://www.carrislabelle.com/collection/new-arrivals))
+- [Fashmob](https://www.shopfashmob.com) ([new in](https://www.shopfashmob.com/collection/new-arrivals))
+- [HerVelvetVase](https://www.hervelvetvase.com) ([new in](https://www.hervelvetvase.com/new-in))
+- [Kind to Kind](https://www.kindtokind.com.sg) ([new in](https://www.kindtokind.com.sg/collection/new))
+- [Love & Bravery](https://www.loveandbravery.com) ([new in](https://www.loveandbravery.com/collection/new))
+- [Lovet](https://lovet.sg) ([new in](https://lovet.sg/collection/new-in))
+- [Neonmello](https://www.neonmello.com) ([new in](https://www.neonmello.com/collections/new-in))
+- [Ohvola](https://ohvola.com) ([new in](https://ohvola.com/collections/new-in))
+- [Our Second Nature](https://oursecondnature.com) ([new in](https://oursecondnature.com/21-new-in))
+- [Shop Sassy Dream](https://www.shopsassydream.com/) ([new in](https://www.shopsassydream.com/collection/new-arrivals))
+- [The Editor's Market](https://www.theeditorsmarket.com) ([new in](https://www.theeditorsmarket.com/category/womenswear/new-in))
+- [The Style Soiree](https://www.thestylesoiree.sg) ([new in](https://www.thestylesoiree.sg/collection/new-arrivals))
+- [The Tinsel Rack](https://thetinselrack.com) ([new in](https://thetinselrack.com/collections/new-arrivals))
+- [The Willow Label](https://www.thewillowlabel.com) ([new in](https://www.thewillowlabel.com/collection/new-in))
 
 ## Bags
 
