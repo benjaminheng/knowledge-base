@@ -56,6 +56,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Love & Bravery](https://www.loveandbravery.com) -- [new in](https://www.loveandbravery.com/collection/new)
 - [Lovet](https://lovet.sg) -- [new in](https://lovet.sg/collection/new-in)
 - [Neonmello](https://www.neonmello.com) -- [new in](https://www.neonmello.com/collections/new-in)
+- [Mikayla](https://www.mikayla.sg) -- [new in](https://www.mikayla.sg/collection/new-in)
 - [Ohvola](https://ohvola.com) -- [new in](https://ohvola.com/collections/new-in)
 - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
 - [Shop Sassy Dream](https://www.shopsassydream.com/) -- [new in](https://www.shopsassydream.com/collection/new-arrivals)
@@ -143,6 +144,7 @@ Hoodies and other jackets:
     - https://www.5iveletters.com/ (SG)
     - https://www.byinviteonly.shop (SG)
     - https://www.madedifferent.co (SG)
+    - https://www.curiouscreatures.cc (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
