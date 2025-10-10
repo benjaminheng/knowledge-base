@@ -102,6 +102,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - https://urukust.com ([online store, JP only](https://urukust.shop/)) (JP)
     - https://shop.hamanobag.com (JP)
     - [SLOW](https://store.slow-web.com) (JP)
+    - [Herz](https://www.herz-bag.jp/webshop/) (JP)
 
 ## Shoes
 
