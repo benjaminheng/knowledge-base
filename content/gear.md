@@ -109,6 +109,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - https://fujitaka-japan.com/ (JP)
     - https://www.lona.jp/ (JP)
     - https://clesste.com/collections/bag (JP), tech fabrics
+    - https://shop.mother-house.sg/ (JP)
 
 ## Shoes
 
