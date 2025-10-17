@@ -153,6 +153,10 @@ Hoodies and other jackets:
     - https://www.byinviteonly.shop (SG)
     - https://www.madedifferent.co (SG)
     - https://www.curiouscreatures.cc (SG)
+    - https://www.slowxsteady.com (SG)
+    - https://straitlights.com/collections/singapore-bracelets (SG)
+    - https://akindooof.com (SG)
+    - https://rinaleejewellery.com (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
