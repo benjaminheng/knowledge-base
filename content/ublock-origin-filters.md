@@ -43,6 +43,9 @@ youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:conten
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-items-per-row: 4 !important;)
 youtube.com##ytd-rich-grid-renderer, html:style(--ytd-rich-grid-posts-per-row: 4 !important;)
 youtube.com##ytd-rich-grid-media #video-title:style(font-size: 14px !important;)
+
+! Remove quick actions bar in fullscreen
+www.youtube.com##.ytp-fullscreen-quick-actions
 ```
 
 ## Carousell
