@@ -177,3 +177,4 @@ Hoodies and other jackets:
 - [topdrawer](https://topdrawershop.com) -- various quality, well-designed goods
 - Perfume:
     - https://www.cbihateperfume.com/
+- https://popsewing.com -- Sewing kits
