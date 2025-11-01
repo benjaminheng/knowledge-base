@@ -1,5 +1,5 @@
 ---
-title: "Leatherworking"
+title: "Leathercraft"
 ---
 
 ## Saddle stitching
@@ -13,4 +13,5 @@ title: "Leatherworking"
 
 ## Leather retailers with international shipping
 
-- https://www.leatherbox.com (80 SGD shipping)
+- https://www.leatherbox.com (80 SGD via UPS)
+- https://buyleatheronline.com (45 SGD via DHL/UPS)
