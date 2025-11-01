@@ -11,8 +11,15 @@ title: "Leathercraft"
 - Video shows two ways of stitching. One where it's angled on one side and straight on the back. Another where it's angled on both sides.
 - See video for how to finish a stitch using three back-stitches
 
-## Leather retailers with international shipping
+## Retailers
+
+### Leather
 
 - https://www.leatherbox.com (80 SGD via UPS)
 - https://buyleatheronline.com (45 SGD via DHL/UPS)
 - https://www.rmleathersupply.com (48 USD via DHL)
+
+## Tools
+
+- https://alleather.com/ (SG)
+- https://crimsonhides.com (SG)
