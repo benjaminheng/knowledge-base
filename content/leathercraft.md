@@ -23,3 +23,8 @@ title: "Leathercraft"
 
 - https://alleather.com/ (SG)
 - https://crimsonhides.com (SG)
+
+## Patterns
+
+- https://stitchables.net/all-patterns/
+- https://www.etsy.com/shop/dsleathergoods/
