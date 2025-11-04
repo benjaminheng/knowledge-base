@@ -111,6 +111,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - https://clesste.com/collections/bag (JP), tech fabrics
     - https://shop.mother-house.sg/ (JP)
     - https://roughandtumble.com/ (US)
+    - https://www.ableclothing.com/collections/leather-bags (US)
 
 ## Shoes
 
@@ -162,6 +163,11 @@ Hoodies and other jackets:
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
     - https://www.jesslynsutisna.com/jss-jwl
+    - https://www.ready-made.co/
+    - https://mejuri.com/world/en/
+    - https://merchantsofthesun.com.au/
+    - https://cyco-oo.com/
+    - https://www.monicavinader.com/
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
