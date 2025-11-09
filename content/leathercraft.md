@@ -33,3 +33,4 @@ title: "Leathercraft"
 - https://stitchables.net/all-patterns/
 - https://www.etsy.com/shop/dsleathergoods/
 - https://karlovadesign.com/products/isopod-sling
+- https://www.etsy.com/shop/BeardfootCrafting (insects, animals, objects, armor)
