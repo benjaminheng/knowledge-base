@@ -73,6 +73,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [MFW](https://mfwstore.com/) -- [new in](https://mfwstore.com/collections/new-in)
 - [Mod Parade](https://www.modparade.com/) -- [new in](https://www.modparade.com/collection/new)
 - [Purpur](https://www.purpur.com.sg/) -- [new in](https://www.purpur.com.sg/collection/new-arrivals)
+- [Pull & Bear](https://www.pullandbear.com) -- [new in](https://www.pullandbear.com/sg/woman/new-in-n6491)
 
 ## Bags
 
