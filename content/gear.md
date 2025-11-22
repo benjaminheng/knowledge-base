@@ -64,6 +64,15 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [The Style Soiree](https://www.thestylesoiree.sg) -- [new in](https://www.thestylesoiree.sg/collection/new-arrivals)
 - [The Tinsel Rack](https://thetinselrack.com) -- [new in](https://thetinselrack.com/collections/new-arrivals)
 - [The Willow Label](https://www.thewillowlabel.com) -- [new in](https://www.thewillowlabel.com/collection/new-in)
+- [From There On](https://www.fromthereon.com/) -- [new in](https://www.fromthereon.com/collection/new)
+- [The Thread Theory](https://www.thethreadtheory.com/) -- [new in](https://www.thethreadtheory.com/collection/new)
+- [Arcade](https://www.aforarcade.com/) -- [new in](https://www.aforarcade.com/category/women/new-in)
+- [Caramel Monster](https://www.caramelmonster.com/) -- [new in](https://www.caramelmonster.com/collection/new-arrivals)
+- [GG5](https://www.gg5.com/) -- [new in](https://www.gg5.com/collection/new)
+- [Klarra](https://klarra.com/) -- [new in](https://klarra.com/collections/new-arrivals)
+- [MFW](https://mfwstore.com/) -- [new in](https://mfwstore.com/collections/new-in)
+- [Mod Parade](https://www.modparade.com/) -- [new in](https://www.modparade.com/collection/new)
+- [Purpur](https://www.purpur.com.sg/) -- [new in](https://www.purpur.com.sg/collection/new-arrivals)
 
 ## Bags
 
