@@ -170,6 +170,7 @@ Hoodies and other jackets:
     - https://straitlights.com/collections/singapore-bracelets (SG)
     - https://akindooof.com (SG)
     - https://rinaleejewellery.com (SG)
+    - https://www.daysofever.com (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
