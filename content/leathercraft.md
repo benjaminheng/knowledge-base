@@ -35,3 +35,7 @@ title: "Leathercraft"
 - https://karlovadesign.com/products/isopod-sling
 - https://www.etsy.com/shop/BeardfootCrafting (insects, animals, objects, armor)
 - https://www.paintyeedesigns.com (pouches, objects, plushies, cute)
+
+## Hardware
+
+- https://mmcolombo.it/collections/online-shop (high end)
