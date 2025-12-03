@@ -41,6 +41,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [TransgenderSG - Measuring Public Sentiments and Challenges Faced by Singapore’s Transgender and Gender-Diverse Community](https://transgendersg.com/wp-content/uploads/2025/02/MPSC-Report.pdf)
 - [The Kid Should See This](https://thekidshouldseethis.com/) -- Smart videos for curious minds of all ages 
 - [Independent Media Initiative awards](https://www.theimi.co/awards)
+- [Namelix](https://namelix.com) -- Brand name generator
 
 ## Music
 
