@@ -22,6 +22,7 @@ title: "Leathercraft"
 - https://buyleatheronline.com (45 SGD via DHL/UPS)
 - https://www.rmleathersupply.com (48 USD via DHL)
 - https://www.aacrack.com/ (contact to order)
+- https://shop.hashimotoindustry.com/en/collections/tochigileather (JP, contact to order)
 
 ## Tools
 
