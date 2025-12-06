@@ -72,3 +72,19 @@ Environment=POWERDEVIL_NO_DDCUTIL=1
 ### :hover event removed before mousedown
 
 In about:config, set `widget.gtk.ignore-bogus-leave-notify` to `1` (default `2`). See https://bugzilla.mozilla.org/show_bug.cgi?id=1820405.
+
+## Set up printers
+
+Specifically these instructions are for setting up a Brother HL-1210W printer. The initial steps are common for all printers, and the later ones are model specific. Any packages referenced here are Arch packages, installed using pacman.
+
+1. Install `print-manager`. This provides the KDE Plasma interface for configuring printers.
+2. Install `system-config-printer`. This is needed by print manager interface.
+3. Install `cups`. This provides the backend for interacting with printers.
+4. `sudo systemctl enable cups`. Start cups service on boot.
+5. Install HL-1210W driver (instructions from comments in [aur package](https://aur.archlinux.org/packages/brother-hl1210w):
+    1. Clone `https://aur.archlinux.org/brother-hl1210w.git`
+    2. Verify the URLs inside PKGBUILD. Personally I verified that the URLs given by the [official site](https://support.brother.com/g/b/downloadlist.aspx?c=sg&lang=en&prod=hl1210w_eu_as&os=127) were the same as what existed in PKGBUILD.
+    3. `makepkg -si`. This will also install the drivers into `/usr/lib/cups/filter/brother_lpdwrapper_HL1210W`. Verify that that file exists.
+6. Open the print manager in the system settings.
+7. Add a printer. The driver should be automatically detected.
+
