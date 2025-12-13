@@ -74,7 +74,9 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Mod Parade](https://www.modparade.com/) -- [new in](https://www.modparade.com/collection/new)
 - [Purpur](https://www.purpur.com.sg/) -- [new in](https://www.purpur.com.sg/collection/new-arrivals)
 - [Pull & Bear](https://www.pullandbear.com) -- [new in](https://www.pullandbear.com/sg/woman/new-in-n6491)
-- [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
+- :star: [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
+- :star: [Reckless Ericka](https://recklessericka.com/)
+- [r y e](https://r-y-e.co/)
 
 ## Bags
 
