@@ -76,7 +76,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [Pull & Bear](https://www.pullandbear.com) -- [new in](https://www.pullandbear.com/sg/woman/new-in-n6491)
 - :star: [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
 - :star: [Reckless Ericka](https://recklessericka.com/)
-- [r y e](https://r-y-e.co/)
+- [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
 
 ## Bags
 
