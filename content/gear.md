@@ -46,7 +46,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
     - [Yeung Chin](https://yeungchin.com): Too avant garde to be practical, but very very cool.
     - [Hide and Seek](https://www.hideandseekstore.com)
 
-## Women's clothes
+## Women's fashion
 
 - [6style](https://www.6style.co) -- [new in](https://www.6style.co/collection/new-in)
 - [Carrislabelle](https://www.carrislabelle.com) -- [new in](https://www.carrislabelle.com/collection/new-arrivals)
@@ -77,6 +77,9 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - :star: [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
 - :star: [Reckless Ericka](https://recklessericka.com/)
 - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
+- [RURI](https://www.ruri.world/) -- [new in](https://www.ruri.world/collections/new-in)
+- :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
+- [Sukkha Citta](https://www.sukkhacitta.com/)
 
 ## Bags
 
