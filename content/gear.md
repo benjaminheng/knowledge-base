@@ -80,6 +80,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [RURI](https://www.ruri.world/) -- [new in](https://www.ruri.world/collections/new-in)
 - :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
 - [Sukkha Citta](https://www.sukkhacitta.com/)
+- [Ong Shunmugam](https://ongshunmugam.com/)
+- [The Form](https://theform.com.sg/)
+- [GINLEE](https://www.ginleestudio.com/)
+- [The Missing Piece](https://iwantthemissingpiece.com/)
 
 ## Bags
 
@@ -203,3 +207,4 @@ Hoodies and other jackets:
     - https://www.cbihateperfume.com/
 - https://popsewing.com -- Sewing kits
 - https://sojao.shop (SG)
+- https://looqal.com/ (SG)
