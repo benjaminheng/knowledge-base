@@ -84,6 +84,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [The Form](https://theform.com.sg/)
 - [GINLEE](https://www.ginleestudio.com/)
 - [The Missing Piece](https://iwantthemissingpiece.com/)
+- [Our Barehands](https://ourbarehands.com/) -- [new in](https://ourbarehands.com/collections/new-in)
 
 ## Bags
 
@@ -208,3 +209,4 @@ Hoodies and other jackets:
 - https://popsewing.com -- Sewing kits
 - https://sojao.shop (SG)
 - https://looqal.com/ (SG)
+- https://www.thedamngoodshop.com/ (SG)
