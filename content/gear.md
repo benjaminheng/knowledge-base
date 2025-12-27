@@ -55,10 +55,10 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
 - [RURI](https://www.ruri.world/) -- [new in](https://www.ruri.world/collections/new-in)
 - [Sukkha Citta](https://www.sukkhacitta.com/)
-- [Ong Shunmugam](https://ongshunmugam.com/)
 - [The Form](https://theform.com.sg/)
 - [GINLEE](https://www.ginleestudio.com/)
 - [The Missing Piece](https://iwantthemissingpiece.com/)
+- [OliveAnkara](https://oliveankara.com/)
 - Fast fashion:
     - [6style](https://www.6style.co) -- [new in](https://www.6style.co/collection/new-in)
     - [Carrislabelle](https://www.carrislabelle.com) -- [new in](https://www.carrislabelle.com/collection/new-arrivals)
