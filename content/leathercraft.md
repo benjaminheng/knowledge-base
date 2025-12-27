@@ -23,6 +23,7 @@ title: "Leathercraft"
 - https://www.rmleathersupply.com (48 USD via DHL)
 - https://www.aacrack.com/ (contact to order)
 - https://shop.hashimotoindustry.com/en/collections/tochigileather (JP, contact to order)
+- https://www.aleatherstore.com (40 EUR via DHL)
 
 ## Tools
 
