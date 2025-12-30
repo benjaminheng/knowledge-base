@@ -185,6 +185,7 @@ Hoodies and other jackets:
     - https://rinaleejewellery.com (SG)
     - https://www.daysofever.com (SG)
     - https://boldandcraft.com/ (SG)
+    - https://rarebirdcollection.com/ (SG)
     - APM Moncao: https://www.apm.mc
     - https://wanderlustandco.com
     - https://ferkosfinejewelry.com
