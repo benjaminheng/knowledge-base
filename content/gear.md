@@ -59,6 +59,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [GINLEE](https://www.ginleestudio.com/)
 - [The Missing Piece](https://iwantthemissingpiece.com/)
 - [OliveAnkara](https://oliveankara.com/)
+- [Emvy](https://emvyofficial.com/)
 - Fast fashion:
     - [6style](https://www.6style.co) -- [new in](https://www.6style.co/collection/new-in)
     - [Carrislabelle](https://www.carrislabelle.com) -- [new in](https://www.carrislabelle.com/collection/new-arrivals)
