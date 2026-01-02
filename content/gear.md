@@ -195,7 +195,8 @@ Hoodies and other jackets:
     - https://merchantsofthesun.com.au/
     - https://cyco-oo.com/
     - https://www.monicavinader.com/
-    - https://omega-amsterdam.com/ -- alt
+    - Aliexpress:
+        - https://metalhunter.aliexpress.com/store/1102925528/pages/all-items.html (alt)
 - List of Singaporean brands: https://www.visitsingapore.com/madewithpassion/brands
 - Puppets: https://blankpuppets.bigcartel.com/
 - Pens: https://www.billetspin.com/
