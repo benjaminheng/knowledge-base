@@ -29,5 +29,6 @@ International brands:
 - https://merchantsofthesun.com.au/
 - https://cyco-oo.com/
 - https://www.monicavinader.com/
+- https://www.yejewelry.com (founded in NYC, owned by Singaporean, free shipping to SG)
 - Aliexpress:
     - https://metalhunter.aliexpress.com/store/1102925528/pages/all-items.html (alt)
