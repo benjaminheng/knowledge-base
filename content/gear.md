@@ -52,6 +52,7 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - :star: [Reckless Ericka](https://recklessericka.com/)
 - :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
 - :star: [Our Barehands](https://ourbarehands.com/) -- [new in](https://ourbarehands.com/collections/new-in)
+- :star: [3EIGHTH](https://3eighth.co)
 - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
 - [RURI](https://www.ruri.world/) -- [new in](https://www.ruri.world/collections/new-in)
 - [Sukkha Citta](https://www.sukkhacitta.com/)
@@ -61,7 +62,6 @@ Dump of various gear I like. This page is mostly a way for me to keep track of b
 - [OliveAnkara](https://oliveankara.com/)
 - [Emvy](https://emvyofficial.com/)
 - [Su By Hand](https://subyhand.com)
-- [3EIGHTH](https://3eighth.co)
 - Fast fashion:
     - [6style](https://www.6style.co) -- [new in](https://www.6style.co/collection/new-in)
     - [Carrislabelle](https://www.carrislabelle.com) -- [new in](https://www.carrislabelle.com/collection/new-arrivals)
