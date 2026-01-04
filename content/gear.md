@@ -5,7 +5,7 @@ title: "Gear"
 Related pages:
 
 - [Clothes](/fashion/clothes)
-- [Bags](/fashion/clothes)
+- [Bags](/fashion/bags)
 - [Jewelry](/fashion/jewelry)
 
 ## Misc
