@@ -42,3 +42,30 @@ title: "Leathercraft"
 
 - https://mmcolombo.it/collections/online-shop (high end)
 - https://www.ivan.tw
+
+## Pricing
+
+Some notes distilled from various sources on how to price goods. These tips will apply to any craft, not just leathercraft.
+
+Start by quantifying the baseline cost for a given product. These costs may be tangible (physical material), or not (time).
+
+1. Materials:
+    - Leather
+    - Off cuts leftover by leather
+    - Hardware
+    - Packaging
+    - Consumables like sandpaper, thread, burnishing product, and dyes.
+2. Labor:
+    - Time spent crafting
+    - Product photography
+    - Packaging, shipping, and other admin tasks
+3. Fixed costs:
+    - Workshop rental (if renting a dedicated space)
+    - Space taken by crafting station (if crafting at home)
+    - Tools
+
+Determine the cost of your labor. This cost will be variable based on your skill and experience. A learning hobbyist cannot expect to demand the same hourly rate as an experienced craftsperson.
+
+Determine your profit margin. Remember that profit is an additional component on top of materials and labor. Without a profit component, the individuals working at a business may be being imbursed for their time, but the business itself is not profitable. The profit margin is what allows your business to grow.
+
+Finally, ultimately we need to price based on what consumers are willing to spend. This is often the most difficult part of pricing; trying to convey the value of a handmade product to consumers. The more of a commodity a product is, the more one's pricing is at the whims of the market.
