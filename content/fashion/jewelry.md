@@ -17,6 +17,7 @@ Singapore brands:
 - https://www.daysofever.com
 - https://boldandcraft.com/
 - https://rarebirdcollection.com/
+- https://myrrh.co/
 
 International brands:
 
