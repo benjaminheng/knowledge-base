@@ -59,6 +59,7 @@ title: "Clothes"
     - [Graye](https://grayestudio.com)
     - [A For Arcade](https://www.aforarcade.com)
 - International brands:
+    - [Bev C](https://bevc.com.my) (multi-label, based in MY)
     - Outlier
     - Seagale
     - Mission workshop (jeans)
