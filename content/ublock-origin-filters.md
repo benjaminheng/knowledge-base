@@ -94,3 +94,15 @@ Remove the banner for all subdomains with this.
 stackexchange.com##.js-consent-banner
 ```
 
+
+## Block sites from changing the document title
+
+`aopw` refers to [Abort On Property
+Write](https://github.com/gorhill/ublock/wiki/Resources-Library#abort-on-property-writejs-).
+This blocks sites from changing the title and trying to attract the user's
+attention.
+
+```
+bevc.com.my##+js(aopw, document.title)
+dors.com.sg##+js(aopw, document.title)
+```
