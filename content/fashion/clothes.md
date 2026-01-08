@@ -4,21 +4,21 @@ title: "Clothes"
 
 ## Feminine
 
-- :star: [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
-- :star: [Reckless Ericka](https://recklessericka.com/)
-- :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
-- :star: [Our Barehands](https://ourbarehands.com/) -- [new in](https://ourbarehands.com/collections/new-in)
-- :star: [3EIGHTH](https://3eighth.co)
-- [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
-- [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
-- [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
-- [The Form](https://theform.com.sg/)
-- [GINLEE](https://www.ginleestudio.com/)
-- [The Missing Piece](https://iwantthemissingpiece.com/)
-- [OliveAnkara](https://oliveankara.com/)
-- [Emvy](https://emvyofficial.com/)
-- [Su By Hand](https://subyhand.com)
-- Fast fashion:
+- Love:
+    - :star: [In Good Company](https://ingoodcompany.asia) -- [new in](https://ingoodcompany.asia/collections/new-women)
+    - :star: [Reckless Ericka](https://recklessericka.com/)
+    - :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
+    - :star: [Our Barehands](https://ourbarehands.com/) -- [new in](https://ourbarehands.com/collections/new-in)
+    - :star: [3EIGHTH](https://3eighth.co)
+- Like:
+    - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
+    - [GINLEE](https://www.ginleestudio.com/)
+    - [The Missing Piece](https://iwantthemissingpiece.com/)
+    - [OliveAnkara](https://oliveankara.com/)
+    - [Emvy](https://emvyofficial.com/)
+    - [Su By Hand](https://subyhand.com)
+    - [Stolen](https://stolenstolen.com)
+- Okay:
     - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
     - [Neonmello](https://www.neonmello.com) -- [new in](https://www.neonmello.com/collections/new-in)
     - [From There On](https://www.fromthereon.com/) -- [new in](https://www.fromthereon.com/collection/new)
@@ -45,6 +45,13 @@ title: "Clothes"
     - [Mod Parade](https://www.modparade.com/) -- [new in](https://www.modparade.com/collection/new)
     - [Purpur](https://www.purpur.com.sg/) -- [new in](https://www.purpur.com.sg/collection/new-arrivals)
     - [Pull & Bear](https://www.pullandbear.com) -- [new in](https://www.pullandbear.com/sg/woman/new-in-n6491)
+    - [Good Addition](https://goodaddition.store)
+    - [Cottage Ollie](https://cottageollie.com)
+    - [Soleil Girl](https://thesoleilgirl.com)
+    - [The Form](https://theform.com.sg/)
+- International:
+    - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
+    - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
 
 ## Gender-neutral
 
@@ -58,6 +65,7 @@ title: "Clothes"
     - [Larmoire](https://larmoire-singapore.com): Stockist for various brands. Very pricey.
     - [Graye](https://grayestudio.com)
     - [A For Arcade](https://www.aforarcade.com)
+    - [Rymh Studios](https://rymhstudios.com)
 - International brands:
     - [Bev C](https://bevc.com.my) (multi-label, based in MY)
     - Outlier
@@ -97,7 +105,8 @@ title: "Clothes"
 
 Shoes:
 
-- Shoes like pottery
+- Shoes like pottery (JP)
+- [Kibo](https://kibo.eco) (HK)
 - Greats
 
 Rain jackets:
