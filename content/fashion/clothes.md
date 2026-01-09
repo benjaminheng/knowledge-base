@@ -49,6 +49,7 @@ title: "Clothes"
     - [Cottage Ollie](https://cottageollie.com)
     - [Soleil Girl](https://thesoleilgirl.com)
     - [The Form](https://theform.com.sg/)
+    - [Summery The Label](https://summerythelabel.com)
 - International:
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
