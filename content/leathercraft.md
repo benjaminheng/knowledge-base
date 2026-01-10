@@ -13,6 +13,8 @@ title: "Leathercraft"
     - See video for how to finish a stitch using three back-stitches
 - French seam: https://www.youtube.com/watch?v=xJYTNyLmSzg
 - Projects by Weaver Leather Supply: https://www.youtube.com/playlist?list=PLzvwlO3D_z7da4RZYTIUR7Y3_Sm5Bm-DY
+- Various projects for inspiration:
+    - https://kaeferdesign.com/thesis-lookbook -- supersized versions of everyday products
 
 ## Retailers
 
