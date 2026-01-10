@@ -30,6 +30,7 @@ title: "Bags"
 - https://shop.mother-house.sg/ (JP)
 - https://roughandtumble.com/ (US)
 - https://www.ableclothing.com/collections/leather-bags (US)
+- https://www.moschino.com
 
 ## Gender-neutral
 
