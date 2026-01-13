@@ -36,3 +36,4 @@ Related pages:
 - https://looqal.com/ (SG)
 - https://www.thedamngoodshop.com/ (SG)
 - Flip dot display: https://flipdots.com/en/products-services/flip-dot-boards-xy5/
+- Handmade animal plushies: https://hansatoystore.com
