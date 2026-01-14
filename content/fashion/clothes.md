@@ -20,9 +20,10 @@ title: "Clothes"
     - [Stolen](https://stolenstolen.com)
 - Okay:
     - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
-    - [Neonmello](https://www.neonmello.com) -- [new in](https://www.neonmello.com/collections/new-in)
     - [From There On](https://www.fromthereon.com/) -- [new in](https://www.fromthereon.com/collection/new)
     - [GG5](https://www.gg5.com/) -- [new in](https://www.gg5.com/collection/new)
+    - [Sans & Sans](https://www.sans-sans.com.sg/) -- [new in](https://www.sans-sans.com.sg/collections/new-arrivals)
+    - [Neonmello](https://www.neonmello.com) -- [new in](https://www.neonmello.com/collections/new-in)
     - [The Editor's Market](https://www.theeditorsmarket.com) -- [new in](https://www.theeditorsmarket.com/category/womenswear/new-in)
     - [Love & Bravery](https://www.loveandbravery.com) -- [new in](https://www.loveandbravery.com/collection/new)
     - [6style](https://www.6style.co) -- [new in](https://www.6style.co/collection/new-in)
