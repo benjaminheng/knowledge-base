@@ -43,6 +43,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Independent Media Initiative awards](https://www.theimi.co/awards)
 - [Namelix](https://namelix.com) -- Brand name generator
 - https://www.tangledwilderness.org/
+- https://margaretkilljoy.substack.com/p/a-gift-guide-wow
 
 ## Music
 
