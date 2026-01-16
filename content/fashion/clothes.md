@@ -51,6 +51,7 @@ title: "Clothes"
     - [Soleil Girl](https://thesoleilgirl.com)
     - [The Form](https://theform.com.sg/)
     - [Summery The Label](https://summerythelabel.com)
+    - [All Would Envy](https://www.allwouldenvy.com)
 - International:
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
