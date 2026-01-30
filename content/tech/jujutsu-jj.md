@@ -41,3 +41,14 @@ jj git push
 - The @ expression refers to the working copy commit in the current workspace. For other symbols or operations on such symbols, see: https://docs.jj-vcs.dev/latest/revsets/
 - The fact that every jj operation is logged and visible in `jj op log`, as well as being revertable is extremely powerful.
 - The `jj log` output is noisier than I'm used to. I wonder if there's a way to only show direct ancestors of my working copy commit.
+
+## Snippets
+
+### Forget old bookmarks
+
+```bash
+# This uses a revset alias:
+#   [revset-aliases]
+#   'bookmarks_older_than_2y' = 'bookmarks() & committer_date(before:"2 years ago")'
+j log -r 'bookmarks_older_than_2y' --no-graph -T 'bookmarks ++ "\n"' | awk '{print $1}' | grep -v '@origin' | xargs jj b forget
+```
