@@ -67,6 +67,7 @@ www.carousell.sg###credential_picker_container
 shopee.sg##shopee-banner-popup-stateful
 shopee.sg##body:style(overflow:auto!important)
 shopee.sg###modal:has(section#HomePagePopupBannerSection)
+shopee.sg##div:has(section#HomePagePopupBannerSection):matches-css(z-index: 9999):matches-css(position: fixed)
 ```
 
 ## Reddit
