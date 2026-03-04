@@ -59,5 +59,3 @@ Things that don't fit nicely into another category. If there's enough of a parti
 
 - [House of Melissa](https://www.houseofmelissa.com.sg/) -- Some interesting curated experiences
 - https://www.sirhanhazicky.com/
-- Food:
-    - https://www.thecheeseark.com
