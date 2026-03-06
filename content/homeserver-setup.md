@@ -2,6 +2,11 @@
 title: "Homeserver setup"
 ---
 
+This page is mainly just for my own reference. Things are kept intentionally
+brief, because I often only need a reminder of how something was set up, and
+not necessarily the exact details. I have a private repo with configuration
+files and more detailed docs.
+
 ## Overview
 
 Infra notes:
@@ -61,3 +66,8 @@ My overall thoughts:
 - OWUI works well if only using OpenAI models or models that tightly adhere to the OpenAI spec.
 - OWUI gives more customizability, so I'd prefer it for an enterprise deployment.
 - LibreChat works better for personal use, if your use-cases don't involve local models.
+
+## Git
+
+- Fine-grained tokens for access to individual repos
+- HTTPS clones, stored credentials
