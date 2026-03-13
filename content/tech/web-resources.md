@@ -14,6 +14,7 @@ title: Web resources
 - https://refactoringui.com/ - Learn about UI/UX design
 - https://tablericons.com/ - SVG icons, MIT license
 - https://lucide.dev/icons/ - Icons
+- https://phosphoricons.com/ - Icons
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [ColorBrewer - Color advice for maps (and other data representations)](https://colorbrewer2.org/)
 - [Svelte](https://svelte.dev)

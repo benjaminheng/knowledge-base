@@ -89,6 +89,7 @@ title: "Clothes"
     - [Kamakura](https://kamakurashirts.com/collections/casual-shirts): Excellent quality button downs
     - [Wool and Prince](https://woolandprince.com/collections/all-shirts)
 - [Hawes and Curtis](https://www.hawesandcurtis.co.uk)
+- [https://sehkelly.com/](SEH Kelly)
 - Outdoorsy:
     - [Spreadsheet of jackets with warmth and pricing info](https://docs.google.com/spreadsheets/d/1ceVWWwGTdc1KcTkIQFWscILPtA2pbgpq0UQQIq1D6gE/htmlview#)
     - [Nanga](https://store.nanga.jp/)
