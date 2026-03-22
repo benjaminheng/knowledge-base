@@ -56,6 +56,7 @@ title: "Clothes"
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
     - [SOL the label](https://solthelabel.co) (HK) -- [new in](https://solthelabel.co/collections/new-arrivals)
+    - [Fashion Brand Company](https://www.fashionbrandcompany.com/)
 
 ## Gender-neutral
 
