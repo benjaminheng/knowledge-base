@@ -52,6 +52,7 @@ title: "Clothes"
     - [The Form](https://theform.com.sg/)
     - [Summery The Label](https://summerythelabel.com)
     - [All Would Envy](https://www.allwouldenvy.com)
+    - [SOL the label](https://solthelabel.co) -- [new in](https://solthelabel.co/collections/new-arrivals)
 - International:
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
