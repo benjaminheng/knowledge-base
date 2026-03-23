@@ -37,3 +37,7 @@ Related pages:
 - https://www.thedamngoodshop.com/ (SG)
 - Flip dot display: https://flipdots.com/en/products-services/flip-dot-boards-xy5/
 - Handmade animal plushies: https://hansatoystore.com
+
+## Crafting related
+
+- Vibram rubber sheets: https://www.extremtextil.de
