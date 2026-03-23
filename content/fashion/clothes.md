@@ -59,6 +59,8 @@ title: "Clothes"
     - [SOL the label](https://solthelabel.co) (HK) -- [new in](https://solthelabel.co/collections/new-arrivals)
     - [Fashion Brand Company](https://www.fashionbrandcompany.com/)
     - [Naked Cashmere](https://www.nakedcashmere.com)
+    - [Eileen Fisher](https://www.eileenfisher.com)
+    - [Barefoot Dreams](https://www.barefootdreams.com) (US) -- cardigans
 
 ## Gender-neutral
 
