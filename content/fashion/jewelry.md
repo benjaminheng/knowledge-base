@@ -18,6 +18,7 @@ Singapore brands:
 - https://boldandcraft.com/
 - https://rarebirdcollection.com/
 - https://myrrh.co/
+- https://www.soami.co/
 
 International brands:
 
