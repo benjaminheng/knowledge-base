@@ -60,7 +60,7 @@ title: "Clothes"
     - [Fashion Brand Company](https://www.fashionbrandcompany.com/)
     - [Naked Cashmere](https://www.nakedcashmere.com)
     - [Eileen Fisher](https://www.eileenfisher.com)
-    - [Barefoot Dreams](https://www.barefootdreams.com) (US) -- cardigans
+    - [The Wes Studio](https://thewesstudio.com) (MY)
 
 ## Gender-neutral
 
