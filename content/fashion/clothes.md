@@ -81,6 +81,7 @@ title: "Clothes"
     - Seagale
     - Mission workshop (jeans)
     - Darn tough (socks)
+    - [Official Rebrand](https://officialrebrand.shop/)
     - [Swrve](https://swrve.us)
     - [Theory](https://www.theory.com/)
     - [Outerknown](https://www.outerknown.com/): Interesting textured jackets and other garments.
