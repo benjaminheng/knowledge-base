@@ -12,15 +12,16 @@ title: "Clothes"
     - :star: [3EIGHTH](https://3eighth.co)
 - Like:
     - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
+    - [Something To Hold](https://somethingtohold.com) -- [new in](https://somethingtohold.com/collections/new)
+- Okay:
+    - [Saturday Club](https://sg.saturdayclub.com)
+    - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
+    - [From There On](https://www.fromthereon.com/) -- [new in](https://www.fromthereon.com/collection/new)
     - [GINLEE](https://www.ginleestudio.com/)
     - [The Missing Piece](https://iwantthemissingpiece.com/)
     - [OliveAnkara](https://oliveankara.com/)
     - [Emvy](https://emvyofficial.com/)
     - [Su By Hand](https://subyhand.com)
-    - [Stolen](https://stolenstolen.com)
-- Okay:
-    - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
-    - [From There On](https://www.fromthereon.com/) -- [new in](https://www.fromthereon.com/collection/new)
     - [GG5](https://www.gg5.com/) -- [new in](https://www.gg5.com/collection/new)
     - [Sans & Sans](https://www.sans-sans.com.sg/) -- [new in](https://www.sans-sans.com.sg/collections/new-arrivals)
     - [Neonmello](https://www.neonmello.com) -- [new in](https://www.neonmello.com/collections/new-in)
@@ -49,10 +50,15 @@ title: "Clothes"
     - [Good Addition](https://goodaddition.store)
     - [Cottage Ollie](https://cottageollie.com)
     - [Soleil Girl](https://thesoleilgirl.com)
+    - [Stolen](https://stolenstolen.com)
     - [The Form](https://theform.com.sg/)
     - [Summery The Label](https://summerythelabel.com)
     - [All Would Envy](https://www.allwouldenvy.com)
-    - [Saturday Club](https://sg.saturdayclub.com)
+    - [Esse The Label](https://www.essethelabel.com/) -- [new in](https://www.essethelabel.com/collections/just-in)
+    - [Lisa Von Tang](https://lisavontang.com) ($$$)
+    - [Ther Yang](https://www.theryang.com/shop/) ($$$)
+    - [Unda](https://www.storeunda.com) -- [new in](https://www.storeunda.com/collections/new-arrivals)
+    - [Yacht21](https://www.yacht21.co/) -- [new in](https://www.yacht21.co/collections/new-in)
 - International:
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)
@@ -75,6 +81,7 @@ title: "Clothes"
     - [Graye](https://grayestudio.com)
     - [A For Arcade](https://www.aforarcade.com)
     - [Rymh Studios](https://rymhstudios.com)
+    - [Unda](https://www.storeunda.com/collections/genderless)
 - International brands:
     - [Bev C](https://bevc.com.my) (multi-label, based in MY)
     - Outlier
