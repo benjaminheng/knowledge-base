@@ -7,6 +7,8 @@ I'm not an enthusiast by any stretch, but here's what I've tried. My palate isn'
 Like:
 
 - Wolf Blass - Grey Label Shiraz, 2016
+- Wairau River - Sauvignon Blanc, 2025
+- Spy Valley - Sauvignon Blanc, 2024
 
 Fine:
 
