@@ -59,6 +59,8 @@ title: "Clothes"
     - [Ther Yang](https://www.theryang.com/shop/) ($$$)
     - [Unda](https://www.storeunda.com) -- [new in](https://www.storeunda.com/collections/new-arrivals)
     - [Yacht21](https://www.yacht21.co/) -- [new in](https://www.yacht21.co/collections/new-in)
+    - [Apostrophe The Label](https://apostrophethelabel.com/)
+    - [Edition Limitee](https://editionlimitee.com.sg/)
 - International:
     - [Sukkha Citta](https://www.sukkhacitta.com/) (ID)
     - [RURI](https://www.ruri.world/) (HK) -- [new in](https://www.ruri.world/collections/new-in)

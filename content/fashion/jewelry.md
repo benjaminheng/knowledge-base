@@ -19,6 +19,7 @@ Singapore brands:
 - https://rarebirdcollection.com/
 - https://myrrh.co/
 - https://www.soami.co/
+- https://www.envet.co
 
 International brands:
 
