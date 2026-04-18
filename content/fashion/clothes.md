@@ -10,9 +10,10 @@ title: "Clothes"
     - :star: [Sabrina Goh](https://sabrinagoh.com/) -- [new in](https://sabrinagoh.com/collections/new-arrivals/New-arrivals)
     - :star: [Our Barehands](https://ourbarehands.com/) -- [new in](https://ourbarehands.com/collections/new-in)
     - :star: [3EIGHTH](https://3eighth.co)
+    - :star: [Something To Hold](https://somethingtohold.com) -- [new in](https://somethingtohold.com/collections/new)
 - Like:
+    - [Good Addition](https://goodaddition.store)
     - [r y e](https://r-y-e.co/) -- [new in](https://r-y-e.co/collections/new)
-    - [Something To Hold](https://somethingtohold.com) -- [new in](https://somethingtohold.com/collections/new)
 - Okay:
     - [Saturday Club](https://sg.saturdayclub.com)
     - [Our Second Nature](https://oursecondnature.com) -- [new in](https://oursecondnature.com/21-new-in)
@@ -47,7 +48,6 @@ title: "Clothes"
     - [Mod Parade](https://www.modparade.com/) -- [new in](https://www.modparade.com/collection/new)
     - [Purpur](https://www.purpur.com.sg/) -- [new in](https://www.purpur.com.sg/collection/new-arrivals)
     - [Pull & Bear](https://www.pullandbear.com) -- [new in](https://www.pullandbear.com/sg/woman/new-in-n6491)
-    - [Good Addition](https://goodaddition.store)
     - [Cottage Ollie](https://cottageollie.com)
     - [Soleil Girl](https://thesoleilgirl.com)
     - [Stolen](https://stolenstolen.com)
