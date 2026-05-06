@@ -69,6 +69,7 @@ title: "Clothes"
     - [Naked Cashmere](https://www.nakedcashmere.com)
     - [Eileen Fisher](https://www.eileenfisher.com)
     - [The Wes Studio](https://thewesstudio.com) (MY)
+    - [Cassey Gan](https://www.casseygan.com) (MY)
 
 ## Gender-neutral
 
