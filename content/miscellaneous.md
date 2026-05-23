@@ -44,6 +44,7 @@ Things that don't fit nicely into another category. If there's enough of a parti
 - [Namelix](https://namelix.com) -- Brand name generator
 - https://www.tangledwilderness.org/
 - https://margaretkilljoy.substack.com/p/a-gift-guide-wow
+- https://www.crucialcomix.com/comic/failing-beautifully-pole-dance-class/
 
 ## Music
 
