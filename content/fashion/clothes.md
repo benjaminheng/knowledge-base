@@ -73,6 +73,7 @@ title: "Clothes"
 Activewear
 
 - https://allbodies.co/ (ID)
+- https://www.vaultageofficial.com (SG)
 
 ## Gender-neutral
 
