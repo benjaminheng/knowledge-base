@@ -111,6 +111,7 @@ Activewear
     - [Wool and Prince](https://woolandprince.com/collections/all-shirts)
     - https://blackmerle.com
     - https://professor-e.com
+    - https://troubled-waters.org
 - [Hawes and Curtis](https://www.hawesandcurtis.co.uk)
 - [https://sehkelly.com/](SEH Kelly)
 - Outdoorsy:
