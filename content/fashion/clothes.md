@@ -110,6 +110,7 @@ Activewear
     - [Kamakura](https://kamakurashirts.com/collections/casual-shirts): Excellent quality button downs
     - [Wool and Prince](https://woolandprince.com/collections/all-shirts)
     - https://blackmerle.com
+    - https://professor-e.com
 - [Hawes and Curtis](https://www.hawesandcurtis.co.uk)
 - [https://sehkelly.com/](SEH Kelly)
 - Outdoorsy:
