@@ -20,6 +20,8 @@ Singapore brands:
 - https://myrrh.co/
 - https://www.soami.co/
 - https://www.envet.co
+- https://huesstudio.co/
+- https://yardyarnofficial.com/
 
 International brands:
 
