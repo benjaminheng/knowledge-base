@@ -22,6 +22,13 @@ Singapore brands:
 - https://www.envet.co
 - https://huesstudio.co/
 - https://yardyarnofficial.com/
+- https://www.xvxii.com
+- https://arva.co
+- https://thing-in-itself.com
+- https://www.blfx.sg
+- https://mondaysmade.com
+- https://risis.com
+- https://madeat6pm.com
 
 International brands:
 
@@ -35,5 +42,5 @@ International brands:
 - https://cyco-oo.com/
 - https://www.monicavinader.com/
 - https://www.yejewelry.com (founded in NYC, owned by Singaporean, free shipping to SG)
-- Aliexpress:
-    - https://metalhunter.aliexpress.com/store/1102925528/pages/all-items.html (alt)
+- https://wavecement.com/ (TW)
+- https://us.oliviaburton.com
